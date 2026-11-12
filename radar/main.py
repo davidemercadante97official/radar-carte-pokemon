@@ -193,14 +193,20 @@ def run(only=None, dry_run=False):
     for a in alerts + refreshed:
         old = state["items"].get(a["native_id"], {})
         v = a["verdict"]
+        # eBay: i dati degli utenti (nome del venditore) non si salvano mai,
+        # come dichiarato a eBay ("I do not persist eBay data"). Servono solo
+        # durante il giro, per raggruppare la notifica.
+        keep_seller = a.get("platform") not in config.NO_PERSIST_SELLER
         state["items"][a["native_id"]] = {
             "id": a["native_id"], "title": a["title"], "url": a["url"], "image": a.get("image", ""),
             "source": a["source"], "platform": a.get("platform", ""),
-            "seller": a.get("seller_name") or a.get("seller", ""), "seller_url": a.get("seller_url", ""),
+            "seller": (a.get("seller_name") or a.get("seller", "")) if keep_seller else "",
+            "seller_url": a.get("seller_url", "") if keep_seller else "",
             "country": a.get("country", ""),
             "price": a["price_eur"], "ship": a["ship_eur"], "ship_est": a["ship_estimated"],
             "total": a["total"], "old_total": old.get("total"),
-            "level": a["level"], "group": group_key(a), "type": v["type"],
+            "level": a["level"], "group": group_key(a) if keep_seller else f"solo|{a['native_id']}",
+            "type": v["type"],
             "missing": v["missing"], "check": a["check"],
             "dex": v.get("dex"), "pokemon": v.get("pokemon"), "ref": v.get("ref"),
             "ref_kind": v.get("ref_kind"), "good": v.get("good"), "super": v.get("super"),

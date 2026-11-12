@@ -117,4 +117,7 @@ EBAY_ROTATING_TERMS = "(full art,illustration rare,art rare,sir,sar,alt art)"
 CARDTRADER_EVERY_N_RUNS = 4
 CARDTRADER_MAX_EXPANSIONS = 25   # espansioni controllate per giro (a rotazione)
 
+# Siti per cui il nome del venditore NON viene salvato (memoria e dashboard).
+NO_PERSIST_SELLER = {"ebay"}
+
 MAX_STORED = 20000               # annunci ricordati (per non riavvisare)

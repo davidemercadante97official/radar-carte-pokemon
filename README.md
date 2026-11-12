@@ -140,6 +140,9 @@ creano una volta sola con *Actions → Configura bot Telegram → Run workflow*
   notifiche dei gruppi.
 - **Vinted** nella ricerca non mostra il venditore: il radar apre la pagina
   dell'annuncio solo per quelli in soglia (al massimo 15 per giro).
+- eBay: le chiavi hanno l'esenzione "I do not persist eBay data". Per questo il
+  radar **non salva mai il nome dei venditori eBay**: lo usa solo durante il giro
+  per raggruppare la notifica, e nella dashboard non compare.
 - eBay: solo annunci "Compralo Subito". Le aste mostrano il prezzo del momento,
   che non è quello finale. Se l'annuncio parte da fuori UE, il messaggio
   ricorda che potresti pagare la dogana.
