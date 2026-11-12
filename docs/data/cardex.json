@@ -1,0 +1,9227 @@
+[
+ {
+  "dex": 1,
+  "name": "Bulbasaur",
+  "owned": false,
+  "cheapest": "[JP] フシギダネ · メガブレイブ · #064 · IR (Rara illustrazione / AR)",
+  "trend": 6.52,
+  "good": 4.56,
+  "super": 3.26
+ },
+ {
+  "dex": 2,
+  "name": "Ivysaur",
+  "owned": false,
+  "cheapest": "[JP] フシギソウ · メガブレイブ · #065 · IR (Rara illustrazione / AR)",
+  "trend": 5.16,
+  "good": 3.61,
+  "super": 2.58
+ },
+ {
+  "dex": 3,
+  "name": "Venusaur",
+  "owned": false,
+  "cheapest": "[JP] フシギバナex · ポケモンカード151 · #184 · Full art (SR)",
+  "trend": 5.99,
+  "good": 4.19,
+  "super": 3.0
+ },
+ {
+  "dex": 4,
+  "name": "Charmander",
+  "owned": false,
+  "cheapest": "[JP] ヒトカゲ · GXウルトラシャイニー · #166 · Full art (SR)",
+  "trend": 23.29,
+  "good": 16.3,
+  "super": 11.64
+ },
+ {
+  "dex": 5,
+  "name": "Charmeleon",
+  "owned": false,
+  "cheapest": "[JP] リザード · ポケモンカード151 · #169 · IR (Rara illustrazione / AR)",
+  "trend": 17.49,
+  "good": 12.24,
+  "super": 8.74
+ },
+ {
+  "dex": 6,
+  "name": "Charizard",
+  "owned": false,
+  "cheapest": "[EN] Charizard ex · Obsidian Flames · #215 · Full art (Ultra rara)",
+  "trend": 12.25,
+  "good": 8.57,
+  "super": 6.12
+ },
+ {
+  "dex": 7,
+  "name": "Squirtle",
+  "owned": false,
+  "cheapest": "[JP] ゼニガメ · ポケモンカード151 · #170 · IR (Rara illustrazione / AR)",
+  "trend": 23.9,
+  "good": 16.73,
+  "super": 11.95
+ },
+ {
+  "dex": 8,
+  "name": "Wartortle",
+  "owned": false,
+  "cheapest": "[JP] カメール · ポケモンカード151 · #171 · IR (Rara illustrazione / AR)",
+  "trend": 12.84,
+  "good": 8.99,
+  "super": 6.42
+ },
+ {
+  "dex": 9,
+  "name": "Blastoise",
+  "owned": false,
+  "cheapest": "[JP] カメックスex · ポケモンカード151 · #186 · Full art (SR)",
+  "trend": 9.6,
+  "good": 6.72,
+  "super": 4.8
+ },
+ {
+  "dex": 10,
+  "name": "Caterpie",
+  "owned": false,
+  "cheapest": "[JP] キャタピー · ポケモンカード151 · #172 · IR (Rara illustrazione / AR)",
+  "trend": 5.44,
+  "good": 3.81,
+  "super": 2.72
+ },
+ {
+  "dex": 11,
+  "name": "Metapod",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 12,
+  "name": "Butterfree",
+  "owned": false,
+  "cheapest": "[EN] Butterfree V · Darkness Ablaze · #177 · Full art (Ultra rara)",
+  "trend": 5.21,
+  "good": 3.65,
+  "super": 2.6
+ },
+ {
+  "dex": 13,
+  "name": "Weedle",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 14,
+  "name": "Kakuna",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 15,
+  "name": "Beedrill",
+  "owned": false,
+  "cheapest": "[EN] Beedrill ex · Chaos Rising · #098 · Full art (Ultra rara)",
+  "trend": 2.5,
+  "good": 1.75,
+  "super": 1.25
+ },
+ {
+  "dex": 16,
+  "name": "Pidgey",
+  "owned": false,
+  "cheapest": "[EN] Pidgey · Obsidian Flames · #207 · IR (Rara illustrazione / AR)",
+  "trend": 9.2,
+  "good": 6.44,
+  "super": 4.6
+ },
+ {
+  "dex": 17,
+  "name": "Pidgeotto",
+  "owned": false,
+  "cheapest": "[EN] Pidgeotto · Obsidian Flames · #208 · IR (Rara illustrazione / AR)",
+  "trend": 8.39,
+  "good": 5.87,
+  "super": 4.2
+ },
+ {
+  "dex": 18,
+  "name": "Pidgeot",
+  "owned": false,
+  "cheapest": "[EN] Pidgeot ex · Obsidian Flames · #217 · Full art (Ultra rara)",
+  "trend": 1.83,
+  "good": 1.28,
+  "super": 0.92
+ },
+ {
+  "dex": 19,
+  "name": "Rattata",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 20,
+  "name": "Raticate",
+  "owned": false,
+  "cheapest": "[JP] ラッタ · ムニキスゼロ · #092 · IR (Rara illustrazione / AR)",
+  "trend": 1.73,
+  "good": 1.21,
+  "super": 0.86
+ },
+ {
+  "dex": 21,
+  "name": "Spearow",
+  "owned": false,
+  "cheapest": "[JP] オニスズメ · メガブレイブ · #074 · IR (Rara illustrazione / AR)",
+  "trend": 2.67,
+  "good": 1.87,
+  "super": 1.33
+ },
+ {
+  "dex": 22,
+  "name": "Fearow",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 23,
+  "name": "Ekans",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 24,
+  "name": "Arbok",
+  "owned": false,
+  "cheapest": "[JP] アーボックex · ポケモンカード151 · #187 · Full art (SR)",
+  "trend": 2.69,
+  "good": 1.88,
+  "super": 1.34
+ },
+ {
+  "dex": 25,
+  "name": "Pikachu",
+  "owned": false,
+  "cheapest": "[EN] Pikachu · 30th Celebration · #030 · Pikachu Rare",
+  "trend": 0.53,
+  "good": 0.37,
+  "super": 0.27
+ },
+ {
+  "dex": 26,
+  "name": "Raichu",
+  "owned": false,
+  "cheapest": "[EN] Raichu · Paldea Evolved · #211 · IR (Rara illustrazione / AR)",
+  "trend": 0.02,
+  "good": 0.01,
+  "super": 0.01
+ },
+ {
+  "dex": 27,
+  "name": "Sandshrew",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 28,
+  "name": "Sandslash",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 29,
+  "name": "Nidoran♀",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 30,
+  "name": "Nidorina",
+  "owned": false,
+  "cheapest": "[JP] ニドリーナ · 30th CELEBRATION · #114 · IR (Rara illustrazione / AR)",
+  "trend": 1.12,
+  "good": 0.78,
+  "super": 0.56
+ },
+ {
+  "dex": 31,
+  "name": "Nidoqueen",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 32,
+  "name": "Nidoran♂",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 33,
+  "name": "Nidorino",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 34,
+  "name": "Nidoking",
+  "owned": false,
+  "cheapest": "[EN] Team Rocket's Nidoking ex · Destined Rivals · #216 · Full art (Ultra rara)",
+  "trend": 3.27,
+  "good": 2.29,
+  "super": 1.64
+ },
+ {
+  "dex": 35,
+  "name": "Clefairy",
+  "owned": false,
+  "cheapest": "[EN] Lillie's Clefairy ex · Journey Together · #173 · Full art (Ultra rara)",
+  "trend": 5.29,
+  "good": 3.7,
+  "super": 2.65
+ },
+ {
+  "dex": 36,
+  "name": "Clefable",
+  "owned": false,
+  "cheapest": "[JP] メガピクシーex · ムニキスゼロ · #096 · Full art (SR)",
+  "trend": 3.66,
+  "good": 2.56,
+  "super": 1.83
+ },
+ {
+  "dex": 37,
+  "name": "Vulpix",
+  "owned": false,
+  "cheapest": "[JP] ロコン · メガブレイブ · #067 · IR (Rara illustrazione / AR)",
+  "trend": 4.36,
+  "good": 3.05,
+  "super": 2.18
+ },
+ {
+  "dex": 38,
+  "name": "Ninetales",
+  "owned": false,
+  "cheapest": "[JP] キュウコンex · ポケモンカード151 · #188 · Full art (SR)",
+  "trend": 5.04,
+  "good": 3.53,
+  "super": 2.52
+ },
+ {
+  "dex": 39,
+  "name": "Jigglypuff",
+  "owned": false,
+  "cheapest": "[JP] メガミミロップ&プリンGX · オルタージェネシス · #103 · Full art (SR)",
+  "trend": 30.98,
+  "good": 21.69,
+  "super": 15.49
+ },
+ {
+  "dex": 40,
+  "name": "Wigglytuff",
+  "owned": false,
+  "cheapest": "[JP] プクリン · インフェルノX · #091 · IR (Rara illustrazione / AR)",
+  "trend": 2.13,
+  "good": 1.49,
+  "super": 1.06
+ },
+ {
+  "dex": 41,
+  "name": "Zubat",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 42,
+  "name": "Golbat",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 43,
+  "name": "Oddish",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 44,
+  "name": "Gloom",
+  "owned": false,
+  "cheapest": "[EN] Gloom · Obsidian Flames · #198 · IR (Rara illustrazione / AR)",
+  "trend": 11.93,
+  "good": 8.35,
+  "super": 5.96
+ },
+ {
+  "dex": 45,
+  "name": "Vileplume",
+  "owned": false,
+  "cheapest": "[EN] Vileplume GX · Cosmic Eclipse · #250 · Secret (alt art / rainbow / gold)",
+  "trend": 27.71,
+  "good": 19.4,
+  "super": 13.86
+ },
+ {
+  "dex": 46,
+  "name": "Paras",
+  "owned": false,
+  "cheapest": "[EN] Paras · Crown Zenith Galarian Gallery · #GG32 · Galarian Gallery (GG)",
+  "trend": 11.31,
+  "good": 7.92,
+  "super": 5.66
+ },
+ {
+  "dex": 47,
+  "name": "Parasect",
+  "owned": false,
+  "cheapest": "[JP] パラセクト · ダークファンタズマ · #072 · CHR (Character Rare)",
+  "trend": 1.96,
+  "good": 1.37,
+  "super": 0.98
+ },
+ {
+  "dex": 48,
+  "name": "Venonat",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 49,
+  "name": "Venomoth",
+  "owned": false,
+  "cheapest": "[JP] モルフォンGX · ナイトユニゾン · #056 · Full art (SR)",
+  "trend": 3.84,
+  "good": 2.69,
+  "super": 1.92
+ },
+ {
+  "dex": 50,
+  "name": "Diglett",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 51,
+  "name": "Dugtrio",
+  "owned": false,
+  "cheapest": "[JP] ロケット団のダグトリオ · MEGAドリームex · #206 · IR (Rara illustrazione / AR)",
+  "trend": 1.49,
+  "good": 1.04,
+  "super": 0.74
+ },
+ {
+  "dex": 52,
+  "name": "Meowth",
+  "owned": false,
+  "cheapest": "[JP] アローラ ニャース · 30th CELEBRATION · #115 · IR (Rara illustrazione / AR)",
+  "trend": 1.63,
+  "good": 1.14,
+  "super": 0.81
+ },
+ {
+  "dex": 53,
+  "name": "Persian",
+  "owned": false,
+  "cheapest": "[JP] アローラペルシアンGX · リミックスバウト · #071 · Full art (SR)",
+  "trend": 3.15,
+  "good": 2.2,
+  "super": 1.57
+ },
+ {
+  "dex": 54,
+  "name": "Psyduck",
+  "owned": false,
+  "cheapest": "[JP] コダック · MEGAドリームex · #199 · IR (Rara illustrazione / AR)",
+  "trend": 14.22,
+  "good": 9.95,
+  "super": 7.11
+ },
+ {
+  "dex": 55,
+  "name": "Golduck",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 56,
+  "name": "Mankey",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 57,
+  "name": "Primeape",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 58,
+  "name": "Growlithe",
+  "owned": false,
+  "cheapest": "[JP] ガーディ · ストームエメラルダ · #078 · Rara iper Mega",
+  "trend": 3.98,
+  "good": 2.79,
+  "super": 1.99
+ },
+ {
+  "dex": 59,
+  "name": "Arcanine",
+  "owned": false,
+  "cheapest": "[JP] ヒスイ ウインディ · ダークファンタズマ · #075 · CHR (Character Rare)",
+  "trend": 2.48,
+  "good": 1.74,
+  "super": 1.24
+ },
+ {
+  "dex": 60,
+  "name": "Poliwag",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 61,
+  "name": "Poliwhirl",
+  "owned": false,
+  "cheapest": "[JP] ニョロゾ · ポケモンカード151 · #176 · IR (Rara illustrazione / AR)",
+  "trend": 13.95,
+  "good": 9.76,
+  "super": 6.97
+ },
+ {
+  "dex": 62,
+  "name": "Poliwrath",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 63,
+  "name": "Abra",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 64,
+  "name": "Kadabra",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 65,
+  "name": "Alakazam",
+  "owned": false,
+  "cheapest": "[JP] フーディンex · ポケモンカード151 · #190 · Full art (SR)",
+  "trend": 3.46,
+  "good": 2.42,
+  "super": 1.73
+ },
+ {
+  "dex": 66,
+  "name": "Machop",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 67,
+  "name": "Machoke",
+  "owned": false,
+  "cheapest": "[JP] ゴーリキー · ポケモンカード151 · #177 · IR (Rara illustrazione / AR)",
+  "trend": 4.7,
+  "good": 3.29,
+  "super": 2.35
+ },
+ {
+  "dex": 68,
+  "name": "Machamp",
+  "owned": false,
+  "cheapest": "[EN] Marshadow & Machamp GX · Unbroken Bonds · #198 · Full art (Ultra rara)",
+  "trend": 2.21,
+  "good": 1.55,
+  "super": 1.1
+ },
+ {
+  "dex": 69,
+  "name": "Bellsprout",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 70,
+  "name": "Weepinbell",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 71,
+  "name": "Victreebel",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 72,
+  "name": "Tentacool",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 73,
+  "name": "Tentacruel",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 74,
+  "name": "Geodude",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 75,
+  "name": "Graveler",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 76,
+  "name": "Golem",
+  "owned": false,
+  "cheapest": "[JP] ゴローニャex · ポケモンカード151 · #191 · Full art (SR)",
+  "trend": 1.04,
+  "good": 0.73,
+  "super": 0.52
+ },
+ {
+  "dex": 77,
+  "name": "Ponyta",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 78,
+  "name": "Rapidash",
+  "owned": false,
+  "cheapest": "[EN] Rapidash · Destined Rivals · #189 · IR (Rara illustrazione / AR)",
+  "trend": 6.4,
+  "good": 4.48,
+  "super": 3.2
+ },
+ {
+  "dex": 79,
+  "name": "Slowpoke",
+  "owned": false,
+  "cheapest": "[JP] ヤドン · バイオレットex · #082 · IR (Rara illustrazione / AR)",
+  "trend": 14.49,
+  "good": 10.14,
+  "super": 7.25
+ },
+ {
+  "dex": 80,
+  "name": "Slowbro",
+  "owned": false,
+  "cheapest": "[JP] ヤドラン · アビスアイ · #087 · IR (Rara illustrazione / AR)",
+  "trend": 3.85,
+  "good": 2.69,
+  "super": 1.93
+ },
+ {
+  "dex": 81,
+  "name": "Magnemite",
+  "owned": false,
+  "cheapest": "[JP] コイル · GXウルトラシャイニー · #187 · Full art (SR)",
+  "trend": 4.31,
+  "good": 3.02,
+  "super": 2.15
+ },
+ {
+  "dex": 82,
+  "name": "Magneton",
+  "owned": false,
+  "cheapest": "[JP] レアコイル · GXウルトラシャイニー · #188 · Full art (SR)",
+  "trend": 3.75,
+  "good": 2.62,
+  "super": 1.88
+ },
+ {
+  "dex": 83,
+  "name": "Farfetch’d",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 84,
+  "name": "Doduo",
+  "owned": false,
+  "cheapest": "[EN] Imakuni?'s Doduo · Evolutions · #112 · Secret (alt art / rainbow / gold)",
+  "trend": 13.11,
+  "good": 9.18,
+  "super": 6.55
+ },
+ {
+  "dex": 85,
+  "name": "Dodrio",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 86,
+  "name": "Seel",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 87,
+  "name": "Dewgong",
+  "owned": false,
+  "cheapest": "[JP] ジュゴン · インフェルノX · #084 · IR (Rara illustrazione / AR)",
+  "trend": 2.27,
+  "good": 1.59,
+  "super": 1.14
+ },
+ {
+  "dex": 88,
+  "name": "Grimer",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 89,
+  "name": "Muk",
+  "owned": false,
+  "cheapest": "[EN] Alolan Muk GX · Burning Shadows · #138 · Full art (Ultra rara)",
+  "trend": 3.72,
+  "good": 2.6,
+  "super": 1.86
+ },
+ {
+  "dex": 90,
+  "name": "Shellder",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 91,
+  "name": "Cloyster",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 92,
+  "name": "Gastly",
+  "owned": false,
+  "cheapest": "[JP] ゴース · ワイルドフォース · #080 · IR (Rara illustrazione / AR)",
+  "trend": 47.42,
+  "good": 33.19,
+  "super": 23.71
+ },
+ {
+  "dex": 93,
+  "name": "Haunter",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 94,
+  "name": "Gengar",
+  "owned": false,
+  "cheapest": "[JP] メガゲンガーex · MEGAドリームex · #230 · Full art (SR)",
+  "trend": 13.39,
+  "good": 9.37,
+  "super": 6.7
+ },
+ {
+  "dex": 95,
+  "name": "Onix",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 96,
+  "name": "Drowzee",
+  "owned": false,
+  "cheapest": "[JP] スリープ · バイオレットex · #086 · IR (Rara illustrazione / AR)",
+  "trend": 16.34,
+  "good": 11.44,
+  "super": 8.17
+ },
+ {
+  "dex": 97,
+  "name": "Hypno",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 98,
+  "name": "Krabby",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 99,
+  "name": "Kingler",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 100,
+  "name": "Voltorb",
+  "owned": false,
+  "cheapest": "[JP] ヒスイ ビリリダマ · VSTARユニバース · #173 · IR (Rara illustrazione / AR)",
+  "trend": 1.75,
+  "good": 1.22,
+  "super": 0.88
+ },
+ {
+  "dex": 101,
+  "name": "Electrode",
+  "owned": false,
+  "cheapest": "[JP] ヒスイ マルマインV · ダークファンタズマ · #078 · Full art (SR)",
+  "trend": 2.13,
+  "good": 1.49,
+  "super": 1.06
+ },
+ {
+  "dex": 102,
+  "name": "Exeggcute",
+  "owned": false,
+  "cheapest": "[EN] Exeggcute · Surging Sparks · #192 · IR (Rara illustrazione / AR)",
+  "trend": 7.21,
+  "good": 5.05,
+  "super": 3.6
+ },
+ {
+  "dex": 103,
+  "name": "Exeggutor",
+  "owned": false,
+  "cheapest": "[JP] アローラ ナッシー · 30th CELEBRATION · #104 · IR (Rara illustrazione / AR)",
+  "trend": 1.21,
+  "good": 0.85,
+  "super": 0.6
+ },
+ {
+  "dex": 104,
+  "name": "Cubone",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 105,
+  "name": "Marowak",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 106,
+  "name": "Hitmonlee",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 107,
+  "name": "Hitmonchan",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 108,
+  "name": "Lickitung",
+  "owned": false,
+  "cheapest": "[JP] ベロリンガ · サイバージャッジ · #082 · IR (Rara illustrazione / AR)",
+  "trend": 6.79,
+  "good": 4.75,
+  "super": 3.4
+ },
+ {
+  "dex": 109,
+  "name": "Koffing",
+  "owned": false,
+  "cheapest": "[JP] ドガース · ドリームリーグ · #056 · CHR (Character Rare)",
+  "trend": 16.37,
+  "good": 11.46,
+  "super": 8.19
+ },
+ {
+  "dex": 110,
+  "name": "Weezing",
+  "owned": false,
+  "cheapest": "[JP] ロケット団のマタドガス · ロケット団の栄光 · #105 · IR (Rara illustrazione / AR)",
+  "trend": 2.37,
+  "good": 1.66,
+  "super": 1.19
+ },
+ {
+  "dex": 111,
+  "name": "Rhyhorn",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 112,
+  "name": "Rhydon",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 113,
+  "name": "Chansey",
+  "owned": false,
+  "cheapest": "[JP] ラッキー · 変幻の仮面 · #113 · IR (Rara illustrazione / AR)",
+  "trend": 12.35,
+  "good": 8.64,
+  "super": 6.17
+ },
+ {
+  "dex": 114,
+  "name": "Tangela",
+  "owned": false,
+  "cheapest": "[JP] モンジャラ · ポケモンカード151 · #178 · IR (Rara illustrazione / AR)",
+  "trend": 3.29,
+  "good": 2.3,
+  "super": 1.65
+ },
+ {
+  "dex": 115,
+  "name": "Kangaskhan",
+  "owned": false,
+  "cheapest": "[JP] ガルーラex · ポケモンカード151 · #192 · Full art (SR)",
+  "trend": 1.68,
+  "good": 1.18,
+  "super": 0.84
+ },
+ {
+  "dex": 116,
+  "name": "Horsea",
+  "owned": false,
+  "cheapest": "[JP] タッツー · ナイトワンダラー · #067 · IR (Rara illustrazione / AR)",
+  "trend": 7.12,
+  "good": 4.98,
+  "super": 3.56
+ },
+ {
+  "dex": 117,
+  "name": "Seadra",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 118,
+  "name": "Goldeen",
+  "owned": false,
+  "cheapest": "[JP] トサキント · アビスアイ · #084 · IR (Rara illustrazione / AR)",
+  "trend": 3.11,
+  "good": 2.18,
+  "super": 1.55
+ },
+ {
+  "dex": 119,
+  "name": "Seaking",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 120,
+  "name": "Staryu",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 121,
+  "name": "Starmie",
+  "owned": false,
+  "cheapest": "[EN] Starmie V · Astral Radiance · #030 · Full art (Ultra rara)",
+  "trend": 1.04,
+  "good": 0.73,
+  "super": 0.52
+ },
+ {
+  "dex": 122,
+  "name": "Mr. Mime",
+  "owned": false,
+  "cheapest": "[JP] バリヤード · ポケモンカード151 · #179 · IR (Rara illustrazione / AR)",
+  "trend": 2.33,
+  "good": 1.63,
+  "super": 1.17
+ },
+ {
+  "dex": 123,
+  "name": "Scyther",
+  "owned": false,
+  "cheapest": "[JP] ストライク · GXウルトラシャイニー · #161 · Full art (SR)",
+  "trend": 7.17,
+  "good": 5.02,
+  "super": 3.58
+ },
+ {
+  "dex": 124,
+  "name": "Jynx",
+  "owned": false,
+  "cheapest": "[JP] ルージュラ · 白熱のアルカナ · #071 · CHR (Character Rare)",
+  "trend": 2.05,
+  "good": 1.43,
+  "super": 1.02
+ },
+ {
+  "dex": 125,
+  "name": "Electabuzz",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 126,
+  "name": "Magmar",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 127,
+  "name": "Pinsir",
+  "owned": false,
+  "cheapest": "[EN] Pinsir · Twilight Masquerade · #168 · IR (Rara illustrazione / AR)",
+  "trend": 11.21,
+  "good": 7.85,
+  "super": 5.61
+ },
+ {
+  "dex": 128,
+  "name": "Tauros",
+  "owned": false,
+  "cheapest": "[JP] ケンタロス · ニンジャスピナー · #094 · IR (Rara illustrazione / AR)",
+  "trend": 2.27,
+  "good": 1.59,
+  "super": 1.14
+ },
+ {
+  "dex": 129,
+  "name": "Magikarp",
+  "owned": false,
+  "cheapest": "[EN] Magikarp & Wailord GX · Team Up · #183 · Secret (alt art / rainbow / gold)",
+  "trend": 56.05,
+  "good": 39.23,
+  "super": 28.02
+ },
+ {
+  "dex": 130,
+  "name": "Gyarados",
+  "owned": false,
+  "cheapest": "[EN] Gyarados ex · Scarlet & Violet · #225 · Full art (Ultra rara)",
+  "trend": 7.1,
+  "good": 4.97,
+  "super": 3.55
+ },
+ {
+  "dex": 131,
+  "name": "Lapras",
+  "owned": false,
+  "cheapest": "[JP] ラプラス · 30th CELEBRATION · #106 · IR (Rara illustrazione / AR)",
+  "trend": 1.91,
+  "good": 1.34,
+  "super": 0.95
+ },
+ {
+  "dex": 132,
+  "name": "Ditto",
+  "owned": false,
+  "cheapest": "[JP] メタモン · 30th CELEBRATION · #121 · IR (Rara illustrazione / AR)",
+  "trend": 2.45,
+  "good": 1.72,
+  "super": 1.23
+ },
+ {
+  "dex": 133,
+  "name": "Eevee",
+  "owned": false,
+  "cheapest": "[JP] イーブイ · VMAXクライマックス · #210 · CHR (Character Rare)",
+  "trend": 10.75,
+  "good": 7.52,
+  "super": 5.38
+ },
+ {
+  "dex": 134,
+  "name": "Vaporeon",
+  "owned": false,
+  "cheapest": "[JP] シャワーズ · VMAXクライマックス · #189 · CHR (Character Rare)",
+  "trend": 13.28,
+  "good": 9.3,
+  "super": 6.64
+ },
+ {
+  "dex": 135,
+  "name": "Jolteon",
+  "owned": false,
+  "cheapest": "[JP] サンダース · VMAXクライマックス · #193 · CHR (Character Rare)",
+  "trend": 11.8,
+  "good": 8.26,
+  "super": 5.9
+ },
+ {
+  "dex": 136,
+  "name": "Flareon",
+  "owned": false,
+  "cheapest": "[JP] ブースター · VMAXクライマックス · #188 · CHR (Character Rare)",
+  "trend": 8.56,
+  "good": 5.99,
+  "super": 4.28
+ },
+ {
+  "dex": 137,
+  "name": "Porygon",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 138,
+  "name": "Omanyte",
+  "owned": false,
+  "cheapest": "[JP] オムナイト · ポケモンカード151 · #180 · IR (Rara illustrazione / AR)",
+  "trend": 3.61,
+  "good": 2.53,
+  "super": 1.8
+ },
+ {
+  "dex": 139,
+  "name": "Omastar",
+  "owned": false,
+  "cheapest": "[EN] Omastar V · Silver Tempest · #174 · Full art (Ultra rara)",
+  "trend": 3.57,
+  "good": 2.5,
+  "super": 1.78
+ },
+ {
+  "dex": 140,
+  "name": "Kabuto",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 141,
+  "name": "Kabutops",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 142,
+  "name": "Aerodactyl",
+  "owned": false,
+  "cheapest": "[EN] Aerodactyl V · Lost Origin · #179 · Full art (Ultra rara)",
+  "trend": 3.12,
+  "good": 2.18,
+  "super": 1.56
+ },
+ {
+  "dex": 143,
+  "name": "Snorlax",
+  "owned": false,
+  "cheapest": "[JP] カビゴン · ダークファンタズマ · #077 · CHR (Character Rare)",
+  "trend": 11.51,
+  "good": 8.06,
+  "super": 5.75
+ },
+ {
+  "dex": 144,
+  "name": "Articuno",
+  "owned": false,
+  "cheapest": "[JP] フリーザー · 30th CELEBRATION · #107 · IR (Rara illustrazione / AR)",
+  "trend": 1.67,
+  "good": 1.17,
+  "super": 0.83
+ },
+ {
+  "dex": 145,
+  "name": "Zapdos",
+  "owned": false,
+  "cheapest": "[JP] サンダー · 30th CELEBRATION · #108 · IR (Rara illustrazione / AR)",
+  "trend": 2.02,
+  "good": 1.41,
+  "super": 1.01
+ },
+ {
+  "dex": 146,
+  "name": "Moltres",
+  "owned": false,
+  "cheapest": "[JP] ファイヤー · 30th CELEBRATION · #105 · IR (Rara illustrazione / AR)",
+  "trend": 1.81,
+  "good": 1.27,
+  "super": 0.91
+ },
+ {
+  "dex": 147,
+  "name": "Dratini",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 148,
+  "name": "Dragonair",
+  "owned": false,
+  "cheapest": "[JP] ハクリュー · ポケモンカード151 · #182 · IR (Rara illustrazione / AR)",
+  "trend": 12.21,
+  "good": 8.55,
+  "super": 6.11
+ },
+ {
+  "dex": 149,
+  "name": "Dragonite",
+  "owned": false,
+  "cheapest": "[EN] Dragonite V · Pokémon GO · #076 · Full art (Ultra rara)",
+  "trend": 10.36,
+  "good": 7.25,
+  "super": 5.18
+ },
+ {
+  "dex": 150,
+  "name": "Mewtwo",
+  "owned": false,
+  "cheapest": "[EN] Mewtwo GX · Shining Legends · #78 · Secret (alt art / rainbow / gold)",
+  "trend": 9.67,
+  "good": 6.77,
+  "super": 4.83
+ },
+ {
+  "dex": 151,
+  "name": "Mew",
+  "owned": false,
+  "cheapest": "[JP] ミュウex · 30th CELEBRATION · #135 · Futuristic Rare",
+  "trend": 14.6,
+  "good": 10.22,
+  "super": 7.3
+ },
+ {
+  "dex": 152,
+  "name": "Chikorita",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 153,
+  "name": "Bayleef",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 154,
+  "name": "Meganium",
+  "owned": false,
+  "cheapest": "[EN] Mega Meganium ex · Ascended Heroes · #272 · SIR (Rara illustrazione speciale / SAR)",
+  "trend": 71.23,
+  "good": 49.86,
+  "super": 35.62
+ },
+ {
+  "dex": 155,
+  "name": "Cyndaquil",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 156,
+  "name": "Quilava",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 157,
+  "name": "Typhlosion",
+  "owned": false,
+  "cheapest": "[EN] Hisuian Typhlosion V · Astral Radiance · #169 · Full art (Ultra rara)",
+  "trend": 4.01,
+  "good": 2.81,
+  "super": 2.0
+ },
+ {
+  "dex": 158,
+  "name": "Totodile",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 159,
+  "name": "Croconaw",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 160,
+  "name": "Feraligatr",
+  "owned": false,
+  "cheapest": "[EN] Mega Feraligatr ex · Ascended Heroes · #274 · SIR (Rara illustrazione speciale / SAR)",
+  "trend": 96.44,
+  "good": 67.51,
+  "super": 48.22
+ },
+ {
+  "dex": 161,
+  "name": "Sentret",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 162,
+  "name": "Furret",
+  "owned": false,
+  "cheapest": "[EN] Furret · Journey Together · #168 · IR (Rara illustrazione / AR)",
+  "trend": 5.37,
+  "good": 3.76,
+  "super": 2.69
+ },
+ {
+  "dex": 163,
+  "name": "Hoothoot",
+  "owned": false,
+  "cheapest": "[EN] Hoothoot · Astral Radiance Trainer Gallery · #TG12 · Trainer Gallery (TG)",
+  "trend": 6.09,
+  "good": 4.26,
+  "super": 3.04
+ },
+ {
+  "dex": 164,
+  "name": "Noctowl",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 165,
+  "name": "Ledyba",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 166,
+  "name": "Ledian",
+  "owned": false,
+  "cheapest": "[EN] Ledian · Stellar Crown · #144 · IR (Rara illustrazione / AR)",
+  "trend": 4.24,
+  "good": 2.97,
+  "super": 2.12
+ },
+ {
+  "dex": 167,
+  "name": "Spinarak",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 168,
+  "name": "Ariados",
+  "owned": false,
+  "cheapest": "[JP] アリアドス · VMAXクライマックス · #205 · CHR (Character Rare)",
+  "trend": 1.59,
+  "good": 1.11,
+  "super": 0.8
+ },
+ {
+  "dex": 169,
+  "name": "Crobat",
+  "owned": false,
+  "cheapest": "[JP] クロバット · ニンジャスピナー · #091 · IR (Rara illustrazione / AR)",
+  "trend": 1.93,
+  "good": 1.35,
+  "super": 0.96
+ },
+ {
+  "dex": 170,
+  "name": "Chinchou",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 171,
+  "name": "Lanturn",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 172,
+  "name": "Pichu",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 173,
+  "name": "Cleffa",
+  "owned": false,
+  "cheapest": "[EN] Cleffa · Obsidian Flames · #202 · IR (Rara illustrazione / AR)",
+  "trend": 19.45,
+  "good": 13.61,
+  "super": 9.72
+ },
+ {
+  "dex": 174,
+  "name": "Igglybuff",
+  "owned": false,
+  "cheapest": "[JP] トゲピー&ピィ&ププリンGX · TAG TEAM GX タッグオールスターズ · #185 · Full art (SR)",
+  "trend": 128.09,
+  "good": 89.66,
+  "super": 64.05
+ },
+ {
+  "dex": 175,
+  "name": "Togepi",
+  "owned": false,
+  "cheapest": "[JP] トゲピー&ピィ&ププリンGX · TAG TEAM GX タッグオールスターズ · #185 · Full art (SR)",
+  "trend": 128.09,
+  "good": 89.66,
+  "super": 64.05
+ },
+ {
+  "dex": 176,
+  "name": "Togetic",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 177,
+  "name": "Natu",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 178,
+  "name": "Xatu",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 179,
+  "name": "Mareep",
+  "owned": false,
+  "cheapest": "[EN] Mareep · Crown Zenith Galarian Gallery · #GG34 · Galarian Gallery (GG)",
+  "trend": 10.08,
+  "good": 7.06,
+  "super": 5.04
+ },
+ {
+  "dex": 180,
+  "name": "Flaaffy",
+  "owned": false,
+  "cheapest": "[EN] Flaaffy · Silver Tempest Trainer Gallery · #TG03 · Trainer Gallery (TG)",
+  "trend": 4.0,
+  "good": 2.8,
+  "super": 2.0
+ },
+ {
+  "dex": 181,
+  "name": "Ampharos",
+  "owned": false,
+  "cheapest": "[JP] デンリュウ · ニンジャスピナー · #088 · IR (Rara illustrazione / AR)",
+  "trend": 3.51,
+  "good": 2.46,
+  "super": 1.75
+ },
+ {
+  "dex": 182,
+  "name": "Bellossom",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 183,
+  "name": "Marill",
+  "owned": false,
+  "cheapest": "[EN] Marill · Ascended Heroes · #232 · IR (Rara illustrazione / AR)",
+  "trend": 7.23,
+  "good": 5.06,
+  "super": 3.62
+ },
+ {
+  "dex": 184,
+  "name": "Azumarill",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 185,
+  "name": "Sudowoodo",
+  "owned": false,
+  "cheapest": "[JP] ウソッキー · GXウルトラシャイニー · #180 · Full art (SR)",
+  "trend": 4.1,
+  "good": 2.87,
+  "super": 2.05
+ },
+ {
+  "dex": 186,
+  "name": "Politoed",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 187,
+  "name": "Hoppip",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 188,
+  "name": "Skiploom",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 189,
+  "name": "Jumpluff",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 190,
+  "name": "Aipom",
+  "owned": false,
+  "cheapest": "[EN] Aipom · Paradox Rift · #211 · IR (Rara illustrazione / AR)",
+  "trend": 12.97,
+  "good": 9.08,
+  "super": 6.49
+ },
+ {
+  "dex": 191,
+  "name": "Sunkern",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 192,
+  "name": "Sunflora",
+  "owned": false,
+  "cheapest": "[JP] キマワリ · 変幻の仮面 · #102 · IR (Rara illustrazione / AR)",
+  "trend": 1.66,
+  "good": 1.16,
+  "super": 0.83
+ },
+ {
+  "dex": 193,
+  "name": "Yanma",
+  "owned": false,
+  "cheapest": "[EN] Yanma · Destined Rivals · #183 · IR (Rara illustrazione / AR)",
+  "trend": 3.21,
+  "good": 2.25,
+  "super": 1.6
+ },
+ {
+  "dex": 194,
+  "name": "Wooper",
+  "owned": false,
+  "cheapest": "[EN] Paldean Wooper · Phantasmal Flames · #102 · IR (Rara illustrazione / AR)",
+  "trend": 2.31,
+  "good": 1.62,
+  "super": 1.16
+ },
+ {
+  "dex": 195,
+  "name": "Quagsire",
+  "owned": false,
+  "cheapest": "[JP] ヌオー · GXウルトラシャイニー · #170 · Full art (SR)",
+  "trend": 8.66,
+  "good": 6.06,
+  "super": 4.33
+ },
+ {
+  "dex": 196,
+  "name": "Espeon",
+  "owned": false,
+  "cheapest": "[EN] Espeon GX · Sun & Moon · #140 · Full art (Ultra rara)",
+  "trend": 20.27,
+  "good": 14.19,
+  "super": 10.13
+ },
+ {
+  "dex": 197,
+  "name": "Umbreon",
+  "owned": false,
+  "cheapest": "[EN] Umbreon GX · Sun & Moon · #142 · Full art (Ultra rara)",
+  "trend": 34.27,
+  "good": 23.99,
+  "super": 17.14
+ },
+ {
+  "dex": 198,
+  "name": "Murkrow",
+  "owned": false,
+  "cheapest": "[JP] ロケット団のヤミカラス · ロケット団の栄光 · #106 · IR (Rara illustrazione / AR)",
+  "trend": 1.97,
+  "good": 1.38,
+  "super": 0.98
+ },
+ {
+  "dex": 199,
+  "name": "Slowking",
+  "owned": false,
+  "cheapest": "[EN] Slowking ex · Paldea Evolved · #238 · Full art (Ultra rara)",
+  "trend": 3.54,
+  "good": 2.48,
+  "super": 1.77
+ },
+ {
+  "dex": 200,
+  "name": "Misdreavus",
+  "owned": false,
+  "cheapest": "[JP] ムウマ · MEGAドリームex · #202 · IR (Rara illustrazione / AR)",
+  "trend": 1.36,
+  "good": 0.95,
+  "super": 0.68
+ },
+ {
+  "dex": 201,
+  "name": "Unown",
+  "owned": false,
+  "cheapest": "[EN] Unown V · Silver Tempest · #176 · Full art (Ultra rara)",
+  "trend": 3.91,
+  "good": 2.74,
+  "super": 1.96
+ },
+ {
+  "dex": 202,
+  "name": "Wobbuffet",
+  "owned": false,
+  "cheapest": "[JP] ロケット団のソーナンス · ロケット団の栄光 · #103 · IR (Rara illustrazione / AR)",
+  "trend": 2.19,
+  "good": 1.53,
+  "super": 1.09
+ },
+ {
+  "dex": 203,
+  "name": "Girafarig",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 204,
+  "name": "Pineco",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 205,
+  "name": "Forretress",
+  "owned": false,
+  "cheapest": "[EN] Forretress ex · Paldea Evolved · #230 · Full art (Ultra rara)",
+  "trend": 1.56,
+  "good": 1.09,
+  "super": 0.78
+ },
+ {
+  "dex": 206,
+  "name": "Dunsparce",
+  "owned": false,
+  "cheapest": "[JP] ノコッチ · VSTARユニバース · #198 · IR (Rara illustrazione / AR)",
+  "trend": 1.59,
+  "good": 1.11,
+  "super": 0.8
+ },
+ {
+  "dex": 207,
+  "name": "Gligar",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 208,
+  "name": "Steelix",
+  "owned": false,
+  "cheapest": "[JP] ハガネール · メガブレイブ · #073 · IR (Rara illustrazione / AR)",
+  "trend": 3.05,
+  "good": 2.13,
+  "super": 1.52
+ },
+ {
+  "dex": 209,
+  "name": "Snubbull",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 210,
+  "name": "Granbull",
+  "owned": false,
+  "cheapest": "[EN] Granbull V · Brilliant Stars · #159 · Full art (Ultra rara)",
+  "trend": 1.64,
+  "good": 1.15,
+  "super": 0.82
+ },
+ {
+  "dex": 211,
+  "name": "Qwilfish",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 212,
+  "name": "Scizor",
+  "owned": false,
+  "cheapest": "[EN] Scizor ex · Temporal Forces · #195 · Full art (Ultra rara)",
+  "trend": 2.79,
+  "good": 1.95,
+  "super": 1.4
+ },
+ {
+  "dex": 213,
+  "name": "Shuckle",
+  "owned": false,
+  "cheapest": "[JP] ツボツボ · メガシンフォニア · #064 · IR (Rara illustrazione / AR)",
+  "trend": 1.95,
+  "good": 1.36,
+  "super": 0.97
+ },
+ {
+  "dex": 214,
+  "name": "Heracross",
+  "owned": false,
+  "cheapest": "[JP] メガヘラクロスex · インフェルノX · #093 · Full art (SR)",
+  "trend": 1.98,
+  "good": 1.39,
+  "super": 0.99
+ },
+ {
+  "dex": 215,
+  "name": "Sneasel",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 216,
+  "name": "Teddiursa",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 217,
+  "name": "Ursaring",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 218,
+  "name": "Slugma",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 219,
+  "name": "Magcargo",
+  "owned": false,
+  "cheapest": "[JP] ヒビキのマグカルゴ · MEGAドリームex · #197 · IR (Rara illustrazione / AR)",
+  "trend": 1.28,
+  "good": 0.9,
+  "super": 0.64
+ },
+ {
+  "dex": 220,
+  "name": "Swinub",
+  "owned": false,
+  "cheapest": "[EN] Swinub · Journey Together · #165 · IR (Rara illustrazione / AR)",
+  "trend": 2.45,
+  "good": 1.72,
+  "super": 1.23
+ },
+ {
+  "dex": 221,
+  "name": "Piloswine",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 222,
+  "name": "Corsola",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 223,
+  "name": "Remoraid",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 224,
+  "name": "Octillery",
+  "owned": false,
+  "cheapest": "[JP] オクタン · VMAXクライマックス · #191 · CHR (Character Rare)",
+  "trend": 1.64,
+  "good": 1.15,
+  "super": 0.82
+ },
+ {
+  "dex": 225,
+  "name": "Delibird",
+  "owned": false,
+  "cheapest": "[JP] デリバード · メガシンフォニア · #074 · IR (Rara illustrazione / AR)",
+  "trend": 1.5,
+  "good": 1.05,
+  "super": 0.75
+ },
+ {
+  "dex": 226,
+  "name": "Mantine",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 227,
+  "name": "Skarmory",
+  "owned": false,
+  "cheapest": "[JP] メガエアームドex · ムニキスゼロ · #099 · Full art (SR)",
+  "trend": 2.93,
+  "good": 2.05,
+  "super": 1.47
+ },
+ {
+  "dex": 228,
+  "name": "Houndour",
+  "owned": false,
+  "cheapest": "[EN] Houndour · Obsidian Flames · #204 · IR (Rara illustrazione / AR)",
+  "trend": 4.95,
+  "good": 3.46,
+  "super": 2.48
+ },
+ {
+  "dex": 229,
+  "name": "Houndoom",
+  "owned": false,
+  "cheapest": "[JP] ヘルガー · VMAXクライマックス · #206 · CHR (Character Rare)",
+  "trend": 2.61,
+  "good": 1.83,
+  "super": 1.3
+ },
+ {
+  "dex": 230,
+  "name": "Kingdra",
+  "owned": false,
+  "cheapest": "[JP] キングドラex · ナイトワンダラー · #077 · Full art (SR)",
+  "trend": 1.74,
+  "good": 1.22,
+  "super": 0.87
+ },
+ {
+  "dex": 231,
+  "name": "Phanpy",
+  "owned": false,
+  "cheapest": "[JP] ゴマゾウ · 超電ブレイカー · #115 · IR (Rara illustrazione / AR)",
+  "trend": 1.79,
+  "good": 1.25,
+  "super": 0.9
+ },
+ {
+  "dex": 232,
+  "name": "Donphan",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 233,
+  "name": "Porygon2",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 234,
+  "name": "Stantler",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 235,
+  "name": "Smeargle",
+  "owned": false,
+  "cheapest": "[JP] ドーブル · 白熱のアルカナ · #073 · CHR (Character Rare)",
+  "trend": 1.97,
+  "good": 1.38,
+  "super": 0.98
+ },
+ {
+  "dex": 236,
+  "name": "Tyrogue",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 237,
+  "name": "Hitmontop",
+  "owned": false,
+  "cheapest": "[EN] Hitmontop · Ascended Heroes · #240 · IR (Rara illustrazione / AR)",
+  "trend": 3.52,
+  "good": 2.46,
+  "super": 1.76
+ },
+ {
+  "dex": 238,
+  "name": "Smoochum",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 239,
+  "name": "Elekid",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 240,
+  "name": "Magby",
+  "owned": false,
+  "cheapest": "[EN] Magby · Paradox Rift · #186 · IR (Rara illustrazione / AR)",
+  "trend": 14.98,
+  "good": 10.49,
+  "super": 7.49
+ },
+ {
+  "dex": 241,
+  "name": "Miltank",
+  "owned": false,
+  "cheapest": "[JP] ミルタンク · VSTARユニバース · #199 · IR (Rara illustrazione / AR)",
+  "trend": 2.59,
+  "good": 1.81,
+  "super": 1.29
+ },
+ {
+  "dex": 242,
+  "name": "Blissey",
+  "owned": false,
+  "cheapest": "[JP] ハピナスex · 変幻の仮面 · #121 · Full art (SR)",
+  "trend": 2.91,
+  "good": 2.04,
+  "super": 1.46
+ },
+ {
+  "dex": 243,
+  "name": "Raikou",
+  "owned": false,
+  "cheapest": "[JP] ライコウex · ストームエメラルダ · #092 · Rara iper Mega",
+  "trend": 4.6,
+  "good": 3.22,
+  "super": 2.3
+ },
+ {
+  "dex": 244,
+  "name": "Entei",
+  "owned": false,
+  "cheapest": "[JP] エンテイGX · ひかる伝説 · #073 · Full art (SR)",
+  "trend": 21.33,
+  "good": 14.93,
+  "super": 10.66
+ },
+ {
+  "dex": 245,
+  "name": "Suicune",
+  "owned": false,
+  "cheapest": "[JP] スイクンV · 摩天パーフェクト · #068 · Full art (SR)",
+  "trend": 10.08,
+  "good": 7.06,
+  "super": 5.04
+ },
+ {
+  "dex": 246,
+  "name": "Larvitar",
+  "owned": false,
+  "cheapest": "[EN] Larvitar · Obsidian Flames · #203 · IR (Rara illustrazione / AR)",
+  "trend": 3.37,
+  "good": 2.36,
+  "super": 1.69
+ },
+ {
+  "dex": 247,
+  "name": "Pupitar",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 248,
+  "name": "Tyranitar",
+  "owned": false,
+  "cheapest": "[EN] Tyranitar ex · Obsidian Flames · #211 · Full art (Ultra rara)",
+  "trend": 2.63,
+  "good": 1.84,
+  "super": 1.31
+ },
+ {
+  "dex": 249,
+  "name": "Lugia",
+  "owned": false,
+  "cheapest": "[EN] Lugia EX · Ancient Origins · #94 · Full art (Ultra rara)",
+  "trend": 16.06,
+  "good": 11.24,
+  "super": 8.03
+ },
+ {
+  "dex": 250,
+  "name": "Ho-Oh",
+  "owned": false,
+  "cheapest": "[JP] ホウオウV · 白熱のアルカナ · #080 · Full art (SR)",
+  "trend": 4.87,
+  "good": 3.41,
+  "super": 2.44
+ },
+ {
+  "dex": 251,
+  "name": "Celebi",
+  "owned": false,
+  "cheapest": "[EN] Celebi V · Chilling Reign · #160 · Full art (Ultra rara)",
+  "trend": 7.8,
+  "good": 5.46,
+  "super": 3.9
+ },
+ {
+  "dex": 252,
+  "name": "Treecko",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 253,
+  "name": "Grovyle",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 254,
+  "name": "Sceptile",
+  "owned": false,
+  "cheapest": "[EN] Sceptile EX · Ancient Origins · #84 · Full art (Ultra rara)",
+  "trend": 5.88,
+  "good": 4.12,
+  "super": 2.94
+ },
+ {
+  "dex": 255,
+  "name": "Torchic",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 256,
+  "name": "Combusken",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 257,
+  "name": "Blaziken",
+  "owned": false,
+  "cheapest": "[JP] バシャーモ · ロケット団の栄光 · #101 · IR (Rara illustrazione / AR)",
+  "trend": 4.66,
+  "good": 3.26,
+  "super": 2.33
+ },
+ {
+  "dex": 258,
+  "name": "Mudkip",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 259,
+  "name": "Marshtomp",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 260,
+  "name": "Swampert",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 261,
+  "name": "Poochyena",
+  "owned": false,
+  "cheapest": "[EN] Poochyena · Crown Zenith Galarian Gallery · #GG33 · Galarian Gallery (GG)",
+  "trend": 6.73,
+  "good": 4.71,
+  "super": 3.37
+ },
+ {
+  "dex": 262,
+  "name": "Mightyena",
+  "owned": false,
+  "cheapest": "[EN] Mightyena · Astral Radiance Trainer Gallery · #TG09 · Trainer Gallery (TG)",
+  "trend": 3.05,
+  "good": 2.13,
+  "super": 1.52
+ },
+ {
+  "dex": 263,
+  "name": "Zigzagoon",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 264,
+  "name": "Linoone",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 265,
+  "name": "Wurmple",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 266,
+  "name": "Silcoon",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 267,
+  "name": "Beautifly",
+  "owned": false,
+  "cheapest": "[JP] アゲハント · MEGAドリームex · #194 · IR (Rara illustrazione / AR)",
+  "trend": 1.11,
+  "good": 0.78,
+  "super": 0.56
+ },
+ {
+  "dex": 268,
+  "name": "Cascoon",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 269,
+  "name": "Dustox",
+  "owned": false,
+  "cheapest": "[JP] ドクケイル · MEGAドリームex · #195 · IR (Rara illustrazione / AR)",
+  "trend": 0.95,
+  "good": 0.66,
+  "super": 0.47
+ },
+ {
+  "dex": 270,
+  "name": "Lotad",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 271,
+  "name": "Lombre",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 272,
+  "name": "Ludicolo",
+  "owned": false,
+  "cheapest": "[JP] ルンパッパ · インフェルノX · #081 · IR (Rara illustrazione / AR)",
+  "trend": 1.2,
+  "good": 0.84,
+  "super": 0.6
+ },
+ {
+  "dex": 273,
+  "name": "Seedot",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 274,
+  "name": "Nuzleaf",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 275,
+  "name": "Shiftry",
+  "owned": false,
+  "cheapest": "[JP] ダーテング · サイバージャッジ · #072 · IR (Rara illustrazione / AR)",
+  "trend": 2.61,
+  "good": 1.83,
+  "super": 1.3
+ },
+ {
+  "dex": 276,
+  "name": "Taillow",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 277,
+  "name": "Swellow",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 278,
+  "name": "Wingull",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 279,
+  "name": "Pelipper",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 280,
+  "name": "Ralts",
+  "owned": false,
+  "cheapest": "[JP] ラルトス · GXウルトラシャイニー · #194 · Full art (SR)",
+  "trend": 6.49,
+  "good": 4.54,
+  "super": 3.25
+ },
+ {
+  "dex": 281,
+  "name": "Kirlia",
+  "owned": false,
+  "cheapest": "[JP] キルリア · GXウルトラシャイニー · #195 · Full art (SR)",
+  "trend": 6.63,
+  "good": 4.64,
+  "super": 3.31
+ },
+ {
+  "dex": 282,
+  "name": "Gardevoir",
+  "owned": false,
+  "cheapest": "[JP] メガサーナイトex · MEGAドリームex · #226 · Full art (SR)",
+  "trend": 2.65,
+  "good": 1.85,
+  "super": 1.32
+ },
+ {
+  "dex": 283,
+  "name": "Surskit",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 284,
+  "name": "Masquerain",
+  "owned": false,
+  "cheapest": "[JP] アメモース · ストームエメラルダ · #077 · Rara iper Mega",
+  "trend": 1.52,
+  "good": 1.06,
+  "super": 0.76
+ },
+ {
+  "dex": 285,
+  "name": "Shroomish",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 286,
+  "name": "Breloom",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 287,
+  "name": "Slakoth",
+  "owned": false,
+  "cheapest": "[JP] ナマケロ · 超電ブレイカー · #117 · IR (Rara illustrazione / AR)",
+  "trend": 2.63,
+  "good": 1.84,
+  "super": 1.31
+ },
+ {
+  "dex": 288,
+  "name": "Vigoroth",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 289,
+  "name": "Slaking",
+  "owned": false,
+  "cheapest": "[JP] ケッキングex · 超電ブレイカー · #126 · Full art (SR)",
+  "trend": 1.07,
+  "good": 0.75,
+  "super": 0.54
+ },
+ {
+  "dex": 290,
+  "name": "Nincada",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 291,
+  "name": "Ninjask",
+  "owned": false,
+  "cheapest": "[JP] テッカニン · メガシンフォニア · #065 · IR (Rara illustrazione / AR)",
+  "trend": 2.19,
+  "good": 1.53,
+  "super": 1.09
+ },
+ {
+  "dex": 292,
+  "name": "Shedinja",
+  "owned": false,
+  "cheapest": "[JP] ヌケニン · メガシンフォニア · #072 · IR (Rara illustrazione / AR)",
+  "trend": 1.29,
+  "good": 0.9,
+  "super": 0.65
+ },
+ {
+  "dex": 293,
+  "name": "Whismur",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 294,
+  "name": "Loudred",
+  "owned": false,
+  "cheapest": "[EN] Loudred · Paradox Rift · #212 · IR (Rara illustrazione / AR)",
+  "trend": 10.89,
+  "good": 7.62,
+  "super": 5.45
+ },
+ {
+  "dex": 295,
+  "name": "Exploud",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 296,
+  "name": "Makuhita",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 297,
+  "name": "Hariyama",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 298,
+  "name": "Azurill",
+  "owned": false,
+  "cheapest": "[JP] ルリリ · ストームエメラルダ · #086 · Rara iper Mega",
+  "trend": 2.85,
+  "good": 1.99,
+  "super": 1.43
+ },
+ {
+  "dex": 299,
+  "name": "Nosepass",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 300,
+  "name": "Skitty",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 301,
+  "name": "Delcatty",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 302,
+  "name": "Sableye",
+  "owned": false,
+  "cheapest": "[EN] Sableye V · Sword & Shield · #194 · Full art (Ultra rara)",
+  "trend": 8.02,
+  "good": 5.61,
+  "super": 4.01
+ },
+ {
+  "dex": 303,
+  "name": "Mawile",
+  "owned": false,
+  "cheapest": "[JP] メガクチートex · メガブレイブ · #080 · Full art (SR)",
+  "trend": 2.37,
+  "good": 1.66,
+  "super": 1.19
+ },
+ {
+  "dex": 304,
+  "name": "Aron",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 305,
+  "name": "Lairon",
+  "owned": false,
+  "cheapest": "[JP] コドラ · 変幻の仮面 · #111 · IR (Rara illustrazione / AR)",
+  "trend": 2.04,
+  "good": 1.43,
+  "super": 1.02
+ },
+ {
+  "dex": 306,
+  "name": "Aggron",
+  "owned": false,
+  "cheapest": "[EN] Aggron EX · Primal Clash · #153 · Full art (Ultra rara)",
+  "trend": 11.09,
+  "good": 7.76,
+  "super": 5.54
+ },
+ {
+  "dex": 307,
+  "name": "Meditite",
+  "owned": false,
+  "cheapest": "[EN] Meditite · Stellar Crown · #153 · IR (Rara illustrazione / AR)",
+  "trend": 4.95,
+  "good": 3.46,
+  "super": 2.48
+ },
+ {
+  "dex": 308,
+  "name": "Medicham",
+  "owned": false,
+  "cheapest": "[EN] Medicham ex · Stellar Crown · #161 · Full art (Ultra rara)",
+  "trend": 1.16,
+  "good": 0.81,
+  "super": 0.58
+ },
+ {
+  "dex": 309,
+  "name": "Electrike",
+  "owned": false,
+  "cheapest": "[EN] Electrike · Destined Rivals · #196 · IR (Rara illustrazione / AR)",
+  "trend": 2.85,
+  "good": 1.99,
+  "super": 1.43
+ },
+ {
+  "dex": 310,
+  "name": "Manectric",
+  "owned": false,
+  "cheapest": "[JP] ライボルト · アビスアイ · #086 · IR (Rara illustrazione / AR)",
+  "trend": 1.5,
+  "good": 1.05,
+  "super": 0.75
+ },
+ {
+  "dex": 311,
+  "name": "Plusle",
+  "owned": false,
+  "cheapest": "[EN] Plusle · Paradox Rift · #193 · IR (Rara illustrazione / AR)",
+  "trend": 28.66,
+  "good": 20.06,
+  "super": 14.33
+ },
+ {
+  "dex": 312,
+  "name": "Minun",
+  "owned": false,
+  "cheapest": "[EN] Minun · Paradox Rift · #194 · IR (Rara illustrazione / AR)",
+  "trend": 25.99,
+  "good": 18.19,
+  "super": 12.99
+ },
+ {
+  "dex": 313,
+  "name": "Volbeat",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 314,
+  "name": "Illumise",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 315,
+  "name": "Roselia",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 316,
+  "name": "Gulpin",
+  "owned": false,
+  "cheapest": "[EN] Gulpin · Stellar Crown · #154 · IR (Rara illustrazione / AR)",
+  "trend": 7.12,
+  "good": 4.98,
+  "super": 3.56
+ },
+ {
+  "dex": 317,
+  "name": "Swalot",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 318,
+  "name": "Carvanha",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 319,
+  "name": "Sharpedo",
+  "owned": false,
+  "cheapest": "[JP] メガサメハダーex · インフェルノX · #098 · Full art (SR)",
+  "trend": 1.31,
+  "good": 0.92,
+  "super": 0.66
+ },
+ {
+  "dex": 320,
+  "name": "Wailmer",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 321,
+  "name": "Wailord",
+  "owned": false,
+  "cheapest": "[EN] Wailord ex · Pitch Black · #097 · Full art (Ultra rara)",
+  "trend": 2.59,
+  "good": 1.81,
+  "super": 1.29
+ },
+ {
+  "dex": 322,
+  "name": "Numel",
+  "owned": false,
+  "cheapest": "[JP] ドンメル · MEGAドリームex · #198 · IR (Rara illustrazione / AR)",
+  "trend": 1.32,
+  "good": 0.92,
+  "super": 0.66
+ },
+ {
+  "dex": 323,
+  "name": "Camerupt",
+  "owned": false,
+  "cheapest": "[JP] メガバクーダex · メガブレイブ · #077 · Full art (SR)",
+  "trend": 1.95,
+  "good": 1.36,
+  "super": 0.97
+ },
+ {
+  "dex": 324,
+  "name": "Torkoal",
+  "owned": false,
+  "cheapest": "[EN] Torkoal V · Sword & Shield · #188 · Full art (Ultra rara)",
+  "trend": 1.18,
+  "good": 0.83,
+  "super": 0.59
+ },
+ {
+  "dex": 325,
+  "name": "Spoink",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 326,
+  "name": "Grumpig",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 327,
+  "name": "Spinda",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 328,
+  "name": "Trapinch",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 329,
+  "name": "Vibrava",
+  "owned": false,
+  "cheapest": "[EN] Vibrava · Surging Sparks · #206 · IR (Rara illustrazione / AR)",
+  "trend": 3.28,
+  "good": 2.3,
+  "super": 1.64
+ },
+ {
+  "dex": 330,
+  "name": "Flygon",
+  "owned": false,
+  "cheapest": "[JP] フライゴン · インフェルノX · #088 · IR (Rara illustrazione / AR)",
+  "trend": 1.45,
+  "good": 1.01,
+  "super": 0.72
+ },
+ {
+  "dex": 331,
+  "name": "Cacnea",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 332,
+  "name": "Cacturne",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 333,
+  "name": "Swablu",
+  "owned": false,
+  "cheapest": "[JP] チルット · GXウルトラシャイニー · #202 · Full art (SR)",
+  "trend": 4.31,
+  "good": 3.02,
+  "super": 2.15
+ },
+ {
+  "dex": 334,
+  "name": "Altaria",
+  "owned": false,
+  "cheapest": "[JP] チルタリス · VSTARユニバース · #194 · IR (Rara illustrazione / AR)",
+  "trend": 2.6,
+  "good": 1.82,
+  "super": 1.3
+ },
+ {
+  "dex": 335,
+  "name": "Zangoose",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 336,
+  "name": "Seviper",
+  "owned": false,
+  "cheapest": "[JP] ハブネーク · GXウルトラシャイニー · #175 · Full art (SR)",
+  "trend": 5.19,
+  "good": 3.63,
+  "super": 2.6
+ },
+ {
+  "dex": 337,
+  "name": "Lunatone",
+  "owned": false,
+  "cheapest": "[JP] ルナトーン · VSTARユニバース · #184 · IR (Rara illustrazione / AR)",
+  "trend": 3.53,
+  "good": 2.47,
+  "super": 1.76
+ },
+ {
+  "dex": 338,
+  "name": "Solrock",
+  "owned": false,
+  "cheapest": "[JP] ソルロック · VSTARユニバース · #189 · IR (Rara illustrazione / AR)",
+  "trend": 2.29,
+  "good": 1.6,
+  "super": 1.15
+ },
+ {
+  "dex": 339,
+  "name": "Barboach",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 340,
+  "name": "Whiscash",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 341,
+  "name": "Corphish",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 342,
+  "name": "Crawdaunt",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 343,
+  "name": "Baltoy",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 344,
+  "name": "Claydol",
+  "owned": false,
+  "cheapest": "[JP] ネンドール · ニンジャスピナー · #090 · IR (Rara illustrazione / AR)",
+  "trend": 1.9,
+  "good": 1.33,
+  "super": 0.95
+ },
+ {
+  "dex": 345,
+  "name": "Lileep",
+  "owned": false,
+  "cheapest": "[EN] Lileep · Stellar Crown · #145 · IR (Rara illustrazione / AR)",
+  "trend": 4.45,
+  "good": 3.11,
+  "super": 2.23
+ },
+ {
+  "dex": 346,
+  "name": "Cradily",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 347,
+  "name": "Anorith",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 348,
+  "name": "Armaldo",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 349,
+  "name": "Feebas",
+  "owned": false,
+  "cheapest": "[JP] ヒンバス · 超電ブレイカー · #110 · IR (Rara illustrazione / AR)",
+  "trend": 3.15,
+  "good": 2.2,
+  "super": 1.57
+ },
+ {
+  "dex": 350,
+  "name": "Milotic",
+  "owned": false,
+  "cheapest": "[JP] ミロカロスex · 超電ブレイカー · #121 · Full art (SR)",
+  "trend": 1.42,
+  "good": 0.99,
+  "super": 0.71
+ },
+ {
+  "dex": 351,
+  "name": "Castform",
+  "owned": false,
+  "cheapest": "[EN] Castform · Lost Origin Trainer Gallery · #TG11 · Trainer Gallery (TG)",
+  "trend": 1.65,
+  "good": 1.15,
+  "super": 0.82
+ },
+ {
+  "dex": 352,
+  "name": "Kecleon",
+  "owned": false,
+  "cheapest": "[JP] カクレオン · 超電ブレイカー · #118 · IR (Rara illustrazione / AR)",
+  "trend": 2.55,
+  "good": 1.78,
+  "super": 1.27
+ },
+ {
+  "dex": 353,
+  "name": "Shuppet",
+  "owned": false,
+  "cheapest": "[JP] カゲボウズ · GXウルトラシャイニー · #176 · Full art (SR)",
+  "trend": 3.44,
+  "good": 2.41,
+  "super": 1.72
+ },
+ {
+  "dex": 354,
+  "name": "Banette",
+  "owned": false,
+  "cheapest": "[EN] Banette ex · Scarlet & Violet · #229 · Full art (Ultra rara)",
+  "trend": 1.47,
+  "good": 1.03,
+  "super": 0.73
+ },
+ {
+  "dex": 355,
+  "name": "Duskull",
+  "owned": false,
+  "cheapest": "[EN] Duskull · Crown Zenith Galarian Gallery · #GG28 · Galarian Gallery (GG)",
+  "trend": 5.24,
+  "good": 3.67,
+  "super": 2.62
+ },
+ {
+  "dex": 356,
+  "name": "Dusclops",
+  "owned": false,
+  "cheapest": "[JP] サマヨール · ナイトワンダラー · #069 · IR (Rara illustrazione / AR)",
+  "trend": 4.77,
+  "good": 3.34,
+  "super": 2.38
+ },
+ {
+  "dex": 357,
+  "name": "Tropius",
+  "owned": false,
+  "cheapest": "[EN] Tropius · Paldea Evolved · #195 · IR (Rara illustrazione / AR)",
+  "trend": 8.61,
+  "good": 6.03,
+  "super": 4.3
+ },
+ {
+  "dex": 358,
+  "name": "Chimecho",
+  "owned": false,
+  "cheapest": "[JP] チリーン · 変幻の仮面 · #106 · IR (Rara illustrazione / AR)",
+  "trend": 1.72,
+  "good": 1.2,
+  "super": 0.86
+ },
+ {
+  "dex": 359,
+  "name": "Absol",
+  "owned": false,
+  "cheapest": "[EN] Absol ex · Obsidian Flames · #214 · Full art (Ultra rara)",
+  "trend": 2.01,
+  "good": 1.41,
+  "super": 1.0
+ },
+ {
+  "dex": 360,
+  "name": "Wynaut",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 361,
+  "name": "Snorunt",
+  "owned": false,
+  "cheapest": "[JP] ユキワラシ · MEGAドリームex · #200 · IR (Rara illustrazione / AR)",
+  "trend": 1.16,
+  "good": 0.81,
+  "super": 0.58
+ },
+ {
+  "dex": 362,
+  "name": "Glalie",
+  "owned": false,
+  "cheapest": "[EN] Glalie EX · BREAKthrough · #155 · Full art (Ultra rara)",
+  "trend": 20.1,
+  "good": 14.07,
+  "super": 10.05
+ },
+ {
+  "dex": 363,
+  "name": "Spheal",
+  "owned": false,
+  "cheapest": "[JP] タマザラシ · 超電ブレイカー · #111 · IR (Rara illustrazione / AR)",
+  "trend": 3.1,
+  "good": 2.17,
+  "super": 1.55
+ },
+ {
+  "dex": 364,
+  "name": "Sealeo",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 365,
+  "name": "Walrein",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 366,
+  "name": "Clamperl",
+  "owned": false,
+  "cheapest": "[JP] パールル · ロケット団の栄光 · #102 · IR (Rara illustrazione / AR)",
+  "trend": 1.59,
+  "good": 1.11,
+  "super": 0.8
+ },
+ {
+  "dex": 367,
+  "name": "Huntail",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 368,
+  "name": "Gorebyss",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 369,
+  "name": "Relicanth",
+  "owned": false,
+  "cheapest": "[JP] ジーランス · ワイルドフォース · #077 · IR (Rara illustrazione / AR)",
+  "trend": 2.12,
+  "good": 1.48,
+  "super": 1.06
+ },
+ {
+  "dex": 370,
+  "name": "Luvdisc",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 371,
+  "name": "Bagon",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 372,
+  "name": "Shelgon",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 373,
+  "name": "Salamence",
+  "owned": false,
+  "cheapest": "[EN] Salamence ex · Journey Together · #177 · Full art (Ultra rara)",
+  "trend": 1.58,
+  "good": 1.11,
+  "super": 0.79
+ },
+ {
+  "dex": 374,
+  "name": "Beldum",
+  "owned": false,
+  "cheapest": "[JP] ダンバル · GXウルトラシャイニー · #190 · Full art (SR)",
+  "trend": 4.39,
+  "good": 3.07,
+  "super": 2.19
+ },
+ {
+  "dex": 375,
+  "name": "Metang",
+  "owned": false,
+  "cheapest": "[EN] Metang · Chaos Rising · #094 · IR (Rara illustrazione / AR)",
+  "trend": 2.28,
+  "good": 1.6,
+  "super": 1.14
+ },
+ {
+  "dex": 376,
+  "name": "Metagross",
+  "owned": false,
+  "cheapest": "[EN] Metagross V · Chilling Reign · #181 · Full art (Ultra rara)",
+  "trend": 4.58,
+  "good": 3.21,
+  "super": 2.29
+ },
+ {
+  "dex": 377,
+  "name": "Regirock",
+  "owned": false,
+  "cheapest": "[JP] レジロックex · ロケット団の栄光 · #115 · Full art (SR)",
+  "trend": 1.18,
+  "good": 0.83,
+  "super": 0.59
+ },
+ {
+  "dex": 378,
+  "name": "Regice",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 379,
+  "name": "Registeel",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 380,
+  "name": "Latias",
+  "owned": false,
+  "cheapest": "[EN] Mega Latias ex · Mega Evolution · #163 · Full art (Ultra rara)",
+  "trend": 4.68,
+  "good": 3.28,
+  "super": 2.34
+ },
+ {
+  "dex": 381,
+  "name": "Latios",
+  "owned": false,
+  "cheapest": "[EN] Latios GX · Unified Minds · #223 · Full art (Ultra rara)",
+  "trend": 9.94,
+  "good": 6.96,
+  "super": 4.97
+ },
+ {
+  "dex": 382,
+  "name": "Kyogre",
+  "owned": false,
+  "cheapest": "[EN] Kyogre EX · Primal Clash · #148 · Full art (Ultra rara)",
+  "trend": 2.56,
+  "good": 1.79,
+  "super": 1.28
+ },
+ {
+  "dex": 383,
+  "name": "Groudon",
+  "owned": false,
+  "cheapest": "[EN] Groudon EX · Primal Clash · #150 · Full art (Ultra rara)",
+  "trend": 2.15,
+  "good": 1.5,
+  "super": 1.07
+ },
+ {
+  "dex": 384,
+  "name": "Rayquaza",
+  "owned": false,
+  "cheapest": "[EN] Rayquaza VMAX · Crown Zenith · #102 · Full art (Ultra rara)",
+  "trend": 11.82,
+  "good": 8.27,
+  "super": 5.91
+ },
+ {
+  "dex": 385,
+  "name": "Jirachi",
+  "owned": false,
+  "cheapest": "[JP] ジラーチex · 30th CELEBRATION · #132 · SIR (Rara illustrazione speciale / SAR)",
+  "trend": 10.13,
+  "good": 7.09,
+  "super": 5.07
+ },
+ {
+  "dex": 386,
+  "name": "Deoxys",
+  "owned": false,
+  "cheapest": "[JP] デオキシス · VSTARユニバース · #185 · IR (Rara illustrazione / AR)",
+  "trend": 8.8,
+  "good": 6.16,
+  "super": 4.4
+ },
+ {
+  "dex": 387,
+  "name": "Turtwig",
+  "owned": false,
+  "cheapest": "[EN] Turtwig · Crown Zenith Galarian Gallery · #GG31 · Galarian Gallery (GG)",
+  "trend": 10.47,
+  "good": 7.33,
+  "super": 5.24
+ },
+ {
+  "dex": 388,
+  "name": "Grotle",
+  "owned": false,
+  "cheapest": "[JP] ハヤシガメ · ワイルドフォース · #072 · IR (Rara illustrazione / AR)",
+  "trend": 5.32,
+  "good": 3.72,
+  "super": 2.66
+ },
+ {
+  "dex": 389,
+  "name": "Torterra",
+  "owned": false,
+  "cheapest": "[EN] Torterra ex · Temporal Forces · #185 · Full art (Ultra rara)",
+  "trend": 2.78,
+  "good": 1.95,
+  "super": 1.39
+ },
+ {
+  "dex": 390,
+  "name": "Chimchar",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 391,
+  "name": "Monferno",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 392,
+  "name": "Infernape",
+  "owned": false,
+  "cheapest": "[EN] Infernape · Twilight Masquerade · #173 · IR (Rara illustrazione / AR)",
+  "trend": 9.74,
+  "good": 6.82,
+  "super": 4.87
+ },
+ {
+  "dex": 393,
+  "name": "Piplup",
+  "owned": false,
+  "cheapest": "[JP] ポッチャマ · インフェルノX · #085 · IR (Rara illustrazione / AR)",
+  "trend": 5.97,
+  "good": 4.18,
+  "super": 2.98
+ },
+ {
+  "dex": 394,
+  "name": "Prinplup",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 395,
+  "name": "Empoleon",
+  "owned": false,
+  "cheapest": "[JP] エンペルトex · インフェルノX · #099 · Full art (SR)",
+  "trend": 1.5,
+  "good": 1.05,
+  "super": 0.75
+ },
+ {
+  "dex": 396,
+  "name": "Starly",
+  "owned": false,
+  "cheapest": "[EN] Starly · Scarlet & Violet · #221 · IR (Rara illustrazione / AR)",
+  "trend": 11.07,
+  "good": 7.75,
+  "super": 5.54
+ },
+ {
+  "dex": 397,
+  "name": "Staravia",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 398,
+  "name": "Staraptor",
+  "owned": false,
+  "cheapest": "[EN] Larry's Staraptor · Ascended Heroes · #249 · IR (Rara illustrazione / AR)",
+  "trend": 4.11,
+  "good": 2.88,
+  "super": 2.06
+ },
+ {
+  "dex": 399,
+  "name": "Bidoof",
+  "owned": false,
+  "cheapest": "[EN] Bidoof · Crown Zenith Galarian Gallery · #GG29 · Galarian Gallery (GG)",
+  "trend": 6.3,
+  "good": 4.41,
+  "super": 3.15
+ },
+ {
+  "dex": 400,
+  "name": "Bibarel",
+  "owned": false,
+  "cheapest": "[JP] ビーダル · VSTARユニバース · #200 · IR (Rara illustrazione / AR)",
+  "trend": 3.05,
+  "good": 2.13,
+  "super": 1.52
+ },
+ {
+  "dex": 401,
+  "name": "Kricketot",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 402,
+  "name": "Kricketune",
+  "owned": false,
+  "cheapest": "[JP] コロトック · VSTARユニバース · #174 · IR (Rara illustrazione / AR)",
+  "trend": 2.58,
+  "good": 1.81,
+  "super": 1.29
+ },
+ {
+  "dex": 403,
+  "name": "Shinx",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 404,
+  "name": "Luxio",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 405,
+  "name": "Luxray",
+  "owned": false,
+  "cheapest": "[EN] Luxray ex · Twilight Masquerade · #195 · Full art (Ultra rara)",
+  "trend": 2.15,
+  "good": 1.5,
+  "super": 1.07
+ },
+ {
+  "dex": 406,
+  "name": "Budew",
+  "owned": false,
+  "cheapest": "[JP] スボミー · MEGAドリームex · #196 · IR (Rara illustrazione / AR)",
+  "trend": 2.18,
+  "good": 1.53,
+  "super": 1.09
+ },
+ {
+  "dex": 407,
+  "name": "Roserade",
+  "owned": false,
+  "cheapest": "[EN] Roserade · Lost Origin Trainer Gallery · #TG02 · Trainer Gallery (TG)",
+  "trend": 2.59,
+  "good": 1.81,
+  "super": 1.29
+ },
+ {
+  "dex": 408,
+  "name": "Cranidos",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 409,
+  "name": "Rampardos",
+  "owned": false,
+  "cheapest": "[EN] Rampardos ex · Pitch Black · #100 · Full art (Ultra rara)",
+  "trend": 2.52,
+  "good": 1.76,
+  "super": 1.26
+ },
+ {
+  "dex": 410,
+  "name": "Shieldon",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 411,
+  "name": "Bastiodon",
+  "owned": false,
+  "cheapest": "[JP] トリデプス · アビスアイ · #091 · IR (Rara illustrazione / AR)",
+  "trend": 1.47,
+  "good": 1.03,
+  "super": 0.73
+ },
+ {
+  "dex": 412,
+  "name": "Burmy",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 413,
+  "name": "Wormadam",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 414,
+  "name": "Mothim",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 415,
+  "name": "Combee",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 416,
+  "name": "Vespiquen",
+  "owned": false,
+  "cheapest": "[EN] Vespiquen ex · Obsidian Flames · #212 · Full art (Ultra rara)",
+  "trend": 1.35,
+  "good": 0.94,
+  "super": 0.68
+ },
+ {
+  "dex": 417,
+  "name": "Pachirisu",
+  "owned": false,
+  "cheapest": "[JP] パチリス · バイオレットex · #084 · IR (Rara illustrazione / AR)",
+  "trend": 5.61,
+  "good": 3.93,
+  "super": 2.81
+ },
+ {
+  "dex": 418,
+  "name": "Buizel",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 419,
+  "name": "Floatzel",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 420,
+  "name": "Cherubi",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 421,
+  "name": "Cherrim",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 422,
+  "name": "Shellos",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 423,
+  "name": "Gastrodon",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 424,
+  "name": "Ambipom",
+  "owned": false,
+  "cheapest": "[JP] エテボース · インフェルノX · #092 · IR (Rara illustrazione / AR)",
+  "trend": 1.05,
+  "good": 0.73,
+  "super": 0.53
+ },
+ {
+  "dex": 425,
+  "name": "Drifloon",
+  "owned": false,
+  "cheapest": "[JP] フワンテ · 30th CELEBRATION · #111 · IR (Rara illustrazione / AR)",
+  "trend": 1.28,
+  "good": 0.9,
+  "super": 0.64
+ },
+ {
+  "dex": 426,
+  "name": "Drifblim",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 427,
+  "name": "Buneary",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 428,
+  "name": "Lopunny",
+  "owned": false,
+  "cheapest": "[JP] メガミミロップex · インフェルノX · #100 · Full art (SR)",
+  "trend": 1.71,
+  "good": 1.2,
+  "super": 0.85
+ },
+ {
+  "dex": 429,
+  "name": "Mismagius",
+  "owned": false,
+  "cheapest": "[JP] ムウマージex · インフェルノX · #097 · Full art (SR)",
+  "trend": 1.32,
+  "good": 0.92,
+  "super": 0.66
+ },
+ {
+  "dex": 430,
+  "name": "Honchkrow",
+  "owned": false,
+  "cheapest": "[EN] Honchkrow V · Brilliant Stars · #161 · Full art (Ultra rara)",
+  "trend": 1.55,
+  "good": 1.08,
+  "super": 0.78
+ },
+ {
+  "dex": 431,
+  "name": "Glameow",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 432,
+  "name": "Purugly",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 433,
+  "name": "Chingling",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 434,
+  "name": "Stunky",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 435,
+  "name": "Skuntank",
+  "owned": false,
+  "cheapest": "[EN] Skuntank V · Silver Tempest · #180 · Full art (Ultra rara)",
+  "trend": 1.74,
+  "good": 1.22,
+  "super": 0.87
+ },
+ {
+  "dex": 436,
+  "name": "Bronzor",
+  "owned": false,
+  "cheapest": "[JP] ドーミラー · ワイルドフォース · #074 · IR (Rara illustrazione / AR)",
+  "trend": 2.13,
+  "good": 1.49,
+  "super": 1.06
+ },
+ {
+  "dex": 437,
+  "name": "Bronzong",
+  "owned": false,
+  "cheapest": "[JP] ドータクン · VMAXクライマックス · #208 · CHR (Character Rare)",
+  "trend": 2.2,
+  "good": 1.54,
+  "super": 1.1
+ },
+ {
+  "dex": 438,
+  "name": "Bonsly",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 439,
+  "name": "Mime Jr.",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 440,
+  "name": "Happiny",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 441,
+  "name": "Chatot",
+  "owned": false,
+  "cheapest": "[JP] ペラップ · ワイルドフォース · #081 · IR (Rara illustrazione / AR)",
+  "trend": 3.14,
+  "good": 2.2,
+  "super": 1.57
+ },
+ {
+  "dex": 442,
+  "name": "Spiritomb",
+  "owned": false,
+  "cheapest": "[JP] ミカルゲ · メガブレイブ · #071 · IR (Rara illustrazione / AR)",
+  "trend": 1.24,
+  "good": 0.87,
+  "super": 0.62
+ },
+ {
+  "dex": 443,
+  "name": "Gible",
+  "owned": false,
+  "cheapest": "[JP] フカマル · GXウルトラシャイニー · #198 · Full art (SR)",
+  "trend": 4.76,
+  "good": 3.33,
+  "super": 2.38
+ },
+ {
+  "dex": 444,
+  "name": "Gabite",
+  "owned": false,
+  "cheapest": "[JP] ガバイト · GXウルトラシャイニー · #199 · Full art (SR)",
+  "trend": 7.22,
+  "good": 5.05,
+  "super": 3.61
+ },
+ {
+  "dex": 445,
+  "name": "Garchomp",
+  "owned": false,
+  "cheapest": "[EN] Cynthia's Garchomp ex · Destined Rivals · #215 · Full art (Ultra rara)",
+  "trend": 3.52,
+  "good": 2.46,
+  "super": 1.76
+ },
+ {
+  "dex": 446,
+  "name": "Munchlax",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 447,
+  "name": "Riolu",
+  "owned": false,
+  "cheapest": "[JP] リオル · メガブレイブ · #068 · IR (Rara illustrazione / AR)",
+  "trend": 3.45,
+  "good": 2.42,
+  "super": 1.73
+ },
+ {
+  "dex": 448,
+  "name": "Lucario",
+  "owned": false,
+  "cheapest": "[JP] ルカリオ&メルメタルGX · TAG TEAM GX タッグオールスターズ · #184 · Full art (SR)",
+  "trend": 4.15,
+  "good": 2.91,
+  "super": 2.08
+ },
+ {
+  "dex": 449,
+  "name": "Hippopotas",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 450,
+  "name": "Hippowdon",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 451,
+  "name": "Skorupi",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 452,
+  "name": "Drapion",
+  "owned": false,
+  "cheapest": "[JP] ドラピオン · ムニキスゼロ · #090 · IR (Rara illustrazione / AR)",
+  "trend": 1.22,
+  "good": 0.85,
+  "super": 0.61
+ },
+ {
+  "dex": 453,
+  "name": "Croagunk",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 454,
+  "name": "Toxicroak",
+  "owned": false,
+  "cheapest": "[EN] Toxicroak ex · Scarlet & Violet · #232 · Full art (Ultra rara)",
+  "trend": 1.67,
+  "good": 1.17,
+  "super": 0.83
+ },
+ {
+  "dex": 455,
+  "name": "Carnivine",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 456,
+  "name": "Finneon",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 457,
+  "name": "Lumineon",
+  "owned": false,
+  "cheapest": "[EN] Lumineon V · Brilliant Stars · #155 · Full art (Ultra rara)",
+  "trend": 2.79,
+  "good": 1.95,
+  "super": 1.4
+ },
+ {
+  "dex": 458,
+  "name": "Mantyke",
+  "owned": false,
+  "cheapest": "[EN] Mantyke · Paradox Rift · #189 · IR (Rara illustrazione / AR)",
+  "trend": 14.95,
+  "good": 10.46,
+  "super": 7.47
+ },
+ {
+  "dex": 459,
+  "name": "Snover",
+  "owned": false,
+  "cheapest": "[JP] ユキカブリ · メガシンフォニア · #067 · IR (Rara illustrazione / AR)",
+  "trend": 1.27,
+  "good": 0.89,
+  "super": 0.64
+ },
+ {
+  "dex": 460,
+  "name": "Abomasnow",
+  "owned": false,
+  "cheapest": "[JP] ユキノオー · VMAXクライマックス · #185 · CHR (Character Rare)",
+  "trend": 1.59,
+  "good": 1.11,
+  "super": 0.8
+ },
+ {
+  "dex": 461,
+  "name": "Weavile",
+  "owned": false,
+  "cheapest": "[EN] Weavile · Ascended Heroes · #228 · IR (Rara illustrazione / AR)",
+  "trend": 5.04,
+  "good": 3.53,
+  "super": 2.52
+ },
+ {
+  "dex": 462,
+  "name": "Magnezone",
+  "owned": false,
+  "cheapest": "[JP] ジバコイルV · ダークファンタズマ · #079 · Full art (SR)",
+  "trend": 0.89,
+  "good": 0.62,
+  "super": 0.45
+ },
+ {
+  "dex": 463,
+  "name": "Lickilicky",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 464,
+  "name": "Rhyperior",
+  "owned": false,
+  "cheapest": "[EN] Rhyperior V · Darkness Ablaze · #181 · Full art (Ultra rara)",
+  "trend": 3.23,
+  "good": 2.26,
+  "super": 1.61
+ },
+ {
+  "dex": 465,
+  "name": "Tangrowth",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 466,
+  "name": "Electivire",
+  "owned": false,
+  "cheapest": "[EN] Electivire ex · Destined Rivals · #212 · Full art (Ultra rara)",
+  "trend": 1.57,
+  "good": 1.1,
+  "super": 0.79
+ },
+ {
+  "dex": 467,
+  "name": "Magmortar",
+  "owned": false,
+  "cheapest": "[JP] ブーバーン · ストームエメラルダ · #079 · Rara iper Mega",
+  "trend": 1.76,
+  "good": 1.23,
+  "super": 0.88
+ },
+ {
+  "dex": 468,
+  "name": "Togekiss",
+  "owned": false,
+  "cheapest": "[JP] トゲキッス · MEGAドリームex · #203 · IR (Rara illustrazione / AR)",
+  "trend": 1.62,
+  "good": 1.13,
+  "super": 0.81
+ },
+ {
+  "dex": 469,
+  "name": "Yanmega",
+  "owned": false,
+  "cheapest": "[EN] Yanmega ex · Destined Rivals · #206 · Full art (Ultra rara)",
+  "trend": 1.14,
+  "good": 0.8,
+  "super": 0.57
+ },
+ {
+  "dex": 470,
+  "name": "Leafeon",
+  "owned": false,
+  "cheapest": "[EN] Leafeon GX · Ultra Prism · #157 · Secret (alt art / rainbow / gold)",
+  "trend": 7.27,
+  "good": 5.09,
+  "super": 3.63
+ },
+ {
+  "dex": 471,
+  "name": "Glaceon",
+  "owned": false,
+  "cheapest": "[EN] Glaceon GX · Ultra Prism · #159 · Secret (alt art / rainbow / gold)",
+  "trend": 6.1,
+  "good": 4.27,
+  "super": 3.05
+ },
+ {
+  "dex": 472,
+  "name": "Gliscor",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 473,
+  "name": "Mamoswine",
+  "owned": false,
+  "cheapest": "[EN] Mamoswine ex · Journey Together · #174 · Full art (Ultra rara)",
+  "trend": 1.01,
+  "good": 0.71,
+  "super": 0.51
+ },
+ {
+  "dex": 474,
+  "name": "Porygon-Z",
+  "owned": false,
+  "cheapest": "[EN] Porygon-Z · Paradox Rift · #214 · IR (Rara illustrazione / AR)",
+  "trend": 7.56,
+  "good": 5.29,
+  "super": 3.78
+ },
+ {
+  "dex": 475,
+  "name": "Gallade",
+  "owned": false,
+  "cheapest": "[EN] Gallade V · Lost Origin · #181 · Full art (Ultra rara)",
+  "trend": 1.85,
+  "good": 1.29,
+  "super": 0.93
+ },
+ {
+  "dex": 476,
+  "name": "Probopass",
+  "owned": false,
+  "cheapest": "[JP] ダイノーズ · ムニキスゼロ · #088 · IR (Rara illustrazione / AR)",
+  "trend": 1.18,
+  "good": 0.83,
+  "super": 0.59
+ },
+ {
+  "dex": 477,
+  "name": "Dusknoir",
+  "owned": false,
+  "cheapest": "[JP] ヨノワール · VMAXクライマックス · #198 · CHR (Character Rare)",
+  "trend": 0.02,
+  "good": 0.01,
+  "super": 0.01
+ },
+ {
+  "dex": 478,
+  "name": "Froslass",
+  "owned": false,
+  "cheapest": "[EN] Froslass ex · Paradox Rift · #217 · Full art (Ultra rara)",
+  "trend": 2.06,
+  "good": 1.44,
+  "super": 1.03
+ },
+ {
+  "dex": 479,
+  "name": "Rotom",
+  "owned": false,
+  "cheapest": "[JP] スピンロトム · MEGAドリームex · #213 · IR (Rara illustrazione / AR)",
+  "trend": 0.66,
+  "good": 0.46,
+  "super": 0.33
+ },
+ {
+  "dex": 480,
+  "name": "Uxie",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 481,
+  "name": "Mesprit",
+  "owned": false,
+  "cheapest": "[JP] エムリット · 超電ブレイカー · #114 · IR (Rara illustrazione / AR)",
+  "trend": 4.67,
+  "good": 3.27,
+  "super": 2.33
+ },
+ {
+  "dex": 482,
+  "name": "Azelf",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 483,
+  "name": "Dialga",
+  "owned": false,
+  "cheapest": "[EN] Dialga EX · Phantom Forces · #122 · Secret (alt art / rainbow / gold)",
+  "trend": 9.45,
+  "good": 6.61,
+  "super": 4.72
+ },
+ {
+  "dex": 484,
+  "name": "Palkia",
+  "owned": false,
+  "cheapest": "[EN] Palkia GX · Ultra Prism · #165 · Secret (alt art / rainbow / gold)",
+  "trend": 7.9,
+  "good": 5.53,
+  "super": 3.95
+ },
+ {
+  "dex": 485,
+  "name": "Heatran",
+  "owned": false,
+  "cheapest": "[JP] ヒードランV · スペースジャグラー · #072 · Full art (SR)",
+  "trend": 2.09,
+  "good": 1.46,
+  "super": 1.04
+ },
+ {
+  "dex": 486,
+  "name": "Regigigas",
+  "owned": false,
+  "cheapest": "[JP] レジギガスVSTAR · VSTARユニバース · #233 · SIR (Rara illustrazione speciale / SAR)",
+  "trend": 13.12,
+  "good": 9.18,
+  "super": 6.56
+ },
+ {
+  "dex": 487,
+  "name": "Giratina",
+  "owned": false,
+  "cheapest": "[EN] Giratina VSTAR · Lost Origin · #201 · Secret (alt art / rainbow / gold)",
+  "trend": 1.48,
+  "good": 1.04,
+  "super": 0.74
+ },
+ {
+  "dex": 488,
+  "name": "Cresselia",
+  "owned": false,
+  "cheapest": "[JP] クレセリア · ナイトワンダラー · #071 · IR (Rara illustrazione / AR)",
+  "trend": 4.5,
+  "good": 3.15,
+  "super": 2.25
+ },
+ {
+  "dex": 489,
+  "name": "Phione",
+  "owned": false,
+  "cheapest": "[EN] Phione · Twilight Masquerade · #175 · IR (Rara illustrazione / AR)",
+  "trend": 9.96,
+  "good": 6.97,
+  "super": 4.98
+ },
+ {
+  "dex": 490,
+  "name": "Manaphy",
+  "owned": false,
+  "cheapest": "[JP] マナフィ · VSTARユニバース · #178 · IR (Rara illustrazione / AR)",
+  "trend": 3.84,
+  "good": 2.69,
+  "super": 1.92
+ },
+ {
+  "dex": 491,
+  "name": "Darkrai",
+  "owned": false,
+  "cheapest": "[JP] メガダークライex · アビスアイ · #099 · Full art (SR)",
+  "trend": 6.41,
+  "good": 4.49,
+  "super": 3.21
+ },
+ {
+  "dex": 492,
+  "name": "Shaymin",
+  "owned": false,
+  "cheapest": "[EN] Shaymin V · Brilliant Stars · #152 · Full art (Ultra rara)",
+  "trend": 2.79,
+  "good": 1.95,
+  "super": 1.4
+ },
+ {
+  "dex": 493,
+  "name": "Arceus",
+  "owned": false,
+  "cheapest": "[EN] Arceus V · Brilliant Stars · #165 · Full art (Ultra rara)",
+  "trend": 8.08,
+  "good": 5.66,
+  "super": 4.04
+ },
+ {
+  "dex": 494,
+  "name": "Victini",
+  "owned": false,
+  "cheapest": "[EN] Victini V · Battle Styles · #144 · Full art (Ultra rara)",
+  "trend": 9.96,
+  "good": 6.97,
+  "super": 4.98
+ },
+ {
+  "dex": 495,
+  "name": "Snivy",
+  "owned": false,
+  "cheapest": "[JP] ツタージャ · ブラックボルト · #087 · IR (Rara illustrazione / AR)",
+  "trend": 13.01,
+  "good": 9.11,
+  "super": 6.5
+ },
+ {
+  "dex": 496,
+  "name": "Servine",
+  "owned": false,
+  "cheapest": "[JP] ジャノビー · ブラックボルト · #088 · IR (Rara illustrazione / AR)",
+  "trend": 9.03,
+  "good": 6.32,
+  "super": 4.51
+ },
+ {
+  "dex": 497,
+  "name": "Serperior",
+  "owned": false,
+  "cheapest": "[JP] ジャローダex · ブラックボルト · #159 · Full art (SR)",
+  "trend": 0.93,
+  "good": 0.65,
+  "super": 0.47
+ },
+ {
+  "dex": 498,
+  "name": "Tepig",
+  "owned": false,
+  "cheapest": "[JP] ポカブ · ホワイトフレア · #096 · IR (Rara illustrazione / AR)",
+  "trend": 16.15,
+  "good": 11.3,
+  "super": 8.07
+ },
+ {
+  "dex": 499,
+  "name": "Pignite",
+  "owned": false,
+  "cheapest": "[JP] チャオブー · ホワイトフレア · #097 · IR (Rara illustrazione / AR)",
+  "trend": 5.79,
+  "good": 4.05,
+  "super": 2.9
+ },
+ {
+  "dex": 500,
+  "name": "Emboar",
+  "owned": false,
+  "cheapest": "[JP] エンブオー · ホワイトフレア · #098 · IR (Rara illustrazione / AR)",
+  "trend": 5.01,
+  "good": 3.51,
+  "super": 2.5
+ },
+ {
+  "dex": 501,
+  "name": "Oshawott",
+  "owned": false,
+  "cheapest": "[JP] ミジュマル · ホワイトフレア · #102 · IR (Rara illustrazione / AR)",
+  "trend": 36.42,
+  "good": 25.49,
+  "super": 18.21
+ },
+ {
+  "dex": 502,
+  "name": "Dewott",
+  "owned": false,
+  "cheapest": "[JP] フタチマル · ホワイトフレア · #103 · IR (Rara illustrazione / AR)",
+  "trend": 11.58,
+  "good": 8.11,
+  "super": 5.79
+ },
+ {
+  "dex": 503,
+  "name": "Samurott",
+  "owned": false,
+  "cheapest": "[EN] Hisuian Samurott V · Astral Radiance · #176 · Full art (Ultra rara)",
+  "trend": 2.72,
+  "good": 1.9,
+  "super": 1.36
+ },
+ {
+  "dex": 504,
+  "name": "Patrat",
+  "owned": false,
+  "cheapest": "[JP] ミネズミ · ホワイトフレア · #151 · IR (Rara illustrazione / AR)",
+  "trend": 8.21,
+  "good": 5.75,
+  "super": 4.11
+ },
+ {
+  "dex": 505,
+  "name": "Watchog",
+  "owned": false,
+  "cheapest": "[JP] ミルホッグ · ニンジャスピナー · #095 · IR (Rara illustrazione / AR)",
+  "trend": 1.21,
+  "good": 0.85,
+  "super": 0.6
+ },
+ {
+  "dex": 506,
+  "name": "Lillipup",
+  "owned": false,
+  "cheapest": "[JP] ヨーテリー · ホワイトフレア · #153 · IR (Rara illustrazione / AR)",
+  "trend": 8.6,
+  "good": 6.02,
+  "super": 4.3
+ },
+ {
+  "dex": 507,
+  "name": "Herdier",
+  "owned": false,
+  "cheapest": "[JP] ハーデリア · ホワイトフレア · #154 · IR (Rara illustrazione / AR)",
+  "trend": 6.55,
+  "good": 4.58,
+  "super": 3.27
+ },
+ {
+  "dex": 508,
+  "name": "Stoutland",
+  "owned": false,
+  "cheapest": "[EN] Stoutland V · Battle Styles · #157 · Full art (Ultra rara)",
+  "trend": 2.95,
+  "good": 2.06,
+  "super": 1.48
+ },
+ {
+  "dex": 509,
+  "name": "Purrloin",
+  "owned": false,
+  "cheapest": "[JP] チョロネコ · ホワイトフレア · #134 · IR (Rara illustrazione / AR)",
+  "trend": 8.07,
+  "good": 5.65,
+  "super": 4.04
+ },
+ {
+  "dex": 510,
+  "name": "Liepard",
+  "owned": false,
+  "cheapest": "[EN] Liepard V · Chilling Reign · #180 · Full art (Ultra rara)",
+  "trend": 2.66,
+  "good": 1.86,
+  "super": 1.33
+ },
+ {
+  "dex": 511,
+  "name": "Pansage",
+  "owned": false,
+  "cheapest": "[JP] ヤナップ · ブラックボルト · #089 · IR (Rara illustrazione / AR)",
+  "trend": 6.56,
+  "good": 4.59,
+  "super": 3.28
+ },
+ {
+  "dex": 512,
+  "name": "Simisage",
+  "owned": false,
+  "cheapest": "[JP] ヤナッキー · ブラックボルト · #090 · IR (Rara illustrazione / AR)",
+  "trend": 3.81,
+  "good": 2.67,
+  "super": 1.91
+ },
+ {
+  "dex": 513,
+  "name": "Pansear",
+  "owned": false,
+  "cheapest": "[JP] バオップ · ホワイトフレア · #099 · IR (Rara illustrazione / AR)",
+  "trend": 3.94,
+  "good": 2.76,
+  "super": 1.97
+ },
+ {
+  "dex": 514,
+  "name": "Simisear",
+  "owned": false,
+  "cheapest": "[JP] バオッキー · ホワイトフレア · #100 · IR (Rara illustrazione / AR)",
+  "trend": 4.84,
+  "good": 3.39,
+  "super": 2.42
+ },
+ {
+  "dex": 515,
+  "name": "Panpour",
+  "owned": false,
+  "cheapest": "[JP] ヒヤップ · ブラックボルト · #105 · IR (Rara illustrazione / AR)",
+  "trend": 3.95,
+  "good": 2.77,
+  "super": 1.98
+ },
+ {
+  "dex": 516,
+  "name": "Simipour",
+  "owned": false,
+  "cheapest": "[JP] ヒヤッキー · ブラックボルト · #106 · IR (Rara illustrazione / AR)",
+  "trend": 4.67,
+  "good": 3.27,
+  "super": 2.33
+ },
+ {
+  "dex": 517,
+  "name": "Munna",
+  "owned": false,
+  "cheapest": "[JP] ムンナ · ブラックボルト · #121 · IR (Rara illustrazione / AR)",
+  "trend": 7.47,
+  "good": 5.23,
+  "super": 3.73
+ },
+ {
+  "dex": 518,
+  "name": "Musharna",
+  "owned": false,
+  "cheapest": "[JP] ムシャーナ · ブラックボルト · #122 · IR (Rara illustrazione / AR)",
+  "trend": 3.84,
+  "good": 2.69,
+  "super": 1.92
+ },
+ {
+  "dex": 519,
+  "name": "Pidove",
+  "owned": false,
+  "cheapest": "[JP] マメパト · ブラックボルト · #153 · IR (Rara illustrazione / AR)",
+  "trend": 11.77,
+  "good": 8.24,
+  "super": 5.88
+ },
+ {
+  "dex": 520,
+  "name": "Tranquill",
+  "owned": false,
+  "cheapest": "[JP] ハトーボー · ブラックボルト · #154 · IR (Rara illustrazione / AR)",
+  "trend": 3.65,
+  "good": 2.55,
+  "super": 1.82
+ },
+ {
+  "dex": 521,
+  "name": "Unfezant",
+  "owned": false,
+  "cheapest": "[JP] ケンホロウ · ブラックボルト · #155 · IR (Rara illustrazione / AR)",
+  "trend": 6.43,
+  "good": 4.5,
+  "super": 3.21
+ },
+ {
+  "dex": 522,
+  "name": "Blitzle",
+  "owned": false,
+  "cheapest": "[JP] シママ · ホワイトフレア · #111 · IR (Rara illustrazione / AR)",
+  "trend": 4.0,
+  "good": 2.8,
+  "super": 2.0
+ },
+ {
+  "dex": 523,
+  "name": "Zebstrika",
+  "owned": false,
+  "cheapest": "[JP] ゼブライカ · ホワイトフレア · #112 · IR (Rara illustrazione / AR)",
+  "trend": 3.49,
+  "good": 2.44,
+  "super": 1.75
+ },
+ {
+  "dex": 524,
+  "name": "Roggenrola",
+  "owned": false,
+  "cheapest": "[JP] ダンゴロ · ホワイトフレア · #125 · IR (Rara illustrazione / AR)",
+  "trend": 3.89,
+  "good": 2.72,
+  "super": 1.95
+ },
+ {
+  "dex": 525,
+  "name": "Boldore",
+  "owned": false,
+  "cheapest": "[JP] ガントル · ホワイトフレア · #126 · IR (Rara illustrazione / AR)",
+  "trend": 3.46,
+  "good": 2.42,
+  "super": 1.73
+ },
+ {
+  "dex": 526,
+  "name": "Gigalith",
+  "owned": false,
+  "cheapest": "[JP] ギガイアス · ホワイトフレア · #127 · IR (Rara illustrazione / AR)",
+  "trend": 4.81,
+  "good": 3.37,
+  "super": 2.4
+ },
+ {
+  "dex": 527,
+  "name": "Woobat",
+  "owned": false,
+  "cheapest": "[JP] コロモリ · ホワイトフレア · #116 · IR (Rara illustrazione / AR)",
+  "trend": 4.35,
+  "good": 3.04,
+  "super": 2.17
+ },
+ {
+  "dex": 528,
+  "name": "Swoobat",
+  "owned": false,
+  "cheapest": "[JP] ココロモリ · ホワイトフレア · #117 · IR (Rara illustrazione / AR)",
+  "trend": 4.34,
+  "good": 3.04,
+  "super": 2.17
+ },
+ {
+  "dex": 529,
+  "name": "Drilbur",
+  "owned": false,
+  "cheapest": "[JP] モグリュー · ブラックボルト · #130 · IR (Rara illustrazione / AR)",
+  "trend": 2.39,
+  "good": 1.67,
+  "super": 1.2
+ },
+ {
+  "dex": 530,
+  "name": "Excadrill",
+  "owned": false,
+  "cheapest": "[JP] ドリュウズex · ブラックボルト · #163 · Full art (SR)",
+  "trend": 0.6,
+  "good": 0.42,
+  "super": 0.3
+ },
+ {
+  "dex": 531,
+  "name": "Audino",
+  "owned": false,
+  "cheapest": "[EN] Mega Audino ex · Ascended Heroes · #253 · Full art (Ultra rara)",
+  "trend": 1.88,
+  "good": 1.32,
+  "super": 0.94
+ },
+ {
+  "dex": 532,
+  "name": "Timburr",
+  "owned": false,
+  "cheapest": "[JP] ドッコラー · 変幻の仮面 · #109 · IR (Rara illustrazione / AR)",
+  "trend": 1.84,
+  "good": 1.29,
+  "super": 0.92
+ },
+ {
+  "dex": 533,
+  "name": "Gurdurr",
+  "owned": false,
+  "cheapest": "[JP] ドテッコツ · ブラックボルト · #132 · IR (Rara illustrazione / AR)",
+  "trend": 4.37,
+  "good": 3.06,
+  "super": 2.19
+ },
+ {
+  "dex": 534,
+  "name": "Conkeldurr",
+  "owned": false,
+  "cheapest": "[EN] Conkeldurr V · Pokémon GO · #073 · Full art (Ultra rara)",
+  "trend": 2.0,
+  "good": 1.4,
+  "super": 1.0
+ },
+ {
+  "dex": 535,
+  "name": "Tympole",
+  "owned": false,
+  "cheapest": "[JP] オタマロ · ブラックボルト · #107 · IR (Rara illustrazione / AR)",
+  "trend": 5.56,
+  "good": 3.89,
+  "super": 2.78
+ },
+ {
+  "dex": 536,
+  "name": "Palpitoad",
+  "owned": false,
+  "cheapest": "[JP] ガマガル · ブラックボルト · #108 · IR (Rara illustrazione / AR)",
+  "trend": 5.9,
+  "good": 4.13,
+  "super": 2.95
+ },
+ {
+  "dex": 537,
+  "name": "Seismitoad",
+  "owned": false,
+  "cheapest": "[EN] Seismitoad EX · Furious Fists · #106 · Full art (Ultra rara)",
+  "trend": 4.64,
+  "good": 3.25,
+  "super": 2.32
+ },
+ {
+  "dex": 538,
+  "name": "Throh",
+  "owned": false,
+  "cheapest": "[JP] ナゲキ · ブラックボルト · #134 · IR (Rara illustrazione / AR)",
+  "trend": 2.81,
+  "good": 1.97,
+  "super": 1.41
+ },
+ {
+  "dex": 539,
+  "name": "Sawk",
+  "owned": false,
+  "cheapest": "[JP] ダゲキ · ホワイトフレア · #128 · IR (Rara illustrazione / AR)",
+  "trend": 2.68,
+  "good": 1.88,
+  "super": 1.34
+ },
+ {
+  "dex": 540,
+  "name": "Sewaddle",
+  "owned": false,
+  "cheapest": "[JP] クルミル · ホワイトフレア · #087 · IR (Rara illustrazione / AR)",
+  "trend": 7.79,
+  "good": 5.45,
+  "super": 3.9
+ },
+ {
+  "dex": 541,
+  "name": "Swadloon",
+  "owned": false,
+  "cheapest": "[JP] クルマユ · ホワイトフレア · #088 · IR (Rara illustrazione / AR)",
+  "trend": 5.41,
+  "good": 3.79,
+  "super": 2.71
+ },
+ {
+  "dex": 542,
+  "name": "Leavanny",
+  "owned": false,
+  "cheapest": "[JP] ハハコモリ · ホワイトフレア · #089 · IR (Rara illustrazione / AR)",
+  "trend": 8.27,
+  "good": 5.79,
+  "super": 4.13
+ },
+ {
+  "dex": 543,
+  "name": "Venipede",
+  "owned": false,
+  "cheapest": "[JP] フシデ · ブラックボルト · #138 · IR (Rara illustrazione / AR)",
+  "trend": 4.91,
+  "good": 3.44,
+  "super": 2.46
+ },
+ {
+  "dex": 544,
+  "name": "Whirlipede",
+  "owned": false,
+  "cheapest": "[JP] ホイーガ · ブラックボルト · #139 · IR (Rara illustrazione / AR)",
+  "trend": 3.48,
+  "good": 2.44,
+  "super": 1.74
+ },
+ {
+  "dex": 545,
+  "name": "Scolipede",
+  "owned": false,
+  "cheapest": "[JP] ペンドラー · ブラックボルト · #140 · IR (Rara illustrazione / AR)",
+  "trend": 6.85,
+  "good": 4.79,
+  "super": 3.42
+ },
+ {
+  "dex": 546,
+  "name": "Cottonee",
+  "owned": false,
+  "cheapest": "[JP] モンメン · ホワイトフレア · #090 · IR (Rara illustrazione / AR)",
+  "trend": 3.82,
+  "good": 2.67,
+  "super": 1.91
+ },
+ {
+  "dex": 547,
+  "name": "Whimsicott",
+  "owned": false,
+  "cheapest": "[JP] エルフーンex · ホワイトフレア · #159 · Full art (SR)",
+  "trend": 0.87,
+  "good": 0.61,
+  "super": 0.43
+ },
+ {
+  "dex": 548,
+  "name": "Petilil",
+  "owned": false,
+  "cheapest": "[JP] チュリネ · ブラックボルト · #091 · IR (Rara illustrazione / AR)",
+  "trend": 9.68,
+  "good": 6.78,
+  "super": 4.84
+ },
+ {
+  "dex": 549,
+  "name": "Lilligant",
+  "owned": false,
+  "cheapest": "[EN] Hisuian Lilligant V · Astral Radiance · #162 · Full art (Ultra rara)",
+  "trend": 3.07,
+  "good": 2.15,
+  "super": 1.53
+ },
+ {
+  "dex": 550,
+  "name": "Basculin",
+  "owned": false,
+  "cheapest": "[JP] バスラオ · ホワイトフレア · #105 · IR (Rara illustrazione / AR)",
+  "trend": 3.81,
+  "good": 2.67,
+  "super": 1.91
+ },
+ {
+  "dex": 551,
+  "name": "Sandile",
+  "owned": false,
+  "cheapest": "[EN] Sandile · Scarlet & Violet · #216 · IR (Rara illustrazione / AR)",
+  "trend": 4.19,
+  "good": 2.93,
+  "super": 2.1
+ },
+ {
+  "dex": 552,
+  "name": "Krokorok",
+  "owned": false,
+  "cheapest": "[JP] ワルビル · ブラックボルト · #142 · IR (Rara illustrazione / AR)",
+  "trend": 3.48,
+  "good": 2.44,
+  "super": 1.74
+ },
+ {
+  "dex": 553,
+  "name": "Krookodile",
+  "owned": false,
+  "cheapest": "[JP] ワルビアル · ブラックボルト · #143 · IR (Rara illustrazione / AR)",
+  "trend": 7.83,
+  "good": 5.48,
+  "super": 3.92
+ },
+ {
+  "dex": 554,
+  "name": "Darumaka",
+  "owned": false,
+  "cheapest": "[JP] ダルマッカ · ブラックボルト · #098 · IR (Rara illustrazione / AR)",
+  "trend": 4.63,
+  "good": 3.24,
+  "super": 2.31
+ },
+ {
+  "dex": 555,
+  "name": "Darmanitan",
+  "owned": false,
+  "cheapest": "[EN] Galarian Darmanitan V · Vivid Voltage · #169 · Full art (Ultra rara)",
+  "trend": 0.89,
+  "good": 0.62,
+  "super": 0.45
+ },
+ {
+  "dex": 556,
+  "name": "Maractus",
+  "owned": false,
+  "cheapest": "[EN] Maractus · Journey Together · #160 · IR (Rara illustrazione / AR)",
+  "trend": 1.56,
+  "good": 1.09,
+  "super": 0.78
+ },
+ {
+  "dex": 557,
+  "name": "Dwebble",
+  "owned": false,
+  "cheapest": "[JP] イシズマイ · ブラックボルト · #135 · IR (Rara illustrazione / AR)",
+  "trend": 14.26,
+  "good": 9.98,
+  "super": 7.13
+ },
+ {
+  "dex": 558,
+  "name": "Crustle",
+  "owned": false,
+  "cheapest": "[EN] Crustle · Destined Rivals · #186 · IR (Rara illustrazione / AR)",
+  "trend": 2.23,
+  "good": 1.56,
+  "super": 1.11
+ },
+ {
+  "dex": 559,
+  "name": "Scraggy",
+  "owned": false,
+  "cheapest": "[JP] ズルッグ · 30th CELEBRATION · #116 · IR (Rara illustrazione / AR)",
+  "trend": 0.65,
+  "good": 0.45,
+  "super": 0.33
+ },
+ {
+  "dex": 560,
+  "name": "Scrafty",
+  "owned": false,
+  "cheapest": "[JP] メガズルズキンex · MEGAドリームex · #231 · Full art (SR)",
+  "trend": 2.83,
+  "good": 1.98,
+  "super": 1.42
+ },
+ {
+  "dex": 561,
+  "name": "Sigilyph",
+  "owned": false,
+  "cheapest": "[JP] シンボラーGX · フェアリーライズ · #052 · Full art (SR)",
+  "trend": 4.0,
+  "good": 2.8,
+  "super": 2.0
+ },
+ {
+  "dex": 562,
+  "name": "Yamask",
+  "owned": false,
+  "cheapest": "[JP] デスマス · ホワイトフレア · #119 · IR (Rara illustrazione / AR)",
+  "trend": 3.92,
+  "good": 2.74,
+  "super": 1.96
+ },
+ {
+  "dex": 563,
+  "name": "Cofagrigus",
+  "owned": false,
+  "cheapest": "[EN] Cofagrigus ex · Paradox Rift · #224 · Full art (Ultra rara)",
+  "trend": 1.85,
+  "good": 1.29,
+  "super": 0.93
+ },
+ {
+  "dex": 564,
+  "name": "Tirtouga",
+  "owned": false,
+  "cheapest": "[JP] プロトーガ · ブラックボルト · #110 · IR (Rara illustrazione / AR)",
+  "trend": 9.1,
+  "good": 6.37,
+  "super": 4.55
+ },
+ {
+  "dex": 565,
+  "name": "Carracosta",
+  "owned": false,
+  "cheapest": "[JP] アバゴーラ · ブラックボルト · #111 · IR (Rara illustrazione / AR)",
+  "trend": 4.13,
+  "good": 2.89,
+  "super": 2.06
+ },
+ {
+  "dex": 566,
+  "name": "Archen",
+  "owned": false,
+  "cheapest": "[JP] アーケン · ホワイトフレア · #129 · IR (Rara illustrazione / AR)",
+  "trend": 4.0,
+  "good": 2.8,
+  "super": 2.0
+ },
+ {
+  "dex": 567,
+  "name": "Archeops",
+  "owned": false,
+  "cheapest": "[JP] アーケオス · ホワイトフレア · #130 · IR (Rara illustrazione / AR)",
+  "trend": 5.39,
+  "good": 3.77,
+  "super": 2.69
+ },
+ {
+  "dex": 568,
+  "name": "Trubbish",
+  "owned": false,
+  "cheapest": "[JP] ヤブクロン · ホワイトフレア · #138 · IR (Rara illustrazione / AR)",
+  "trend": 4.36,
+  "good": 3.05,
+  "super": 2.18
+ },
+ {
+  "dex": 569,
+  "name": "Garbodor",
+  "owned": false,
+  "cheapest": "[JP] ダストダスV · 摩天パーフェクト · #072 · Full art (SR)",
+  "trend": 2.45,
+  "good": 1.72,
+  "super": 1.23
+ },
+ {
+  "dex": 570,
+  "name": "Zorua",
+  "owned": false,
+  "cheapest": "[JP] ヒスイ ゾロア · 30th CELEBRATION · #122 · IR (Rara illustrazione / AR)",
+  "trend": 1.64,
+  "good": 1.15,
+  "super": 0.82
+ },
+ {
+  "dex": 571,
+  "name": "Zoroark",
+  "owned": false,
+  "cheapest": "[JP] ゾロアークGX · ひかる伝説 · #076 · Full art (SR)",
+  "trend": 2.0,
+  "good": 1.4,
+  "super": 1.0
+ },
+ {
+  "dex": 572,
+  "name": "Minccino",
+  "owned": false,
+  "cheapest": "[JP] チラーミィ · ワイルドフォース · #082 · IR (Rara illustrazione / AR)",
+  "trend": 5.78,
+  "good": 4.05,
+  "super": 2.89
+ },
+ {
+  "dex": 573,
+  "name": "Cinccino",
+  "owned": false,
+  "cheapest": "[JP] チラチーノex · ニンジャスピナー · #103 · Full art (SR)",
+  "trend": 2.9,
+  "good": 2.03,
+  "super": 1.45
+ },
+ {
+  "dex": 574,
+  "name": "Gothita",
+  "owned": false,
+  "cheapest": "[JP] ゴチム · ホワイトフレア · #121 · IR (Rara illustrazione / AR)",
+  "trend": 9.12,
+  "good": 6.38,
+  "super": 4.56
+ },
+ {
+  "dex": 575,
+  "name": "Gothorita",
+  "owned": false,
+  "cheapest": "[JP] ゴチミル · ホワイトフレア · #122 · IR (Rara illustrazione / AR)",
+  "trend": 5.29,
+  "good": 3.7,
+  "super": 2.65
+ },
+ {
+  "dex": 576,
+  "name": "Gothitelle",
+  "owned": false,
+  "cheapest": "[JP] ゴチルゼル · ホワイトフレア · #123 · IR (Rara illustrazione / AR)",
+  "trend": 3.18,
+  "good": 2.23,
+  "super": 1.59
+ },
+ {
+  "dex": 577,
+  "name": "Solosis",
+  "owned": false,
+  "cheapest": "[JP] ユニラン · ブラックボルト · #123 · IR (Rara illustrazione / AR)",
+  "trend": 14.48,
+  "good": 10.14,
+  "super": 7.24
+ },
+ {
+  "dex": 578,
+  "name": "Duosion",
+  "owned": false,
+  "cheapest": "[JP] ダブラン · ブラックボルト · #124 · IR (Rara illustrazione / AR)",
+  "trend": 6.71,
+  "good": 4.7,
+  "super": 3.35
+ },
+ {
+  "dex": 579,
+  "name": "Reuniclus",
+  "owned": false,
+  "cheapest": "[JP] ランクルス · ワイルドフォース · #075 · IR (Rara illustrazione / AR)",
+  "trend": 2.64,
+  "good": 1.85,
+  "super": 1.32
+ },
+ {
+  "dex": 580,
+  "name": "Ducklett",
+  "owned": false,
+  "cheapest": "[JP] コアルヒー · ホワイトフレア · #106 · IR (Rara illustrazione / AR)",
+  "trend": 9.19,
+  "good": 6.43,
+  "super": 4.59
+ },
+ {
+  "dex": 581,
+  "name": "Swanna",
+  "owned": false,
+  "cheapest": "[JP] スワンナ · ホワイトフレア · #107 · IR (Rara illustrazione / AR)",
+  "trend": 6.65,
+  "good": 4.66,
+  "super": 3.33
+ },
+ {
+  "dex": 582,
+  "name": "Vanillite",
+  "owned": false,
+  "cheapest": "[JP] バニプッチ · ホワイトフレア · #108 · IR (Rara illustrazione / AR)",
+  "trend": 6.26,
+  "good": 4.38,
+  "super": 3.13
+ },
+ {
+  "dex": 583,
+  "name": "Vanillish",
+  "owned": false,
+  "cheapest": "[JP] バニリッチ · ホワイトフレア · #109 · IR (Rara illustrazione / AR)",
+  "trend": 4.55,
+  "good": 3.18,
+  "super": 2.27
+ },
+ {
+  "dex": 584,
+  "name": "Vanilluxe",
+  "owned": false,
+  "cheapest": "[JP] バイバニラ · ホワイトフレア · #110 · IR (Rara illustrazione / AR)",
+  "trend": 6.32,
+  "good": 4.42,
+  "super": 3.16
+ },
+ {
+  "dex": 585,
+  "name": "Deerling",
+  "owned": false,
+  "cheapest": "[JP] シキジカ · ホワイトフレア · #091 · IR (Rara illustrazione / AR)",
+  "trend": 9.61,
+  "good": 6.73,
+  "super": 4.8
+ },
+ {
+  "dex": 586,
+  "name": "Sawsbuck",
+  "owned": false,
+  "cheapest": "[JP] メブキジカ · ホワイトフレア · #092 · IR (Rara illustrazione / AR)",
+  "trend": 7.99,
+  "good": 5.59,
+  "super": 4.0
+ },
+ {
+  "dex": 587,
+  "name": "Emolga",
+  "owned": false,
+  "cheapest": "[EN] Emolga EX · XY · #143 · Full art (Ultra rara)",
+  "trend": 6.61,
+  "good": 4.63,
+  "super": 3.31
+ },
+ {
+  "dex": 588,
+  "name": "Karrablast",
+  "owned": false,
+  "cheapest": "[JP] カブルモ · ブラックボルト · #094 · IR (Rara illustrazione / AR)",
+  "trend": 9.17,
+  "good": 6.42,
+  "super": 4.58
+ },
+ {
+  "dex": 589,
+  "name": "Escavalier",
+  "owned": false,
+  "cheapest": "[JP] シュバルゴ · ブラックボルト · #146 · IR (Rara illustrazione / AR)",
+  "trend": 3.92,
+  "good": 2.74,
+  "super": 1.96
+ },
+ {
+  "dex": 590,
+  "name": "Foongus",
+  "owned": false,
+  "cheapest": "[JP] タマゲタケ · ブラックボルト · #095 · IR (Rara illustrazione / AR)",
+  "trend": 7.62,
+  "good": 5.33,
+  "super": 3.81
+ },
+ {
+  "dex": 591,
+  "name": "Amoonguss",
+  "owned": false,
+  "cheapest": "[JP] モロバレル · ブラックボルト · #096 · IR (Rara illustrazione / AR)",
+  "trend": 7.5,
+  "good": 5.25,
+  "super": 3.75
+ },
+ {
+  "dex": 592,
+  "name": "Frillish",
+  "owned": false,
+  "cheapest": "[JP] プルリル · ホワイトフレア · #124 · IR (Rara illustrazione / AR)",
+  "trend": 6.74,
+  "good": 4.72,
+  "super": 3.37
+ },
+ {
+  "dex": 593,
+  "name": "Jellicent",
+  "owned": false,
+  "cheapest": "[JP] ブルンゲルex · ホワイトフレア · #162 · Full art (SR)",
+  "trend": 0.61,
+  "good": 0.43,
+  "super": 0.3
+ },
+ {
+  "dex": 594,
+  "name": "Alomomola",
+  "owned": false,
+  "cheapest": "[JP] ママンボウ · ブラックボルト · #112 · IR (Rara illustrazione / AR)",
+  "trend": 4.48,
+  "good": 3.14,
+  "super": 2.24
+ },
+ {
+  "dex": 595,
+  "name": "Joltik",
+  "owned": false,
+  "cheapest": "[EN] Joltik · Stellar Crown · #150 · IR (Rara illustrazione / AR)",
+  "trend": 4.13,
+  "good": 2.89,
+  "super": 2.06
+ },
+ {
+  "dex": 596,
+  "name": "Galvantula",
+  "owned": false,
+  "cheapest": "[EN] Galvantula ex · Stellar Crown · #159 · Full art (Ultra rara)",
+  "trend": 1.78,
+  "good": 1.25,
+  "super": 0.89
+ },
+ {
+  "dex": 597,
+  "name": "Ferroseed",
+  "owned": false,
+  "cheapest": "[JP] テッシード · ホワイトフレア · #144 · IR (Rara illustrazione / AR)",
+  "trend": 5.6,
+  "good": 3.92,
+  "super": 2.8
+ },
+ {
+  "dex": 598,
+  "name": "Ferrothorn",
+  "owned": false,
+  "cheapest": "[EN] Ferrothorn · Paradox Rift · #209 · IR (Rara illustrazione / AR)",
+  "trend": 3.82,
+  "good": 2.67,
+  "super": 1.91
+ },
+ {
+  "dex": 599,
+  "name": "Klink",
+  "owned": false,
+  "cheapest": "[JP] ギアル · ホワイトフレア · #146 · IR (Rara illustrazione / AR)",
+  "trend": 3.21,
+  "good": 2.25,
+  "super": 1.6
+ },
+ {
+  "dex": 600,
+  "name": "Klang",
+  "owned": false,
+  "cheapest": "[JP] ギギアル · ホワイトフレア · #147 · IR (Rara illustrazione / AR)",
+  "trend": 2.95,
+  "good": 2.06,
+  "super": 1.48
+ },
+ {
+  "dex": 601,
+  "name": "Klinklang",
+  "owned": false,
+  "cheapest": "[JP] ギギギアル · ホワイトフレア · #148 · IR (Rara illustrazione / AR)",
+  "trend": 3.47,
+  "good": 2.43,
+  "super": 1.74
+ },
+ {
+  "dex": 602,
+  "name": "Tynamo",
+  "owned": false,
+  "cheapest": "[JP] シビシラス · ブラックボルト · #117 · IR (Rara illustrazione / AR)",
+  "trend": 6.27,
+  "good": 4.39,
+  "super": 3.13
+ },
+ {
+  "dex": 603,
+  "name": "Eelektrik",
+  "owned": false,
+  "cheapest": "[JP] シビビール · ブラックボルト · #118 · IR (Rara illustrazione / AR)",
+  "trend": 2.55,
+  "good": 1.78,
+  "super": 1.27
+ },
+ {
+  "dex": 604,
+  "name": "Eelektross",
+  "owned": false,
+  "cheapest": "[JP] メガシビルドンex · MEGAドリームex · #225 · Full art (SR)",
+  "trend": 2.76,
+  "good": 1.93,
+  "super": 1.38
+ },
+ {
+  "dex": 605,
+  "name": "Elgyem",
+  "owned": false,
+  "cheapest": "[JP] リグレー · ブラックボルト · #126 · IR (Rara illustrazione / AR)",
+  "trend": 4.28,
+  "good": 3.0,
+  "super": 2.14
+ },
+ {
+  "dex": 606,
+  "name": "Beheeyem",
+  "owned": false,
+  "cheapest": "[JP] オーベム · ブラックボルト · #127 · IR (Rara illustrazione / AR)",
+  "trend": 3.02,
+  "good": 2.11,
+  "super": 1.51
+ },
+ {
+  "dex": 607,
+  "name": "Litwick",
+  "owned": false,
+  "cheapest": "[JP] ヒトモシ · ブラックボルト · #100 · IR (Rara illustrazione / AR)",
+  "trend": 11.35,
+  "good": 7.94,
+  "super": 5.67
+ },
+ {
+  "dex": 608,
+  "name": "Lampent",
+  "owned": false,
+  "cheapest": "[JP] ランプラー · ブラックボルト · #101 · IR (Rara illustrazione / AR)",
+  "trend": 8.47,
+  "good": 5.93,
+  "super": 4.24
+ },
+ {
+  "dex": 609,
+  "name": "Chandelure",
+  "owned": false,
+  "cheapest": "[JP] シャンデラ · 30th CELEBRATION · #112 · IR (Rara illustrazione / AR)",
+  "trend": 0.92,
+  "good": 0.64,
+  "super": 0.46
+ },
+ {
+  "dex": 610,
+  "name": "Axew",
+  "owned": false,
+  "cheapest": "[JP] キバゴ · ブラックボルト · #150 · IR (Rara illustrazione / AR)",
+  "trend": 8.76,
+  "good": 6.13,
+  "super": 4.38
+ },
+ {
+  "dex": 611,
+  "name": "Fraxure",
+  "owned": false,
+  "cheapest": "[JP] オノンド · ナイトワンダラー · #074 · IR (Rara illustrazione / AR)",
+  "trend": 2.08,
+  "good": 1.46,
+  "super": 1.04
+ },
+ {
+  "dex": 612,
+  "name": "Haxorus",
+  "owned": false,
+  "cheapest": "[JP] オノノクス · ブラックボルト · #152 · IR (Rara illustrazione / AR)",
+  "trend": 10.9,
+  "good": 7.63,
+  "super": 5.45
+ },
+ {
+  "dex": 613,
+  "name": "Cubchoo",
+  "owned": false,
+  "cheapest": "[JP] クマシュン · ブラックボルト · #113 · IR (Rara illustrazione / AR)",
+  "trend": 5.56,
+  "good": 3.89,
+  "super": 2.78
+ },
+ {
+  "dex": 614,
+  "name": "Beartic",
+  "owned": false,
+  "cheapest": "[JP] ツンベアー · ブラックボルト · #114 · IR (Rara illustrazione / AR)",
+  "trend": 3.79,
+  "good": 2.65,
+  "super": 1.9
+ },
+ {
+  "dex": 615,
+  "name": "Cryogonal",
+  "owned": false,
+  "cheapest": "[JP] フリージオ · ブラックボルト · #115 · IR (Rara illustrazione / AR)",
+  "trend": 3.67,
+  "good": 2.57,
+  "super": 1.83
+ },
+ {
+  "dex": 616,
+  "name": "Shelmet",
+  "owned": false,
+  "cheapest": "[JP] チョボマキ · ホワイトフレア · #093 · IR (Rara illustrazione / AR)",
+  "trend": 2.82,
+  "good": 1.97,
+  "super": 1.41
+ },
+ {
+  "dex": 617,
+  "name": "Accelgor",
+  "owned": false,
+  "cheapest": "[JP] アギルダー · ホワイトフレア · #094 · IR (Rara illustrazione / AR)",
+  "trend": 4.42,
+  "good": 3.09,
+  "super": 2.21
+ },
+ {
+  "dex": 618,
+  "name": "Stunfisk",
+  "owned": false,
+  "cheapest": "[EN] Stunfisk ex · Ascended Heroes · #252 · Full art (Ultra rara)",
+  "trend": 0.64,
+  "good": 0.45,
+  "super": 0.32
+ },
+ {
+  "dex": 619,
+  "name": "Mienfoo",
+  "owned": false,
+  "cheapest": "[JP] コジョフー · ホワイトフレア · #131 · IR (Rara illustrazione / AR)",
+  "trend": 4.93,
+  "good": 3.45,
+  "super": 2.46
+ },
+ {
+  "dex": 620,
+  "name": "Mienshao",
+  "owned": false,
+  "cheapest": "[JP] コジョンド · ホワイトフレア · #132 · IR (Rara illustrazione / AR)",
+  "trend": 4.66,
+  "good": 3.26,
+  "super": 2.33
+ },
+ {
+  "dex": 621,
+  "name": "Druddigon",
+  "owned": false,
+  "cheapest": "[EN] Druddigon · Silver Tempest Trainer Gallery · #TG09 · Trainer Gallery (TG)",
+  "trend": 3.5,
+  "good": 2.45,
+  "super": 1.75
+ },
+ {
+  "dex": 622,
+  "name": "Golett",
+  "owned": false,
+  "cheapest": "[JP] ゴビット · ブラックボルト · #128 · IR (Rara illustrazione / AR)",
+  "trend": 3.92,
+  "good": 2.74,
+  "super": 1.96
+ },
+ {
+  "dex": 623,
+  "name": "Golurk",
+  "owned": false,
+  "cheapest": "[JP] メガゴルーグex · ストームエメラルダ · #093 · Rara iper Mega",
+  "trend": 3.4,
+  "good": 2.38,
+  "super": 1.7
+ },
+ {
+  "dex": 624,
+  "name": "Pawniard",
+  "owned": false,
+  "cheapest": "[JP] コマタナ · ブラックボルト · #147 · IR (Rara illustrazione / AR)",
+  "trend": 3.07,
+  "good": 2.15,
+  "super": 1.53
+ },
+ {
+  "dex": 625,
+  "name": "Bisharp",
+  "owned": false,
+  "cheapest": "[JP] キリキザン · ブラックボルト · #148 · IR (Rara illustrazione / AR)",
+  "trend": 3.83,
+  "good": 2.68,
+  "super": 1.92
+ },
+ {
+  "dex": 626,
+  "name": "Bouffalant",
+  "owned": false,
+  "cheapest": "[JP] バッフロンex · ホワイトフレア · #164 · Full art (SR)",
+  "trend": 0.74,
+  "good": 0.52,
+  "super": 0.37
+ },
+ {
+  "dex": 627,
+  "name": "Rufflet",
+  "owned": false,
+  "cheapest": "[JP] ワシボン · ホワイトフレア · #156 · IR (Rara illustrazione / AR)",
+  "trend": 3.28,
+  "good": 2.3,
+  "super": 1.64
+ },
+ {
+  "dex": 628,
+  "name": "Braviary",
+  "owned": false,
+  "cheapest": "[JP] ウォーグル · ホワイトフレア · #157 · IR (Rara illustrazione / AR)",
+  "trend": 3.93,
+  "good": 2.75,
+  "super": 1.97
+ },
+ {
+  "dex": 629,
+  "name": "Vullaby",
+  "owned": false,
+  "cheapest": "[JP] バルチャイ · ブラックボルト · #144 · IR (Rara illustrazione / AR)",
+  "trend": 3.34,
+  "good": 2.34,
+  "super": 1.67
+ },
+ {
+  "dex": 630,
+  "name": "Mandibuzz",
+  "owned": false,
+  "cheapest": "[JP] バルジーナ · ブラックボルト · #145 · IR (Rara illustrazione / AR)",
+  "trend": 3.78,
+  "good": 2.65,
+  "super": 1.89
+ },
+ {
+  "dex": 631,
+  "name": "Heatmor",
+  "owned": false,
+  "cheapest": "[JP] クイタラン · ホワイトフレア · #101 · IR (Rara illustrazione / AR)",
+  "trend": 3.11,
+  "good": 2.18,
+  "super": 1.55
+ },
+ {
+  "dex": 632,
+  "name": "Durant",
+  "owned": false,
+  "cheapest": "[JP] アイアントex · 超電ブレイカー · #119 · Full art (SR)",
+  "trend": 0.86,
+  "good": 0.6,
+  "super": 0.43
+ },
+ {
+  "dex": 633,
+  "name": "Deino",
+  "owned": false,
+  "cheapest": "[JP] モノズ · ホワイトフレア · #142 · IR (Rara illustrazione / AR)",
+  "trend": 6.99,
+  "good": 4.89,
+  "super": 3.5
+ },
+ {
+  "dex": 634,
+  "name": "Zweilous",
+  "owned": false,
+  "cheapest": "[JP] ジヘッド · ホワイトフレア · #143 · IR (Rara illustrazione / AR)",
+  "trend": 4.14,
+  "good": 2.9,
+  "super": 2.07
+ },
+ {
+  "dex": 635,
+  "name": "Hydreigon",
+  "owned": false,
+  "cheapest": "[JP] サザンドラex · ホワイトフレア · #163 · Full art (SR)",
+  "trend": 1.02,
+  "good": 0.71,
+  "super": 0.51
+ },
+ {
+  "dex": 636,
+  "name": "Larvesta",
+  "owned": false,
+  "cheapest": "[JP] メラルバ · 超電ブレイカー · #108 · IR (Rara illustrazione / AR)",
+  "trend": 1.34,
+  "good": 0.94,
+  "super": 0.67
+ },
+ {
+  "dex": 637,
+  "name": "Volcarona",
+  "owned": false,
+  "cheapest": "[JP] ウルガモスGX · オルタージェネシス · #096 · Full art (SR)",
+  "trend": 4.12,
+  "good": 2.88,
+  "super": 2.06
+ },
+ {
+  "dex": 638,
+  "name": "Cobalion",
+  "owned": false,
+  "cheapest": "[EN] Cobalion ex · Chaos Rising · #103 · Full art (Ultra rara)",
+  "trend": 1.72,
+  "good": 1.2,
+  "super": 0.86
+ },
+ {
+  "dex": 639,
+  "name": "Terrakion",
+  "owned": false,
+  "cheapest": "[JP] テラキオン · ホワイトフレア · #133 · IR (Rara illustrazione / AR)",
+  "trend": 4.47,
+  "good": 3.13,
+  "super": 2.23
+ },
+ {
+  "dex": 640,
+  "name": "Virizion",
+  "owned": false,
+  "cheapest": "[EN] Virizion V · Astral Radiance · #164 · Full art (Ultra rara)",
+  "trend": 2.98,
+  "good": 2.09,
+  "super": 1.49
+ },
+ {
+  "dex": 641,
+  "name": "Tornadus",
+  "owned": false,
+  "cheapest": "[JP] トルネロス · ホワイトフレア · #158 · IR (Rara illustrazione / AR)",
+  "trend": 2.12,
+  "good": 1.48,
+  "super": 1.06
+ },
+ {
+  "dex": 642,
+  "name": "Thundurus",
+  "owned": false,
+  "cheapest": "[JP] ボルトロス · ブラックボルト · #120 · IR (Rara illustrazione / AR)",
+  "trend": 2.24,
+  "good": 1.57,
+  "super": 1.12
+ },
+ {
+  "dex": 643,
+  "name": "Reshiram",
+  "owned": false,
+  "cheapest": "[JP] レシラムex · ホワイトフレア · #160 · Full art (SR)",
+  "trend": 2.19,
+  "good": 1.53,
+  "super": 1.09
+ },
+ {
+  "dex": 644,
+  "name": "Zekrom",
+  "owned": false,
+  "cheapest": "[JP] ゼクロムex · ブラックボルト · #161 · Full art (SR)",
+  "trend": 2.37,
+  "good": 1.66,
+  "super": 1.19
+ },
+ {
+  "dex": 645,
+  "name": "Landorus",
+  "owned": false,
+  "cheapest": "[JP] ランドロス · ブラックボルト · #137 · IR (Rara illustrazione / AR)",
+  "trend": 4.25,
+  "good": 2.97,
+  "super": 2.12
+ },
+ {
+  "dex": 646,
+  "name": "Kyurem",
+  "owned": false,
+  "cheapest": "[EN] Kyurem ex · Black Bolt · #157 · Full art (Ultra rara)",
+  "trend": 1.53,
+  "good": 1.07,
+  "super": 0.77
+ },
+ {
+  "dex": 647,
+  "name": "Keldeo",
+  "owned": false,
+  "cheapest": "[JP] ケルディオex · ホワイトフレア · #161 · Full art (SR)",
+  "trend": 0.84,
+  "good": 0.59,
+  "super": 0.42
+ },
+ {
+  "dex": 648,
+  "name": "Meloetta",
+  "owned": false,
+  "cheapest": "[JP] メロエッタex · ブラックボルト · #162 · Full art (SR)",
+  "trend": 0.78,
+  "good": 0.55,
+  "super": 0.39
+ },
+ {
+  "dex": 649,
+  "name": "Genesect",
+  "owned": false,
+  "cheapest": "[JP] ゲノセクトex · ブラックボルト · #164 · Full art (SR)",
+  "trend": 1.1,
+  "good": 0.77,
+  "super": 0.55
+ },
+ {
+  "dex": 650,
+  "name": "Chespin",
+  "owned": false,
+  "cheapest": "[JP] ハリマロン · ニンジャスピナー · #084 · IR (Rara illustrazione / AR)",
+  "trend": 2.4,
+  "good": 1.68,
+  "super": 1.2
+ },
+ {
+  "dex": 651,
+  "name": "Quilladin",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 652,
+  "name": "Chesnaught",
+  "owned": false,
+  "cheapest": "[EN] Chesnaught V · Silver Tempest · #171 · Full art (Ultra rara)",
+  "trend": 2.49,
+  "good": 1.74,
+  "super": 1.25
+ },
+ {
+  "dex": 653,
+  "name": "Fennekin",
+  "owned": false,
+  "cheapest": "[JP] フォッコ · ニンジャスピナー · #085 · IR (Rara illustrazione / AR)",
+  "trend": 1.84,
+  "good": 1.29,
+  "super": 0.92
+ },
+ {
+  "dex": 654,
+  "name": "Braixen",
+  "owned": false,
+  "cheapest": "[EN] Braixen · Silver Tempest Trainer Gallery · #TG01 · Trainer Gallery (TG)",
+  "trend": 4.23,
+  "good": 2.96,
+  "super": 2.12
+ },
+ {
+  "dex": 655,
+  "name": "Delphox",
+  "owned": false,
+  "cheapest": "[JP] マフォクシーV · ロストアビス · #101 · Full art (SR)",
+  "trend": 1.51,
+  "good": 1.06,
+  "super": 0.76
+ },
+ {
+  "dex": 656,
+  "name": "Froakie",
+  "owned": false,
+  "cheapest": "[JP] ケロマツ · ニンジャスピナー · #086 · IR (Rara illustrazione / AR)",
+  "trend": 4.09,
+  "good": 2.86,
+  "super": 2.04
+ },
+ {
+  "dex": 657,
+  "name": "Frogadier",
+  "owned": false,
+  "cheapest": "[JP] ゲコガシラ · ニンジャスピナー · #087 · IR (Rara illustrazione / AR)",
+  "trend": 4.05,
+  "good": 2.83,
+  "super": 2.02
+ },
+ {
+  "dex": 658,
+  "name": "Greninja",
+  "owned": false,
+  "cheapest": "[JP] ゲッコウガex · 30th CELEBRATION · #125 · SIR (Rara illustrazione speciale / SAR)",
+  "trend": 5.61,
+  "good": 3.93,
+  "super": 2.81
+ },
+ {
+  "dex": 659,
+  "name": "Bunnelby",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 660,
+  "name": "Diggersby",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 661,
+  "name": "Fletchling",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 662,
+  "name": "Fletchinder",
+  "owned": false,
+  "cheapest": "[EN] Fletchinder · Paldea Evolved · #199 · IR (Rara illustrazione / AR)",
+  "trend": 12.9,
+  "good": 9.03,
+  "super": 6.45
+ },
+ {
+  "dex": 663,
+  "name": "Talonflame",
+  "owned": false,
+  "cheapest": "[JP] ファイアロー · ムニキスゼロ · #083 · IR (Rara illustrazione / AR)",
+  "trend": 1.45,
+  "good": 1.01,
+  "super": 0.72
+ },
+ {
+  "dex": 664,
+  "name": "Scatterbug",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 665,
+  "name": "Spewpa",
+  "owned": false,
+  "cheapest": "[JP] コフーライ · ムニキスゼロ · #081 · IR (Rara illustrazione / AR)",
+  "trend": 1.33,
+  "good": 0.93,
+  "super": 0.67
+ },
+ {
+  "dex": 666,
+  "name": "Vivillon",
+  "owned": false,
+  "cheapest": "[JP] ビビヨン · 超電ブレイカー · #107 · IR (Rara illustrazione / AR)",
+  "trend": 1.67,
+  "good": 1.17,
+  "super": 0.83
+ },
+ {
+  "dex": 667,
+  "name": "Litleo",
+  "owned": false,
+  "cheapest": "[JP] シシコ · メガシンフォニア · #066 · IR (Rara illustrazione / AR)",
+  "trend": 1.52,
+  "good": 1.06,
+  "super": 0.76
+ },
+ {
+  "dex": 668,
+  "name": "Pyroar",
+  "owned": false,
+  "cheapest": "[JP] メガカエンジシex · ニンジャスピナー · #097 · Full art (SR)",
+  "trend": 2.67,
+  "good": 1.87,
+  "super": 1.33
+ },
+ {
+  "dex": 669,
+  "name": "Flabébé",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 670,
+  "name": "Floette",
+  "owned": false,
+  "cheapest": "[JP] メガフラエッテex · ニンジャスピナー · #099 · Full art (SR)",
+  "trend": 3.13,
+  "good": 2.19,
+  "super": 1.56
+ },
+ {
+  "dex": 671,
+  "name": "Florges",
+  "owned": false,
+  "cheapest": "[EN] Florges EX · Phantom Forces · #116 · Full art (Ultra rara)",
+  "trend": 6.61,
+  "good": 4.63,
+  "super": 3.31
+ },
+ {
+  "dex": 672,
+  "name": "Skiddo",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 673,
+  "name": "Gogoat",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 674,
+  "name": "Pancham",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 675,
+  "name": "Pangoro",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 676,
+  "name": "Furfrou",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 677,
+  "name": "Espurr",
+  "owned": false,
+  "cheapest": "[JP] ニャスパー · ムニキスゼロ · #087 · IR (Rara illustrazione / AR)",
+  "trend": 2.14,
+  "good": 1.5,
+  "super": 1.07
+ },
+ {
+  "dex": 678,
+  "name": "Meowstic",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 679,
+  "name": "Honedge",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 680,
+  "name": "Doublade",
+  "owned": false,
+  "cheapest": "[JP] ニダンギル · ムニキスゼロ · #091 · IR (Rara illustrazione / AR)",
+  "trend": 1.91,
+  "good": 1.34,
+  "super": 0.95
+ },
+ {
+  "dex": 681,
+  "name": "Aegislash",
+  "owned": false,
+  "cheapest": "[EN] Aegislash ex · Paradox Rift · #230 · Full art (Ultra rara)",
+  "trend": 1.66,
+  "good": 1.16,
+  "super": 0.83
+ },
+ {
+  "dex": 682,
+  "name": "Spritzee",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 683,
+  "name": "Aromatisse",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 684,
+  "name": "Swirlix",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 685,
+  "name": "Slurpuff",
+  "owned": false,
+  "cheapest": "[EN] Slurpuff · Ascended Heroes · #236 · IR (Rara illustrazione / AR)",
+  "trend": 3.41,
+  "good": 2.39,
+  "super": 1.71
+ },
+ {
+  "dex": 686,
+  "name": "Inkay",
+  "owned": false,
+  "cheapest": "[JP] マーイーカ · ストームエメラルダ · #085 · Rara iper Mega",
+  "trend": 1.91,
+  "good": 1.34,
+  "super": 0.95
+ },
+ {
+  "dex": 687,
+  "name": "Malamar",
+  "owned": false,
+  "cheapest": "[JP] カラマネロ · VMAXクライマックス · #199 · CHR (Character Rare)",
+  "trend": 1.16,
+  "good": 0.81,
+  "super": 0.58
+ },
+ {
+  "dex": 688,
+  "name": "Binacle",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 689,
+  "name": "Barbaracle",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 690,
+  "name": "Skrelp",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 691,
+  "name": "Dragalge",
+  "owned": false,
+  "cheapest": "[JP] メガドラミドロex · ニンジャスピナー · #102 · Full art (SR)",
+  "trend": 2.75,
+  "good": 1.92,
+  "super": 1.38
+ },
+ {
+  "dex": 692,
+  "name": "Clauncher",
+  "owned": false,
+  "cheapest": "[JP] ウデッポウ · バイオレットex · #083 · IR (Rara illustrazione / AR)",
+  "trend": 1.88,
+  "good": 1.32,
+  "super": 0.94
+ },
+ {
+  "dex": 693,
+  "name": "Clawitzer",
+  "owned": false,
+  "cheapest": "[JP] ブロスター · メガシンフォニア · #068 · IR (Rara illustrazione / AR)",
+  "trend": 1.08,
+  "good": 0.76,
+  "super": 0.54
+ },
+ {
+  "dex": 694,
+  "name": "Helioptile",
+  "owned": false,
+  "cheapest": "[JP] エリキテル · メガシンフォニア · #070 · IR (Rara illustrazione / AR)",
+  "trend": 1.43,
+  "good": 1.0,
+  "super": 0.71
+ },
+ {
+  "dex": 695,
+  "name": "Heliolisk",
+  "owned": false,
+  "cheapest": "[JP] エレザード · MEGAドリームex · #201 · IR (Rara illustrazione / AR)",
+  "trend": 0.9,
+  "good": 0.63,
+  "super": 0.45
+ },
+ {
+  "dex": 696,
+  "name": "Tyrunt",
+  "owned": false,
+  "cheapest": "[JP] チゴラス · ムニキスゼロ · #089 · IR (Rara illustrazione / AR)",
+  "trend": 1.82,
+  "good": 1.27,
+  "super": 0.91
+ },
+ {
+  "dex": 697,
+  "name": "Tyrantrum",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 698,
+  "name": "Amaura",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 699,
+  "name": "Aurorus",
+  "owned": false,
+  "cheapest": "[JP] アマルルガ · ムニキスゼロ · #084 · IR (Rara illustrazione / AR)",
+  "trend": 2.29,
+  "good": 1.6,
+  "super": 1.15
+ },
+ {
+  "dex": 700,
+  "name": "Sylveon",
+  "owned": false,
+  "cheapest": "[JP] ニンフィアex · 30th CELEBRATION · #130 · SIR (Rara illustrazione speciale / SAR)",
+  "trend": 17.7,
+  "good": 12.39,
+  "super": 8.85
+ },
+ {
+  "dex": 701,
+  "name": "Hawlucha",
+  "owned": false,
+  "cheapest": "[JP] メガルチャブルex · MEGAドリームex · #229 · Full art (SR)",
+  "trend": 2.8,
+  "good": 1.96,
+  "super": 1.4
+ },
+ {
+  "dex": 702,
+  "name": "Dedenne",
+  "owned": false,
+  "cheapest": "[JP] デデンネ · ムニキスゼロ · #085 · IR (Rara illustrazione / AR)",
+  "trend": 3.26,
+  "good": 2.28,
+  "super": 1.63
+ },
+ {
+  "dex": 703,
+  "name": "Carbink",
+  "owned": false,
+  "cheapest": "[EN] Carbink · Ascended Heroes · #242 · IR (Rara illustrazione / AR)",
+  "trend": 3.29,
+  "good": 2.3,
+  "super": 1.65
+ },
+ {
+  "dex": 704,
+  "name": "Goomy",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 705,
+  "name": "Sliggoo",
+  "owned": false,
+  "cheapest": "[JP] ヌメイル · ニンジャスピナー · #093 · IR (Rara illustrazione / AR)",
+  "trend": 1.51,
+  "good": 1.06,
+  "super": 0.76
+ },
+ {
+  "dex": 706,
+  "name": "Goodra",
+  "owned": false,
+  "cheapest": "[EN] Hisuian Goodra V · Lost Origin · #187 · Full art (Ultra rara)",
+  "trend": 1.13,
+  "good": 0.79,
+  "super": 0.56
+ },
+ {
+  "dex": 707,
+  "name": "Klefki",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 708,
+  "name": "Phantump",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 709,
+  "name": "Trevenant",
+  "owned": false,
+  "cheapest": "[JP] ホップのオーロット · MEGAドリームex · #204 · IR (Rara illustrazione / AR)",
+  "trend": 0.83,
+  "good": 0.58,
+  "super": 0.41
+ },
+ {
+  "dex": 710,
+  "name": "Pumpkaboo",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 711,
+  "name": "Gourgeist",
+  "owned": false,
+  "cheapest": "[EN] Gourgeist ex · Chaos Rising · #102 · Full art (Ultra rara)",
+  "trend": 1.31,
+  "good": 0.92,
+  "super": 0.66
+ },
+ {
+  "dex": 712,
+  "name": "Bergmite",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 713,
+  "name": "Avalugg",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 714,
+  "name": "Noibat",
+  "owned": false,
+  "cheapest": "[JP] オンバット · GXウルトラシャイニー · #203 · Full art (SR)",
+  "trend": 3.12,
+  "good": 2.18,
+  "super": 1.56
+ },
+ {
+  "dex": 715,
+  "name": "Noivern",
+  "owned": false,
+  "cheapest": "[EN] Noivern ex · Paldea Evolved · #246 · Full art (Ultra rara)",
+  "trend": 1.7,
+  "good": 1.19,
+  "super": 0.85
+ },
+ {
+  "dex": 716,
+  "name": "Xerneas",
+  "owned": false,
+  "cheapest": "[EN] Xerneas EX · XY · #146 · Full art (Ultra rara)",
+  "trend": 2.71,
+  "good": 1.9,
+  "super": 1.35
+ },
+ {
+  "dex": 717,
+  "name": "Yveltal",
+  "owned": false,
+  "cheapest": "[EN] Yveltal EX · XY · #144 · Full art (Ultra rara)",
+  "trend": 1.06,
+  "good": 0.74,
+  "super": 0.53
+ },
+ {
+  "dex": 718,
+  "name": "Zygarde",
+  "owned": false,
+  "cheapest": "[JP] メガジガルデex · ムニキスゼロ · #097 · Full art (SR)",
+  "trend": 3.43,
+  "good": 2.4,
+  "super": 1.72
+ },
+ {
+  "dex": 719,
+  "name": "Diancie",
+  "owned": false,
+  "cheapest": "[JP] メガディアンシーex · MEGAドリームex · #227 · Full art (SR)",
+  "trend": 1.07,
+  "good": 0.75,
+  "super": 0.54
+ },
+ {
+  "dex": 720,
+  "name": "Hoopa",
+  "owned": false,
+  "cheapest": "[EN] Hoopa ex · Paradox Rift · #226 · Full art (Ultra rara)",
+  "trend": 2.47,
+  "good": 1.73,
+  "super": 1.24
+ },
+ {
+  "dex": 721,
+  "name": "Volcanion",
+  "owned": false,
+  "cheapest": "[EN] Volcanion ex · Journey Together · #171 · Full art (Ultra rara)",
+  "trend": 1.26,
+  "good": 0.88,
+  "super": 0.63
+ },
+ {
+  "dex": 722,
+  "name": "Rowlet",
+  "owned": false,
+  "cheapest": "[JP] モクロー · ムニキスゼロ · #082 · IR (Rara illustrazione / AR)",
+  "trend": 3.98,
+  "good": 2.79,
+  "super": 1.99
+ },
+ {
+  "dex": 723,
+  "name": "Dartrix",
+  "owned": false,
+  "cheapest": "[JP] フクスロー · GXウルトラシャイニー · #163 · Full art (SR)",
+  "trend": 2.06,
+  "good": 1.44,
+  "super": 1.03
+ },
+ {
+  "dex": 724,
+  "name": "Decidueye",
+  "owned": false,
+  "cheapest": "[EN] Decidueye ex · Perfect Order · #100 · Full art (Ultra rara)",
+  "trend": 2.06,
+  "good": 1.44,
+  "super": 1.03
+ },
+ {
+  "dex": 725,
+  "name": "Litten",
+  "owned": false,
+  "cheapest": "[JP] ニャビー · サイバージャッジ · #075 · IR (Rara illustrazione / AR)",
+  "trend": 7.21,
+  "good": 5.05,
+  "super": 3.6
+ },
+ {
+  "dex": 726,
+  "name": "Torracat",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 727,
+  "name": "Incineroar",
+  "owned": false,
+  "cheapest": "[JP] ガオガエンex · サイバージャッジ · #085 · Full art (SR)",
+  "trend": 1.61,
+  "good": 1.13,
+  "super": 0.81
+ },
+ {
+  "dex": 728,
+  "name": "Popplio",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 729,
+  "name": "Brionne",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 730,
+  "name": "Primarina",
+  "owned": false,
+  "cheapest": "[JP] アシレーヌ · アビスアイ · #085 · IR (Rara illustrazione / AR)",
+  "trend": 1.78,
+  "good": 1.25,
+  "super": 0.89
+ },
+ {
+  "dex": 731,
+  "name": "Pikipek",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 732,
+  "name": "Trumbeak",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 733,
+  "name": "Toucannon",
+  "owned": false,
+  "cheapest": "[JP] ドデカバシ · アビスアイ · #092 · IR (Rara illustrazione / AR)",
+  "trend": 1.53,
+  "good": 1.07,
+  "super": 0.77
+ },
+ {
+  "dex": 734,
+  "name": "Yungoos",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 735,
+  "name": "Gumshoos",
+  "owned": false,
+  "cheapest": "[JP] デカグース · メガブレイブ · #075 · IR (Rara illustrazione / AR)",
+  "trend": 1.13,
+  "good": 0.79,
+  "super": 0.56
+ },
+ {
+  "dex": 736,
+  "name": "Grubbin",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 737,
+  "name": "Charjabug",
+  "owned": false,
+  "cheapest": "[JP] デンヂムシ · サイバージャッジ · #076 · IR (Rara illustrazione / AR)",
+  "trend": 1.42,
+  "good": 0.99,
+  "super": 0.71
+ },
+ {
+  "dex": 738,
+  "name": "Vikavolt",
+  "owned": false,
+  "cheapest": "[EN] Vikavolt · Ascended Heroes · #230 · IR (Rara illustrazione / AR)",
+  "trend": 2.36,
+  "good": 1.65,
+  "super": 1.18
+ },
+ {
+  "dex": 739,
+  "name": "Crabrawler",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 740,
+  "name": "Crabominable",
+  "owned": false,
+  "cheapest": "[JP] ケケンカニV · フュージョンアーツ · #103 · Full art (SR)",
+  "trend": 1.12,
+  "good": 0.78,
+  "super": 0.56
+ },
+ {
+  "dex": 741,
+  "name": "Oricorio",
+  "owned": false,
+  "cheapest": "[JP] オドリドリex · インフェルノX · #095 · Full art (SR)",
+  "trend": 0.92,
+  "good": 0.64,
+  "super": 0.46
+ },
+ {
+  "dex": 742,
+  "name": "Cutiefly",
+  "owned": false,
+  "cheapest": "[JP] アブリー · サイバージャッジ · #078 · IR (Rara illustrazione / AR)",
+  "trend": 2.08,
+  "good": 1.46,
+  "super": 1.04
+ },
+ {
+  "dex": 743,
+  "name": "Ribombee",
+  "owned": false,
+  "cheapest": "[EN] Lillie's Ribombee · Journey Together · #164 · IR (Rara illustrazione / AR)",
+  "trend": 3.96,
+  "good": 2.77,
+  "super": 1.98
+ },
+ {
+  "dex": 744,
+  "name": "Rockruff",
+  "owned": false,
+  "cheapest": "[JP] イワンコ · VMAXクライマックス · #202 · CHR (Character Rare)",
+  "trend": 2.53,
+  "good": 1.77,
+  "super": 1.26
+ },
+ {
+  "dex": 745,
+  "name": "Lycanroc",
+  "owned": false,
+  "cheapest": "[JP] ルガルガン · 30th CELEBRATION · #113 · IR (Rara illustrazione / AR)",
+  "trend": 1.04,
+  "good": 0.73,
+  "super": 0.52
+ },
+ {
+  "dex": 746,
+  "name": "Wishiwashi",
+  "owned": false,
+  "cheapest": "[JP] ヨワシex · ストームエメラルダ · #091 · Rara iper Mega",
+  "trend": 2.11,
+  "good": 1.48,
+  "super": 1.05
+ },
+ {
+  "dex": 747,
+  "name": "Mareanie",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 748,
+  "name": "Toxapex",
+  "owned": false,
+  "cheapest": "[EN] Toxapex GX · Guardians Rising · #136 · Full art (Ultra rara)",
+  "trend": 3.41,
+  "good": 2.39,
+  "super": 1.71
+ },
+ {
+  "dex": 749,
+  "name": "Mudbray",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 750,
+  "name": "Mudsdale",
+  "owned": false,
+  "cheapest": "[JP] バンバドロ · ワイルドフォース · #078 · IR (Rara illustrazione / AR)",
+  "trend": 1.7,
+  "good": 1.19,
+  "super": 0.85
+ },
+ {
+  "dex": 751,
+  "name": "Dewpider",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 752,
+  "name": "Araquanid",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 753,
+  "name": "Fomantis",
+  "owned": false,
+  "cheapest": "[JP] カリキリ · アビスアイ · #082 · IR (Rara illustrazione / AR)",
+  "trend": 1.96,
+  "good": 1.37,
+  "super": 0.98
+ },
+ {
+  "dex": 754,
+  "name": "Lurantis",
+  "owned": false,
+  "cheapest": "[EN] Lurantis ex · Pitch Black · #096 · Full art (Ultra rara)",
+  "trend": 2.3,
+  "good": 1.61,
+  "super": 1.15
+ },
+ {
+  "dex": 755,
+  "name": "Morelull",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 756,
+  "name": "Shiinotic",
+  "owned": false,
+  "cheapest": "[EN] Shiinotic · Surging Sparks · #194 · IR (Rara illustrazione / AR)",
+  "trend": 3.53,
+  "good": 2.47,
+  "super": 1.76
+ },
+ {
+  "dex": 757,
+  "name": "Salandit",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 758,
+  "name": "Salazzle",
+  "owned": false,
+  "cheapest": "[JP] エンニュートGX · 新たなる試練の向こう · #051 · Full art (SR)",
+  "trend": 1.0,
+  "good": 0.7,
+  "super": 0.5
+ },
+ {
+  "dex": 759,
+  "name": "Stufful",
+  "owned": false,
+  "cheapest": "[JP] ヌイコグマ · メガシンフォニア · #075 · IR (Rara illustrazione / AR)",
+  "trend": 1.84,
+  "good": 1.29,
+  "super": 0.92
+ },
+ {
+  "dex": 760,
+  "name": "Bewear",
+  "owned": false,
+  "cheapest": "[JP] キテルグマ · ナイトワンダラー · #076 · IR (Rara illustrazione / AR)",
+  "trend": 1.78,
+  "good": 1.25,
+  "super": 0.89
+ },
+ {
+  "dex": 761,
+  "name": "Bounsweet",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 762,
+  "name": "Steenee",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 763,
+  "name": "Tsareena",
+  "owned": false,
+  "cheapest": "[EN] Tsareena V · Fusion Strike · #246 · Full art (Ultra rara)",
+  "trend": 1.52,
+  "good": 1.06,
+  "super": 0.76
+ },
+ {
+  "dex": 764,
+  "name": "Comfey",
+  "owned": false,
+  "cheapest": "[JP] キュワワー · VSTARユニバース · #187 · IR (Rara illustrazione / AR)",
+  "trend": 1.66,
+  "good": 1.16,
+  "super": 0.83
+ },
+ {
+  "dex": 765,
+  "name": "Oranguru",
+  "owned": false,
+  "cheapest": "[JP] ヤレユータンV · スペースジャグラー · #076 · Full art (SR)",
+  "trend": 1.61,
+  "good": 1.13,
+  "super": 0.81
+ },
+ {
+  "dex": 766,
+  "name": "Passimian",
+  "owned": false,
+  "cheapest": "[JP] ナゲツケサル · VMAXクライマックス · #203 · CHR (Character Rare)",
+  "trend": 1.28,
+  "good": 0.9,
+  "super": 0.64
+ },
+ {
+  "dex": 767,
+  "name": "Wimpod",
+  "owned": false,
+  "cheapest": "[JP] コソクムシ · GXウルトラシャイニー · #164 · Full art (SR)",
+  "trend": 2.55,
+  "good": 1.78,
+  "super": 1.27
+ },
+ {
+  "dex": 768,
+  "name": "Golisopod",
+  "owned": false,
+  "cheapest": "[EN] Golisopod ex · Paradox Rift · #221 · Full art (Ultra rara)",
+  "trend": 1.55,
+  "good": 1.08,
+  "super": 0.78
+ },
+ {
+  "dex": 769,
+  "name": "Sandygast",
+  "owned": false,
+  "cheapest": "[EN] Sandygast · Paldea Evolved · #214 · IR (Rara illustrazione / AR)",
+  "trend": 6.24,
+  "good": 4.37,
+  "super": 3.12
+ },
+ {
+  "dex": 770,
+  "name": "Palossand",
+  "owned": false,
+  "cheapest": "[EN] Palossand ex · Surging Sparks · #221 · Full art (Ultra rara)",
+  "trend": 1.54,
+  "good": 1.08,
+  "super": 0.77
+ },
+ {
+  "dex": 771,
+  "name": "Pyukumuku",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 772,
+  "name": "Type: Null",
+  "owned": false,
+  "cheapest": "[JP] タイプ：ヌル · GXウルトラシャイニー · #205 · Full art (SR)",
+  "trend": 5.59,
+  "good": 3.91,
+  "super": 2.79
+ },
+ {
+  "dex": 773,
+  "name": "Silvally",
+  "owned": false,
+  "cheapest": "[JP] シルヴァディ · アビスアイ · #093 · IR (Rara illustrazione / AR)",
+  "trend": 1.32,
+  "good": 0.92,
+  "super": 0.66
+ },
+ {
+  "dex": 774,
+  "name": "Minior",
+  "owned": false,
+  "cheapest": "[EN] Minior · Paradox Rift · #201 · IR (Rara illustrazione / AR)",
+  "trend": 9.07,
+  "good": 6.35,
+  "super": 4.54
+ },
+ {
+  "dex": 775,
+  "name": "Komala",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 776,
+  "name": "Turtonator",
+  "owned": false,
+  "cheapest": "[EN] Turtonator · Stellar Crown · #146 · IR (Rara illustrazione / AR)",
+  "trend": 2.9,
+  "good": 2.03,
+  "super": 1.45
+ },
+ {
+  "dex": 777,
+  "name": "Togedemaru",
+  "owned": false,
+  "cheapest": "[JP] トゲデマル · インフェルノX · #090 · IR (Rara illustrazione / AR)",
+  "trend": 1.22,
+  "good": 0.85,
+  "super": 0.61
+ },
+ {
+  "dex": 778,
+  "name": "Mimikyu",
+  "owned": false,
+  "cheapest": "[JP] ロケット団のミミッキュ · MEGAドリームex · #205 · IR (Rara illustrazione / AR)",
+  "trend": 3.71,
+  "good": 2.6,
+  "super": 1.85
+ },
+ {
+  "dex": 779,
+  "name": "Bruxish",
+  "owned": false,
+  "cheapest": "[EN] Bruxish · Surging Sparks · #200 · IR (Rara illustrazione / AR)",
+  "trend": 2.64,
+  "good": 1.85,
+  "super": 1.32
+ },
+ {
+  "dex": 780,
+  "name": "Drampa",
+  "owned": false,
+  "cheapest": "[JP] ジジーロン · サイバージャッジ · #083 · IR (Rara illustrazione / AR)",
+  "trend": 3.4,
+  "good": 2.38,
+  "super": 1.7
+ },
+ {
+  "dex": 781,
+  "name": "Dhelmise",
+  "owned": false,
+  "cheapest": "[EN] Dhelmise V · Shining Fates · #9 · Full art (Ultra rara)",
+  "trend": 0.78,
+  "good": 0.55,
+  "super": 0.39
+ },
+ {
+  "dex": 782,
+  "name": "Jangmo-o",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 783,
+  "name": "Hakamo-o",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 784,
+  "name": "Kommo-o",
+  "owned": false,
+  "cheapest": "[JP] ジャラランガ · 30th CELEBRATION · #119 · IR (Rara illustrazione / AR)",
+  "trend": 0.89,
+  "good": 0.62,
+  "super": 0.45
+ },
+ {
+  "dex": 785,
+  "name": "Tapu Koko",
+  "owned": false,
+  "cheapest": "[EN] Tapu Koko ex · Paradox Rift · #222 · Full art (Ultra rara)",
+  "trend": 1.73,
+  "good": 1.21,
+  "super": 0.86
+ },
+ {
+  "dex": 786,
+  "name": "Tapu Lele",
+  "owned": false,
+  "cheapest": "[EN] Tapu Lele GX · Guardians Rising · #137 · Full art (Ultra rara)",
+  "trend": 7.14,
+  "good": 5.0,
+  "super": 3.57
+ },
+ {
+  "dex": 787,
+  "name": "Tapu Bulu",
+  "owned": false,
+  "cheapest": "[JP] カプ・ブルルGX · 新たなる試練の向こう · #050 · Full art (SR)",
+  "trend": 0.02,
+  "good": 0.01,
+  "super": 0.01
+ },
+ {
+  "dex": 788,
+  "name": "Tapu Fini",
+  "owned": false,
+  "cheapest": "[JP] カプ・レヒレGX · 新たなる試練の向こう · #052 · Full art (SR)",
+  "trend": 3.06,
+  "good": 2.14,
+  "super": 1.53
+ },
+ {
+  "dex": 789,
+  "name": "Cosmog",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 790,
+  "name": "Cosmoem",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 791,
+  "name": "Solgaleo",
+  "owned": false,
+  "cheapest": "[EN] Solgaleo GX · Sun & Moon · #143 · Full art (Ultra rara)",
+  "trend": 8.8,
+  "good": 6.16,
+  "super": 4.4
+ },
+ {
+  "dex": 792,
+  "name": "Lunala",
+  "owned": false,
+  "cheapest": "[EN] Lunala GX · Sun & Moon · #141 · Full art (Ultra rara)",
+  "trend": 7.51,
+  "good": 5.26,
+  "super": 3.75
+ },
+ {
+  "dex": 793,
+  "name": "Nihilego",
+  "owned": false,
+  "cheapest": "[EN] Nihilego GX · Crimson Invasion · #114 · Secret (alt art / rainbow / gold)",
+  "trend": 12.01,
+  "good": 8.41,
+  "super": 6.0
+ },
+ {
+  "dex": 794,
+  "name": "Buzzwole",
+  "owned": false,
+  "cheapest": "[JP] マッシブーン · GXウルトラシャイニー · #184 · Full art (SR)",
+  "trend": 3.69,
+  "good": 2.58,
+  "super": 1.84
+ },
+ {
+  "dex": 795,
+  "name": "Pheromosa",
+  "owned": false,
+  "cheapest": "[JP] フェローチェ · GXウルトラシャイニー · #165 · Full art (SR)",
+  "trend": 4.49,
+  "good": 3.14,
+  "super": 2.25
+ },
+ {
+  "dex": 796,
+  "name": "Xurkitree",
+  "owned": false,
+  "cheapest": "[JP] デンジュモク · GXウルトラシャイニー · #174 · Full art (SR)",
+  "trend": 3.05,
+  "good": 2.13,
+  "super": 1.52
+ },
+ {
+  "dex": 797,
+  "name": "Celesteela",
+  "owned": false,
+  "cheapest": "[JP] テッカグヤGX · フルメタルウォール · #060 · Full art (SR)",
+  "trend": 3.48,
+  "good": 2.44,
+  "super": 1.74
+ },
+ {
+  "dex": 798,
+  "name": "Kartana",
+  "owned": false,
+  "cheapest": "[JP] カミツルギ · GXウルトラシャイニー · #193 · Full art (SR)",
+  "trend": 4.02,
+  "good": 2.81,
+  "super": 2.01
+ },
+ {
+  "dex": 799,
+  "name": "Guzzlord",
+  "owned": false,
+  "cheapest": "[JP] アクジキング · GXウルトラシャイニー · #186 · Full art (SR)",
+  "trend": 4.5,
+  "good": 3.15,
+  "super": 2.25
+ },
+ {
+  "dex": 800,
+  "name": "Necrozma",
+  "owned": false,
+  "cheapest": "[EN] Dawn Wings Necrozma GX · Ultra Prism · #161 · Secret (alt art / rainbow / gold)",
+  "trend": 3.44,
+  "good": 2.41,
+  "super": 1.72
+ },
+ {
+  "dex": 801,
+  "name": "Magearna",
+  "owned": false,
+  "cheapest": "[JP] マギアナV · 白熱のアルカナ · #079 · Full art (SR)",
+  "trend": 1.53,
+  "good": 1.07,
+  "super": 0.77
+ },
+ {
+  "dex": 802,
+  "name": "Marshadow",
+  "owned": false,
+  "cheapest": "[EN] Marshadow & Machamp GX · Unbroken Bonds · #198 · Full art (Ultra rara)",
+  "trend": 2.21,
+  "good": 1.55,
+  "super": 1.1
+ },
+ {
+  "dex": 803,
+  "name": "Poipole",
+  "owned": false,
+  "cheapest": "[JP] ベベノム · GXウルトラシャイニー · #179 · Full art (SR)",
+  "trend": 4.04,
+  "good": 2.83,
+  "super": 2.02
+ },
+ {
+  "dex": 804,
+  "name": "Naganadel",
+  "owned": false,
+  "cheapest": "[JP] アーゴヨンGX · スカイレジェンド · #058 · Full art (SR)",
+  "trend": 3.69,
+  "good": 2.58,
+  "super": 1.84
+ },
+ {
+  "dex": 805,
+  "name": "Stakataka",
+  "owned": false,
+  "cheapest": "[JP] ツンデツンデGX · GXウルトラシャイニー · #236 · Full art (SR)",
+  "trend": 6.56,
+  "good": 4.59,
+  "super": 3.28
+ },
+ {
+  "dex": 806,
+  "name": "Blacephalon",
+  "owned": false,
+  "cheapest": "[JP] ズガドーンGX · 超爆インパクト · #097 · Full art (SR)",
+  "trend": 6.39,
+  "good": 4.47,
+  "super": 3.19
+ },
+ {
+  "dex": 807,
+  "name": "Zeraora",
+  "owned": false,
+  "cheapest": "[JP] メガゼラオラex · アビスアイ · #096 · Full art (SR)",
+  "trend": 4.65,
+  "good": 3.25,
+  "super": 2.33
+ },
+ {
+  "dex": 808,
+  "name": "Meltan",
+  "owned": false,
+  "cheapest": "[JP] メルタン · サイバージャッジ · #081 · IR (Rara illustrazione / AR)",
+  "trend": 1.79,
+  "good": 1.25,
+  "super": 0.9
+ },
+ {
+  "dex": 809,
+  "name": "Melmetal",
+  "owned": false,
+  "cheapest": "[EN] Melmetal V · Pokémon GO · #075 · Full art (Ultra rara)",
+  "trend": 2.47,
+  "good": 1.73,
+  "super": 1.24
+ },
+ {
+  "dex": 810,
+  "name": "Grookey",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 811,
+  "name": "Thwackey",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 812,
+  "name": "Rillaboom",
+  "owned": false,
+  "cheapest": "[EN] Rillaboom V · Rebel Clash · #175 · Full art (Ultra rara)",
+  "trend": 3.97,
+  "good": 2.78,
+  "super": 1.99
+ },
+ {
+  "dex": 813,
+  "name": "Scorbunny",
+  "owned": false,
+  "cheapest": "[EN] Scorbunny · Ascended Heroes · #225 · IR (Rara illustrazione / AR)",
+  "trend": 6.72,
+  "good": 4.7,
+  "super": 3.36
+ },
+ {
+  "dex": 814,
+  "name": "Raboot",
+  "owned": false,
+  "cheapest": "[EN] Raboot · Stellar Crown · #147 · IR (Rara illustrazione / AR)",
+  "trend": 5.1,
+  "good": 3.57,
+  "super": 2.55
+ },
+ {
+  "dex": 815,
+  "name": "Cinderace",
+  "owned": false,
+  "cheapest": "[EN] Cinderace ex · Stellar Crown · #157 · Full art (Ultra rara)",
+  "trend": 2.51,
+  "good": 1.76,
+  "super": 1.25
+ },
+ {
+  "dex": 816,
+  "name": "Sobble",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 817,
+  "name": "Drizzile",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 818,
+  "name": "Inteleon",
+  "owned": false,
+  "cheapest": "[JP] インテレオン · メガシンフォニア · #069 · IR (Rara illustrazione / AR)",
+  "trend": 1.12,
+  "good": 0.78,
+  "super": 0.56
+ },
+ {
+  "dex": 819,
+  "name": "Skwovet",
+  "owned": false,
+  "cheapest": "[JP] ホシガリス · バイオレットex · #090 · IR (Rara illustrazione / AR)",
+  "trend": 1.89,
+  "good": 1.32,
+  "super": 0.94
+ },
+ {
+  "dex": 820,
+  "name": "Greedent",
+  "owned": false,
+  "cheapest": "[EN] Greedent V · Fusion Strike · #256 · Full art (Ultra rara)",
+  "trend": 2.36,
+  "good": 1.65,
+  "super": 1.18
+ },
+ {
+  "dex": 821,
+  "name": "Rookidee",
+  "owned": false,
+  "cheapest": "[EN] Rookidee · Paldea Evolved · #225 · IR (Rara illustrazione / AR)",
+  "trend": 8.17,
+  "good": 5.72,
+  "super": 4.08
+ },
+ {
+  "dex": 822,
+  "name": "Corvisquire",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 823,
+  "name": "Corviknight",
+  "owned": false,
+  "cheapest": "[EN] Corviknight V · Battle Styles · #156 · Full art (Ultra rara)",
+  "trend": 4.39,
+  "good": 3.07,
+  "super": 2.19
+ },
+ {
+  "dex": 824,
+  "name": "Blipbug",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 825,
+  "name": "Dottler",
+  "owned": false,
+  "cheapest": "[EN] Dottler · Paradox Rift · #184 · IR (Rara illustrazione / AR)",
+  "trend": 3.44,
+  "good": 2.41,
+  "super": 1.72
+ },
+ {
+  "dex": 826,
+  "name": "Orbeetle",
+  "owned": false,
+  "cheapest": "[JP] ロケット団のイオルブ · ロケット団の栄光 · #104 · IR (Rara illustrazione / AR)",
+  "trend": 1.16,
+  "good": 0.81,
+  "super": 0.58
+ },
+ {
+  "dex": 827,
+  "name": "Nickit",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 828,
+  "name": "Thievul",
+  "owned": false,
+  "cheapest": "[JP] フォクスライ · アビスアイ · #089 · IR (Rara illustrazione / AR)",
+  "trend": 1.26,
+  "good": 0.88,
+  "super": 0.63
+ },
+ {
+  "dex": 829,
+  "name": "Gossifleur",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 830,
+  "name": "Eldegoss",
+  "owned": false,
+  "cheapest": "[EN] Eldegoss V · Rebel Clash · #176 · Full art (Ultra rara)",
+  "trend": 2.34,
+  "good": 1.64,
+  "super": 1.17
+ },
+ {
+  "dex": 831,
+  "name": "Wooloo",
+  "owned": false,
+  "cheapest": "[EN] Hop's Wooloo · Journey Together · #170 · IR (Rara illustrazione / AR)",
+  "trend": 3.27,
+  "good": 2.29,
+  "super": 1.64
+ },
+ {
+  "dex": 832,
+  "name": "Dubwool",
+  "owned": false,
+  "cheapest": "[EN] Dubwool V · Rebel Clash · #188 · Full art (Ultra rara)",
+  "trend": 2.63,
+  "good": 1.84,
+  "super": 1.31
+ },
+ {
+  "dex": 833,
+  "name": "Chewtle",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 834,
+  "name": "Drednaw",
+  "owned": false,
+  "cheapest": "[EN] Drednaw V · Champion's Path · #69 · Full art (Ultra rara)",
+  "trend": 1.4,
+  "good": 0.98,
+  "super": 0.7
+ },
+ {
+  "dex": 835,
+  "name": "Yamper",
+  "owned": false,
+  "cheapest": "[JP] ワンパチ · インフェルノX · #086 · IR (Rara illustrazione / AR)",
+  "trend": 1.26,
+  "good": 0.88,
+  "super": 0.63
+ },
+ {
+  "dex": 836,
+  "name": "Boltund",
+  "owned": false,
+  "cheapest": "[EN] Boltund V · Fusion Strike · #249 · Full art (Ultra rara)",
+  "trend": 2.24,
+  "good": 1.57,
+  "super": 1.12
+ },
+ {
+  "dex": 837,
+  "name": "Rolycoly",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 838,
+  "name": "Carkol",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 839,
+  "name": "Coalossal",
+  "owned": false,
+  "cheapest": "[EN] Coalossal V · Vivid Voltage · #173 · Full art (Ultra rara)",
+  "trend": 2.87,
+  "good": 2.01,
+  "super": 1.44
+ },
+ {
+  "dex": 840,
+  "name": "Applin",
+  "owned": false,
+  "cheapest": "[EN] Applin · Twilight Masquerade · #185 · IR (Rara illustrazione / AR)",
+  "trend": 6.82,
+  "good": 4.77,
+  "super": 3.41
+ },
+ {
+  "dex": 841,
+  "name": "Flapple",
+  "owned": false,
+  "cheapest": "[JP] アップリュー · VMAXクライマックス · #186 · CHR (Character Rare)",
+  "trend": 1.7,
+  "good": 1.19,
+  "super": 0.85
+ },
+ {
+  "dex": 842,
+  "name": "Appletun",
+  "owned": false,
+  "cheapest": "[EN] Appletun · Surging Sparks · #211 · IR (Rara illustrazione / AR)",
+  "trend": 4.4,
+  "good": 3.08,
+  "super": 2.2
+ },
+ {
+  "dex": 843,
+  "name": "Silicobra",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 844,
+  "name": "Sandaconda",
+  "owned": false,
+  "cheapest": "[EN] Sandaconda V · Chilling Reign · #175 · Full art (Ultra rara)",
+  "trend": 1.76,
+  "good": 1.23,
+  "super": 0.88
+ },
+ {
+  "dex": 845,
+  "name": "Cramorant",
+  "owned": false,
+  "cheapest": "[EN] Cramorant · Twilight Masquerade · #176 · IR (Rara illustrazione / AR)",
+  "trend": 3.85,
+  "good": 2.69,
+  "super": 1.93
+ },
+ {
+  "dex": 846,
+  "name": "Arrokuda",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 847,
+  "name": "Barraskewda",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 848,
+  "name": "Toxel",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 849,
+  "name": "Toxtricity",
+  "owned": false,
+  "cheapest": "[JP] ストリンダー · インフェルノX · #089 · IR (Rara illustrazione / AR)",
+  "trend": 1.02,
+  "good": 0.71,
+  "super": 0.51
+ },
+ {
+  "dex": 850,
+  "name": "Sizzlipede",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 851,
+  "name": "Centiskorch",
+  "owned": false,
+  "cheapest": "[EN] Centiskorch V · Darkness Ablaze · #179 · Full art (Ultra rara)",
+  "trend": 2.24,
+  "good": 1.57,
+  "super": 1.12
+ },
+ {
+  "dex": 852,
+  "name": "Clobbopus",
+  "owned": false,
+  "cheapest": "[EN] Clobbopus · Surging Sparks · #207 · IR (Rara illustrazione / AR)",
+  "trend": 3.31,
+  "good": 2.32,
+  "super": 1.66
+ },
+ {
+  "dex": 853,
+  "name": "Grapploct",
+  "owned": false,
+  "cheapest": "[EN] Grapploct V · Champion's Path · #72 · Full art (Ultra rara)",
+  "trend": 1.35,
+  "good": 0.94,
+  "super": 0.68
+ },
+ {
+  "dex": 854,
+  "name": "Sinistea",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 855,
+  "name": "Polteageist",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 856,
+  "name": "Hatenna",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 857,
+  "name": "Hattrem",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 858,
+  "name": "Hatterene",
+  "owned": false,
+  "cheapest": "[EN] Hatterene VMAX · Crown Zenith Galarian Gallery · #GG47 · Galarian Gallery (GG)",
+  "trend": 8.02,
+  "good": 5.61,
+  "super": 4.01
+ },
+ {
+  "dex": 859,
+  "name": "Impidimp",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 860,
+  "name": "Morgrem",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 861,
+  "name": "Grimmsnarl",
+  "owned": false,
+  "cheapest": "[JP] マリィのオーロンゲex · MEGAドリームex · #243 · SIR (Rara illustrazione speciale / SAR)",
+  "trend": 19.26,
+  "good": 13.48,
+  "super": 9.63
+ },
+ {
+  "dex": 862,
+  "name": "Obstagoon",
+  "owned": false,
+  "cheapest": "[JP] ガラル タチフサグマ · MEGAドリームex · #209 · IR (Rara illustrazione / AR)",
+  "trend": 0.96,
+  "good": 0.67,
+  "super": 0.48
+ },
+ {
+  "dex": 863,
+  "name": "Perrserker",
+  "owned": false,
+  "cheapest": "[EN] Galarian Perrserker V · Lost Origin · #183 · Full art (Ultra rara)",
+  "trend": 1.7,
+  "good": 1.19,
+  "super": 0.85
+ },
+ {
+  "dex": 864,
+  "name": "Cursola",
+  "owned": false,
+  "cheapest": "[EN] Galarian Cursola V · Champion's Path · #71 · Full art (Ultra rara)",
+  "trend": 2.3,
+  "good": 1.61,
+  "super": 1.15
+ },
+ {
+  "dex": 865,
+  "name": "Sirfetch’d",
+  "owned": false,
+  "cheapest": "[EN] Galarian Sirfetch'd V · Vivid Voltage · #174 · Full art (Ultra rara)",
+  "trend": 2.1,
+  "good": 1.47,
+  "super": 1.05
+ },
+ {
+  "dex": 866,
+  "name": "Mr. Rime",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 867,
+  "name": "Runerigus",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 868,
+  "name": "Milcery",
+  "owned": false,
+  "cheapest": "[EN] Milcery · Stellar Crown · #152 · IR (Rara illustrazione / AR)",
+  "trend": 6.42,
+  "good": 4.49,
+  "super": 3.21
+ },
+ {
+  "dex": 869,
+  "name": "Alcremie",
+  "owned": false,
+  "cheapest": "[JP] マホイップ · VMAXクライマックス · #201 · CHR (Character Rare)",
+  "trend": 2.03,
+  "good": 1.42,
+  "super": 1.01
+ },
+ {
+  "dex": 870,
+  "name": "Falinks",
+  "owned": false,
+  "cheapest": "[JP] タイレーツ · VMAXクライマックス · #204 · CHR (Character Rare)",
+  "trend": 1.83,
+  "good": 1.28,
+  "super": 0.92
+ },
+ {
+  "dex": 871,
+  "name": "Pincurchin",
+  "owned": false,
+  "cheapest": "[JP] バチンウニ · ストームエメラルダ · #082 · Rara iper Mega",
+  "trend": 1.51,
+  "good": 1.06,
+  "super": 0.76
+ },
+ {
+  "dex": 872,
+  "name": "Snom",
+  "owned": false,
+  "cheapest": "[JP] ユキハミ · ワイルドフォース · #073 · IR (Rara illustrazione / AR)",
+  "trend": 2.43,
+  "good": 1.7,
+  "super": 1.22
+ },
+ {
+  "dex": 873,
+  "name": "Frosmoth",
+  "owned": false,
+  "cheapest": "[JP] モスノウ · VMAXクライマックス · #192 · CHR (Character Rare)",
+  "trend": 2.25,
+  "good": 1.57,
+  "super": 1.12
+ },
+ {
+  "dex": 874,
+  "name": "Stonjourner",
+  "owned": false,
+  "cheapest": "[EN] Stonjourner V · Sword & Shield · #193 · Full art (Ultra rara)",
+  "trend": 3.55,
+  "good": 2.48,
+  "super": 1.77
+ },
+ {
+  "dex": 875,
+  "name": "Eiscue",
+  "owned": false,
+  "cheapest": "[EN] Eiscue ex · Obsidian Flames · #210 · Full art (Ultra rara)",
+  "trend": 1.57,
+  "good": 1.1,
+  "super": 0.79
+ },
+ {
+  "dex": 876,
+  "name": "Indeedee",
+  "owned": false,
+  "cheapest": "[EN] Indeedee V · Sword & Shield · #192 · Full art (Ultra rara)",
+  "trend": 2.94,
+  "good": 2.06,
+  "super": 1.47
+ },
+ {
+  "dex": 877,
+  "name": "Morpeko",
+  "owned": false,
+  "cheapest": "[JP] モルペコ · 30th CELEBRATION · #110 · IR (Rara illustrazione / AR)",
+  "trend": 1.47,
+  "good": 1.03,
+  "super": 0.73
+ },
+ {
+  "dex": 878,
+  "name": "Cufant",
+  "owned": false,
+  "cheapest": "[JP] ゾウドウ · ナイトワンダラー · #073 · IR (Rara illustrazione / AR)",
+  "trend": 2.12,
+  "good": 1.48,
+  "super": 1.06
+ },
+ {
+  "dex": 879,
+  "name": "Copperajah",
+  "owned": false,
+  "cheapest": "[EN] Copperajah ex · Paldea Evolved · #245 · Full art (Ultra rara)",
+  "trend": 1.47,
+  "good": 1.03,
+  "super": 0.73
+ },
+ {
+  "dex": 880,
+  "name": "Dracozolt",
+  "owned": false,
+  "cheapest": "[EN] Dracozolt V · Evolving Skies · #178 · Full art (Ultra rara)",
+  "trend": 4.89,
+  "good": 3.42,
+  "super": 2.44
+ },
+ {
+  "dex": 881,
+  "name": "Arctozolt",
+  "owned": false,
+  "cheapest": "[JP] ウオチルドンV · 漆黒のガイスト · #072 · Full art (SR)",
+  "trend": 1.66,
+  "good": 1.16,
+  "super": 0.83
+ },
+ {
+  "dex": 882,
+  "name": "Dracovish",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 883,
+  "name": "Arctovish",
+  "owned": false,
+  "cheapest": "[EN] Arctovish V · Evolving Skies · #176 · Full art (Ultra rara)",
+  "trend": 3.68,
+  "good": 2.58,
+  "super": 1.84
+ },
+ {
+  "dex": 884,
+  "name": "Duraludon",
+  "owned": false,
+  "cheapest": "[EN] Duraludon VMAX · Silver Tempest Trainer Gallery · #TG30 · Trainer Gallery (TG)",
+  "trend": 2.11,
+  "good": 1.48,
+  "super": 1.05
+ },
+ {
+  "dex": 885,
+  "name": "Dreepy",
+  "owned": false,
+  "cheapest": "[JP] ドラメシヤ · MEGAドリームex · #211 · IR (Rara illustrazione / AR)",
+  "trend": 0.89,
+  "good": 0.62,
+  "super": 0.45
+ },
+ {
+  "dex": 886,
+  "name": "Drakloak",
+  "owned": false,
+  "cheapest": "[JP] ドロンチ · MEGAドリームex · #212 · IR (Rara illustrazione / AR)",
+  "trend": 0.9,
+  "good": 0.63,
+  "super": 0.45
+ },
+ {
+  "dex": 887,
+  "name": "Dragapult",
+  "owned": false,
+  "cheapest": "[JP] ドラパルトex · 変幻の仮面 · #120 · Full art (SR)",
+  "trend": 4.66,
+  "good": 3.26,
+  "super": 2.33
+ },
+ {
+  "dex": 888,
+  "name": "Zacian",
+  "owned": false,
+  "cheapest": "[JP] ザシアン · インフェルノX · #087 · IR (Rara illustrazione / AR)",
+  "trend": 1.5,
+  "good": 1.05,
+  "super": 0.75
+ },
+ {
+  "dex": 889,
+  "name": "Zamazenta",
+  "owned": false,
+  "cheapest": "[JP] ザマゼンタ · ロケット団の栄光 · #107 · IR (Rara illustrazione / AR)",
+  "trend": 1.31,
+  "good": 0.92,
+  "super": 0.66
+ },
+ {
+  "dex": 890,
+  "name": "Eternatus",
+  "owned": false,
+  "cheapest": "[JP] ムゲンダイナV · VMAXクライマックス · #246 · CSR (Character Super Rare)",
+  "trend": 4.92,
+  "good": 3.44,
+  "super": 2.46
+ },
+ {
+  "dex": 891,
+  "name": "Kubfu",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 892,
+  "name": "Urshifu",
+  "owned": false,
+  "cheapest": "[EN] Single Strike Urshifu VMAX · Brilliant Stars Trainer Gallery · #TG29 · Trainer Gallery (TG)",
+  "trend": 3.0,
+  "good": 2.1,
+  "super": 1.5
+ },
+ {
+  "dex": 893,
+  "name": "Zarude",
+  "owned": false,
+  "cheapest": "[JP] ザルード · アビスアイ · #090 · IR (Rara illustrazione / AR)",
+  "trend": 1.34,
+  "good": 0.94,
+  "super": 0.67
+ },
+ {
+  "dex": 894,
+  "name": "Regieleki",
+  "owned": false,
+  "cheapest": "[EN] Regieleki V · Silver Tempest · #175 · Full art (Ultra rara)",
+  "trend": 2.91,
+  "good": 2.04,
+  "super": 1.46
+ },
+ {
+  "dex": 895,
+  "name": "Regidrago",
+  "owned": false,
+  "cheapest": "[EN] Regidrago V · Silver Tempest · #183 · Full art (Ultra rara)",
+  "trend": 2.49,
+  "good": 1.74,
+  "super": 1.25
+ },
+ {
+  "dex": 896,
+  "name": "Glastrier",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 897,
+  "name": "Spectrier",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 898,
+  "name": "Calyrex",
+  "owned": false,
+  "cheapest": "[EN] Ice Rider Calyrex VMAX · Astral Radiance Trainer Gallery · #TG29 · Trainer Gallery (TG)",
+  "trend": 2.69,
+  "good": 1.88,
+  "super": 1.34
+ },
+ {
+  "dex": 899,
+  "name": "Wyrdeer",
+  "owned": false,
+  "cheapest": "[EN] Wyrdeer V · Astral Radiance · #180 · Full art (Ultra rara)",
+  "trend": 2.5,
+  "good": 1.75,
+  "super": 1.25
+ },
+ {
+  "dex": 900,
+  "name": "Kleavor",
+  "owned": false,
+  "cheapest": "[JP] バサギリV · スペースジャグラー · #073 · Full art (SR)",
+  "trend": 1.92,
+  "good": 1.34,
+  "super": 0.96
+ },
+ {
+  "dex": 901,
+  "name": "Ursaluna",
+  "owned": false,
+  "cheapest": "[EN] Bloodmoon Ursaluna ex · Twilight Masquerade · #202 · Full art (Ultra rara)",
+  "trend": 2.21,
+  "good": 1.55,
+  "super": 1.1
+ },
+ {
+  "dex": 902,
+  "name": "Basculegion",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 903,
+  "name": "Sneasler",
+  "owned": false,
+  "cheapest": "[JP] ヒスイ オオニューラV · スペースジャグラー · #074 · Full art (SR)",
+  "trend": 3.07,
+  "good": 2.15,
+  "super": 1.53
+ },
+ {
+  "dex": 904,
+  "name": "Overqwil",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 905,
+  "name": "Enamorus",
+  "owned": false,
+  "cheapest": "[JP] ラブトロス · ストームエメラルダ · #083 · Rara iper Mega",
+  "trend": 1.33,
+  "good": 0.93,
+  "super": 0.67
+ },
+ {
+  "dex": 906,
+  "name": "Sprigatito",
+  "owned": false,
+  "cheapest": "[EN] Sprigatito ex · Ascended Heroes · #251 · Full art (Ultra rara)",
+  "trend": 1.64,
+  "good": 1.15,
+  "super": 0.82
+ },
+ {
+  "dex": 907,
+  "name": "Floragato",
+  "owned": false,
+  "cheapest": "[EN] Floragato · Paldea Evolved · #197 · IR (Rara illustrazione / AR)",
+  "trend": 8.49,
+  "good": 5.94,
+  "super": 4.25
+ },
+ {
+  "dex": 908,
+  "name": "Meowscarada",
+  "owned": false,
+  "cheapest": "[EN] Meowscarada ex · Paldea Evolved · #231 · Full art (Ultra rara)",
+  "trend": 2.06,
+  "good": 1.44,
+  "super": 1.03
+ },
+ {
+  "dex": 909,
+  "name": "Fuecoco",
+  "owned": false,
+  "cheapest": "[JP] ホゲータex · 30th CELEBRATION · #124 · SIR (Rara illustrazione speciale / SAR)",
+  "trend": 4.52,
+  "good": 3.16,
+  "super": 2.26
+ },
+ {
+  "dex": 910,
+  "name": "Crocalor",
+  "owned": false,
+  "cheapest": "[EN] Crocalor · Paldea Evolved · #202 · IR (Rara illustrazione / AR)",
+  "trend": 10.85,
+  "good": 7.59,
+  "super": 5.42
+ },
+ {
+  "dex": 911,
+  "name": "Skeledirge",
+  "owned": false,
+  "cheapest": "[EN] Skeledirge ex · Paldea Evolved · #233 · Full art (Ultra rara)",
+  "trend": 2.0,
+  "good": 1.4,
+  "super": 1.0
+ },
+ {
+  "dex": 912,
+  "name": "Quaxly",
+  "owned": false,
+  "cheapest": "[EN] Quaxly · Paldea Evolved · #206 · IR (Rara illustrazione / AR)",
+  "trend": 9.44,
+  "good": 6.61,
+  "super": 4.72
+ },
+ {
+  "dex": 913,
+  "name": "Quaxwell",
+  "owned": false,
+  "cheapest": "[EN] Quaxwell · Paldea Evolved · #207 · IR (Rara illustrazione / AR)",
+  "trend": 6.22,
+  "good": 4.35,
+  "super": 3.11
+ },
+ {
+  "dex": 914,
+  "name": "Quaquaval",
+  "owned": false,
+  "cheapest": "[EN] Quaquaval ex · Paldea Evolved · #235 · Full art (Ultra rara)",
+  "trend": 1.56,
+  "good": 1.09,
+  "super": 0.78
+ },
+ {
+  "dex": 915,
+  "name": "Lechonk",
+  "owned": false,
+  "cheapest": "[EN] Lechonk · Obsidian Flames · #209 · IR (Rara illustrazione / AR)",
+  "trend": 4.77,
+  "good": 3.34,
+  "super": 2.38
+ },
+ {
+  "dex": 916,
+  "name": "Oinkologne",
+  "owned": false,
+  "cheapest": "[EN] Oinkologne ex · Scarlet & Violet · #234 · Full art (Ultra rara)",
+  "trend": 2.27,
+  "good": 1.59,
+  "super": 1.14
+ },
+ {
+  "dex": 917,
+  "name": "Tarountula",
+  "owned": false,
+  "cheapest": "[JP] タマンチュラ · バイオレットex · #079 · IR (Rara illustrazione / AR)",
+  "trend": 1.51,
+  "good": 1.06,
+  "super": 0.76
+ },
+ {
+  "dex": 918,
+  "name": "Spidops",
+  "owned": false,
+  "cheapest": "[JP] ロケット団のワナイダー · ロケット団の栄光 · #099 · IR (Rara illustrazione / AR)",
+  "trend": 1.03,
+  "good": 0.72,
+  "super": 0.52
+ },
+ {
+  "dex": 919,
+  "name": "Nymble",
+  "owned": false,
+  "cheapest": "[JP] マメバッタ · インフェルノX · #082 · IR (Rara illustrazione / AR)",
+  "trend": 0.74,
+  "good": 0.52,
+  "super": 0.37
+ },
+ {
+  "dex": 920,
+  "name": "Lokix",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 921,
+  "name": "Pawmi",
+  "owned": false,
+  "cheapest": "[EN] Pawmi · Paldean Fates · #226 · IR (Rara illustrazione / AR)",
+  "trend": 1.67,
+  "good": 1.17,
+  "super": 0.83
+ },
+ {
+  "dex": 922,
+  "name": "Pawmo",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 923,
+  "name": "Pawmot",
+  "owned": false,
+  "cheapest": "[JP] パーモット · バイオレットex · #085 · IR (Rara illustrazione / AR)",
+  "trend": 2.78,
+  "good": 1.95,
+  "super": 1.39
+ },
+ {
+  "dex": 924,
+  "name": "Tandemaus",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 925,
+  "name": "Maushold",
+  "owned": false,
+  "cheapest": "[JP] イッカネズミ · 30th CELEBRATION · #123 · IR (Rara illustrazione / AR)",
+  "trend": 2.53,
+  "good": 1.77,
+  "super": 1.26
+ },
+ {
+  "dex": 926,
+  "name": "Fidough",
+  "owned": false,
+  "cheapest": "[EN] Fidough · Scarlet & Violet · #213 · IR (Rara illustrazione / AR)",
+  "trend": 10.29,
+  "good": 7.2,
+  "super": 5.14
+ },
+ {
+  "dex": 927,
+  "name": "Dachsbun",
+  "owned": false,
+  "cheapest": "[EN] Dachsbun ex · Stellar Crown · #160 · Full art (Ultra rara)",
+  "trend": 1.88,
+  "good": 1.32,
+  "super": 0.94
+ },
+ {
+  "dex": 928,
+  "name": "Smoliv",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 929,
+  "name": "Dolliv",
+  "owned": false,
+  "cheapest": "[EN] Dolliv · Scarlet & Violet · #200 · IR (Rara illustrazione / AR)",
+  "trend": 5.51,
+  "good": 3.86,
+  "super": 2.75
+ },
+ {
+  "dex": 930,
+  "name": "Arboliva",
+  "owned": false,
+  "cheapest": "[JP] オリーヴァex · ロケット団の栄光 · #111 · Full art (SR)",
+  "trend": 1.87,
+  "good": 1.31,
+  "super": 0.94
+ },
+ {
+  "dex": 931,
+  "name": "Squawkabilly",
+  "owned": false,
+  "cheapest": "[EN] Squawkabilly ex · Paldea Evolved · #247 · Full art (Ultra rara)",
+  "trend": 1.32,
+  "good": 0.92,
+  "super": 0.66
+ },
+ {
+  "dex": 932,
+  "name": "Nacli",
+  "owned": false,
+  "cheapest": "[EN] Nacli · Paldea Evolved · #220 · IR (Rara illustrazione / AR)",
+  "trend": 4.53,
+  "good": 3.17,
+  "super": 2.27
+ },
+ {
+  "dex": 933,
+  "name": "Naclstack",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 934,
+  "name": "Garganacl",
+  "owned": false,
+  "cheapest": "[JP] キョジオーン · メガブレイブ · #070 · IR (Rara illustrazione / AR)",
+  "trend": 0.89,
+  "good": 0.62,
+  "super": 0.45
+ },
+ {
+  "dex": 935,
+  "name": "Charcadet",
+  "owned": false,
+  "cheapest": "[JP] カルボウ · インフェルノX · #083 · IR (Rara illustrazione / AR)",
+  "trend": 1.23,
+  "good": 0.86,
+  "super": 0.61
+ },
+ {
+  "dex": 936,
+  "name": "Armarouge",
+  "owned": false,
+  "cheapest": "[JP] グレンアルマ · アビスアイ · #083 · IR (Rara illustrazione / AR)",
+  "trend": 1.88,
+  "good": 1.32,
+  "super": 0.94
+ },
+ {
+  "dex": 937,
+  "name": "Ceruledge",
+  "owned": false,
+  "cheapest": "[JP] ソウブレイズ · 超電ブレイカー · #109 · IR (Rara illustrazione / AR)",
+  "trend": 5.3,
+  "good": 3.71,
+  "super": 2.65
+ },
+ {
+  "dex": 938,
+  "name": "Tadbulb",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 939,
+  "name": "Bellibolt",
+  "owned": false,
+  "cheapest": "[EN] Bellibolt ex · Paldea Evolved · #237 · Full art (Ultra rara)",
+  "trend": 1.51,
+  "good": 1.06,
+  "super": 0.76
+ },
+ {
+  "dex": 940,
+  "name": "Wattrel",
+  "owned": false,
+  "cheapest": "[JP] カイデン · 変幻の仮面 · #105 · IR (Rara illustrazione / AR)",
+  "trend": 1.86,
+  "good": 1.3,
+  "super": 0.93
+ },
+ {
+  "dex": 941,
+  "name": "Kilowattrel",
+  "owned": false,
+  "cheapest": "[EN] Iono's Kilowattrel · Journey Together · #163 · IR (Rara illustrazione / AR)",
+  "trend": 2.98,
+  "good": 2.09,
+  "super": 1.49
+ },
+ {
+  "dex": 942,
+  "name": "Maschiff",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 943,
+  "name": "Mabosstiff",
+  "owned": false,
+  "cheapest": "[EN] Arven's Mabosstiff ex · Destined Rivals · #218 · Full art (Ultra rara)",
+  "trend": 1.39,
+  "good": 0.97,
+  "super": 0.69
+ },
+ {
+  "dex": 944,
+  "name": "Shroodle",
+  "owned": false,
+  "cheapest": "[JP] シルシュルー · メガブレイブ · #072 · IR (Rara illustrazione / AR)",
+  "trend": 1.06,
+  "good": 0.74,
+  "super": 0.53
+ },
+ {
+  "dex": 945,
+  "name": "Grafaiai",
+  "owned": false,
+  "cheapest": "[EN] Grafaiai · Paldea Evolved · #223 · IR (Rara illustrazione / AR)",
+  "trend": 5.32,
+  "good": 3.72,
+  "super": 2.66
+ },
+ {
+  "dex": 946,
+  "name": "Bramblin",
+  "owned": false,
+  "cheapest": "[EN] Bramblin · Paldea Evolved · #198 · IR (Rara illustrazione / AR)",
+  "trend": 7.29,
+  "good": 5.1,
+  "super": 3.65
+ },
+ {
+  "dex": 947,
+  "name": "Brambleghast",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 948,
+  "name": "Toedscool",
+  "owned": false,
+  "cheapest": "[JP] ノノクラゲ · バイオレットex · #080 · IR (Rara illustrazione / AR)",
+  "trend": 1.43,
+  "good": 1.0,
+  "super": 0.71
+ },
+ {
+  "dex": 949,
+  "name": "Toedscruel",
+  "owned": false,
+  "cheapest": "[EN] Toedscruel · Paradox Rift · #185 · IR (Rara illustrazione / AR)",
+  "trend": 4.46,
+  "good": 3.12,
+  "super": 2.23
+ },
+ {
+  "dex": 950,
+  "name": "Klawf",
+  "owned": false,
+  "cheapest": "[EN] Klawf · Scarlet & Violet · #217 · IR (Rara illustrazione / AR)",
+  "trend": 3.8,
+  "good": 2.66,
+  "super": 1.9
+ },
+ {
+  "dex": 951,
+  "name": "Capsakid",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 952,
+  "name": "Scovillain",
+  "owned": false,
+  "cheapest": "[JP] スコヴィランex · 超電ブレイカー · #120 · Full art (SR)",
+  "trend": 0.84,
+  "good": 0.59,
+  "super": 0.42
+ },
+ {
+  "dex": 953,
+  "name": "Rellor",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 954,
+  "name": "Rabsca",
+  "owned": false,
+  "cheapest": "[EN] Rabsca · Paldea Evolved · #215 · IR (Rara illustrazione / AR)",
+  "trend": 4.65,
+  "good": 3.25,
+  "super": 2.33
+ },
+ {
+  "dex": 955,
+  "name": "Flittle",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 956,
+  "name": "Espathra",
+  "owned": false,
+  "cheapest": "[EN] Espathra · Paradox Rift · #197 · IR (Rara illustrazione / AR)",
+  "trend": 7.84,
+  "good": 5.49,
+  "super": 3.92
+ },
+ {
+  "dex": 957,
+  "name": "Tinkatink",
+  "owned": false,
+  "cheapest": "[EN] Tinkatink · Paldea Evolved · #216 · IR (Rara illustrazione / AR)",
+  "trend": 10.56,
+  "good": 7.39,
+  "super": 5.28
+ },
+ {
+  "dex": 958,
+  "name": "Tinkatuff",
+  "owned": false,
+  "cheapest": "[EN] Tinkatuff · Paldea Evolved · #217 · IR (Rara illustrazione / AR)",
+  "trend": 11.27,
+  "good": 7.89,
+  "super": 5.63
+ },
+ {
+  "dex": 959,
+  "name": "Tinkaton",
+  "owned": false,
+  "cheapest": "[EN] Tinkaton ex · Paldea Evolved · #240 · Full art (Ultra rara)",
+  "trend": 3.09,
+  "good": 2.16,
+  "super": 1.54
+ },
+ {
+  "dex": 960,
+  "name": "Wiglett",
+  "owned": false,
+  "cheapest": "[EN] Wiglett · Scarlet & Violet · #206 · IR (Rara illustrazione / AR)",
+  "trend": 9.97,
+  "good": 6.98,
+  "super": 4.99
+ },
+ {
+  "dex": 961,
+  "name": "Wugtrio",
+  "owned": false,
+  "cheapest": "[EN] Wugtrio · Paldean Fates · #224 · IR (Rara illustrazione / AR)",
+  "trend": 1.33,
+  "good": 0.93,
+  "super": 0.67
+ },
+ {
+  "dex": 962,
+  "name": "Bombirdier",
+  "owned": false,
+  "cheapest": "[JP] オトシドリ · バイオレットex · #089 · IR (Rara illustrazione / AR)",
+  "trend": 1.71,
+  "good": 1.2,
+  "super": 0.85
+ },
+ {
+  "dex": 963,
+  "name": "Finizen",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 964,
+  "name": "Palafin",
+  "owned": false,
+  "cheapest": "[EN] Palafin ex · Twilight Masquerade · #193 · Full art (Ultra rara)",
+  "trend": 1.11,
+  "good": 0.78,
+  "super": 0.56
+ },
+ {
+  "dex": 965,
+  "name": "Varoom",
+  "owned": false,
+  "cheapest": "[EN] Varoom · Obsidian Flames · #206 · IR (Rara illustrazione / AR)",
+  "trend": 2.01,
+  "good": 1.41,
+  "super": 1.0
+ },
+ {
+  "dex": 966,
+  "name": "Revavroom",
+  "owned": false,
+  "cheapest": "[EN] Revavroom ex · Obsidian Flames · #216 · Full art (Ultra rara)",
+  "trend": 1.14,
+  "good": 0.8,
+  "super": 0.57
+ },
+ {
+  "dex": 967,
+  "name": "Cyclizar",
+  "owned": false,
+  "cheapest": "[EN] Cyclizar ex · Surging Sparks · #228 · Full art (Ultra rara)",
+  "trend": 1.84,
+  "good": 1.29,
+  "super": 0.92
+ },
+ {
+  "dex": 968,
+  "name": "Orthworm",
+  "owned": false,
+  "cheapest": "[EN] Orthworm ex · Stellar Crown · #162 · Full art (Ultra rara)",
+  "trend": 1.08,
+  "good": 0.76,
+  "super": 0.54
+ },
+ {
+  "dex": 969,
+  "name": "Glimmet",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 970,
+  "name": "Glimmora",
+  "owned": false,
+  "cheapest": "[EN] Glimmora ex · Obsidian Flames · #213 · Full art (Ultra rara)",
+  "trend": 1.41,
+  "good": 0.99,
+  "super": 0.7
+ },
+ {
+  "dex": 971,
+  "name": "Greavard",
+  "owned": false,
+  "cheapest": "[JP] ボチ · バイオレットex · #087 · IR (Rara illustrazione / AR)",
+  "trend": 4.28,
+  "good": 3.0,
+  "super": 2.14
+ },
+ {
+  "dex": 972,
+  "name": "Houndstone",
+  "owned": false,
+  "cheapest": "[JP] ハカドッグ · メガシンフォニア · #073 · IR (Rara illustrazione / AR)",
+  "trend": 1.23,
+  "good": 0.86,
+  "super": 0.61
+ },
+ {
+  "dex": 973,
+  "name": "Flamigo",
+  "owned": false,
+  "cheapest": "[EN] Flamigo · Paldea Evolved · #227 · IR (Rara illustrazione / AR)",
+  "trend": 6.01,
+  "good": 4.21,
+  "super": 3.0
+ },
+ {
+  "dex": 974,
+  "name": "Cetoddle",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 975,
+  "name": "Cetitan",
+  "owned": false,
+  "cheapest": "[EN] Cetitan ex · Destined Rivals · #210 · Full art (Ultra rara)",
+  "trend": 1.41,
+  "good": 0.99,
+  "super": 0.7
+ },
+ {
+  "dex": 976,
+  "name": "Veluza",
+  "owned": false,
+  "cheapest": "[EN] Veluza · Paradox Rift · #192 · IR (Rara illustrazione / AR)",
+  "trend": 5.32,
+  "good": 3.72,
+  "super": 2.66
+ },
+ {
+  "dex": 977,
+  "name": "Dondozo",
+  "owned": false,
+  "cheapest": "[EN] Dondozo ex · Destined Rivals · #211 · Full art (Ultra rara)",
+  "trend": 0.98,
+  "good": 0.69,
+  "super": 0.49
+ },
+ {
+  "dex": 978,
+  "name": "Tatsugiri",
+  "owned": false,
+  "cheapest": "[JP] シャリタツex · 超電ブレイカー · #125 · Full art (SR)",
+  "trend": 1.51,
+  "good": 1.06,
+  "super": 0.76
+ },
+ {
+  "dex": 979,
+  "name": "Annihilape",
+  "owned": false,
+  "cheapest": "[EN] Annihilape ex · Paldea Evolved · #242 · Full art (Ultra rara)",
+  "trend": 2.31,
+  "good": 1.62,
+  "super": 1.16
+ },
+ {
+  "dex": 980,
+  "name": "Clodsire",
+  "owned": false,
+  "cheapest": "[EN] Paldean Clodsire ex · Paldea Evolved · #244 · Full art (Ultra rara)",
+  "trend": 1.83,
+  "good": 1.28,
+  "super": 0.92
+ },
+ {
+  "dex": 981,
+  "name": "Farigiraf",
+  "owned": false,
+  "cheapest": "[JP] リキキリンex · サイバージャッジ · #088 · Full art (SR)",
+  "trend": 1.72,
+  "good": 1.2,
+  "super": 0.86
+ },
+ {
+  "dex": 982,
+  "name": "Dudunsparce",
+  "owned": false,
+  "cheapest": "[EN] Dudunsparce ex · Journey Together · #178 · Full art (Ultra rara)",
+  "trend": 1.67,
+  "good": 1.17,
+  "super": 0.83
+ },
+ {
+  "dex": 983,
+  "name": "Kingambit",
+  "owned": false,
+  "cheapest": "[EN] Kingambit · Scarlet & Violet · #220 · IR (Rara illustrazione / AR)",
+  "trend": 5.56,
+  "good": 3.89,
+  "super": 2.78
+ },
+ {
+  "dex": 984,
+  "name": "Great Tusk",
+  "owned": false,
+  "cheapest": "[EN] Great Tusk ex · Scarlet & Violet · #230 · Full art (Ultra rara)",
+  "trend": 1.3,
+  "good": 0.91,
+  "super": 0.65
+ },
+ {
+  "dex": 985,
+  "name": "Scream Tail",
+  "owned": false,
+  "cheapest": "[EN] Scream Tail ex · Twilight Masquerade · #197 · Full art (Ultra rara)",
+  "trend": 1.78,
+  "good": 1.25,
+  "super": 0.89
+ },
+ {
+  "dex": 986,
+  "name": "Brute Bonnet",
+  "owned": false,
+  "cheapest": "[EN] Brute Bonnet · Paradox Rift · #207 · IR (Rara illustrazione / AR)",
+  "trend": 11.36,
+  "good": 7.95,
+  "super": 5.68
+ },
+ {
+  "dex": 987,
+  "name": "Flutter Mane",
+  "owned": false,
+  "cheapest": "[JP] ハバタクカミ · ワイルドフォース · #076 · IR (Rara illustrazione / AR)",
+  "trend": 1.61,
+  "good": 1.13,
+  "super": 0.81
+ },
+ {
+  "dex": 988,
+  "name": "Slither Wing",
+  "owned": false,
+  "cheapest": "[EN] Slither Wing · Paradox Rift · #203 · IR (Rara illustrazione / AR)",
+  "trend": 3.28,
+  "good": 2.3,
+  "super": 1.64
+ },
+ {
+  "dex": 989,
+  "name": "Sandy Shocks",
+  "owned": false,
+  "cheapest": "[EN] Sandy Shocks ex · Paradox Rift · #228 · Full art (Ultra rara)",
+  "trend": 1.58,
+  "good": 1.11,
+  "super": 0.79
+ },
+ {
+  "dex": 990,
+  "name": "Iron Treads",
+  "owned": false,
+  "cheapest": "[JP] テツノワダチex · バイオレットex · #096 · Full art (SR)",
+  "trend": 1.32,
+  "good": 0.92,
+  "super": 0.66
+ },
+ {
+  "dex": 991,
+  "name": "Iron Bundle",
+  "owned": false,
+  "cheapest": "[]  · #",
+  "trend": null,
+  "good": null,
+  "super": null
+ },
+ {
+  "dex": 992,
+  "name": "Iron Hands",
+  "owned": false,
+  "cheapest": "[EN] Iron Hands ex · Paradox Rift · #223 · Full art (Ultra rara)",
+  "trend": 1.68,
+  "good": 1.18,
+  "super": 0.84
+ },
+ {
+  "dex": 993,
+  "name": "Iron Jugulis",
+  "owned": false,
+  "cheapest": "[EN] Iron Jugulis · Paradox Rift · #216 · IR (Rara illustrazione / AR)",
+  "trend": 5.14,
+  "good": 3.6,
+  "super": 2.57
+ },
+ {
+  "dex": 994,
+  "name": "Iron Moth",
+  "owned": false,
+  "cheapest": "[EN] Iron Moth · Paradox Rift · #187 · IR (Rara illustrazione / AR)",
+  "trend": 4.42,
+  "good": 3.09,
+  "super": 2.21
+ },
+ {
+  "dex": 995,
+  "name": "Iron Thorns",
+  "owned": false,
+  "cheapest": "[JP] テツノイバラ · サイバージャッジ · #077 · IR (Rara illustrazione / AR)",
+  "trend": 1.28,
+  "good": 0.9,
+  "super": 0.64
+ },
+ {
+  "dex": 996,
+  "name": "Frigibax",
+  "owned": false,
+  "cheapest": "[EN] Frigibax · Paldea Evolved · #208 · IR (Rara illustrazione / AR)",
+  "trend": 12.11,
+  "good": 8.48,
+  "super": 6.05
+ },
+ {
+  "dex": 997,
+  "name": "Arctibax",
+  "owned": false,
+  "cheapest": "[EN] Arctibax · Paldea Evolved · #209 · IR (Rara illustrazione / AR)",
+  "trend": 11.83,
+  "good": 8.28,
+  "super": 5.92
+ },
+ {
+  "dex": 998,
+  "name": "Baxcalibur",
+  "owned": false,
+  "cheapest": "[EN] Baxcalibur · Paldea Evolved · #210 · IR (Rara illustrazione / AR)",
+  "trend": 15.06,
+  "good": 10.54,
+  "super": 7.53
+ },
+ {
+  "dex": 999,
+  "name": "Gimmighoul",
+  "owned": false,
+  "cheapest": "[EN] Gimmighoul · Paradox Rift · #198 · IR (Rara illustrazione / AR)",
+  "trend": 7.18,
+  "good": 5.03,
+  "super": 3.59
+ },
+ {
+  "dex": 1000,
+  "name": "Gholdengo",
+  "owned": false,
+  "cheapest": "[JP] サーフゴー · 30th CELEBRATION · #118 · IR (Rara illustrazione / AR)",
+  "trend": 0.61,
+  "good": 0.43,
+  "super": 0.3
+ },
+ {
+  "dex": 1001,
+  "name": "Wo-Chien",
+  "owned": false,
+  "cheapest": "[EN] Wo-Chien ex · Paldea Evolved · #232 · Full art (Ultra rara)",
+  "trend": 1.49,
+  "good": 1.04,
+  "super": 0.74
+ },
+ {
+  "dex": 1002,
+  "name": "Chien-Pao",
+  "owned": false,
+  "cheapest": "[EN] Chien-Pao ex · Paldea Evolved · #236 · Full art (Ultra rara)",
+  "trend": 1.96,
+  "good": 1.37,
+  "super": 0.98
+ },
+ {
+  "dex": 1003,
+  "name": "Ting-Lu",
+  "owned": false,
+  "cheapest": "[EN] Ting-Lu ex · Paldea Evolved · #243 · Full art (Ultra rara)",
+  "trend": 1.43,
+  "good": 1.0,
+  "super": 0.71
+ },
+ {
+  "dex": 1004,
+  "name": "Chi-Yu",
+  "owned": false,
+  "cheapest": "[EN] Chi-Yu ex · Paldea Evolved · #234 · Full art (Ultra rara)",
+  "trend": 2.02,
+  "good": 1.41,
+  "super": 1.01
+ },
+ {
+  "dex": 1005,
+  "name": "Roaring Moon",
+  "owned": false,
+  "cheapest": "[EN] Roaring Moon ex · Paradox Rift · #229 · Full art (Ultra rara)",
+  "trend": 2.26,
+  "good": 1.58,
+  "super": 1.13
+ },
+ {
+  "dex": 1006,
+  "name": "Iron Valiant",
+  "owned": false,
+  "cheapest": "[EN] Iron Valiant ex · Paradox Rift · #225 · Full art (Ultra rara)",
+  "trend": 2.45,
+  "good": 1.72,
+  "super": 1.23
+ },
+ {
+  "dex": 1007,
+  "name": "Koraidon",
+  "owned": false,
+  "cheapest": "[EN] Koraidon ex · Scarlet & Violet · #231 · Full art (Ultra rara)",
+  "trend": 2.26,
+  "good": 1.58,
+  "super": 1.13
+ },
+ {
+  "dex": 1008,
+  "name": "Miraidon",
+  "owned": false,
+  "cheapest": "[EN] Miraidon ex · Scarlet & Violet · #227 · Full art (Ultra rara)",
+  "trend": 2.31,
+  "good": 1.62,
+  "super": 1.16
+ },
+ {
+  "dex": 1009,
+  "name": "Walking Wake",
+  "owned": false,
+  "cheapest": "[JP] ウネルミナモex · ワイルドフォース · #086 · Full art (SR)",
+  "trend": 1.59,
+  "good": 1.11,
+  "super": 0.8
+ },
+ {
+  "dex": 1010,
+  "name": "Iron Leaves",
+  "owned": false,
+  "cheapest": "[JP] テツノイサハex · サイバージャッジ · #084 · Full art (SR)",
+  "trend": 1.98,
+  "good": 1.39,
+  "super": 0.99
+ },
+ {
+  "dex": 1011,
+  "name": "Dipplin",
+  "owned": false,
+  "cheapest": "[JP] カミッチュ · 変幻の仮面 · #103 · IR (Rara illustrazione / AR)",
+  "trend": 2.14,
+  "good": 1.5,
+  "super": 1.07
+ },
+ {
+  "dex": 1012,
+  "name": "Poltchageist",
+  "owned": false,
+  "cheapest": "[EN] Poltchageist · Twilight Masquerade · #171 · IR (Rara illustrazione / AR)",
+  "trend": 3.4,
+  "good": 2.38,
+  "super": 1.7
+ },
+ {
+  "dex": 1013,
+  "name": "Sinistcha",
+  "owned": false,
+  "cheapest": "[EN] Sinistcha ex · Twilight Masquerade · #189 · Full art (Ultra rara)",
+  "trend": 1.64,
+  "good": 1.15,
+  "super": 0.82
+ },
+ {
+  "dex": 1014,
+  "name": "Okidogi",
+  "owned": false,
+  "cheapest": "[JP] イイネイヌex · ナイトワンダラー · #079 · Full art (SR)",
+  "trend": 1.23,
+  "good": 0.86,
+  "super": 0.61
+ },
+ {
+  "dex": 1015,
+  "name": "Munkidori",
+  "owned": false,
+  "cheapest": "[EN] Munkidori ex · Shrouded Fable · #083 · Full art (Ultra rara)",
+  "trend": 1.57,
+  "good": 1.1,
+  "super": 0.79
+ },
+ {
+  "dex": 1016,
+  "name": "Fezandipiti",
+  "owned": false,
+  "cheapest": "[JP] キチキギスex · ナイトワンダラー · #081 · Full art (SR)",
+  "trend": 1.87,
+  "good": 1.31,
+  "super": 0.94
+ },
+ {
+  "dex": 1017,
+  "name": "Ogerpon",
+  "owned": false,
+  "cheapest": "[JP] オーガポン かまどのめんex · 変幻の仮面 · #115 · Full art (SR)",
+  "trend": 1.84,
+  "good": 1.29,
+  "super": 0.92
+ },
+ {
+  "dex": 1018,
+  "name": "Archaludon",
+  "owned": false,
+  "cheapest": "[EN] Archaludon ex · Surging Sparks · #224 · Full art (Ultra rara)",
+  "trend": 1.43,
+  "good": 1.0,
+  "super": 0.71
+ },
+ {
+  "dex": 1019,
+  "name": "Hydrapple",
+  "owned": false,
+  "cheapest": "[EN] Hydrapple ex · Stellar Crown · #156 · Full art (Ultra rara)",
+  "trend": 2.15,
+  "good": 1.5,
+  "super": 1.07
+ },
+ {
+  "dex": 1020,
+  "name": "Gouging Fire",
+  "owned": false,
+  "cheapest": "[JP] ウガツホムラex · ワイルドフォース · #085 · Full art (SR)",
+  "trend": 1.69,
+  "good": 1.18,
+  "super": 0.84
+ },
+ {
+  "dex": 1021,
+  "name": "Raging Bolt",
+  "owned": false,
+  "cheapest": "[JP] タケルライコex · ワイルドフォース · #089 · Full art (SR)",
+  "trend": 1.86,
+  "good": 1.3,
+  "super": 0.93
+ },
+ {
+  "dex": 1022,
+  "name": "Iron Boulder",
+  "owned": false,
+  "cheapest": "[EN] Iron Boulder ex · Temporal Forces · #192 · Full art (Ultra rara)",
+  "trend": 1.49,
+  "good": 1.04,
+  "super": 0.74
+ },
+ {
+  "dex": 1023,
+  "name": "Iron Crown",
+  "owned": false,
+  "cheapest": "[JP] テツノカシラex · サイバージャッジ · #086 · Full art (SR)",
+  "trend": 2.1,
+  "good": 1.47,
+  "super": 1.05
+ },
+ {
+  "dex": 1024,
+  "name": "Terapagos",
+  "owned": false,
+  "cheapest": "[EN] Terapagos ex · Stellar Crown · #170 · SIR (Rara illustrazione speciale / SAR)",
+  "trend": 29.29,
+  "good": 20.5,
+  "super": 14.64
+ },
+ {
+  "dex": 1025,
+  "name": "Pecharunt",
+  "owned": false,
+  "cheapest": "[JP] モモワロウex · ナイトワンダラー · #082 · Full art (SR)",
+  "trend": 1.81,
+  "good": 1.27,
+  "super": 0.91
+ }
+]

@@ -20,8 +20,11 @@ from .net import session
 from .sources import cardtrader, marketplaces
 
 STATE = config.ROOT / "data" / "stato.json"
-DEALS = config.ROOT / "data" / "affari.json"
-STATUS = config.ROOT / "data" / "siti.json"
+# file letti dalla dashboard (docs/ = sito GitHub Pages)
+DEALS = config.ROOT / "docs" / "data" / "affari.json"
+STATUS = config.ROOT / "docs" / "data" / "siti.json"
+CARDEX = config.ROOT / "docs" / "data" / "cardex.json"
+DASHBOARD_DAYS = 30          # annunci mostrati nella dashboard: visti negli ultimi 30 giorni
 
 SOURCES = {
     "ebay": marketplaces.ebay,
@@ -95,6 +98,14 @@ def analyze(raw) -> dict | None:
             "check": info.check, "multi": info.multi}
 
 
+def cardex_summary():
+    """Avanzamento del cardex per la dashboard (dal CSV, colonna "Presa")."""
+    from . import dati
+    return [{"dex": e.dex, "name": e.name, "owned": e.owned, "cheapest": e.cheapest,
+             "trend": e.trend, "good": e.good, "super": e.super}
+            for e in sorted(dati.cardex().values(), key=lambda e: e.dex)]
+
+
 def group_key(a):
     if a.get("seller"):
         return f"{a['platform']}|{a['seller']}"
@@ -121,7 +132,7 @@ def run(only=None, dry_run=False):
             traceback.print_exc()
             ctx.fail(name, e)
 
-    alerts, seen = [], set()
+    alerts, refreshed, seen = [], [], set()
     for raw in raw_items:
         iid = raw.get("native_id")
         if not iid or iid in seen:
@@ -135,6 +146,7 @@ def run(only=None, dry_run=False):
             old["last_seen"] = t
             # gia' segnalato: riavvisa solo se il prezzo e' sceso a un livello migliore
             if LEVEL_RANK[a["level"]] >= LEVEL_RANK.get(old.get("level"), 9):
+                refreshed.append(a)      # aggiorna la dashboard, senza avvisare
                 continue
             a["price_drop_from"] = old.get("total")
         alerts.append(a)
@@ -178,11 +190,23 @@ def run(only=None, dry_run=False):
         notify.send_text(f"…e altri <b>{extra}</b> messaggi in soglia: li trovi in data/affari.json.",
                          silent=True)
 
-    for a in alerts:
+    for a in alerts + refreshed:
+        old = state["items"].get(a["native_id"], {})
+        v = a["verdict"]
         state["items"][a["native_id"]] = {
-            "title": a["title"], "url": a["url"], "source": a["source"], "total": a["total"],
-            "level": a["level"], "group": group_key(a), "first_seen": t, "last_seen": t,
-            "missing": a["verdict"]["missing"], "check": a["check"]}
+            "id": a["native_id"], "title": a["title"], "url": a["url"], "image": a.get("image", ""),
+            "source": a["source"], "platform": a.get("platform", ""),
+            "seller": a.get("seller_name") or a.get("seller", ""), "seller_url": a.get("seller_url", ""),
+            "country": a.get("country", ""),
+            "price": a["price_eur"], "ship": a["ship_eur"], "ship_est": a["ship_estimated"],
+            "total": a["total"], "old_total": old.get("total"),
+            "level": a["level"], "group": group_key(a), "type": v["type"],
+            "missing": v["missing"], "check": a["check"],
+            "dex": v.get("dex"), "pokemon": v.get("pokemon"), "ref": v.get("ref"),
+            "ref_kind": v.get("ref_kind"), "good": v.get("good"), "super": v.get("super"),
+            "trend": v.get("trend"), "lang_note": v.get("lang_note", ""),
+            "missing_names": v.get("missing_names", []), "detail": v.get("detail", []),
+            "first_seen": old.get("first_seen", t), "last_seen": t}
     if len(state["items"]) > config.MAX_STORED:
         keep = sorted(state["items"].items(), key=lambda kv: kv[1].get("last_seen", ""))[-config.MAX_STORED:]
         state["items"] = dict(keep)
@@ -190,7 +214,10 @@ def run(only=None, dry_run=False):
     state["last_run"] = t
     if not dry_run:
         save(STATE, state)
-    save(DEALS, sorted(state["items"].values(), key=lambda x: x.get("last_seen", ""), reverse=True)[:500])
+    recent = (datetime.now(timezone.utc) - timedelta(days=DASHBOARD_DAYS)).isoformat()
+    save(DEALS, sorted((x for x in state["items"].values() if x.get("last_seen", "") >= recent),
+                       key=lambda x: x.get("first_seen", ""), reverse=True)[:1500])
+    save(CARDEX, cardex_summary())
     prev = load(STATUS, {}).get("sources", {})
     prev.update(ctx.status)
     save(STATUS, {"last_run": t, "seconds": round(time.time() - started, 1),

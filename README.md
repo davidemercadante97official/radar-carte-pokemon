@@ -91,6 +91,21 @@ Come il radar del Bari: GitHub Actions lo fa girare ogni 15 minuti
 - GitHub sospende i workflow pianificati dopo 60 giorni senza attività. Il radar fa un
   commit a ogni novità, quindi di norma resta attivo. Se si ferma, riattivalo da *Actions*.
 
+## Dashboard
+
+https://davidemercadante97official.github.io/radar-carte-pokemon/ (GitHub Pages, cartella `docs/`).
+Si aggiorna a ogni giro del radar. Ha tre schede:
+- **Carte**: gli annunci in soglia, con prezzo + spedizione, percentuale del trend e soglie.
+  Un clic sul venditore mostra tutti i suoi annunci in soglia e il totale con una
+  sola spedizione.
+- **Lotti**: i lotti in soglia o da valutare.
+- **Cardex**: quanti Pokémon hai, quali mancano, la carta più economica e le soglie
+  di ognuno, e i Pokémon mancanti con affari in corso.
+
+Nel bot Telegram il pulsante **Dashboard** e il messaggio fissato con il link si
+creano una volta sola con *Actions → Configura bot Telegram → Run workflow*
+(oppure `python -m radar.setup_bot`).
+
 ## Personalizzare
 
 - **Parole e nomi**: modifica i file in `dati/`. Basta aggiungere o togliere

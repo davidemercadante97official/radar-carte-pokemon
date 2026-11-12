@@ -34,7 +34,7 @@ jobs:
         run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
-          git add data
+          git add data docs/data
           git diff --cached --quiet || git commit -m "Aggiornamento radar"
           git pull --rebase -q || true
           git push
