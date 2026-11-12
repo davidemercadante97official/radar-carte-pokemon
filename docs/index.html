@@ -303,7 +303,7 @@ function render(){
   $("#deals-view").hidden=cx;$("#cardex-view").hidden=!cx;
   if(cx)renderCardex();else renderDeals();
   $("#n-carta").textContent=ALL.filter(x=>kind(x)==="carta").length;
-  $("#n-lotto").textContent=ALL.filter(x=>x.type==="lotto").length;
+  $("#n-lotto").textContent=ALL.filter(x=>kind(x)==="lotto").length;
   $("#n-cardex").textContent=DEX.length?`${DEX.filter(e=>e.owned).length}/${DEX.length}`:"";
 }
 
