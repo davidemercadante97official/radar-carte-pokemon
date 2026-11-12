@@ -23,8 +23,10 @@ su Telegram.
   protezione acquisti.
   - Se il titolo permette di capire **quale carta** è (numero `161/131`, `TG05`,
     oppure sigla del set + numero, es. `BLK 160`), usa le soglie di quella carta
-    in `dati/tutte-le-carte-artistiche.csv`. Per una carta italiana vale il
-    prezzo dell'edizione inglese; per una coreana o cinese, quello giapponese.
+    in `dati/tutte-le-carte-artistiche.csv`, **ma solo se l'annuncio è nella
+    stessa lingua del prezzo** (inglese o giapponese). Le carte italiane costano
+    molto meno delle inglesi: per italiane, coreane, cinesi o senza lingua il
+    confronto è con la carta più economica del cardex (sotto).
   - Altrimenti confronta con la **carta artistica più economica** di quel
     Pokémon in `dati/cardex-1025-carte-artistiche.csv`.
   - 🚨 **Super affare** (con suono): sotto la soglia del 50% del trend.
@@ -39,6 +41,8 @@ su Telegram.
   - il prezzo a carta sta sotto i 2 € (super affare sotto 1 €), quando il titolo
     dice quante carte ci sono;
   - altrimenti, se costa meno di 40 €, arriva come "📦 lotto da valutare".
+- **Stessa carta da più venditori** (CardTrader): su Telegram arriva solo la
+  copia più economica; le altre sono nella dashboard.
 - **Stesso venditore**: più annunci in soglia dello stesso venditore arrivano in
   **un unico messaggio**, con il totale e una sola spedizione. Il messaggio dice
   anche se quel venditore ha altri annunci in soglia già segnalati negli ultimi
