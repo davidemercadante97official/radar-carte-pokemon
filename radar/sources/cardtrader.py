@@ -53,15 +53,22 @@ def _csv_cards_by_set():
     return idx
 
 
-def _limit(card) -> float | None:
-    """Prezzo massimo oltre il quale l'offerta non puo' essere in soglia."""
+def _limit(card, lang: str = "") -> float | None:
+    """Prezzo massimo oltre il quale l'offerta non puo' essere in soglia.
+
+    Le soglie della carta valgono solo per la stessa lingua del prezzo
+    (inglese o giapponese); per le altre lingue vale la carta piu' economica
+    del cardex, come in matching.evaluate.
+    """
     entry = dati.cardex().get(card.dex)
     owned = bool(entry and entry.owned)
     if owned and config.NOTIFY_OWNED == "mai":
         return None
-    if owned and config.NOTIFY_OWNED == "super":
-        return card.super
-    return card.good
+    same = (lang == "en" and card.lang == "EN") or (lang in ("jp", "ja") and card.lang == "JP")
+    src = card if (same or not lang) else entry
+    if src is None:
+        return None
+    return src.super if (owned and config.NOTIFY_OWNED == "super") else src.good
 
 
 def _targets(expansions):
@@ -107,7 +114,6 @@ def cardtrader(ctx):
                 continue
             products = _get(ctx, "/marketplace/products", expansion_id=exp["id"])
             for bid, (b, card) in wanted.items():
-                limit = _limit(card)
                 for p in products.get(bid, []):
                     seen_offers += 1
                     props = p.get("properties_hash") or {}
@@ -116,6 +122,7 @@ def cardtrader(ctx):
                         continue
                     if lang and lang not in LANG_WORD:
                         continue            # francese, tedesco, spagnolo, portoghese...
+                    limit = _limit(card, lang)
                     price = p.get("price") or {}
                     cents = price.get("cents", p.get("price_cents"))
                     currency = price.get("currency", p.get("price_currency", "EUR"))

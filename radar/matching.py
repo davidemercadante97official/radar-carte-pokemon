@@ -189,6 +189,15 @@ def price_group(langs: set[str]) -> str | None:
     return None
 
 
+def exact_lang(langs: set[str]) -> str | None:
+    """'EN' o 'JP' solo se l'annuncio dice proprio quella lingua (e nessun'altra)."""
+    if langs == {"EN"}:
+        return "EN"
+    if langs == {"JP"}:
+        return "JP"
+    return None
+
+
 def identify_card(info: Info, dex: int):
     """Trova la carta precisa nel CSV (numero/totale o set). None se non si sa."""
     rows = dati.cards().get(dex, [])
@@ -264,14 +273,22 @@ def evaluate(info: Info, total_eur: float | None, card_hint=None) -> dict | None
         if not info.art and card is None:
             return None          # niente termine artistico e carta non riconosciuta
     entry = cdx.get(dex)
-    if card is not None:
+    lang_note = ""
+    if card is not None and exact_lang(info.langs) == card.lang:
+        # stessa carta e stessa lingua del prezzo Cardmarket: soglie della carta
         good, sup, trend = card.good, card.super, card.trend
         ref = card.label()
         ref_kind = "carta"
     elif entry and entry.good is not None:
+        # Italiano, coreano, cinese o lingua non detta: le carte italiane costano
+        # molto meno delle inglesi, quindi il prezzo inglese NON e' un riferimento.
+        # Si confronta con la carta artistica piu' economica di quel Pokémon.
         good, sup, trend = entry.good, entry.super, entry.trend
         ref = entry.cheapest
-        ref_kind = "cardex"      # la carta artistica piu' economica di quel Pokémon
+        ref_kind = "cardex"
+        if card is not None:
+            lang_note = (f"Carta riconosciuta: {card.label()}. Per questa lingua non c'è un "
+                         "prezzo Cardmarket specifico: confronto con la carta più economica del cardex")
     else:
         return None
     if good is None:
@@ -282,14 +299,6 @@ def evaluate(info: Info, total_eur: float | None, card_hint=None) -> dict | None
     owned = bool(entry and entry.owned)
     if owned and (config.NOTIFY_OWNED == "mai" or (config.NOTIFY_OWNED == "super" and level != "super")):
         return None
-    group = price_group(info.langs)
-    lang_note = ""
-    if card is not None and card.lang == "EN" and "IT" in info.langs:
-        lang_note = "prezzo di riferimento dell'edizione inglese"
-    elif card is not None and card.lang == "JP" and info.langs & {"KO", "CN"}:
-        lang_note = "prezzo di riferimento dell'edizione giapponese"
-    elif card is not None and group is None:
-        lang_note = "lingua non indicata: controllala"
     return {"type": "carta", "level": level, "missing": not owned, "dex": dex,
             "pokemon": entry.name if entry else dati.pokemon()[dex].name,
             "ref": ref, "ref_kind": ref_kind, "trend": trend, "good": good, "super": sup,

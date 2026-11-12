@@ -10,7 +10,7 @@ DEALS = {
     ("Mewtwo slightly played full art", 2): "super",          # "slightly played" non e' da verificare
     ("Lotto 30 carte pokemon full art e IR", 40): "buono",    # 1,33 € a carta
     ("Lotto full art Pikachu Eevee Snorlax", 5): "super",
-    ("Umbreon VMAX alt art Evoluzioni Eteree 215", 900): "super",
+    ("Umbreon VMAX alt art 215/203 Evolving Skies english", 900): "super",
     ("ブラッキー SAR", 10): "super",                           # giapponese, riferimento cardex
 }
 CHECK = {
@@ -31,6 +31,7 @@ DROP = [
     "Golem vintage",                                     # nome ambiguo senza termini carta
     "Gengar ex Japanisch 30th Anniversary",              # nessun termine artistico, carta non riconosciuta
     "Raihan full art 202/203",                           # allenatore, nessun Pokémon
+    "Tyranitar GX 203/214 Lost Thunder italiano",        # italiana: niente prezzo inglese come riferimento
 ]
 
 
@@ -48,7 +49,7 @@ def main():
             bad += 1
             print(f"DA VERIFICARE atteso {want}, ottenuto {info.check} / {info.excluded!r}: {title}")
     for title in DROP:
-        v = matching.evaluate(matching.classify(title), 0.5)
+        v = matching.evaluate(matching.classify(title), 0.5 if "italiano" not in title else 15)
         if v:
             bad += 1
             print(f"DOVEVA ESSERE SCARTATO: {title} -> {v['level']}")
