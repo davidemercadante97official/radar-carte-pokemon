@@ -187,7 +187,7 @@ def run(only=None, dry_run=False):
             time.sleep(1.2)
     extra = len(ordered) - config.MAX_ALERTS_PER_RUN
     if extra > 0 and notify.enabled() and not dry_run:
-        notify.send_text(f"…e altri <b>{extra}</b> messaggi in soglia: li trovi in data/affari.json.",
+        notify.send_text(f"…e altri <b>{extra}</b> messaggi in soglia: li trovi nella dashboard (pulsante Dashboard qui in chat).",
                          silent=True)
 
     for a in alerts + refreshed:
