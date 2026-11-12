@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.tmp
+# password: restano solo sul PC (su GitHub vanno nei "secret")
+.env
+# copie dei file dati fuori da dati/ (il radar usa quelli dentro dati/)
+/*.csv
+/*.txt
+!/requirements.txt
+/guida-*.md

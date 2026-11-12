@@ -1,0 +1,1177 @@
+# =====================================================================
+# PAROLE CHIAVE - CARTE POKÉMON "ARTISTICHE" PER IL CARDEX NAZIONALE (1025)
+# (full art, alternate art, illustration rare, special illustration rare,
+#  AR, SAR, CHR, CSR, trainer gallery, galarian gallery, mega attack rare...)
+# Per filtri di ricerca su Cardmarket, CardTrader, eBay, Vinted, Subito,
+# Wallapop, Mercari/Yahoo Japan (tramite proxy) e simili.
+# Una parola chiave per riga. Le righe che iniziano con # sono commenti.
+# Aggiornato: 12 novembre 2026 (ultimo set: Megaevoluzione - Dominio Delta, 6/11/2026)
+#
+# REGOLE DI QUESTA LISTA (versione 2):
+#  - lingue ACCETTATE: italiano, inglese, giapponese, coreano, cinese
+#    (semplificato e tradizionale);
+#  - lingue ESCLUSE: francese, tedesco, spagnolo, portoghese, thailandese,
+#    indonesiano e altre (le carte thai e indonesiane esistono: Bulbapedia
+#    elenca espansioni in entrambe le lingue)
+#    -> i loro termini sono finiti nella sezione 11 (parole da escludere);
+#  - carte GRADATE ESCLUSE (vanno nel binder) -> sezione 11;
+#  - carte rovinate, disegnate, alterate, false -> sezioni 10 e 11;
+#  - LOTTI e acquisti multipli dallo stesso venditore -> sezione 12.
+#
+# USO COME RADAR (come il radar del Bari, con bot Telegram):
+#  - sezioni 1-9 e 12 = parole da cercare; sezione 11 = parole che fanno
+#    SCARTARE l'annuncio; sezione 10 = parole che NON scartano ma
+#    richiedono controllo manuale (il bot dovrebbe marcarle "da verificare");
+#  - il prezzo di riferimento per decidere se è un affare è nei file
+#    cardex-1025-carte-artistiche.csv e tutte-le-carte-artistiche.csv
+#    (colonne "Soglia buon affare" e "Soglia super affare").
+#
+# Fonti verificate: tcg.pokemon.com (guida prodotti IT/EN/DE/FR/ES, nomi
+# ufficiali delle rarità), Bulbapedia (rarità, elenco espansioni con sigle
+# e date, nomi dei set nelle altre lingue), help.cardmarket.com (scala
+# condizioni, carte alterate/inked, riconoscere i falsi), guida condizioni
+# CardTrader, pokemon.com/it, pokedexia.com/it.
+# Righe marcate [NV] = NON verificate su fonte ufficiale.
+# =====================================================================
+
+
+# ---------------------------------------------------------------------
+# 1. TERMINI GENERICI "CARTA ARTISTICA" (tutte le epoche)
+# ---------------------------------------------------------------------
+# --- italiano ---
+full art
+fullart
+full-art
+figura intera
+carta a figura intera
+arte alternativa
+carta arte alternativa
+illustrazione alternativa
+illustrazione speciale
+carta illustrazione speciale
+alt art
+alternate art
+alternative art
+alt-art
+altart
+# --- inglese ---
+alternate artwork
+special art
+special illustration
+illustration rare
+textured
+texture
+secret rare
+rainbow rare
+gold rare
+# --- sigle brevi (cercare SEMPRE insieme a "pokemon") ---
+AA
+FA
+IR
+SIR
+AR
+SAR
+CHR
+CSR
+SR
+HR
+UR
+MUR
+MAR
+TG
+GG
+
+
+# ---------------------------------------------------------------------
+# 2. NOMI UFFICIALI DELLE RARITÀ - ERA SCARLATTO E VIOLETTO / MEGAEVOLUZIONE
+#    (dal 31/03/2023 in poi; nomi confermati su tcg.pokemon.com)
+# ---------------------------------------------------------------------
+# Rara illustrazione = Illustration Rare (IR), 1 stella dorata.
+#   Equivalente giapponese: Art Rare (AR, アートレア).
+#   La rarità artistica PIÙ ECONOMICA e quella che copre più Pokémon
+#   diversi: è la base ideale per il cardex.
+rara illustrazione
+illustrazione rara
+rara illus
+art rare
+アートレア
+# Rara illustrazione speciale = Special Illustration Rare (SIR), 2 stelle dorate.
+#   Equivalente giapponese: Special Art Rare (SAR, スペシャルアートレア).
+rara illustrazione speciale
+illustrazione rara speciale
+illustrazione speciale rara
+rara illustrazione spec
+special illustration rare
+special art rare
+スペシャルアートレア
+# Ultrarara (era SV) = full art Pokémon-ex / Aiuto, 2 stelle argentate. Giapp.: SR.
+ultrarara
+ultra rara
+ultra rare
+super rare
+# Iper rara = Hyper Rare (HR), 3 stelle dorate (carte oro). Giapp.: UR.
+iper rara
+iperrara
+hyper rare
+# Rara attacco Mega = Mega Attack Rare (MAR / giapp. MA), stelle rosa e verdi.
+#   In busta da Ascesa Eroica (ASC, 30/01/2026); prima solo promo MEP.
+rara attacco mega
+rara attacco
+mega attack rare
+mega attack
+# Rara iper Mega = Mega Hyper Rare (MUR / MHR), da Megaevoluzione (MEG, 26/09/2025).
+rara iper mega
+iper mega
+mega hyper rare
+mega ultra rare
+# Black White Rare (BWR) - solo Luce Nera / Fuoco Bianco (BLK/WHT, 18/07/2025)
+black white rare
+BWR
+# Rare del set 30° Anniversario (30C, 16/09/2026)
+pikachu rare
+pikachu rara
+futuristic rare
+FUR
+yoshirotten
+rgb rare
+classic collection
+# Shiny rare / Shiny ultra rare (Destino di Paldea, Evoluzioni Prismatiche)
+shiny rare
+shiny ultra rare
+SSR
+cromatica
+cromatico
+shiny
+
+
+# ---------------------------------------------------------------------
+# 3. LINGUE ACCETTATE - come cercarle e riconoscerle
+#    (le carte asiatiche costano spesso meno e hanno ottima qualità di stampa)
+# ---------------------------------------------------------------------
+# --- italiano ---
+italiano
+italiana
+ita
+# --- inglese ---
+inglese
+english
+eng
+# --- giapponese ---
+giapponese
+japanese
+jap
+jpn
+JP
+japan
+ポケモンカード
+ポケカ
+# --- coreano ---
+coreano
+coreana
+korean
+KOR
+KR
+한국어
+포켓몬 카드
+# --- cinese (semplificato: Cina continentale; tradizionale: Taiwan/Hong Kong) ---
+cinese
+chinese
+cinese semplificato
+cinese tradizionale
+simplified chinese
+traditional chinese
+S-Chinese
+T-Chinese
+简体中文
+繁體中文
+宝可梦
+寶可夢
+
+
+# ---------------------------------------------------------------------
+# 4. ERA SPADA E SCUDO (2020-2023): alternate art, Trainer Gallery,
+#    Galarian Gallery, CHR/CSR
+# ---------------------------------------------------------------------
+# "Alternate art" NON è un nome ufficiale: nelle carte inglesi/italiane SWSH
+#   le alt art sono secret rare/ultra rare con numero oltre il totale del set
+#   (es. 215/203). Termine nato dai venditori -> usarlo comunque.
+alt art V
+alt art VMAX
+alt art VSTAR
+V alternativa
+VMAX alternativa
+VSTAR alternativa
+V alt art
+VMAX alt art
+# Trainer Gallery (numeri TG01-TG30): Astri Lucenti (BRS), Lucentezza
+#   Siderale (ASR), Origine Perduta (LOR), Tempesta Argentata (SIT).
+#   Nome italiano "Galleria Allenatori" [NV]: sulle carte compare solo "TG".
+trainer gallery
+galleria allenatori
+galleria allenatore
+galleria degli allenatori
+TG01
+# Galarian Gallery (numeri GG01-GG70): solo Zenit Regale (CRZ, 20/01/2023).
+galarian gallery
+galleria di galar
+GG01
+# CHR / CSR (Character Rare / Character Super Rare): rarità giapponesi delle
+#   carte Pokémon+Allenatore, equivalenti alla Trainer Gallery
+#   (es. VMAX Climax). [NV su fonte ufficiale]
+character rare
+character super rare
+キャラクターレア
+キャラクタースーパーレア
+# Rainbow / Gold (secret rare SWSH e Sole e Luna)
+rainbow
+arcobaleno
+gold
+oro
+secret
+segreta
+carta segreta
+
+
+# ---------------------------------------------------------------------
+# 5. ERA SOLE E LUNA (2017-2019)
+# ---------------------------------------------------------------------
+full art GX
+GX full art
+GX alternativa
+tag team alt
+tag team full art
+tag team alternativa
+alt art GX
+character full art
+shiny vault
+SV
+destino sfuggente shiny
+
+
+# ---------------------------------------------------------------------
+# 6. ESPANSIONI CON CARTE ARTISTICHE
+#    Formato: nome italiano / inglese / sigla - data uscita EN
+#    (i nomi dei set in francese/tedesco/spagnolo sono nella sezione 11:
+#     servono per ESCLUDERE quelle edizioni)
+# ---------------------------------------------------------------------
+
+# --- MEGAEVOLUZIONE (2025-2026) ---
+# Megaevoluzione / Mega Evolution / MEG / ME1 - 26/09/2025
+megaevoluzione
+mega evolution
+MEG
+ME01
+# Fiamme Spettrali / Phantasmal Flames / PFL / ME2 - 14/11/2025
+fiamme spettrali
+phantasmal flames
+PFL
+# Ascesa Eroica / Ascended Heroes / ASC / ME2.5 - 30/01/2026
+ascesa eroica
+ascended heroes
+ASC
+# Equilibrio Perfetto / Perfect Order / POR / ME3 - 27/03/2026
+equilibrio perfetto
+perfect order
+POR
+# Caos Nascente / Chaos Rising / CRI / ME4 - 22/05/2026
+caos nascente
+chaos rising
+CRI
+# Buio Pesto / Pitch Black / PBL / ME5 - 17/07/2026
+buio pesto
+pitch black
+PBL
+# 30° Anniversario / 30th Celebration / 30C - 16/09/2026
+30° anniversario
+30 anniversario
+trentesimo anniversario
+30th celebration
+30th anniversary
+30C
+# Dominio Delta / Delta Reign / DLR / ME6 - 06/11/2026
+dominio delta
+delta reign
+DLR
+
+# --- SCARLATTO E VIOLETTO (2023-2025) ---
+# Scarlatto e Violetto / Scarlet & Violet / SVI / SV1 - 31/03/2023
+scarlatto e violetto
+scarlet violet
+scarlet & violet
+SVI
+# Evoluzioni a Paldea / Paldea Evolved / PAL / SV2 - 09/06/2023
+evoluzioni a paldea
+paldea evolved
+PAL
+# Ossidiana Infuocata / Obsidian Flames / OBF / SV3 - 11/08/2023
+ossidiana infuocata
+obsidian flames
+OBF
+# 151 / Scarlet & Violet—151 / MEW / SV3.5 - 22/09/2023
+pokemon 151
+151
+MEW
+sv151
+# Paradosso Temporale / Paradox Rift / PAR / SV4 - 03/11/2023
+paradosso temporale
+paradox rift
+PAR
+# Destino di Paldea / Paldean Fates / PAF / SV4.5 - 26/01/2024
+destino di paldea
+paldean fates
+PAF
+# Cronoforze / Temporal Forces / TEF / SV5 - 22/03/2024
+cronoforze
+temporal forces
+TEF
+# Crepuscolo Mascherato / Twilight Masquerade / TWM / SV6 - 24/05/2024
+crepuscolo mascherato
+twilight masquerade
+TWM
+# Segreto Fiabesco / Shrouded Fable / SFA / SV6.5 - 02/08/2024
+segreto fiabesco
+shrouded fable
+SFA
+# Corona Astrale / Stellar Crown / SCR / SV7 - 13/09/2024
+corona astrale
+stellar crown
+SCR
+# Scintille Folgoranti / Surging Sparks / SSP / SV8 - 08/11/2024
+scintille folgoranti
+surging sparks
+SSP
+# Evoluzioni Prismatiche / Prismatic Evolutions / PRE / SV8.5 - 17/01/2025
+evoluzioni prismatiche
+prismatic evolutions
+PRE
+# Avventure Insieme / Journey Together / JTG / SV9 - 28/03/2025
+avventure insieme
+journey together
+JTG
+# Rivali Predestinati / Destined Rivals / DRI / SV10 - 30/05/2025
+rivali predestinati
+destined rivals
+DRI
+# Luce Nera / Black Bolt / BLK - 18/07/2025
+luce nera
+black bolt
+BLK
+# Fuoco Bianco / White Flare / WHT - 18/07/2025
+fuoco bianco
+white flare
+WHT
+
+# --- SPADA E SCUDO (2020-2023) ---
+# Destino Splendente / Shining Fates / SHF / SWSH4.5 - 19/02/2021
+destino splendente
+shining fates
+SHF
+# Stili di Lotta / Battle Styles / BST / SWSH5 - 19/03/2021
+stili di lotta
+battle styles
+BST
+# Regno Glaciale / Chilling Reign / CRE / SWSH6 - 18/06/2021
+regno glaciale
+chilling reign
+CRE
+# Evoluzioni Eteree / Evolving Skies / EVS / SWSH7 - 27/08/2021
+evoluzioni eteree
+evolving skies
+EVS
+# Gran Festa / Celebrations / CEL - 08/10/2021
+gran festa
+celebrations
+CEL
+# Colpo Fusione / Fusion Strike / FST / SWSH8 - 12/11/2021
+colpo fusione
+fusion strike
+FST
+# Astri Lucenti / Brilliant Stars / BRS / SWSH9 - 25/02/2022
+astri lucenti
+brilliant stars
+BRS
+# Lucentezza Siderale / Astral Radiance / ASR / SWSH10 - 27/05/2022
+lucentezza siderale
+astral radiance
+ASR
+# Pokémon GO / PGO - 01/07/2022
+pokemon go
+PGO
+# Origine Perduta / Lost Origin / LOR / SWSH11 - 09/09/2022
+origine perduta
+lost origin
+LOR
+# Tempesta Argentata / Silver Tempest / SIT / SWSH12 - 11/11/2022
+tempesta argentata
+silver tempest
+SIT
+# Zenit Regale / Crown Zenith / CRZ / SWSH12.5 - 20/01/2023
+zenit regale
+crown zenith
+CRZ
+
+# --- SOLE E LUNA (2017-2019) ---
+gioco di squadra
+team up
+TEU
+legami inossidabili
+unbroken bonds
+UNB
+sintonia mentale
+unified minds
+UNM
+destino sfuggente
+hidden fates
+HIF
+eclissi cosmica
+cosmic eclipse
+CEC
+
+# --- SET GIAPPONESI (nomi traslitterati) ---
+# Confermati su Bulbapedia:
+vstar universe
+shiny treasure
+shiny treasure ex
+pokemon card 151
+star birth
+lost abyss
+paradigm trigger
+time gazer
+space juggler
+mega dream
+mega dream ex
+# [NV] da memoria:
+vmax climax
+eevee heroes
+blue sky stream
+skyscraping perfection
+terastal festival
+terastal festival ex
+night wanderer
+stellar miracle
+super electric breaker
+battle partners
+heat wave arena
+high class pack
+
+
+# ---------------------------------------------------------------------
+# 7. COME CERCARE I POKÉMON (non perdere nulla, senza errori)
+#    Lista completa dei 1025 nomi con tutte le varianti, in inglese,
+#    giapponese, coreano e cinese: nomi-pokemon-1025-ricerca.txt
+# ---------------------------------------------------------------------
+# REGOLE (verificate sui nomi delle carte italiane e inglesi in TCGdex):
+#  1. Cerca SEMPRE il nome base da solo ("charizard"). Su quasi tutti i
+#     siti trova anche "Charizard-ex", "Mega Charizard X-ex",
+#     "Charizard V ASTRO", "Charizard e Braixen GX", "Zoroark-ex di N".
+#  2. In italiano i Pokémon hanno lo stesso nome dell'inglese, ma le
+#     sigle cambiano:
+#       - era Scarlatto e Violetto / Megaevoluzione: "Nome-ex" CON TRATTINO
+#         (EN: "Name ex");
+#       - Spada e Scudo: "Nome V", "Nome VMAX", "Nome V ASTRO"
+#         (EN: VSTAR); "Radiante" (EN: Radiant);
+#       - Sole e Luna: "Nome GX"; i Tag Team usano "e"
+#         ("Pikachu e Zekrom GX"; EN "Pikachu & Zekrom GX");
+#       - XY: "Nome EX", "M Nome EX" (Megaevoluzioni vecchie);
+#       - forme regionali: "Nome di Alola/Galar/Hisui/Paldea"
+#         (EN: Alolan/Galarian/Hisuian/Paldean Name);
+#       - Dialga/Palkia "Originale" (EN: Origin Forme).
+#  3. "Pokémon di Allenatore" (serie SV/Mega): EN "N's Zoroark ex",
+#     IT "Zoroark-ex di N", JP "Nのゾロアーク". Gli allenatori hanno
+#     spesso un nome diverso in italiano (tabella sotto).
+#  4. Giapponese: Mega = "メガ" + nome; allenatore = "[allenatore]の[Pokémon]".
+#  5. Nomi AMBIGUI (segnati ⚠ nel file dei 1025): cercali insieme a
+#     "pokemon" o a una sigla della carta, oppure tra virgolette.
+#     Es.: Mew (dentro Mewtwo), Abra (dentro Kadabra), Natu (dentro
+#     "naturale"), Durant ("durante"), Ditto, Golem, Persian, Gloom,
+#     Electrode, Slowpoke, Porygon, Kabuto, i Pokémon "Iron ...".
+#  6. "Mega" da solo trova anche Meganium e "megaevoluzione":
+#     usa "Mega + nome".
+# ---------------------------------------------------------------------
+# --- sigle della carta (abbinale al nome) ---
+ex
+-ex
+EX
+GX
+V
+VMAX
+VSTAR
+V ASTRO
+V-ASTRO
+radiant
+radiante
+tag team
+# --- forme regionali e speciali ---
+di alola
+alolan
+di galar
+galarian
+di hisui
+hisuian
+di paldea
+paldean
+originale
+origin forme
+teracristal
+tera
+# --- allenatori: nome EN -> nome sulle carte italiane -> giapponese ---
+# N -> N -> N ; Iono -> Kissara -> ナンジャモ ; Lillie -> Lylia
+# Hop -> Hop ; Ethan -> Armonio ; Cynthia -> Camilla ; Misty -> Misty
+# Steven -> Rocco ; Arven -> Pepe ; Marnie -> Mary ; Erika -> Erika
+# Larry -> Ubaldo ; Team Rocket -> "del Team Rocket" -> ロケット団
+# (nomi italiani verificati sulle carte; giapponesi [NV] tranne N, Iono, Team Rocket)
+di N
+N's
+iono's
+di kissara
+kissara
+ナンジャモ
+lillie's
+di lylia
+lylia
+hop's
+di hop
+ethan's
+di armonio
+armonio
+cynthia's
+di camilla
+camilla
+misty's
+di misty
+steven's
+di rocco
+rocco
+arven's
+di pepe
+marnie's
+di mary
+erika's
+di erika
+larry's
+di ubaldo
+ubaldo
+team rocket's
+del team rocket
+ロケット団
+# --- Pokémon più richiesti (= più CARI: per il cardex conviene spesso
+#     una IR/AR invece della SIR; il radar li segnala solo sotto soglia) ---
+umbreon
+moonbreon
+espeon
+sylveon
+glaceon
+leafeon
+vaporeon
+jolteon
+flareon
+eevee
+charizard
+pikachu
+mew
+mewtwo
+rayquaza
+lugia
+giratina
+gengar
+greninja
+gardevoir
+# Chase card note con numero [NV: numeri da memoria]
+# 215/203 Umbreon VMAX EVS - 218/203 Rayquaza VMAX EVS - 186/196 Giratina V LOR
+# 186/195 Lugia V SIT - 199/165 Charizard ex 151 - 161/131 Umbreon ex PRE
+# 238/191 Pikachu ex SSP
+215/203
+218/203
+186/196
+186/195
+199/165
+161/131
+238/191
+
+
+# ---------------------------------------------------------------------
+# 8. ILLUSTRATORI PIÙ RICERCATI ("Illus. ..." in basso a sinistra)
+# ---------------------------------------------------------------------
+mitsuhiro arita
+akira egawa
+yuka morii
+naoki saito
+tomokazu komiya
+sowsow
+atsuko nishida
+kagemaru himeno
+ryota murayama
+teeziro
+mina nakai
+narumi sato
+saki hayashiro
+shinji kanda
+kantaro
+hasuno
+takuyoa
+jerky
+gossan
+hyogonosuke
+tetsu kayama
+kuroimori
+yuu nishida
+mizue
+shibuzoh
+keiji yano
+ayumi odashima
+eri yamaki
+oswaldo kato
+anesaki dynamic
+ken sugimori
+yusuke ohmura
+taira akitsu
+rika
+nisota niso
+illus
+illustratore
+illustrator
+
+
+# ---------------------------------------------------------------------
+# 9. CONDIZIONI - TERMINI POSITIVI (carte "raw", non gradate, in buono stato)
+# ---------------------------------------------------------------------
+# --- scala Cardmarket: Mint, Near Mint, Excellent, Good, Light Played, Played, Poor ---
+mint
+near mint
+NM
+NM/M
+M/NM
+excellent
+# --- scala CardTrader: Near Mint, Slightly Played, Moderately Played, Played, Heavily Played, Poor ---
+slightly played
+SP
+# --- descrizioni dei venditori ---
+pack fresh
+fresh pull
+appena sbustata
+sbustata
+sbustata e messa in bustina
+direttamente in bustina
+direct to sleeve
+straight to sleeve
+perfetta
+perfette condizioni
+come nuova
+mai giocata
+never played
+raw
+non gradata
+ungraded
+# --- "candidate al grading" = carte raw in condizioni ottime: OTTIME per il binder ---
+psa ready
+pronta per psa
+pronta per gradazione
+grading candidate
+candidata psa
+gem candidate
+# --- giapponese (Mercari / Yahoo Auctions / negozi JP) [NV] ---
+美品
+極美品
+完美品
+未使用
+状態A
+# --- tipo annuncio ---
+carta singola
+singola
+chase
+carta rara
+carte rare
+collezione
+pokemon tcg
+gcc pokemon
+carta pokemon
+carte pokemon
+pokémon
+pokemon
+pokèmon
+
+
+# ---------------------------------------------------------------------
+# 10. CONDIZIONI - CAMPANELLI D'ALLARME
+#     NON escluderle subito in automatico se il prezzo è molto basso:
+#     a volte sono carte "LP" ottime per un binder. Ma vanno sempre
+#     controllate con foto fronte/retro e a luce radente.
+# ---------------------------------------------------------------------
+light played
+lightly played
+LP
+moderately played
+MP
+played
+PL
+good
+GD
+usata
+usurata
+giocata
+segni di usura
+bordi bianchi
+whitening
+angoli rovinati
+angoli smussati
+graffio
+graffi
+graffiata
+scratch
+scratches
+curvata
+curva
+# (le carte olografiche si curvano da sole: secondo Cardmarket non è un difetto
+#  salvo deformazioni forti)
+off center
+decentrata
+centratura
+
+
+# ---------------------------------------------------------------------
+# 11. PAROLE DA ESCLUDERE (filtro negativo / "senza queste parole")
+# ---------------------------------------------------------------------
+
+# --- 11a. carte GRADATE (vanno nel binder: niente slab) ---
+# Attenzione: se il sito esclude per "parola contenuta", escludere "gradata"/"graded"
+# elimina anche "non gradata"/"ungraded". In quel caso usa solo "slab", "PSA 10", "BGS", "CGC".
+gradata
+gradate
+graded
+slab
+slabbed
+PSA 10
+PSA 9
+PSA 8
+BGS
+beckett
+black label
+CGC
+CGC 10
+TAG grading
+ACE grading
+GG grading
+gem mint 10
+grade 10
+# Attenzione: NON escludere "PSA" da solo, altrimenti perdi gli annunci
+# "pronta per PSA" (= carte raw perfette). Escludi solo "PSA 10/9/8".
+
+# --- 11b. danni gravi (Poor / non da binder) ---
+piegata
+piega
+pieghe
+crease
+creased
+bent
+danneggiata
+danneggiate
+damaged
+DMG
+rovinata
+rovinate
+heavily played
+poor
+strappo
+strappata
+tear
+torn
+ammaccatura
+macchia
+macchiata
+water damage
+danni da acqua
+bagnata
+umidità
+segni di pressione
+pressure mark
+傷あり
+折れ
+白欠け
+凹み
+
+# --- 11c. carte DISEGNATE, scritte, alterate ---
+# Cardmarket: carte "inked" (bordi ripassati a penna) e firmate da chi
+# non è l'artista = sempre Poor. Le "altered" (arte estesa/dipinta) non
+# sono carte originali da collezione.
+disegnata
+disegnate
+scarabocchiata
+scritta a penna
+scritte a penna
+penna
+pennarello
+inked
+altered
+alterata
+alterate
+altered art
+custom art
+extended art
+dipinta
+dipinta a mano
+hand painted
+painted
+ritoccata
+bordi anneriti
+blackened
+firmata
+signed
+autografata
+timbrata
+stamped
+# (eccezione: "signed" dall'illustratore vero ha valore da collezionista,
+#  ma non serve al cardex e non è verificabile -> meglio escluderle)
+
+# --- 11d. falsi e riproduzioni ---
+proxy
+fake
+falsa
+falso
+falsi
+replica
+riproduzione
+custom
+personalizzata
+fan made
+fanmade
+orica
+non originale
+non ufficiale
+ristampa non ufficiale
+stampata in casa
+metal card
+metallo
+carta metallo
+gold metal
+carta d'oro
+gold foil card
+24k
+golden card
+# (molte "carte d'oro/metallo" su marketplace sono non ufficiali)
+
+# --- 11e. annunci sospetti / truffe tipiche ---
+foto di repertorio
+foto indicativa
+immagine indicativa
+foto non mia
+stock photo
+mystery
+mystery pack
+pacchetto mystery
+repack
+busta a sorpresa
+a sorpresa
+lotto misterioso
+paypal amici
+amici e familiari
+friends and family
+pagamento anticipato
+whatsapp
+telegram
+contattami fuori
+solo bonifico
+
+# --- 11f. oggetti che non sono la carta ---
+poster
+print
+adesivo
+sticker
+playmat
+tappetino
+sleeves
+bustine protettive
+raccoglitore vuoto
+binder vuoto
+album vuoto
+portacarte
+cornice
+frame
+display
+teca
+magnete
+portachiavi
+peluche
+statuetta
+codice
+code card
+codice online
+tcg live
+pokemon pocket
+tcg pocket
+digitale
+jumbo
+oversize
+carta gigante
+
+# --- 11g. lotti senza carte utili ---
+# (NON escludere "lotto", "bulk", "raccoglitore": vedi sezione 12)
+solo comuni
+solo energie
+lotto energie
+energie base
+
+# --- 11h. annunci di chi cerca, non di chi vende ---
+cerco
+compro
+scambio
+wtb
+
+# --- 11i. LINGUE ESCLUSE: termini che indicano una carta FR/DE/ES/PT ---
+francese
+french
+français
+française
+VF
+tedesca
+tedesco
+german
+deutsch
+spagnola
+spagnolo
+spanish
+español
+castellano
+portoghese
+portuguese
+português
+thailandese
+thai
+ภาษาไทย
+indonesiano
+indonesian
+bahasa indonesia
+olandese
+dutch
+polacca
+polish
+# nomi delle rarità nelle lingue escluse
+selten illustration
+besondere illustration
+ultraselten
+hyperselten
+mega-attacke
+illustration spéciale rare
+illustration speciale rare
+méga attaque rare
+méga hyper rare
+rara ilustración
+rara ilustracion
+rara ilustración especial
+ilustración especial
+ilustracion especial
+arte alternativo
+rara ataque mega
+rara híper mega
+# nomi dei set nelle lingue escluse (da Bulbapedia)
+méga-évolution
+mega-entwicklung
+megaevolución
+flammes fantasmagoriques
+fatale flammen
+fuegos fantasmales
+llamaradas fantasmales
+héros transcendants
+erhabene helden
+héroes ascendentes
+ascenso heroico
+équilibre parfait
+optimale ordnung
+equilibrio perfecto
+chaos ascendant
+wachsendes chaos
+caos creciente
+nuit noire
+dunkelnacht
+oscuridad absoluta
+tinieblas umbrías
+30e anniversaire
+30ᵉ anniversaire
+30 jahre
+celebración 30.º aniversario
+règne delta
+delta-herrschaft
+écarlate et violet
+karmesin & purpur
+karmesin purpur
+escarlata y púrpura
+évolutions à paldea
+entwicklungen in paldea
+evoluciones en paldea
+flammes obsidiennes
+obsidianflammen
+llamas obsidianas
+faille paradoxe
+paradoxrift
+brecha paradójica
+destinées de paldea
+paldeas schicksale
+destinos de paldea
+forces temporelles
+gewalten der zeit
+fuerzas temporales
+mascarade crépusculaire
+maskerade im zwielicht
+mascarada crepuscular
+fable nébuleuse
+nebel der sagen
+fábula sombría
+couronne stellaire
+stellarkrone
+étincelles déferlantes
+stürmische funken
+chispas fulgurantes
+évolutions prismatiques
+prismatische entwicklungen
+evoluciones prismáticas
+aventures ensemble
+reisegefährten
+juntos de aventuras
+aventuras compartidas
+rivalités destinées
+ewige rivalen
+rivales predestinados
+foudre noire
+schwarze blitze
+fulgor negro
+flamme blanche
+weiße flammen
+llama blanca
+évolution céleste
+drachenwandel
+cielos evolutivos
+stars étincelantes
+strahlende sterne
+astros brillantes
+astres radieux
+astralglanz
+resplandor astral
+origine perdue
+verlorener ursprung
+origen perdido
+tempête argentée
+silberne sturmwinde
+tempestad plateada
+zénith suprême
+zenit der könige
+cenit supremo
+# nomi dei Pokémon in tedesco/francese (indicano carte DE/FR)
+nachtara
+noctali
+psiana
+mentali
+feelinara
+nymphali
+glurak
+dracaufeu
+
+# ---------------------------------------------------------------------
+# 12. LOTTI E ACQUISTI MULTIPLI (abbattere le spese di spedizione)
+#     Un lotto è un affare solo se: (prezzo + spedizione) diviso per il
+#     numero di carte che ti MANCANO nel cardex è sotto la soglia.
+#     Chiedi SEMPRE la lista o la foto di ogni carta del lotto.
+# ---------------------------------------------------------------------
+# --- italiano ---
+lotto
+lotti
+lotto carte pokemon
+lotto pokemon
+lotto full art
+lotto alt art
+lotto illustrazioni rare
+lotto illustrazione rara
+lotto rare illustrazione
+lotto IR
+lotto SIR
+lotto AR
+lotto SAR
+lotto ex
+lotto V
+lotto VMAX
+lotto GX
+lotto rare
+lotto holo
+lotto ultra rare
+lotto carte giapponesi
+lotto carte inglesi
+lotto carte coreane
+blocco
+in blocco
+vendo in blocco
+stock
+stock carte pokemon
+collezione pokemon
+collezione completa
+intera collezione
+vendo collezione
+svuoto collezione
+chiudo collezione
+abbandono collezione
+smetto di collezionare
+svendo
+svendita
+liquido
+raccoglitore pieno
+raccoglitore con carte
+album pieno
+album carte pokemon
+binder pieno
+binder completo
+set completo
+master set
+set quasi completo
+doppioni
+doppie
+carte doppie
+scatola carte pokemon
+scatolone
+kg carte pokemon
+carte al kg
+# --- inglese (eBay UK/US, Cardmarket, Reddit) ---
+lot
+job lot
+joblot
+bundle
+card lot
+pokemon lot
+mixed lot
+full art lot
+alt art lot
+illustration rare lot
+IR lot
+SIR lot
+binder collection
+collection sale
+bulk lot
+duplicates
+# --- giapponese (Mercari, Yahoo Auctions, Rakuma) [NV] ---
+まとめ売り
+まとめ
+大量
+引退品
+引退
+ARまとめ
+SARまとめ
+SRまとめ
+セット売り
+# --- coreano (Bunjang) [NV] ---
+일괄
+일괄판매
+# --- cinese (Xianyu, Shopee TW) [NV] ---
+打包
+一起出
+# --- annunci esteri che vendono carte nelle lingue ACCETTATE [NV] ---
+konvolut englisch
+konvolut japanisch
+lot cartes japonaises
+lot cartes anglaises
+lote cartas japonesas
+lote cartas inglés
+# --- acquisto multiplo dallo stesso venditore ---
+spedizione combinata
+spedizione unica
+combined shipping
+sconto quantità
+sconto su più articoli
+sconti sui set
+prezzo per tutto
+tratto per blocco

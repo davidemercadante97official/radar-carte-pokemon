@@ -1,0 +1,6835 @@
+# =====================================================================
+# NOMI DEI 1025 POKÉMON PER LA RICERCA (Pokédex nazionale, Gen I-IX)
+# Una parola chiave per riga; righe con # = commenti.
+# Per ogni Pokémon: nome inglese = nome italiano sulle carte, varianti di
+# punteggiatura/accenti, nome giapponese (katakana), coreano, cinese
+# semplificato e tradizionale; forme regionali e Mega; 'Pokémon di
+# Allenatore' usciti nelle serie Scarlatto e Violetto / Megaevoluzione.
+# ⚠ = nome ambiguo: cercalo SEMPRE insieme a 'pokemon' o a un termine
+#     della carta (es. 'mew ex', 'mew 151', 'mew sir'), oppure tra virgolette.
+# Fonti: PokeAPI (nomi nelle varie lingue, forme), TCGdex (nomi delle carte
+# inglesi e italiane). Generato il 12/11/2026.
+# =====================================================================
+
+
+# ---------------------------------------------------------------------
+# GENERAZIONE I
+# ---------------------------------------------------------------------
+# 0001 Bulbasaur
+Bulbasaur
+フシギダネ
+이상해씨
+妙蛙种子
+妙蛙種子
+# 0002 Ivysaur
+Ivysaur
+フシギソウ
+이상해풀
+妙蛙草
+# 0003 Venusaur
+Venusaur
+フシギバナ
+이상해꽃
+妙蛙花
+Mega Venusaur
+M Venusaur
+メガフシギバナ
+Mega Venusaur ex
+Mega Venusaur-ex
+# 0004 Charmander
+Charmander
+ヒトカゲ
+파이리
+小火龙
+小火龍
+# 0005 Charmeleon
+Charmeleon
+リザード
+리자드
+火恐龙
+火恐龍
+# 0006 Charizard
+Charizard
+リザードン
+리자몽
+喷火龙
+噴火龍
+Mega Charizard
+M Charizard
+メガリザードン
+Mega Charizard X
+Mega Charizard X ex
+Mega Charizard X-ex
+Mega Charizard Y
+Mega Charizard Y ex
+Mega Charizard Y-ex
+# 0007 Squirtle
+Squirtle
+ゼニガメ
+꼬부기
+杰尼龟
+傑尼龜
+# 0008 Wartortle
+Wartortle
+カメール
+어니부기
+卡咪龟
+卡咪龜
+# 0009 Blastoise
+Blastoise
+カメックス
+거북왕
+水箭龟
+水箭龜
+Mega Blastoise
+M Blastoise
+メガカメックス
+# 0010 Caterpie
+Caterpie
+キャタピー
+캐터피
+绿毛虫
+綠毛蟲
+# 0011 Metapod
+Metapod
+トランセル
+단데기
+铁甲蛹
+鐵甲蛹
+# 0012 Butterfree
+Butterfree
+バタフリー
+버터플
+巴大蝶
+# 0013 Weedle
+Weedle
+ビードル
+뿔충이
+独角虫
+獨角蟲
+# 0014 Kakuna
+Kakuna
+コクーン
+딱충이
+铁壳蛹
+鐵殼蛹
+# 0015 Beedrill
+Beedrill
+スピアー
+독침붕
+大针蜂
+大針蜂
+Mega Beedrill
+M Beedrill
+メガスピアー
+# 0016 Pidgey
+Pidgey
+ポッポ
+구구
+波波
+# 0017 Pidgeotto
+Pidgeotto
+ピジョン
+피죤
+比比鸟
+比比鳥
+# 0018 Pidgeot  ⚠ contenuto in Pidgeotto
+Pidgeot
+ピジョット
+피죤투
+大比鸟
+大比鳥
+Mega Pidgeot
+M Pidgeot
+メガピジョット
+# 0019 Rattata
+Rattata
+コラッタ
+꼬렛
+小拉达
+小拉達
+Rattata di Alola
+Alolan Rattata
+Team Rocket's Rattata
+Team Rockets Rattata
+Rattata del Team Rocket
+# 0020 Raticate
+Raticate
+ラッタ
+레트라
+拉达
+拉達
+Raticate di Alola
+Alolan Raticate
+Team Rocket's Raticate
+Team Rockets Raticate
+Raticate del Team Rocket
+# 0021 Spearow
+Spearow
+オニスズメ
+깨비참
+烈雀
+# 0022 Fearow
+Fearow
+オニドリル
+깨비드릴조
+大嘴雀
+# 0023 Ekans
+Ekans
+アーボ
+아보
+阿柏蛇
+Team Rocket's Ekans
+Team Rockets Ekans
+Ekans del Team Rocket
+# 0024 Arbok
+Arbok
+アーボック
+아보크
+阿柏怪
+Team Rocket's Arbok
+Team Rockets Arbok
+Arbok del Team Rocket
+# 0025 Pikachu
+Pikachu
+ピカチュウ
+피카츄
+皮卡丘
+Pikachu di Alola
+Alolan Pikachu
+# 0026 Raichu
+Raichu
+ライチュウ
+라이츄
+雷丘
+Raichu di Alola
+Alolan Raichu
+Mega Raichu
+M Raichu
+メガライチュウ
+# 0027 Sandshrew
+Sandshrew
+サンド
+모래두지
+穿山鼠
+Sandshrew di Alola
+Alolan Sandshrew
+# 0028 Sandslash
+Sandslash
+サンドパン
+고지
+穿山王
+Sandslash di Alola
+Alolan Sandslash
+# 0029 Nidoran♀
+Nidoran♀
+Nidoran
+ニドラン♀
+니드런♀
+尼多兰
+尼多蘭
+Team Rocket's Nidoran
+Team Rockets Nidoran
+Nidoran del Team Rocket
+# 0030 Nidorina
+Nidorina
+ニドリーナ
+니드리나
+尼多娜
+Team Rocket's Nidorina
+Team Rockets Nidorina
+Nidorina del Team Rocket
+# 0031 Nidoqueen
+Nidoqueen
+ニドクイン
+니드퀸
+尼多后
+Team Rocket's Nidoqueen
+Team Rockets Nidoqueen
+Nidoqueen del Team Rocket
+# 0032 Nidoran♂
+Nidoran♂
+Nidoran
+ニドラン♂
+니드런♂
+尼多朗
+Team Rocket's Nidoran
+Team Rockets Nidoran
+Nidoran del Team Rocket
+# 0033 Nidorino
+Nidorino
+ニドリーノ
+니드리노
+尼多力诺
+尼多力諾
+Team Rocket's Nidorino
+Team Rockets Nidorino
+Nidorino del Team Rocket
+# 0034 Nidoking
+Nidoking
+ニドキング
+니드킹
+尼多王
+Team Rocket's Nidoking
+Team Rockets Nidoking
+Nidoking del Team Rocket
+Nidoking-ex del Team Rocket
+# 0035 Clefairy
+Clefairy
+ピッピ
+삐삐
+皮皮
+Lillie's Clefairy
+Lillies Clefairy
+Clefairy di Lylia
+Clefairy-ex di Lylia
+# 0036 Clefable
+Clefable
+ピクシー
+픽시
+皮可西
+Mega Clefable
+M Clefable
+メガピクシー
+Mega Clefable ex
+Mega Clefable-ex
+# 0037 Vulpix
+Vulpix
+ロコン
+식스테일
+六尾
+Vulpix di Alola
+Alolan Vulpix
+# 0038 Ninetales
+Ninetales
+キュウコン
+나인테일
+九尾
+Ninetales di Alola
+Alolan Ninetales
+# 0039 Jigglypuff
+Jigglypuff
+プリン
+푸린
+胖丁
+Mega Jigglypuff
+M Jigglypuff
+メガプリン
+Mega Lopunny & Jigglypuff GX
+Mega Lopunny & Jigglypuff GX ex
+Mega Lopunny & Jigglypuff GX-ex
+# 0040 Wigglytuff
+Wigglytuff
+プクリン
+푸크린
+胖可丁
+# 0041 Zubat
+Zubat
+ズバット
+주뱃
+超音蝠
+Team Rocket's Zubat
+Team Rockets Zubat
+Zubat del Team Rocket
+# 0042 Golbat
+Golbat
+ゴルバット
+골뱃
+大嘴蝠
+Team Rocket's Golbat
+Team Rockets Golbat
+Golbat del Team Rocket
+# 0043 Oddish
+Oddish
+ナゾノクサ
+뚜벅쵸
+走路草
+Erika's Oddish
+Erikas Oddish
+Oddish di Erika
+# 0044 Gloom  ⚠ parola inglese
+Gloom
+クサイハナ
+냄새꼬
+臭臭花
+Erika's Gloom
+Erikas Gloom
+Gloom di Erika
+# 0045 Vileplume
+Vileplume
+ラフレシア
+라플레시아
+霸王花
+Erika's Vileplume
+Erikas Vileplume
+Vileplume di Erika
+Vileplume-ex di Erika
+# 0046 Paras  ⚠ dentro 'Parasect', 'parasole'; contenuto in Parasect
+Paras
+パラス
+파라스
+派拉斯
+# 0047 Parasect
+Parasect
+パラセクト
+파라섹트
+派拉斯特
+# 0048 Venonat
+Venonat
+コンパン
+콘팡
+毛球
+# 0049 Venomoth
+Venomoth
+モルフォン
+도나리
+摩鲁蛾
+摩魯蛾
+# 0050 Diglett
+Diglett
+ディグダ
+디그다
+地鼠
+Diglett di Alola
+Alolan Diglett
+Team Rocket's Diglett
+Team Rockets Diglett
+Diglett del Team Rocket
+# 0051 Dugtrio
+Dugtrio
+ダグトリオ
+닥트리오
+三地鼠
+Dugtrio di Alola
+Alolan Dugtrio
+Team Rocket's Dugtrio
+Team Rockets Dugtrio
+Dugtrio del Team Rocket
+# 0052 Meowth
+Meowth
+ニャース
+나옹
+喵喵
+Meowth di Alola
+Alolan Meowth
+Meowth di Galar
+Galarian Meowth
+Team Rocket's Meowth
+Team Rockets Meowth
+Meowth del Team Rocket
+# 0053 Persian  ⚠ parola inglese (persiano)
+Persian
+ペルシアン
+페르시온
+猫老大
+貓老大
+Persian di Alola
+Alolan Persian
+Team Rocket's Persian
+Team Rockets Persian
+Persian del Team Rocket
+Persian-ex del Team Rocket
+# 0054 Psyduck
+Psyduck
+コダック
+고라파덕
+可达鸭
+可達鴨
+Misty's Psyduck
+Mistys Psyduck
+Psyduck di Misty
+# 0055 Golduck
+Golduck
+ゴルダック
+골덕
+哥达鸭
+哥達鴨
+# 0056 Mankey
+Mankey
+マンキー
+망키
+猴怪
+# 0057 Primeape
+Primeape
+オコリザル
+성원숭
+火暴猴
+火爆猴
+# 0058 Growlithe
+Growlithe
+ガーディ
+가디
+卡蒂狗
+Growlithe di Hisui
+Hisuian Growlithe
+# 0059 Arcanine
+Arcanine
+ウインディ
+윈디
+风速狗
+風速狗
+Arcanine di Hisui
+Hisuian Arcanine
+# 0060 Poliwag
+Poliwag
+ニョロモ
+발챙이
+蚊香蝌蚪
+# 0061 Poliwhirl
+Poliwhirl
+ニョロゾ
+슈륙챙이
+蚊香君
+# 0062 Poliwrath
+Poliwrath
+ニョロボン
+강챙이
+蚊香泳士
+# 0063 Abra  ⚠ dentro 'Kadabra', 'abrasione'; contenuto in Kadabra, Crabrawler
+Abra
+ケーシィ
+캐이시
+凯西
+凱西
+# 0064 Kadabra
+Kadabra
+ユンゲラー
+윤겔라
+勇基拉
+# 0065 Alakazam
+Alakazam
+フーディン
+후딘
+胡地
+Mega Alakazam
+M Alakazam
+メガフーディン
+# 0066 Machop
+Machop
+ワンリキー
+알통몬
+腕力
+# 0067 Machoke
+Machoke
+ゴーリキー
+근육몬
+豪力
+# 0068 Machamp
+Machamp
+カイリキー
+괴력몬
+怪力
+# 0069 Bellsprout
+Bellsprout
+マダツボミ
+모다피
+喇叭芽
+Erika's Bellsprout
+Erikas Bellsprout
+Bellsprout di Erika
+# 0070 Weepinbell
+Weepinbell
+ウツドン
+우츠동
+口呆花
+Erika's Weepinbell
+Erikas Weepinbell
+Weepinbell di Erika
+# 0071 Victreebel
+Victreebel
+ウツボット
+우츠보트
+大食花
+Mega Victreebel
+M Victreebel
+メガウツボット
+Erika's Victreebel
+Erikas Victreebel
+Victreebel di Erika
+# 0072 Tentacool
+Tentacool
+メノクラゲ
+왕눈해
+玛瑙水母
+瑪瑙水母
+# 0073 Tentacruel
+Tentacruel
+ドククラゲ
+독파리
+毒刺水母
+# 0074 Geodude
+Geodude
+イシツブテ
+꼬마돌
+小拳石
+Geodude di Alola
+Alolan Geodude
+# 0075 Graveler
+Graveler
+ゴローン
+데구리
+隆隆石
+Graveler di Alola
+Alolan Graveler
+# 0076 Golem  ⚠ parola comune
+Golem
+ゴローニャ
+딱구리
+隆隆岩
+Golem di Alola
+Alolan Golem
+# 0077 Ponyta
+Ponyta
+ポニータ
+포니타
+小火马
+小火馬
+Ponyta di Galar
+Galarian Ponyta
+# 0078 Rapidash
+Rapidash
+ギャロップ
+날쌩마
+烈焰马
+烈焰馬
+Rapidash di Galar
+Galarian Rapidash
+# 0079 Slowpoke  ⚠ parola inglese
+Slowpoke
+ヤドン
+야돈
+呆呆兽
+呆呆獸
+Slowpoke di Galar
+Galarian Slowpoke
+# 0080 Slowbro
+Slowbro
+ヤドラン
+야도란
+呆壳兽
+呆殼獸
+Slowbro di Galar
+Galarian Slowbro
+Mega Slowbro
+M Slowbro
+メガヤドラン
+# 0081 Magnemite
+Magnemite
+コイル
+코일
+小磁怪
+# 0082 Magneton
+Magneton
+レアコイル
+레어코일
+三合一磁怪
+# 0083 Farfetch’d
+Farfetch’d
+Farfetch d
+Farfetch'd
+Farfetchd
+カモネギ
+파오리
+大葱鸭
+大蔥鴨
+Farfetch'd di Galar
+Galarian Farfetch'd
+# 0084 Doduo
+Doduo
+ドードー
+두두
+嘟嘟
+# 0085 Dodrio
+Dodrio
+ドードリオ
+두트리오
+嘟嘟利
+# 0086 Seel  ⚠ parola corta
+Seel
+パウワウ
+쥬쥬
+小海狮
+小海獅
+# 0087 Dewgong
+Dewgong
+ジュゴン
+쥬레곤
+白海狮
+白海獅
+# 0088 Grimer
+Grimer
+ベトベター
+질퍽이
+臭泥
+Grimer di Alola
+Alolan Grimer
+Team Rocket's Grimer
+Team Rockets Grimer
+Grimer del Team Rocket
+# 0089 Muk  ⚠ parola corta; contenuto in Pyukumuku
+Muk
+ベトベトン
+질뻐기
+臭臭泥
+Muk di Alola
+Alolan Muk
+Team Rocket's Muk
+Team Rockets Muk
+Muk del Team Rocket
+# 0090 Shellder
+Shellder
+シェルダー
+셀러
+大舌贝
+大舌貝
+# 0091 Cloyster
+Cloyster
+パルシェン
+파르셀
+刺甲贝
+刺甲貝
+# 0092 Gastly
+Gastly
+ゴース
+고오스
+鬼斯
+# 0093 Haunter
+Haunter
+ゴースト
+고우스트
+鬼斯通
+# 0094 Gengar
+Gengar
+ゲンガー
+팬텀
+耿鬼
+Mega Gengar
+M Gengar
+メガゲンガー
+Mega Gengar ex
+Mega Gengar-ex
+# 0095 Onix  ⚠ parola corta
+Onix
+イワーク
+롱스톤
+大岩蛇
+# 0096 Drowzee
+Drowzee
+スリープ
+슬리프
+催眠貘
+Team Rocket's Drowzee
+Team Rockets Drowzee
+Drowzee del Team Rocket
+# 0097 Hypno
+Hypno
+スリーパー
+슬리퍼
+引梦貘人
+引夢貘人
+Team Rocket's Hypno
+Team Rockets Hypno
+Hypno del Team Rocket
+# 0098 Krabby
+Krabby
+クラブ
+크랩
+大钳蟹
+大鉗蟹
+# 0099 Kingler
+Kingler
+キングラー
+킹크랩
+巨钳蟹
+巨鉗蟹
+# 0100 Voltorb
+Voltorb
+ビリリダマ
+찌리리공
+霹雳电球
+霹靂電球
+Voltorb di Hisui
+Hisuian Voltorb
+Iono's Voltorb
+Ionos Voltorb
+Voltorb di Kissara
+# 0101 Electrode  ⚠ parola inglese (elettrodo)
+Electrode
+マルマイン
+붐볼
+顽皮雷弹
+頑皮雷彈
+Electrode di Hisui
+Hisuian Electrode
+Iono's Electrode
+Ionos Electrode
+Electrode di Kissara
+# 0102 Exeggcute
+Exeggcute
+タマタマ
+아라리
+蛋蛋
+Team Rocket's Exeggcute
+Team Rockets Exeggcute
+Exeggcute del Team Rocket
+# 0103 Exeggutor
+Exeggutor
+ナッシー
+나시
+椰蛋树
+椰蛋樹
+Exeggutor di Alola
+Alolan Exeggutor
+Team Rocket's Exeggutor
+Team Rockets Exeggutor
+Exeggutor del Team Rocket
+# 0104 Cubone
+Cubone
+カラカラ
+탕구리
+卡拉卡拉
+# 0105 Marowak
+Marowak
+ガラガラ
+텅구리
+嘎啦嘎啦
+Marowak di Alola
+Alolan Marowak
+# 0106 Hitmonlee
+Hitmonlee
+サワムラー
+시라소몬
+飞腿郎
+飛腿郎
+# 0107 Hitmonchan
+Hitmonchan
+エビワラー
+홍수몬
+快拳郎
+# 0108 Lickitung
+Lickitung
+ベロリンガ
+내루미
+大舌头
+大舌頭
+# 0109 Koffing
+Koffing
+ドガース
+또가스
+瓦斯弹
+瓦斯彈
+Team Rocket's Koffing
+Team Rockets Koffing
+Koffing del Team Rocket
+# 0110 Weezing
+Weezing
+マタドガス
+또도가스
+双弹瓦斯
+雙彈瓦斯
+Weezing di Galar
+Galarian Weezing
+Team Rocket's Weezing
+Team Rockets Weezing
+Weezing del Team Rocket
+# 0111 Rhyhorn
+Rhyhorn
+サイホーン
+뿔카노
+独角犀牛
+獨角犀牛
+# 0112 Rhydon
+Rhydon
+サイドン
+코뿌리
+钻角犀兽
+鑽角犀獸
+# 0113 Chansey
+Chansey
+ラッキー
+럭키
+吉利蛋
+# 0114 Tangela
+Tangela
+モンジャラ
+덩쿠리
+蔓藤怪
+Erika's Tangela
+Erikas Tangela
+Tangela di Erika
+# 0115 Kangaskhan
+Kangaskhan
+ガルーラ
+캥카
+袋兽
+袋獸
+Mega Kangaskhan
+M Kangaskhan
+メガガルーラ
+Mega Kangaskhan ex
+Mega Kangaskhan-ex
+Team Rocket's Kangaskhan
+Team Rockets Kangaskhan
+Kangaskhan del Team Rocket
+Kangaskhan-ex del Team Rocket
+# 0116 Horsea
+Horsea
+タッツー
+쏘드라
+墨海马
+墨海馬
+# 0117 Seadra
+Seadra
+シードラ
+시드라
+海刺龙
+海刺龍
+# 0118 Goldeen
+Goldeen
+トサキント
+콘치
+角金鱼
+角金魚
+# 0119 Seaking
+Seaking
+アズマオウ
+왕콘치
+金鱼王
+金魚王
+# 0120 Staryu
+Staryu
+ヒトデマン
+별가사리
+海星星
+Misty's Staryu
+Mistys Staryu
+Staryu di Misty
+# 0121 Starmie
+Starmie
+スターミー
+아쿠스타
+宝石海星
+寶石海星
+Mega Starmie
+M Starmie
+メガスターミー
+Mega Starmie ex
+Mega Starmie-ex
+Misty's Starmie
+Mistys Starmie
+Starmie di Misty
+# 0122 Mr. Mime
+Mr. Mime
+Mr Mime
+MrMime
+バリヤード
+마임맨
+魔墙人偶
+魔牆人偶
+Mr. Mime di Galar
+Galarian Mr. Mime
+# 0123 Scyther
+Scyther
+ストライク
+스라크
+飞天螳螂
+飛天螳螂
+# 0124 Jynx  ⚠ nome molto corto
+Jynx
+ルージュラ
+루주라
+迷唇姐
+# 0125 Electabuzz
+Electabuzz
+エレブー
+에레브
+电击兽
+電擊獸
+# 0126 Magmar
+Magmar
+ブーバー
+마그마
+鸭嘴火兽
+鴨嘴火獸
+# 0127 Pinsir
+Pinsir
+カイロス
+쁘사이저
+凯罗斯
+凱羅斯
+Mega Pinsir
+M Pinsir
+メガカイロス
+Ethan's Pinsir
+Ethans Pinsir
+Pinsir di Armonio
+# 0128 Tauros
+Tauros
+ケンタロス
+켄타로스
+肯泰罗
+肯泰羅
+Tauros di Paldea
+Paldean Tauros
+# 0129 Magikarp
+Magikarp
+コイキング
+잉어킹
+鲤鱼王
+鯉魚王
+Misty's Magikarp
+Mistys Magikarp
+Magikarp di Misty
+# 0130 Gyarados
+Gyarados
+ギャラドス
+갸라도스
+暴鲤龙
+暴鯉龍
+Mega Gyarados
+M Gyarados
+メガギャラドス
+Misty's Gyarados
+Mistys Gyarados
+Gyarados di Misty
+# 0131 Lapras
+Lapras
+ラプラス
+라프라스
+拉普拉斯
+Misty's Lapras
+Mistys Lapras
+Lapras di Misty
+# 0132 Ditto  ⚠ parola inglese comune
+Ditto
+メタモン
+메타몽
+百变怪
+百變怪
+# 0133 Eevee
+Eevee
+イーブイ
+이브이
+伊布
+# 0134 Vaporeon
+Vaporeon
+シャワーズ
+샤미드
+水伊布
+# 0135 Jolteon
+Jolteon
+サンダース
+쥬피썬더
+雷伊布
+# 0136 Flareon
+Flareon
+ブースター
+부스터
+火伊布
+# 0137 Porygon  ⚠ contenuto in Porygon2, Porygon-Z
+Porygon
+ポリゴン
+폴리곤
+多边兽
+多邊獸
+Team Rocket's Porygon
+Team Rockets Porygon
+Porygon del Team Rocket
+# 0138 Omanyte
+Omanyte
+オムナイト
+암나이트
+菊石兽
+菊石獸
+# 0139 Omastar
+Omastar
+オムスター
+암스타
+多刺菊石兽
+多刺菊石獸
+# 0140 Kabuto  ⚠ contenuto in Kabutops
+Kabuto
+カブト
+투구
+化石盔
+# 0141 Kabutops
+Kabutops
+カブトプス
+투구푸스
+镰刀盔
+鐮刀盔
+# 0142 Aerodactyl
+Aerodactyl
+プテラ
+프테라
+化石翼龙
+化石翼龍
+Mega Aerodactyl
+M Aerodactyl
+メガプテラ
+# 0143 Snorlax
+Snorlax
+カビゴン
+잠만보
+卡比兽
+卡比獸
+Hop's Snorlax
+Hops Snorlax
+Snorlax di Hop
+# 0144 Articuno
+Articuno
+フリーザー
+프리져
+急冻鸟
+急凍鳥
+Articuno di Galar
+Galarian Articuno
+Team Rocket's Articuno
+Team Rockets Articuno
+Articuno del Team Rocket
+# 0145 Zapdos
+Zapdos
+サンダー
+썬더
+闪电鸟
+閃電鳥
+Zapdos di Galar
+Galarian Zapdos
+Team Rocket's Zapdos
+Team Rockets Zapdos
+Zapdos del Team Rocket
+# 0146 Moltres
+Moltres
+ファイヤー
+파이어
+火焰鸟
+火焰鳥
+Moltres di Galar
+Galarian Moltres
+Team Rocket's Moltres
+Team Rockets Moltres
+Moltres del Team Rocket
+Moltres-ex del Team Rocket
+# 0147 Dratini
+Dratini
+ミニリュウ
+미뇽
+迷你龙
+迷你龍
+# 0148 Dragonair
+Dragonair
+ハクリュー
+신뇽
+哈克龙
+哈克龍
+# 0149 Dragonite
+Dragonite
+カイリュー
+망나뇽
+快龙
+快龍
+Mega Dragonite
+M Dragonite
+メガカイリュー
+Mega Dragonite ex
+Mega Dragonite-ex
+# 0150 Mewtwo
+Mewtwo
+ミュウツー
+뮤츠
+超梦
+超夢
+Mega Mewtwo
+M Mewtwo
+メガミュウツー
+Team Rocket's Mewtwo
+Team Rockets Mewtwo
+Mewtwo del Team Rocket
+Mewtwo-ex del Team Rocket
+# 0151 Mew  ⚠ dentro 'Mewtwo'; contenuto in Mewtwo
+Mew
+ミュウ
+뮤
+梦幻
+夢幻
+
+# ---------------------------------------------------------------------
+# GENERAZIONE II
+# ---------------------------------------------------------------------
+# 0152 Chikorita
+Chikorita
+チコリータ
+치코리타
+菊草叶
+菊草葉
+# 0153 Bayleef
+Bayleef
+ベイリーフ
+베이리프
+月桂叶
+月桂葉
+# 0154 Meganium
+Meganium
+メガニウム
+메가니움
+大竺葵
+Mega Meganium
+M Meganium
+メガメガニウム
+Mega Meganium ex
+Mega Meganium-ex
+# 0155 Cyndaquil
+Cyndaquil
+ヒノアラシ
+브케인
+火球鼠
+Ethan's Cyndaquil
+Ethans Cyndaquil
+Cyndaquil di Armonio
+# 0156 Quilava
+Quilava
+マグマラシ
+마그케인
+火岩鼠
+Ethan's Quilava
+Ethans Quilava
+Quilava di Armonio
+# 0157 Typhlosion
+Typhlosion
+バクフーン
+블레이범
+火暴兽
+火爆獸
+Typhlosion di Hisui
+Hisuian Typhlosion
+Ethan's Typhlosion
+Ethans Typhlosion
+Typhlosion di Armonio
+# 0158 Totodile
+Totodile
+ワニノコ
+리아코
+小锯鳄
+小鋸鱷
+# 0159 Croconaw
+Croconaw
+アリゲイツ
+엘리게이
+蓝鳄
+藍鱷
+# 0160 Feraligatr
+Feraligatr
+オーダイル
+장크로다일
+大力鳄
+大力鱷
+Mega Feraligatr
+M Feraligatr
+メガオーダイル
+Mega Feraligatr ex
+Mega Feraligatr-ex
+# 0161 Sentret
+Sentret
+オタチ
+꼬리선
+尾立
+# 0162 Furret
+Furret
+オオタチ
+다꼬리
+大尾立
+# 0163 Hoothoot
+Hoothoot
+ホーホー
+부우부
+咕咕
+# 0164 Noctowl
+Noctowl
+ヨルノズク
+야부엉
+猫头夜鹰
+貓頭夜鷹
+# 0165 Ledyba
+Ledyba
+レディバ
+레디바
+芭瓢虫
+芭瓢蟲
+# 0166 Ledian
+Ledian
+レディアン
+레디안
+安瓢虫
+安瓢蟲
+# 0167 Spinarak
+Spinarak
+イトマル
+페이검
+圆丝蛛
+圓絲蛛
+# 0168 Ariados
+Ariados
+アリアドス
+아리아도스
+阿利多斯
+# 0169 Crobat
+Crobat
+クロバット
+크로뱃
+叉字蝠
+Team Rocket's Crobat
+Team Rockets Crobat
+Crobat del Team Rocket
+Crobat-ex del Team Rocket
+# 0170 Chinchou
+Chinchou
+チョンチー
+초라기
+灯笼鱼
+燈籠魚
+# 0171 Lanturn
+Lanturn
+ランターン
+랜턴
+电灯怪
+電燈怪
+# 0172 Pichu
+Pichu
+ピチュー
+피츄
+皮丘
+Ethan's Pichu
+Ethans Pichu
+Pichu di Armonio
+# 0173 Cleffa
+Cleffa
+ピィ
+삐
+皮宝宝
+皮寶寶
+# 0174 Igglybuff
+Igglybuff
+ププリン
+푸푸린
+宝宝丁
+寶寶丁
+# 0175 Togepi
+Togepi
+トゲピー
+토게피
+波克比
+# 0176 Togetic
+Togetic
+トゲチック
+토게틱
+波克基古
+# 0177 Natu  ⚠ dentro 'natura', 'naturale'; contenuto in Eternatus
+Natu
+ネイティ
+네이티
+天然雀
+# 0178 Xatu  ⚠ nome molto corto
+Xatu
+ネイティオ
+네이티오
+天然鸟
+天然鳥
+# 0179 Mareep
+Mareep
+メリープ
+메리프
+咩利羊
+Team Rocket's Mareep
+Team Rockets Mareep
+Mareep del Team Rocket
+# 0180 Flaaffy
+Flaaffy
+モココ
+보송송
+茸茸羊
+Team Rocket's Flaaffy
+Team Rockets Flaaffy
+Flaaffy del Team Rocket
+# 0181 Ampharos
+Ampharos
+デンリュウ
+전룡
+电龙
+電龍
+Mega Ampharos
+M Ampharos
+メガデンリュウ
+Team Rocket's Ampharos
+Team Rockets Ampharos
+Ampharos del Team Rocket
+# 0182 Bellossom
+Bellossom
+キレイハナ
+아르코
+美丽花
+美麗花
+# 0183 Marill  ⚠ contenuto in Azumarill
+Marill
+マリル
+마릴
+玛力露
+瑪力露
+# 0184 Azumarill
+Azumarill
+マリルリ
+마릴리
+玛力露丽
+瑪力露麗
+# 0185 Sudowoodo
+Sudowoodo
+ウソッキー
+꼬지모
+树才怪
+樹才怪
+Ethan's Sudowoodo
+Ethans Sudowoodo
+Sudowoodo di Armonio
+# 0186 Politoed
+Politoed
+ニョロトノ
+왕구리
+蚊香蛙皇
+# 0187 Hoppip
+Hoppip
+ハネッコ
+통통코
+毽子草
+# 0188 Skiploom
+Skiploom
+ポポッコ
+두코
+毽子花
+# 0189 Jumpluff
+Jumpluff
+ワタッコ
+솜솜코
+毽子棉
+# 0190 Aipom
+Aipom
+エイパム
+에이팜
+长尾怪手
+長尾怪手
+# 0191 Sunkern
+Sunkern
+ヒマナッツ
+해너츠
+向日种子
+向日種子
+# 0192 Sunflora
+Sunflora
+キマワリ
+해루미
+向日花怪
+# 0193 Yanma
+Yanma
+ヤンヤンマ
+왕자리
+蜻蜻蜓
+# 0194 Wooper
+Wooper
+ウパー
+우파
+乌波
+烏波
+Wooper di Paldea
+Paldean Wooper
+# 0195 Quagsire
+Quagsire
+ヌオー
+누오
+沼王
+# 0196 Espeon
+Espeon
+エーフィ
+에브이
+太阳伊布
+太陽伊布
+# 0197 Umbreon
+Umbreon
+ブラッキー
+블래키
+月亮伊布
+# 0198 Murkrow
+Murkrow
+ヤミカラス
+니로우
+黑暗鸦
+黑暗鴉
+Team Rocket's Murkrow
+Team Rockets Murkrow
+Murkrow del Team Rocket
+# 0199 Slowking
+Slowking
+ヤドキング
+야도킹
+呆呆王
+Slowking di Galar
+Galarian Slowking
+# 0200 Misdreavus
+Misdreavus
+ムウマ
+무우마
+梦妖
+夢妖
+# 0201 Unown
+Unown
+アンノーン
+안농
+未知图腾
+未知圖騰
+# 0202 Wobbuffet
+Wobbuffet
+ソーナンス
+마자용
+果然翁
+Team Rocket's Wobbuffet
+Team Rockets Wobbuffet
+Wobbuffet del Team Rocket
+# 0203 Girafarig
+Girafarig
+キリンリキ
+키링키
+麒麟奇
+# 0204 Pineco
+Pineco
+クヌギダマ
+피콘
+榛果球
+# 0205 Forretress
+Forretress
+フォレトス
+쏘콘
+佛烈托斯
+# 0206 Dunsparce  ⚠ contenuto in Dudunsparce
+Dunsparce
+ノコッチ
+노고치
+土龙弟弟
+土龍弟弟
+Larry's Dunsparce
+Larrys Dunsparce
+Dunsparce di Ubaldo
+# 0207 Gligar
+Gligar
+グライガー
+글라이거
+天蝎
+天蠍
+# 0208 Steelix
+Steelix
+ハガネール
+강철톤
+大钢蛇
+大鋼蛇
+Mega Steelix
+M Steelix
+メガハガネール
+# 0209 Snubbull
+Snubbull
+ブルー
+블루
+布鲁
+布魯
+# 0210 Granbull
+Granbull
+グランブル
+그랑블루
+布鲁皇
+布魯皇
+# 0211 Qwilfish
+Qwilfish
+ハリーセン
+침바루
+千针鱼
+千針魚
+Qwilfish di Hisui
+Hisuian Qwilfish
+# 0212 Scizor
+Scizor
+ハッサム
+핫삼
+巨钳螳螂
+巨鉗螳螂
+Mega Scizor
+M Scizor
+メガハッサム
+# 0213 Shuckle
+Shuckle
+ツボツボ
+단단지
+壶壶
+壺壺
+# 0214 Heracross
+Heracross
+ヘラクロス
+헤라크로스
+赫拉克罗斯
+赫拉克羅斯
+Mega Heracross
+M Heracross
+メガヘラクロス
+Mega Heracross ex
+Mega Heracross-ex
+# 0215 Sneasel
+Sneasel
+ニューラ
+포푸니
+狃拉
+Sneasel di Hisui
+Hisuian Sneasel
+Team Rocket's Sneasel
+Team Rockets Sneasel
+Sneasel del Team Rocket
+# 0216 Teddiursa
+Teddiursa
+ヒメグマ
+깜지곰
+熊宝宝
+熊寶寶
+# 0217 Ursaring
+Ursaring
+リングマ
+링곰
+圈圈熊
+# 0218 Slugma
+Slugma
+マグマッグ
+마그마그
+熔岩虫
+熔岩蟲
+Ethan's Slugma
+Ethans Slugma
+Slugma di Armonio
+# 0219 Magcargo
+Magcargo
+マグカルゴ
+마그카르고
+熔岩蜗牛
+熔岩蝸牛
+Ethan's Magcargo
+Ethans Magcargo
+Magcargo di Armonio
+# 0220 Swinub
+Swinub
+ウリムー
+꾸꾸리
+小山猪
+小山豬
+# 0221 Piloswine
+Piloswine
+イノムー
+메꾸리
+长毛猪
+長毛豬
+# 0222 Corsola
+Corsola
+サニーゴ
+코산호
+太阳珊瑚
+太陽珊瑚
+Corsola di Galar
+Galarian Corsola
+# 0223 Remoraid
+Remoraid
+テッポウオ
+총어
+铁炮鱼
+鐵炮魚
+# 0224 Octillery
+Octillery
+オクタン
+대포무노
+章鱼桶
+章魚桶
+# 0225 Delibird
+Delibird
+デリバード
+딜리버드
+信使鸟
+信使鳥
+# 0226 Mantine
+Mantine
+マンタイン
+만타인
+巨翅飞鱼
+巨翅飛魚
+# 0227 Skarmory
+Skarmory
+エアームド
+무장조
+盔甲鸟
+盔甲鳥
+Mega Skarmory
+M Skarmory
+メガエアームド
+Mega Skarmory ex
+Mega Skarmory-ex
+Steven's Skarmory
+Stevens Skarmory
+Skarmory di Rocco
+# 0228 Houndour
+Houndour
+デルビル
+델빌
+戴鲁比
+戴魯比
+Team Rocket's Houndour
+Team Rockets Houndour
+Houndour del Team Rocket
+# 0229 Houndoom
+Houndoom
+ヘルガー
+헬가
+黑鲁加
+黑魯加
+Mega Houndoom
+M Houndoom
+メガヘルガー
+Team Rocket's Houndoom
+Team Rockets Houndoom
+Houndoom del Team Rocket
+# 0230 Kingdra
+Kingdra
+キングドラ
+킹드라
+刺龙王
+刺龍王
+# 0231 Phanpy
+Phanpy
+ゴマゾウ
+코코리
+小小象
+# 0232 Donphan
+Donphan
+ドンファン
+코리갑
+顿甲
+頓甲
+# 0233 Porygon2
+Porygon2
+ポリゴン２
+폴리곤2
+多边兽２型
+多邊獸Ⅱ
+Team Rocket's Porygon2
+Team Rockets Porygon2
+Porygon2 del Team Rocket
+# 0234 Stantler
+Stantler
+オドシシ
+노라키
+惊角鹿
+驚角鹿
+# 0235 Smeargle
+Smeargle
+ドーブル
+루브도
+图图犬
+圖圖犬
+# 0236 Tyrogue
+Tyrogue
+バルキー
+배루키
+无畏小子
+無畏小子
+# 0237 Hitmontop
+Hitmontop
+カポエラー
+카포에라
+战舞郎
+戰舞郎
+# 0238 Smoochum
+Smoochum
+ムチュール
+뽀뽀라
+迷唇娃
+# 0239 Elekid
+Elekid
+エレキッド
+에레키드
+电击怪
+電擊怪
+# 0240 Magby
+Magby
+ブビィ
+마그비
+鸭嘴宝宝
+鴨嘴寶寶
+# 0241 Miltank
+Miltank
+ミルタンク
+밀탱크
+大奶罐
+# 0242 Blissey
+Blissey
+ハピナス
+해피너스
+幸福蛋
+# 0243 Raikou
+Raikou
+ライコウ
+라이코
+雷公
+# 0244 Entei
+Entei
+エンテイ
+앤테이
+炎帝
+# 0245 Suicune
+Suicune
+スイクン
+스이쿤
+水君
+# 0246 Larvitar
+Larvitar
+ヨーギラス
+애버라스
+幼基拉斯
+Team Rocket's Larvitar
+Team Rockets Larvitar
+Larvitar del Team Rocket
+# 0247 Pupitar
+Pupitar
+サナギラス
+데기라스
+沙基拉斯
+Team Rocket's Pupitar
+Team Rockets Pupitar
+Pupitar del Team Rocket
+# 0248 Tyranitar
+Tyranitar
+バンギラス
+마기라스
+班基拉斯
+Mega Tyranitar
+M Tyranitar
+メガバンギラス
+Mega Sableye & Tyranitar GX
+Mega Sableye & Tyranitar GX ex
+Mega Sableye & Tyranitar GX-ex
+Team Rocket's Tyranitar
+Team Rockets Tyranitar
+Tyranitar del Team Rocket
+# 0249 Lugia
+Lugia
+ルギア
+루기아
+洛奇亚
+洛奇亞
+# 0250 Ho-Oh  ⚠ nome molto corto
+Ho-Oh
+Ho Oh
+HoOh
+ホウオウ
+칠색조
+凤王
+鳳王
+Ethan's Ho-Oh
+Ethans Ho-Oh
+Ho-Oh di Armonio
+Ho-Oh-ex di Armonio
+# 0251 Celebi
+Celebi
+セレビィ
+세레비
+时拉比
+時拉比
+
+# ---------------------------------------------------------------------
+# GENERAZIONE III
+# ---------------------------------------------------------------------
+# 0252 Treecko
+Treecko
+キモリ
+나무지기
+木守宫
+木守宮
+# 0253 Grovyle
+Grovyle
+ジュプトル
+나무돌이
+森林蜥蜴
+# 0254 Sceptile
+Sceptile
+ジュカイン
+나무킹
+蜥蜴王
+Mega Sceptile
+M Sceptile
+メガジュカイン
+# 0255 Torchic
+Torchic
+アチャモ
+아차모
+火稚鸡
+火稚雞
+# 0256 Combusken
+Combusken
+ワカシャモ
+영치코
+力壮鸡
+力壯雞
+# 0257 Blaziken
+Blaziken
+バシャーモ
+번치코
+火焰鸡
+火焰雞
+Mega Blaziken
+M Blaziken
+メガバシャーモ
+# 0258 Mudkip
+Mudkip
+ミズゴロウ
+물짱이
+水跃鱼
+水躍魚
+# 0259 Marshtomp
+Marshtomp
+ヌマクロー
+늪짱이
+沼跃鱼
+沼躍魚
+# 0260 Swampert
+Swampert
+ラグラージ
+대짱이
+巨沼怪
+Mega Swampert
+M Swampert
+メガラグラージ
+# 0261 Poochyena
+Poochyena
+ポチエナ
+포챠나
+土狼犬
+# 0262 Mightyena
+Mightyena
+グラエナ
+그라에나
+大狼犬
+# 0263 Zigzagoon
+Zigzagoon
+ジグザグマ
+지그제구리
+蛇纹熊
+蛇紋熊
+Zigzagoon di Galar
+Galarian Zigzagoon
+# 0264 Linoone
+Linoone
+マッスグマ
+직구리
+直冲熊
+直衝熊
+Linoone di Galar
+Galarian Linoone
+# 0265 Wurmple
+Wurmple
+ケムッソ
+개무소
+刺尾虫
+刺尾蟲
+# 0266 Silcoon
+Silcoon
+カラサリス
+실쿤
+甲壳茧
+甲殼繭
+# 0267 Beautifly
+Beautifly
+アゲハント
+뷰티플라이
+狩猎凤蝶
+狩獵鳳蝶
+# 0268 Cascoon
+Cascoon
+マユルド
+카스쿤
+盾甲茧
+盾甲繭
+# 0269 Dustox
+Dustox
+ドクケイル
+독케일
+毒粉蛾
+# 0270 Lotad
+Lotad
+ハスボー
+연꽃몬
+莲叶童子
+蓮葉童子
+# 0271 Lombre
+Lombre
+ハスブレロ
+로토스
+莲帽小童
+蓮帽小童
+# 0272 Ludicolo
+Ludicolo
+ルンパッパ
+로파파
+乐天河童
+樂天河童
+# 0273 Seedot
+Seedot
+タネボー
+도토링
+橡实果
+橡實果
+# 0274 Nuzleaf
+Nuzleaf
+コノハナ
+잎새코
+长鼻叶
+長鼻葉
+# 0275 Shiftry
+Shiftry
+ダーテング
+다탱구
+狡猾天狗
+# 0276 Taillow
+Taillow
+スバメ
+테일로
+傲骨燕
+# 0277 Swellow
+Swellow
+オオスバメ
+스왈로
+大王燕
+# 0278 Wingull
+Wingull
+キャモメ
+갈모매
+长翅鸥
+長翅鷗
+# 0279 Pelipper
+Pelipper
+ペリッパー
+패리퍼
+大嘴鸥
+大嘴鷗
+# 0280 Ralts
+Ralts
+ラルトス
+랄토스
+拉鲁拉丝
+拉魯拉絲
+# 0281 Kirlia
+Kirlia
+キルリア
+킬리아
+奇鲁莉安
+奇魯莉安
+# 0282 Gardevoir
+Gardevoir
+サーナイト
+가디안
+沙奈朵
+Mega Gardevoir
+M Gardevoir
+メガサーナイト
+Mega Gardevoir ex
+Mega Gardevoir-ex
+# 0283 Surskit
+Surskit
+アメタマ
+비구술
+溜溜糖球
+# 0284 Masquerain
+Masquerain
+アメモース
+비나방
+雨翅蛾
+# 0285 Shroomish
+Shroomish
+キノココ
+버섯꼬
+蘑蘑菇
+# 0286 Breloom
+Breloom
+キノガッサ
+버섯모
+斗笠菇
+# 0287 Slakoth
+Slakoth
+ナマケロ
+게을로
+懒人獭
+懶人獺
+# 0288 Vigoroth
+Vigoroth
+ヤルキモノ
+발바로
+过动猿
+過動猿
+# 0289 Slaking
+Slaking
+ケッキング
+게을킹
+请假王
+請假王
+# 0290 Nincada
+Nincada
+ツチニン
+토중몬
+土居忍士
+# 0291 Ninjask
+Ninjask
+テッカニン
+아이스크
+铁面忍者
+鐵面忍者
+# 0292 Shedinja
+Shedinja
+ヌケニン
+껍질몬
+脱壳忍者
+脫殼忍者
+# 0293 Whismur
+Whismur
+ゴニョニョ
+소곤룡
+咕妞妞
+# 0294 Loudred
+Loudred
+ドゴーム
+노공룡
+吼爆弹
+吼爆彈
+# 0295 Exploud
+Exploud
+バクオング
+폭음룡
+爆音怪
+# 0296 Makuhita
+Makuhita
+マクノシタ
+마크탕
+幕下力士
+# 0297 Hariyama
+Hariyama
+ハリテヤマ
+하리뭉
+铁掌力士
+鐵掌力士
+# 0298 Azurill
+Azurill
+ルリリ
+루리리
+露力丽
+露力麗
+# 0299 Nosepass
+Nosepass
+ノズパス
+코코파스
+朝北鼻
+# 0300 Skitty
+Skitty
+エネコ
+에나비
+向尾喵
+# 0301 Delcatty
+Delcatty
+エネコロロ
+델케티
+优雅猫
+優雅貓
+# 0302 Sableye
+Sableye
+ヤミラミ
+깜까미
+勾魂眼
+Mega Sableye
+M Sableye
+メガヤミラミ
+Mega Sableye & Tyranitar GX
+Mega Sableye & Tyranitar GX ex
+Mega Sableye & Tyranitar GX-ex
+# 0303 Mawile
+Mawile
+クチート
+입치트
+大嘴娃
+Mega Mawile
+M Mawile
+メガクチート
+Mega Mawile ex
+Mega Mawile-ex
+# 0304 Aron  ⚠ nome proprio, dentro 'Aaron'/'Baron'; contenuto in Volcarona
+Aron
+ココドラ
+가보리
+可可多拉
+# 0305 Lairon
+Lairon
+コドラ
+갱도라
+可多拉
+# 0306 Aggron
+Aggron
+ボスゴドラ
+보스로라
+波士可多拉
+Mega Aggron
+M Aggron
+メガボスゴドラ
+# 0307 Meditite
+Meditite
+アサナン
+요가랑
+玛沙那
+瑪沙那
+# 0308 Medicham
+Medicham
+チャーレム
+요가램
+恰雷姆
+Mega Medicham
+M Medicham
+メガチャーレム
+# 0309 Electrike
+Electrike
+ラクライ
+썬더라이
+落雷兽
+落雷獸
+# 0310 Manectric
+Manectric
+ライボルト
+썬더볼트
+雷电兽
+雷電獸
+Mega Manectric
+M Manectric
+メガライボルト
+Mega Manectric ex
+Mega Manectric-ex
+# 0311 Plusle
+Plusle
+プラスル
+플러시
+正电拍拍
+正電拍拍
+# 0312 Minun
+Minun
+マイナン
+마이농
+負电拍拍
+負電拍拍
+# 0313 Volbeat
+Volbeat
+バルビート
+볼비트
+电萤虫
+電螢蟲
+# 0314 Illumise
+Illumise
+イルミーゼ
+네오비트
+甜甜萤
+甜甜螢
+# 0315 Roselia
+Roselia
+ロゼリア
+로젤리아
+毒蔷薇
+毒薔薇
+Cynthia's Roselia
+Cynthias Roselia
+Roselia di Camilla
+# 0316 Gulpin
+Gulpin
+ゴクリン
+꼴깍몬
+溶食兽
+溶食獸
+# 0317 Swalot
+Swalot
+マルノーム
+꿀꺽몬
+吞食兽
+吞食獸
+# 0318 Carvanha
+Carvanha
+キバニア
+샤프니아
+利牙鱼
+利牙魚
+# 0319 Sharpedo
+Sharpedo
+サメハダー
+샤크니아
+巨牙鲨
+巨牙鯊
+Mega Sharpedo
+M Sharpedo
+メガサメハダー
+Mega Sharpedo ex
+Mega Sharpedo-ex
+# 0320 Wailmer
+Wailmer
+ホエルコ
+고래왕자
+吼吼鲸
+吼吼鯨
+# 0321 Wailord
+Wailord
+ホエルオー
+고래왕
+吼鲸王
+吼鯨王
+# 0322 Numel
+Numel
+ドンメル
+둔타
+呆火驼
+呆火駝
+# 0323 Camerupt
+Camerupt
+バクーダ
+폭타
+喷火驼
+噴火駝
+Mega Camerupt
+M Camerupt
+メガバクーダ
+Mega Camerupt ex
+Mega Camerupt-ex
+# 0324 Torkoal
+Torkoal
+コータス
+코터스
+煤炭龟
+煤炭龜
+# 0325 Spoink
+Spoink
+バネブー
+피그점프
+跳跳猪
+跳跳豬
+# 0326 Grumpig
+Grumpig
+ブーピッグ
+피그킹
+噗噗猪
+噗噗豬
+# 0327 Spinda
+Spinda
+パッチール
+얼루기
+晃晃斑
+# 0328 Trapinch
+Trapinch
+ナックラー
+톱치
+大颚蚁
+大顎蟻
+# 0329 Vibrava
+Vibrava
+ビブラーバ
+비브라바
+超音波幼虫
+超音波幼蟲
+# 0330 Flygon
+Flygon
+フライゴン
+플라이곤
+沙漠蜻蜓
+# 0331 Cacnea
+Cacnea
+サボネア
+선인왕
+刺球仙人掌
+# 0332 Cacturne
+Cacturne
+ノクタス
+밤선인
+梦歌仙人掌
+夢歌仙人掌
+# 0333 Swablu
+Swablu
+チルット
+파비코
+青绵鸟
+青綿鳥
+# 0334 Altaria
+Altaria
+チルタリス
+파비코리
+七夕青鸟
+七夕青鳥
+Mega Altaria
+M Altaria
+メガチルタリス
+# 0335 Zangoose
+Zangoose
+ザングース
+쟝고
+猫鼬斩
+貓鼬斬
+# 0336 Seviper
+Seviper
+ハブネーク
+세비퍼
+饭匙蛇
+飯匙蛇
+# 0337 Lunatone
+Lunatone
+ルナトーン
+루나톤
+月石
+# 0338 Solrock
+Solrock
+ソルロック
+솔록
+太阳岩
+太陽岩
+# 0339 Barboach
+Barboach
+ドジョッチ
+미꾸리
+泥泥鳅
+泥泥鰍
+# 0340 Whiscash
+Whiscash
+ナマズン
+메깅
+鲶鱼王
+鯰魚王
+# 0341 Corphish
+Corphish
+ヘイガニ
+가재군
+龙虾小兵
+龍蝦小兵
+# 0342 Crawdaunt
+Crawdaunt
+シザリガー
+가재장군
+铁螯龙虾
+鐵螯龍蝦
+# 0343 Baltoy
+Baltoy
+ヤジロン
+오뚝군
+天秤偶
+Steven's Baltoy
+Stevens Baltoy
+Baltoy di Rocco
+# 0344 Claydol
+Claydol
+ネンドール
+점토도리
+念力土偶
+Steven's Claydol
+Stevens Claydol
+Claydol di Rocco
+# 0345 Lileep
+Lileep
+リリーラ
+릴링
+触手百合
+觸手百合
+# 0346 Cradily
+Cradily
+ユレイドル
+릴리요
+摇篮百合
+搖籃百合
+# 0347 Anorith
+Anorith
+アノプス
+아노딥스
+太古羽虫
+太古羽蟲
+# 0348 Armaldo
+Armaldo
+アーマルド
+아말도
+太古盔甲
+# 0349 Feebas
+Feebas
+ヒンバス
+빈티나
+丑丑鱼
+醜醜魚
+Cynthia's Feebas
+Cynthias Feebas
+Feebas di Camilla
+# 0350 Milotic
+Milotic
+ミロカロス
+밀로틱
+美纳斯
+美納斯
+Cynthia's Milotic
+Cynthias Milotic
+Milotic di Camilla
+# 0351 Castform
+Castform
+ポワルン
+캐스퐁
+飘浮泡泡
+飄浮泡泡
+# 0352 Kecleon
+Kecleon
+カクレオン
+켈리몬
+变隐龙
+變隱龍
+# 0353 Shuppet
+Shuppet
+カゲボウズ
+어둠대신
+怨影娃娃
+# 0354 Banette
+Banette
+ジュペッタ
+다크펫
+诅咒娃娃
+詛咒娃娃
+Mega Banette
+M Banette
+メガジュペッタ
+# 0355 Duskull
+Duskull
+ヨマワル
+해골몽
+夜巡灵
+夜巡靈
+# 0356 Dusclops
+Dusclops
+サマヨール
+미라몽
+彷徨夜灵
+彷徨夜靈
+# 0357 Tropius
+Tropius
+トロピウス
+트로피우스
+热带龙
+熱帶龍
+# 0358 Chimecho
+Chimecho
+チリーン
+치렁
+风铃铃
+風鈴鈴
+Mega Chimecho
+M Chimecho
+メガチリーン
+# 0359 Absol
+Absol
+アブソル
+앱솔
+阿勃梭鲁
+阿勃梭魯
+Mega Absol
+M Absol
+メガアブソル
+Mega Absol ex
+Mega Absol-ex
+# 0360 Wynaut
+Wynaut
+ソーナノ
+마자
+小果然
+# 0361 Snorunt
+Snorunt
+ユキワラシ
+눈꼬마
+雪童子
+# 0362 Glalie
+Glalie
+オニゴーリ
+얼음귀신
+冰鬼护
+冰鬼護
+Mega Glalie
+M Glalie
+メガオニゴーリ
+# 0363 Spheal
+Spheal
+タマザラシ
+대굴레오
+海豹球
+# 0364 Sealeo
+Sealeo
+トドグラー
+씨레오
+海魔狮
+海魔獅
+# 0365 Walrein
+Walrein
+トドゼルガ
+씨카이저
+帝牙海狮
+帝牙海獅
+# 0366 Clamperl
+Clamperl
+パールル
+진주몽
+珍珠贝
+珍珠貝
+# 0367 Huntail
+Huntail
+ハンテール
+헌테일
+猎斑鱼
+獵斑魚
+# 0368 Gorebyss
+Gorebyss
+サクラビス
+분홍장이
+樱花鱼
+櫻花魚
+# 0369 Relicanth
+Relicanth
+ジーランス
+시라칸
+古空棘鱼
+古空棘魚
+# 0370 Luvdisc
+Luvdisc
+ラブカス
+사랑동이
+爱心鱼
+愛心魚
+# 0371 Bagon
+Bagon
+タツベイ
+아공이
+宝贝龙
+寶貝龍
+# 0372 Shelgon
+Shelgon
+コモルー
+쉘곤
+甲壳龙
+甲殼龍
+# 0373 Salamence
+Salamence
+ボーマンダ
+보만다
+暴飞龙
+暴飛龍
+Mega Salamence
+M Salamence
+メガボーマンダ
+# 0374 Beldum
+Beldum
+ダンバル
+메탕
+铁哑铃
+鐵啞鈴
+Steven's Beldum
+Stevens Beldum
+Beldum di Rocco
+# 0375 Metang
+Metang
+メタング
+메탕구
+金属怪
+金屬怪
+Steven's Metang
+Stevens Metang
+Metang di Rocco
+# 0376 Metagross
+Metagross
+メタグロス
+메타그로스
+巨金怪
+Mega Metagross
+M Metagross
+メガメタグロス
+Steven's Metagross
+Stevens Metagross
+Metagross di Rocco
+Metagross-ex di Rocco
+# 0377 Regirock
+Regirock
+レジロック
+레지락
+雷吉洛克
+# 0378 Regice
+Regice
+レジアイス
+레지아이스
+雷吉艾斯
+# 0379 Registeel
+Registeel
+レジスチル
+레지스틸
+雷吉斯奇鲁
+雷吉斯奇魯
+# 0380 Latias
+Latias
+ラティアス
+라티아스
+拉帝亚斯
+拉帝亞斯
+Mega Latias
+M Latias
+メガラティアス
+Mega Latias ex
+Mega Latias-ex
+# 0381 Latios
+Latios
+ラティオス
+라티오스
+拉帝欧斯
+拉帝歐斯
+Mega Latios
+M Latios
+メガラティオス
+# 0382 Kyogre
+Kyogre
+カイオーガ
+가이오가
+盖欧卡
+蓋歐卡
+# 0383 Groudon
+Groudon
+グラードン
+그란돈
+固拉多
+# 0384 Rayquaza
+Rayquaza
+レックウザ
+레쿠쟈
+烈空坐
+Mega Rayquaza
+M Rayquaza
+メガレックウザ
+# 0385 Jirachi
+Jirachi
+ジラーチ
+지라치
+基拉祈
+# 0386 Deoxys
+Deoxys
+デオキシス
+테오키스
+代欧奇希斯
+代歐奇希斯
+
+# ---------------------------------------------------------------------
+# GENERAZIONE IV
+# ---------------------------------------------------------------------
+# 0387 Turtwig
+Turtwig
+ナエトル
+모부기
+草苗龟
+草苗龜
+# 0388 Grotle
+Grotle
+ハヤシガメ
+수풀부기
+树林龟
+樹林龜
+# 0389 Torterra
+Torterra
+ドダイトス
+토대부기
+土台龟
+土台龜
+# 0390 Chimchar
+Chimchar
+ヒコザル
+불꽃숭이
+小火焰猴
+# 0391 Monferno
+Monferno
+モウカザル
+파이숭이
+猛火猴
+# 0392 Infernape
+Infernape
+ゴウカザル
+초염몽
+烈焰猴
+# 0393 Piplup
+Piplup
+ポッチャマ
+팽도리
+波加曼
+# 0394 Prinplup
+Prinplup
+ポッタイシ
+팽태자
+波皇子
+# 0395 Empoleon
+Empoleon
+エンペルト
+엠페르트
+帝王拿波
+# 0396 Starly
+Starly
+ムックル
+찌르꼬
+姆克儿
+姆克兒
+Larry's Starly
+Larrys Starly
+Starly di Ubaldo
+# 0397 Staravia
+Staravia
+ムクバード
+찌르버드
+姆克鸟
+姆克鳥
+Larry's Staravia
+Larrys Staravia
+Staravia di Ubaldo
+# 0398 Staraptor
+Staraptor
+ムクホーク
+찌르호크
+姆克鹰
+姆克鷹
+Mega Staraptor
+M Staraptor
+メガムクホーク
+Larry's Staraptor
+Larrys Staraptor
+Staraptor di Ubaldo
+# 0399 Bidoof
+Bidoof
+ビッパ
+비버니
+大牙狸
+# 0400 Bibarel
+Bibarel
+ビーダル
+비버통
+大尾狸
+# 0401 Kricketot
+Kricketot
+コロボーシ
+귀뚤뚜기
+圆法师
+圓法師
+# 0402 Kricketune
+Kricketune
+コロトック
+귀뚤톡크
+音箱蟀
+# 0403 Shinx
+Shinx
+コリンク
+꼬링크
+小猫怪
+小貓怪
+# 0404 Luxio
+Luxio
+ルクシオ
+럭시오
+勒克猫
+勒克貓
+# 0405 Luxray
+Luxray
+レントラー
+렌트라
+伦琴猫
+倫琴貓
+# 0406 Budew
+Budew
+スボミー
+꼬몽울
+含羞苞
+# 0407 Roserade
+Roserade
+ロズレイド
+로즈레이드
+罗丝雷朵
+羅絲雷朵
+Cynthia's Roserade
+Cynthias Roserade
+Roserade di Camilla
+# 0408 Cranidos
+Cranidos
+ズガイドス
+두개도스
+头盖龙
+頭蓋龍
+# 0409 Rampardos
+Rampardos
+ラムパルド
+램펄드
+战槌龙
+戰槌龍
+# 0410 Shieldon
+Shieldon
+タテトプス
+방패톱스
+盾甲龙
+盾甲龍
+# 0411 Bastiodon
+Bastiodon
+トリデプス
+바리톱스
+护城龙
+護城龍
+# 0412 Burmy
+Burmy
+ミノムッチ
+도롱충이
+结草儿
+結草兒
+# 0413 Wormadam
+Wormadam
+ミノマダム
+도롱마담
+结草贵妇
+結草貴婦
+# 0414 Mothim
+Mothim
+ガーメイル
+나메일
+绅士蛾
+紳士蛾
+# 0415 Combee
+Combee
+ミツハニー
+세꿀버리
+三蜜蜂
+# 0416 Vespiquen
+Vespiquen
+ビークイン
+비퀸
+蜂女王
+# 0417 Pachirisu
+Pachirisu
+パチリス
+파치리스
+帕奇利兹
+帕奇利茲
+# 0418 Buizel
+Buizel
+ブイゼル
+브이젤
+泳圈鼬
+# 0419 Floatzel
+Floatzel
+フローゼル
+플로젤
+浮潜鼬
+浮潛鼬
+# 0420 Cherubi
+Cherubi
+チェリンボ
+체리버
+樱花宝
+櫻花寶
+# 0421 Cherrim
+Cherrim
+チェリム
+체리꼬
+樱花儿
+櫻花兒
+# 0422 Shellos
+Shellos
+カラナクシ
+깝질무
+无壳海兔
+無殼海兔
+# 0423 Gastrodon
+Gastrodon
+トリトドン
+트리토돈
+海兔兽
+海兔獸
+# 0424 Ambipom
+Ambipom
+エテボース
+겟핸보숭
+双尾怪手
+雙尾怪手
+# 0425 Drifloon
+Drifloon
+フワンテ
+흔들풍손
+飘飘球
+飄飄球
+# 0426 Drifblim
+Drifblim
+フワライド
+둥실라이드
+随风球
+隨風球
+# 0427 Buneary
+Buneary
+ミミロル
+이어롤
+卷卷耳
+捲捲耳
+# 0428 Lopunny
+Lopunny
+ミミロップ
+이어롭
+长耳兔
+長耳兔
+Mega Lopunny
+M Lopunny
+メガミミロップ
+Mega Lopunny ex
+Mega Lopunny-ex
+Mega Lopunny & Jigglypuff GX
+Mega Lopunny & Jigglypuff GX ex
+Mega Lopunny & Jigglypuff GX-ex
+# 0429 Mismagius
+Mismagius
+ムウマージ
+무우마직
+梦妖魔
+夢妖魔
+# 0430 Honchkrow
+Honchkrow
+ドンカラス
+돈크로우
+乌鸦头头
+烏鴉頭頭
+Team Rocket's Honchkrow
+Team Rockets Honchkrow
+Honchkrow del Team Rocket
+# 0431 Glameow
+Glameow
+ニャルマー
+나옹마
+魅力喵
+# 0432 Purugly
+Purugly
+ブニャット
+몬냥이
+东施喵
+東施喵
+# 0433 Chingling
+Chingling
+リーシャン
+랑딸랑
+铃铛响
+鈴鐺響
+Team Rocket's Chingling
+Team Rockets Chingling
+Chingling del Team Rocket
+# 0434 Stunky
+Stunky
+スカンプー
+스컹뿡
+臭鼬噗
+# 0435 Skuntank
+Skuntank
+スカタンク
+스컹탱크
+坦克臭鼬
+# 0436 Bronzor
+Bronzor
+ドーミラー
+동미러
+铜镜怪
+銅鏡怪
+# 0437 Bronzong
+Bronzong
+ドータクン
+동탁군
+青铜钟
+青銅鐘
+# 0438 Bonsly
+Bonsly
+ウソハチ
+꼬지지
+盆才怪
+# 0439 Mime Jr.
+Mime Jr.
+Mime Jr
+MimeJr
+マネネ
+흉내내
+魔尼尼
+# 0440 Happiny
+Happiny
+ピンプク
+핑복
+小福蛋
+# 0441 Chatot
+Chatot
+ペラップ
+페라페
+聒噪鸟
+聒噪鳥
+# 0442 Spiritomb
+Spiritomb
+ミカルゲ
+화강돌
+花岩怪
+Cynthia's Spiritomb
+Cynthias Spiritomb
+Spiritomb di Camilla
+# 0443 Gible
+Gible
+フカマル
+딥상어동
+圆陆鲨
+圓陸鯊
+Cynthia's Gible
+Cynthias Gible
+Gible di Camilla
+# 0444 Gabite
+Gabite
+ガバイト
+한바이트
+尖牙陆鲨
+尖牙陸鯊
+Cynthia's Gabite
+Cynthias Gabite
+Gabite di Camilla
+# 0445 Garchomp
+Garchomp
+ガブリアス
+한카리아스
+烈咬陆鲨
+烈咬陸鯊
+Mega Garchomp
+M Garchomp
+メガガブリアス
+Cynthia's Garchomp
+Cynthias Garchomp
+Garchomp di Camilla
+Garchomp-ex di Camilla
+# 0446 Munchlax
+Munchlax
+ゴンベ
+먹고자
+小卡比兽
+小卡比獸
+# 0447 Riolu
+Riolu
+リオル
+리오르
+利欧路
+利歐路
+# 0448 Lucario
+Lucario
+ルカリオ
+루카리오
+路卡利欧
+路卡利歐
+Mega Lucario
+M Lucario
+メガルカリオ
+Mega Lucario ex
+Mega Lucario-ex
+# 0449 Hippopotas
+Hippopotas
+ヒポポタス
+히포포타스
+沙河马
+沙河馬
+# 0450 Hippowdon
+Hippowdon
+カバルドン
+하마돈
+河马兽
+河馬獸
+# 0451 Skorupi
+Skorupi
+スコルピ
+스콜피
+钳尾蝎
+鉗尾蠍
+# 0452 Drapion
+Drapion
+ドラピオン
+드래피온
+龙王蝎
+龍王蠍
+# 0453 Croagunk
+Croagunk
+グレッグル
+삐딱구리
+不良蛙
+# 0454 Toxicroak
+Toxicroak
+ドクロッグ
+독개굴
+毒骷蛙
+# 0455 Carnivine
+Carnivine
+マスキッパ
+무스틈니
+尖牙笼
+尖牙籠
+# 0456 Finneon
+Finneon
+ケイコウオ
+형광어
+荧光鱼
+螢光魚
+# 0457 Lumineon
+Lumineon
+ネオラント
+네오라이트
+霓虹鱼
+霓虹魚
+# 0458 Mantyke
+Mantyke
+タマンタ
+타만타
+小球飞鱼
+小球飛魚
+# 0459 Snover
+Snover
+ユキカブリ
+눈쓰개
+雪笠怪
+# 0460 Abomasnow
+Abomasnow
+ユキノオー
+눈설왕
+暴雪王
+Mega Abomasnow
+M Abomasnow
+メガユキノオー
+Mega Abomasnow ex
+Mega Abomasnow-ex
+# 0461 Weavile
+Weavile
+マニューラ
+포푸니라
+玛狃拉
+瑪狃拉
+# 0462 Magnezone
+Magnezone
+ジバコイル
+자포코일
+自爆磁怪
+# 0463 Lickilicky
+Lickilicky
+ベロベルト
+내룸벨트
+大舌舔
+# 0464 Rhyperior
+Rhyperior
+ドサイドン
+거대코뿌리
+超甲狂犀
+# 0465 Tangrowth
+Tangrowth
+モジャンボ
+덩쿠림보
+巨蔓藤
+# 0466 Electivire
+Electivire
+エレキブル
+에레키블
+电击魔兽
+電擊魔獸
+# 0467 Magmortar
+Magmortar
+ブーバーン
+마그마번
+鸭嘴炎兽
+鴨嘴炎獸
+# 0468 Togekiss
+Togekiss
+トゲキッス
+토게키스
+波克基斯
+# 0469 Yanmega
+Yanmega
+メガヤンマ
+메가자리
+远古巨蜓
+遠古巨蜓
+# 0470 Leafeon
+Leafeon
+リーフィア
+리피아
+叶伊布
+葉伊布
+# 0471 Glaceon
+Glaceon
+グレイシア
+글레이시아
+冰伊布
+# 0472 Gliscor
+Gliscor
+グライオン
+글라이온
+天蝎王
+天蠍王
+# 0473 Mamoswine
+Mamoswine
+マンムー
+맘모꾸리
+象牙猪
+象牙豬
+# 0474 Porygon-Z
+Porygon-Z
+Porygon Z
+PorygonZ
+ポリゴンＺ
+폴리곤Z
+多边兽乙型
+多邊獸Ｚ
+Team Rocket's Porygon-Z
+Team Rockets Porygon-Z
+Porygon-Z del Team Rocket
+# 0475 Gallade
+Gallade
+エルレイド
+엘레이드
+艾路雷朵
+Mega Gallade
+M Gallade
+メガエルレイド
+# 0476 Probopass
+Probopass
+ダイノーズ
+대코파스
+大朝北鼻
+# 0477 Dusknoir
+Dusknoir
+ヨノワール
+야느와르몽
+黑夜魔灵
+黑夜魔靈
+# 0478 Froslass
+Froslass
+ユキメノコ
+눈여아
+雪妖女
+Mega Froslass
+M Froslass
+メガユキメノコ
+Mega Froslass ex
+Mega Froslass-ex
+# 0479 Rotom
+Rotom
+ロトム
+로토무
+洛托姆
+# 0480 Uxie  ⚠ nome molto corto
+Uxie
+ユクシー
+유크시
+由克希
+# 0481 Mesprit
+Mesprit
+エムリット
+엠라이트
+艾姆利多
+# 0482 Azelf
+Azelf
+アグノム
+아그놈
+亚克诺姆
+亞克諾姆
+# 0483 Dialga
+Dialga
+ディアルガ
+디아루가
+帝牙卢卡
+帝牙盧卡
+# 0484 Palkia
+Palkia
+パルキア
+펄기아
+帕路奇亚
+帕路奇亞
+# 0485 Heatran
+Heatran
+ヒードラン
+히드런
+席多蓝恩
+席多藍恩
+Mega Heatran
+M Heatran
+メガヒードラン
+# 0486 Regigigas
+Regigigas
+レジギガス
+레지기가스
+雷吉奇卡斯
+# 0487 Giratina
+Giratina
+ギラティナ
+기라티나
+骑拉帝纳
+騎拉帝納
+# 0488 Cresselia
+Cresselia
+クレセリア
+크레세리아
+克雷色利亚
+克雷色利亞
+# 0489 Phione
+Phione
+フィオネ
+피오네
+霏欧纳
+霏歐納
+# 0490 Manaphy
+Manaphy
+マナフィ
+마나피
+玛纳霏
+瑪納霏
+# 0491 Darkrai
+Darkrai
+ダークライ
+다크라이
+达克莱伊
+達克萊伊
+Mega Darkrai
+M Darkrai
+メガダークライ
+Mega Darkrai ex
+Mega Darkrai-ex
+# 0492 Shaymin
+Shaymin
+シェイミ
+쉐이미
+谢米
+謝米
+# 0493 Arceus
+Arceus
+アルセウス
+아르세우스
+阿尔宙斯
+阿爾宙斯
+
+# ---------------------------------------------------------------------
+# GENERAZIONE V
+# ---------------------------------------------------------------------
+# 0494 Victini
+Victini
+ビクティニ
+비크티니
+比克提尼
+# 0495 Snivy
+Snivy
+ツタージャ
+주리비얀
+藤藤蛇
+# 0496 Servine
+Servine
+ジャノビー
+샤비
+青藤蛇
+# 0497 Serperior
+Serperior
+ジャローダ
+샤로다
+君主蛇
+# 0498 Tepig
+Tepig
+ポカブ
+뚜꾸리
+暖暖猪
+暖暖豬
+# 0499 Pignite
+Pignite
+チャオブー
+차오꿀
+炒炒猪
+炒炒豬
+# 0500 Emboar
+Emboar
+エンブオー
+염무왕
+炎武王
+Mega Emboar
+M Emboar
+メガエンブオー
+Mega Emboar ex
+Mega Emboar-ex
+# 0501 Oshawott
+Oshawott
+ミジュマル
+수댕이
+水水獭
+水水獺
+# 0502 Dewott
+Dewott
+フタチマル
+쌍검자비
+双刃丸
+雙刃丸
+# 0503 Samurott
+Samurott
+ダイケンキ
+대검귀
+大剑鬼
+大劍鬼
+Samurott di Hisui
+Hisuian Samurott
+# 0504 Patrat
+Patrat
+ミネズミ
+보르쥐
+探探鼠
+# 0505 Watchog
+Watchog
+ミルホッグ
+보르그
+步哨鼠
+# 0506 Lillipup
+Lillipup
+ヨーテリー
+요테리
+小约克
+小約克
+# 0507 Herdier
+Herdier
+ハーデリア
+하데리어
+哈约克
+哈約克
+# 0508 Stoutland
+Stoutland
+ムーランド
+바랜드
+长毛狗
+長毛狗
+# 0509 Purrloin
+Purrloin
+チョロネコ
+쌔비냥
+扒手猫
+扒手貓
+Marnie's Purrloin
+Marnies Purrloin
+Purrloin di Mary
+N's Purrloin
+Ns Purrloin
+Purrloin di N
+# 0510 Liepard
+Liepard
+レパルダス
+레파르다스
+酷豹
+Marnie's Liepard
+Marnies Liepard
+Liepard di Mary
+# 0511 Pansage
+Pansage
+ヤナップ
+야나프
+花椰猴
+# 0512 Simisage
+Simisage
+ヤナッキー
+야나키
+花椰猿
+# 0513 Pansear
+Pansear
+バオップ
+바오프
+爆香猴
+# 0514 Simisear
+Simisear
+バオッキー
+바오키
+爆香猿
+# 0515 Panpour
+Panpour
+ヒヤップ
+앗차프
+冷水猴
+# 0516 Simipour
+Simipour
+ヒヤッキー
+앗차키
+冷水猿
+# 0517 Munna
+Munna
+ムンナ
+몽나
+食梦梦
+食夢夢
+# 0518 Musharna
+Musharna
+ムシャーナ
+몽얌나
+梦梦蚀
+夢夢蝕
+# 0519 Pidove
+Pidove
+マメパト
+콩둘기
+豆豆鸽
+豆豆鴿
+# 0520 Tranquill
+Tranquill
+ハトーボー
+유토브
+咕咕鸽
+咕咕鴿
+# 0521 Unfezant
+Unfezant
+ケンホロウ
+켄호로우
+高傲雉鸡
+高傲雉雞
+# 0522 Blitzle
+Blitzle
+シママ
+줄뮤마
+斑斑马
+斑斑馬
+# 0523 Zebstrika
+Zebstrika
+ゼブライカ
+제브라이카
+雷电斑马
+雷電斑馬
+# 0524 Roggenrola
+Roggenrola
+ダンゴロ
+단굴
+石丸子
+# 0525 Boldore
+Boldore
+ガントル
+암트르
+地幔岩
+# 0526 Gigalith
+Gigalith
+ギガイアス
+기가이어스
+庞岩怪
+龐岩怪
+# 0527 Woobat  ⚠ contenuto in Swoobat
+Woobat
+コロモリ
+또르박쥐
+滚滚蝙蝠
+滾滾蝙蝠
+# 0528 Swoobat
+Swoobat
+ココロモリ
+맘박쥐
+心蝙蝠
+# 0529 Drilbur
+Drilbur
+モグリュー
+두더류
+螺钉地鼠
+螺釘地鼠
+# 0530 Excadrill
+Excadrill
+ドリュウズ
+몰드류
+龙头地鼠
+龍頭地鼠
+Mega Excadrill
+M Excadrill
+メガドリュウズ
+Mega Excadrill ex
+Mega Excadrill-ex
+# 0531 Audino
+Audino
+タブンネ
+다부니
+差不多娃娃
+Mega Audino
+M Audino
+メガタブンネ
+Mega Audino ex
+Mega Audino-ex
+# 0532 Timburr
+Timburr
+ドッコラー
+으랏차
+搬运小匠
+搬運小匠
+# 0533 Gurdurr
+Gurdurr
+ドテッコツ
+토쇠골
+铁骨土人
+鐵骨土人
+# 0534 Conkeldurr
+Conkeldurr
+ローブシン
+노보청
+修建老匠
+# 0535 Tympole
+Tympole
+オタマロ
+동챙이
+圆蝌蚪
+圓蝌蚪
+# 0536 Palpitoad
+Palpitoad
+ガマガル
+두까비
+蓝蟾蜍
+藍蟾蜍
+# 0537 Seismitoad
+Seismitoad
+ガマゲロゲ
+두빅굴
+蟾蜍王
+# 0538 Throh
+Throh
+ナゲキ
+던지미
+投摔鬼
+# 0539 Sawk  ⚠ nome molto corto
+Sawk
+ダゲキ
+타격귀
+打击鬼
+打擊鬼
+# 0540 Sewaddle
+Sewaddle
+クルミル
+두르보
+虫宝包
+蟲寶包
+# 0541 Swadloon
+Swadloon
+クルマユ
+두르쿤
+宝包茧
+寶包繭
+# 0542 Leavanny
+Leavanny
+ハハコモリ
+모아머
+保姆虫
+保母蟲
+# 0543 Venipede
+Venipede
+フシデ
+마디네
+百足蜈蚣
+# 0544 Whirlipede
+Whirlipede
+ホイーガ
+휠구
+车轮球
+車輪毬
+# 0545 Scolipede
+Scolipede
+ペンドラー
+펜드라
+蜈蚣王
+Mega Scolipede
+M Scolipede
+メガペンドラー
+# 0546 Cottonee
+Cottonee
+モンメン
+소미안
+木棉球
+# 0547 Whimsicott
+Whimsicott
+エルフーン
+엘풍
+风妖精
+風妖精
+# 0548 Petilil
+Petilil
+チュリネ
+치릴리
+百合根娃娃
+# 0549 Lilligant
+Lilligant
+ドレディア
+드레디어
+裙儿小姐
+裙兒小姐
+Lilligant di Hisui
+Hisuian Lilligant
+# 0550 Basculin
+Basculin
+バスラオ
+배쓰나이
+野蛮鲈鱼
+野蠻鱸魚
+# 0551 Sandile
+Sandile
+メグロコ
+깜눈크
+黑眼鳄
+黑眼鱷
+# 0552 Krokorok
+Krokorok
+ワルビル
+악비르
+混混鳄
+混混鱷
+# 0553 Krookodile
+Krookodile
+ワルビアル
+악비아르
+流氓鳄
+流氓鱷
+# 0554 Darumaka
+Darumaka
+ダルマッカ
+달막화
+火红不倒翁
+火紅不倒翁
+Darumaka di Galar
+Galarian Darumaka
+N's Darumaka
+Ns Darumaka
+Darumaka di N
+# 0555 Darmanitan
+Darmanitan
+ヒヒダルマ
+불비달마
+达摩狒狒
+達摩狒狒
+Darmanitan di Galar
+Galarian Darmanitan
+N's Darmanitan
+Ns Darmanitan
+Darmanitan di N
+# 0556 Maractus
+Maractus
+マラカッチ
+마라카치
+沙铃仙人掌
+沙鈴仙人掌
+# 0557 Dwebble
+Dwebble
+イシズマイ
+돌살이
+石居蟹
+# 0558 Crustle
+Crustle
+イワパレス
+암팰리스
+岩殿居蟹
+# 0559 Scraggy
+Scraggy
+ズルッグ
+곤율랭
+滑滑小子
+Marnie's Scraggy
+Marnies Scraggy
+Scraggy di Mary
+# 0560 Scrafty
+Scrafty
+ズルズキン
+곤율거니
+头巾混混
+頭巾混混
+Mega Scrafty
+M Scrafty
+メガズルズキン
+Mega Scrafty ex
+Mega Scrafty-ex
+Marnie's Scrafty
+Marnies Scrafty
+Scrafty di Mary
+# 0561 Sigilyph
+Sigilyph
+シンボラー
+심보러
+象征鸟
+象徵鳥
+N's Sigilyph
+Ns Sigilyph
+Sigilyph di N
+# 0562 Yamask
+Yamask
+デスマス
+데스마스
+哭哭面具
+Yamask di Galar
+Galarian Yamask
+# 0563 Cofagrigus
+Cofagrigus
+デスカーン
+데스니칸
+迭失棺
+死神棺
+# 0564 Tirtouga
+Tirtouga
+プロトーガ
+프로토가
+原盖海龟
+原蓋海龜
+# 0565 Carracosta
+Carracosta
+アバゴーラ
+늑골라
+肋骨海龟
+肋骨海龜
+# 0566 Archen
+Archen
+アーケン
+아켄
+始祖小鸟
+始祖小鳥
+# 0567 Archeops
+Archeops
+アーケオス
+아케오스
+始祖大鸟
+始祖大鳥
+# 0568 Trubbish
+Trubbish
+ヤブクロン
+깨봉이
+破破袋
+# 0569 Garbodor
+Garbodor
+ダストダス
+더스트나
+灰尘山
+灰塵山
+# 0570 Zorua
+Zorua
+ゾロア
+조로아
+索罗亚
+索羅亞
+Zorua di Hisui
+Hisuian Zorua
+N's Zorua
+Ns Zorua
+Zorua di N
+# 0571 Zoroark
+Zoroark
+ゾロアーク
+조로아크
+索罗亚克
+索羅亞克
+Zoroark di Hisui
+Hisuian Zoroark
+N's Zoroark
+Ns Zoroark
+Zoroark di N
+Zoroark-ex di N
+# 0572 Minccino
+Minccino
+チラーミィ
+치라미
+泡沫栗鼠
+# 0573 Cinccino
+Cinccino
+チラチーノ
+치라치노
+奇诺栗鼠
+奇諾栗鼠
+# 0574 Gothita
+Gothita
+ゴチム
+고디탱
+哥德宝宝
+哥德寶寶
+# 0575 Gothorita
+Gothorita
+ゴチミル
+고디보미
+哥德小童
+# 0576 Gothitelle
+Gothitelle
+ゴチルゼル
+고디모아젤
+哥德小姐
+# 0577 Solosis
+Solosis
+ユニラン
+유니란
+单卵细胞球
+單卵細胞球
+# 0578 Duosion
+Duosion
+ダブラン
+듀란
+双卵细胞球
+雙卵細胞球
+# 0579 Reuniclus
+Reuniclus
+ランクルス
+란쿨루스
+人造细胞卵
+人造細胞卵
+# 0580 Ducklett
+Ducklett
+コアルヒー
+꼬지보리
+鸭宝宝
+鴨寶寶
+# 0581 Swanna
+Swanna
+スワンナ
+스완나
+舞天鹅
+舞天鵝
+# 0582 Vanillite
+Vanillite
+バニプッチ
+바닐프티
+迷你冰
+N's Vanillite
+Ns Vanillite
+Vanillite di N
+# 0583 Vanillish
+Vanillish
+バニリッチ
+바닐리치
+多多冰
+N's Vanillish
+Ns Vanillish
+Vanillish di N
+# 0584 Vanilluxe
+Vanilluxe
+バイバニラ
+배바닐라
+双倍多多冰
+雙倍多多冰
+N's Vanilluxe
+Ns Vanilluxe
+Vanilluxe di N
+# 0585 Deerling
+Deerling
+シキジカ
+사철록
+四季鹿
+# 0586 Sawsbuck
+Sawsbuck
+メブキジカ
+바라철록
+萌芽鹿
+# 0587 Emolga
+Emolga
+エモンガ
+에몽가
+电飞鼠
+電飛鼠
+# 0588 Karrablast
+Karrablast
+カブルモ
+딱정곤
+盖盖虫
+蓋蓋蟲
+# 0589 Escavalier
+Escavalier
+シュバルゴ
+슈바르고
+骑士蜗牛
+騎士蝸牛
+# 0590 Foongus
+Foongus
+タマゲタケ
+깜놀버슬
+哎呀球菇
+# 0591 Amoonguss
+Amoonguss
+モロバレル
+뽀록나
+败露球菇
+敗露球菇
+# 0592 Frillish
+Frillish
+プルリル
+탱그릴
+轻飘飘
+輕飄飄
+# 0593 Jellicent
+Jellicent
+ブルンゲル
+탱탱겔
+胖嘟嘟
+# 0594 Alomomola
+Alomomola
+ママンボウ
+맘복치
+保姆曼波
+保母曼波
+# 0595 Joltik
+Joltik
+バチュル
+파쪼옥
+电电虫
+電電蟲
+N's Joltik
+Ns Joltik
+Joltik di N
+# 0596 Galvantula
+Galvantula
+デンチュラ
+전툴라
+电蜘蛛
+電蜘蛛
+# 0597 Ferroseed
+Ferroseed
+テッシード
+철시드
+种子铁球
+種子鐵球
+# 0598 Ferrothorn
+Ferrothorn
+ナットレイ
+너트령
+坚果哑铃
+堅果啞鈴
+# 0599 Klink  ⚠ parola corta; contenuto in Klinklang
+Klink
+ギアル
+기어르
+齿轮儿
+齒輪兒
+N's Klink
+Ns Klink
+Klink di N
+# 0600 Klang  ⚠ contenuto in Klinklang
+Klang
+ギギアル
+기기어르
+齿轮组
+齒輪組
+N's Klang
+Ns Klang
+Klang di N
+# 0601 Klinklang
+Klinklang
+ギギギアル
+기기기어르
+齿轮怪
+齒輪怪
+N's Klinklang
+Ns Klinklang
+Klinklang di N
+# 0602 Tynamo
+Tynamo
+シビシラス
+저리어
+麻麻小鱼
+麻麻小魚
+# 0603 Eelektrik
+Eelektrik
+シビビール
+저리릴
+麻麻鳗
+麻麻鰻
+# 0604 Eelektross
+Eelektross
+シビルドン
+저리더프
+麻麻鳗鱼王
+麻麻鰻魚王
+Mega Eelektross
+M Eelektross
+メガシビルドン
+Mega Eelektross ex
+Mega Eelektross-ex
+# 0605 Elgyem
+Elgyem
+リグレー
+리그레
+小灰怪
+# 0606 Beheeyem
+Beheeyem
+オーベム
+벰크
+大宇怪
+# 0607 Litwick
+Litwick
+ヒトモシ
+불켜미
+烛光灵
+燭光靈
+# 0608 Lampent
+Lampent
+ランプラー
+램프라
+灯火幽灵
+燈火幽靈
+# 0609 Chandelure
+Chandelure
+シャンデラ
+샹델라
+水晶灯火灵
+水晶燈火靈
+Mega Chandelure
+M Chandelure
+メガシャンデラ
+Mega Chandelure ex
+Mega Chandelure-ex
+# 0610 Axew  ⚠ nome molto corto
+Axew
+キバゴ
+터검니
+牙牙
+# 0611 Fraxure
+Fraxure
+オノンド
+액슨도
+斧牙龙
+斧牙龍
+# 0612 Haxorus
+Haxorus
+オノノクス
+액스라이즈
+双斧战龙
+雙斧戰龍
+# 0613 Cubchoo
+Cubchoo
+クマシュン
+코고미
+喷嚏熊
+噴嚏熊
+# 0614 Beartic
+Beartic
+ツンベアー
+툰베어
+冻原熊
+凍原熊
+# 0615 Cryogonal
+Cryogonal
+フリージオ
+프리지오
+几何雪花
+幾何雪花
+# 0616 Shelmet
+Shelmet
+チョボマキ
+쪼마리
+小嘴蜗
+小嘴蝸
+# 0617 Accelgor
+Accelgor
+アギルダー
+어지리더
+敏捷虫
+敏捷蟲
+# 0618 Stunfisk
+Stunfisk
+マッギョ
+메더
+泥巴鱼
+泥巴魚
+Stunfisk di Galar
+Galarian Stunfisk
+# 0619 Mienfoo
+Mienfoo
+コジョフー
+비조푸
+功夫鼬
+# 0620 Mienshao
+Mienshao
+コジョンド
+비조도
+师父鼬
+師父鼬
+# 0621 Druddigon
+Druddigon
+クリムガン
+크리만
+赤面龙
+赤面龍
+# 0622 Golett
+Golett
+ゴビット
+골비람
+泥偶小人
+# 0623 Golurk
+Golurk
+ゴルーグ
+골루그
+泥偶巨人
+Mega Golurk
+M Golurk
+メガゴルーグ
+# 0624 Pawniard
+Pawniard
+コマタナ
+자망칼
+驹刀小兵
+駒刀小兵
+# 0625 Bisharp
+Bisharp
+キリキザン
+절각참
+劈斩司令
+劈斬司令
+# 0626 Bouffalant
+Bouffalant
+バッフロン
+버프론
+爆炸头水牛
+爆炸頭水牛
+# 0627 Rufflet
+Rufflet
+ワシボン
+수리둥보
+毛头小鹰
+毛頭小鷹
+Larry's Rufflet
+Larrys Rufflet
+Rufflet di Ubaldo
+# 0628 Braviary
+Braviary
+ウォーグル
+워글
+勇士雄鹰
+勇士雄鷹
+Braviary di Hisui
+Hisuian Braviary
+Larry's Braviary
+Larrys Braviary
+Braviary di Ubaldo
+# 0629 Vullaby
+Vullaby
+バルチャイ
+벌차이
+秃鹰丫头
+禿鷹丫頭
+# 0630 Mandibuzz
+Mandibuzz
+バルジーナ
+버랜지나
+秃鹰娜
+禿鷹娜
+# 0631 Heatmor
+Heatmor
+クイタラン
+앤티골
+熔蚁兽
+熔蟻獸
+# 0632 Durant  ⚠ dentro 'durante'
+Durant
+アイアント
+아이앤트
+铁蚁
+鐵蟻
+# 0633 Deino
+Deino
+モノズ
+모노두
+单首龙
+單首龍
+# 0634 Zweilous
+Zweilous
+ジヘッド
+디헤드
+双首暴龙
+雙首暴龍
+# 0635 Hydreigon
+Hydreigon
+サザンドラ
+삼삼드래
+三首恶龙
+三首惡龍
+# 0636 Larvesta
+Larvesta
+メラルバ
+활화르바
+燃烧虫
+燃燒蟲
+# 0637 Volcarona
+Volcarona
+ウルガモス
+불카모스
+火神蛾
+# 0638 Cobalion
+Cobalion
+コバルオン
+코바르온
+勾帕路翁
+# 0639 Terrakion
+Terrakion
+テラキオン
+테라키온
+代拉基翁
+# 0640 Virizion
+Virizion
+ビリジオン
+비리디온
+毕力吉翁
+畢力吉翁
+# 0641 Tornadus
+Tornadus
+トルネロス
+토네로스
+龙卷云
+龍捲雲
+# 0642 Thundurus
+Thundurus
+ボルトロス
+볼트로스
+雷电云
+雷電雲
+# 0643 Reshiram
+Reshiram
+レシラム
+레시라무
+莱希拉姆
+萊希拉姆
+N's Reshiram
+Ns Reshiram
+Reshiram di N
+# 0644 Zekrom
+Zekrom
+ゼクロム
+제크로무
+捷克罗姆
+捷克羅姆
+N's Zekrom
+Ns Zekrom
+Zekrom di N
+# 0645 Landorus
+Landorus
+ランドロス
+랜드로스
+土地云
+土地雲
+# 0646 Kyurem
+Kyurem
+キュレム
+큐레무
+酋雷姆
+# 0647 Keldeo
+Keldeo
+ケルディオ
+케르디오
+凯路迪欧
+凱路迪歐
+# 0648 Meloetta
+Meloetta
+メロエッタ
+메로엣타
+美洛耶塔
+# 0649 Genesect
+Genesect
+ゲノセクト
+게노세크트
+盖诺赛克特
+蓋諾賽克特
+
+# ---------------------------------------------------------------------
+# GENERAZIONE VI
+# ---------------------------------------------------------------------
+# 0650 Chespin
+Chespin
+ハリマロン
+도치마론
+哈力栗
+# 0651 Quilladin
+Quilladin
+ハリボーグ
+도치보구
+胖胖哈力
+# 0652 Chesnaught
+Chesnaught
+ブリガロン
+브리가론
+布里卡隆
+Mega Chesnaught
+M Chesnaught
+メガブリガロン
+# 0653 Fennekin
+Fennekin
+フォッコ
+푸호꼬
+火狐狸
+# 0654 Braixen
+Braixen
+テールナー
+테르나
+长尾火狐
+長尾火狐
+# 0655 Delphox
+Delphox
+マフォクシー
+마폭시
+妖火红狐
+妖火紅狐
+Mega Delphox
+M Delphox
+メガマフォクシー
+# 0656 Froakie
+Froakie
+ケロマツ
+개구마르
+呱呱泡蛙
+# 0657 Frogadier
+Frogadier
+ゲコガシラ
+개굴반장
+呱头蛙
+呱頭蛙
+# 0658 Greninja
+Greninja
+ゲッコウガ
+개굴닌자
+甲贺忍蛙
+甲賀忍蛙
+Mega Greninja
+M Greninja
+メガゲッコウガ
+Mega Greninja ex
+Mega Greninja-ex
+# 0659 Bunnelby
+Bunnelby
+ホルビー
+파르빗
+掘掘兔
+# 0660 Diggersby
+Diggersby
+ホルード
+파르토
+掘地兔
+# 0661 Fletchling
+Fletchling
+ヤヤコマ
+화살꼬빈
+小箭雀
+# 0662 Fletchinder
+Fletchinder
+ヒノヤコマ
+불화살빈
+火箭雀
+# 0663 Talonflame
+Talonflame
+ファイアロー
+파이어로
+烈箭鹰
+烈箭鷹
+# 0664 Scatterbug
+Scatterbug
+コフキムシ
+분이벌레
+粉蝶虫
+粉蝶蟲
+# 0665 Spewpa
+Spewpa
+コフーライ
+분떠도리
+粉蝶蛹
+# 0666 Vivillon
+Vivillon
+ビビヨン
+비비용
+彩粉蝶
+# 0667 Litleo
+Litleo
+シシコ
+레오꼬
+小狮狮
+小獅獅
+# 0668 Pyroar
+Pyroar
+カエンジシ
+화염레오
+火炎狮
+火炎獅
+Mega Pyroar
+M Pyroar
+メガカエンジシ
+Mega Pyroar ex
+Mega Pyroar-ex
+# 0669 Flabébé
+Flabébé
+Flabebe
+フラベベ
+플라베베
+花蓓蓓
+# 0670 Floette
+Floette
+フラエッテ
+플라엣테
+花叶蒂
+花葉蒂
+Mega Floette
+M Floette
+メガフラエッテ
+Mega Floette ex
+Mega Floette-ex
+# 0671 Florges
+Florges
+フラージェス
+플라제스
+花洁夫人
+花潔夫人
+# 0672 Skiddo
+Skiddo
+メェークル
+메이클
+坐骑小羊
+坐騎小羊
+# 0673 Gogoat
+Gogoat
+ゴーゴート
+고고트
+坐骑山羊
+坐騎山羊
+# 0674 Pancham
+Pancham
+ヤンチャム
+판짱
+顽皮熊猫
+頑皮熊貓
+# 0675 Pangoro
+Pangoro
+ゴロンダ
+부란다
+霸道熊猫
+流氓熊貓
+# 0676 Furfrou
+Furfrou
+トリミアン
+트리미앙
+多丽米亚
+多麗米亞
+# 0677 Espurr
+Espurr
+ニャスパー
+냐스퍼
+妙喵
+# 0678 Meowstic
+Meowstic
+ニャオニクス
+냐오닉스
+超能妙喵
+Mega Meowstic
+M Meowstic
+メガニャオニクス
+# 0679 Honedge
+Honedge
+ヒトツキ
+단칼빙
+独剑鞘
+獨劍鞘
+# 0680 Doublade
+Doublade
+ニダンギル
+쌍검킬
+双剑鞘
+雙劍鞘
+# 0681 Aegislash
+Aegislash
+ギルガルド
+킬가르도
+坚盾剑怪
+堅盾劍怪
+# 0682 Spritzee
+Spritzee
+シュシュプ
+슈쁘
+粉香香
+# 0683 Aromatisse
+Aromatisse
+フレフワン
+프레프티르
+芳香精
+# 0684 Swirlix
+Swirlix
+ペロッパフ
+나룸퍼프
+绵绵泡芙
+綿綿泡芙
+# 0685 Slurpuff
+Slurpuff
+ペロリーム
+나루림
+胖甜妮
+# 0686 Inkay
+Inkay
+マーイーカ
+오케이징
+好啦鱿
+好啦魷
+# 0687 Malamar
+Malamar
+カラマネロ
+칼라마네로
+乌贼王
+烏賊王
+Mega Malamar
+M Malamar
+メガカラマネロ
+# 0688 Binacle
+Binacle
+カメテテ
+거북손손
+龟脚脚
+龜腳腳
+# 0689 Barbaracle
+Barbaracle
+ガメノデス
+거북손데스
+龟足巨铠
+龜足巨鎧
+Mega Barbaracle
+M Barbaracle
+メガガメノデス
+# 0690 Skrelp
+Skrelp
+クズモー
+수레기
+垃垃藻
+# 0691 Dragalge
+Dragalge
+ドラミドロ
+드래캄
+毒藻龙
+毒藻龍
+Mega Dragalge
+M Dragalge
+メガドラミドロ
+Mega Dragalge ex
+Mega Dragalge-ex
+# 0692 Clauncher
+Clauncher
+ウデッポウ
+완철포
+铁臂枪虾
+鐵臂槍蝦
+# 0693 Clawitzer
+Clawitzer
+ブロスター
+블로스터
+钢炮臂虾
+鋼炮臂蝦
+# 0694 Helioptile
+Helioptile
+エリキテル
+목도리키텔
+伞电蜥
+傘電蜥
+# 0695 Heliolisk
+Heliolisk
+エレザード
+일레도리자드
+光电伞蜥
+光電傘蜥
+# 0696 Tyrunt
+Tyrunt
+チゴラス
+티고라스
+宝宝暴龙
+寶寶暴龍
+# 0697 Tyrantrum
+Tyrantrum
+ガチゴラス
+견고라스
+怪颚龙
+怪顎龍
+# 0698 Amaura
+Amaura
+アマルス
+아마루스
+冰雪龙
+冰雪龍
+# 0699 Aurorus
+Aurorus
+アマルルガ
+아마루르가
+冰雪巨龙
+冰雪巨龍
+# 0700 Sylveon
+Sylveon
+ニンフィア
+님피아
+仙子伊布
+# 0701 Hawlucha
+Hawlucha
+ルチャブル
+루차불
+摔角鹰人
+摔角鷹人
+Mega Hawlucha
+M Hawlucha
+メガルチャブル
+Mega Hawlucha ex
+Mega Hawlucha-ex
+# 0702 Dedenne
+Dedenne
+デデンネ
+데덴네
+咚咚鼠
+# 0703 Carbink
+Carbink
+メレシー
+멜리시
+小碎钻
+小碎鑽
+Steven's Carbink
+Stevens Carbink
+Carbink di Rocco
+# 0704 Goomy
+Goomy
+ヌメラ
+미끄메라
+黏黏宝
+黏黏寶
+# 0705 Sliggoo
+Sliggoo
+ヌメイル
+미끄네일
+黏美儿
+黏美兒
+Sliggoo di Hisui
+Hisuian Sliggoo
+# 0706 Goodra
+Goodra
+ヌメルゴン
+미끄래곤
+黏美龙
+黏美龍
+Goodra di Hisui
+Hisuian Goodra
+# 0707 Klefki
+Klefki
+クレッフィ
+클레피
+钥圈儿
+鑰圈兒
+# 0708 Phantump
+Phantump
+ボクレー
+나목령
+小木灵
+小木靈
+Hop's Phantump
+Hops Phantump
+Phantump di Hop
+# 0709 Trevenant
+Trevenant
+オーロット
+대로트
+朽木妖
+Hop's Trevenant
+Hops Trevenant
+Trevenant di Hop
+# 0710 Pumpkaboo
+Pumpkaboo
+バケッチャ
+호바귀
+南瓜精
+# 0711 Gourgeist
+Gourgeist
+パンプジン
+펌킨인
+南瓜怪人
+# 0712 Bergmite
+Bergmite
+カチコール
+꽁어름
+冰宝
+冰寶
+# 0713 Avalugg
+Avalugg
+クレベース
+크레베이스
+冰岩怪
+Avalugg di Hisui
+Hisuian Avalugg
+# 0714 Noibat
+Noibat
+オンバット
+음뱃
+嗡蝠
+# 0715 Noivern
+Noivern
+オンバーン
+음번
+音波龙
+音波龍
+# 0716 Xerneas
+Xerneas
+ゼルネアス
+제르네아스
+哲尔尼亚斯
+哲爾尼亞斯
+# 0717 Yveltal
+Yveltal
+イベルタル
+이벨타르
+伊裴尔塔尔
+伊裴爾塔爾
+# 0718 Zygarde
+Zygarde
+ジガルデ
+지가르데
+基格尔德
+基格爾德
+Mega Zygarde
+M Zygarde
+メガジガルデ
+Mega Zygarde ex
+Mega Zygarde-ex
+# 0719 Diancie
+Diancie
+ディアンシー
+디안시
+蒂安希
+Mega Diancie
+M Diancie
+メガディアンシー
+Mega Diancie ex
+Mega Diancie-ex
+# 0720 Hoopa
+Hoopa
+フーパ
+후파
+胡帕
+# 0721 Volcanion
+Volcanion
+ボルケニオン
+볼케니온
+波尔凯尼恩
+波爾凱尼恩
+
+# ---------------------------------------------------------------------
+# GENERAZIONE VII
+# ---------------------------------------------------------------------
+# 0722 Rowlet
+Rowlet
+モクロー
+나몰빼미
+木木枭
+木木梟
+# 0723 Dartrix
+Dartrix
+フクスロー
+빼미스로우
+投羽枭
+投羽梟
+# 0724 Decidueye
+Decidueye
+ジュナイパー
+모크나이퍼
+狙射树枭
+狙射樹梟
+Decidueye di Hisui
+Hisuian Decidueye
+# 0725 Litten
+Litten
+ニャビー
+냐오불
+火斑喵
+# 0726 Torracat
+Torracat
+ニャヒート
+냐오히트
+炎热喵
+炎熱喵
+# 0727 Incineroar
+Incineroar
+ガオガエン
+어흥염
+炽焰咆哮虎
+熾焰咆哮虎
+# 0728 Popplio
+Popplio
+アシマリ
+누리공
+球球海狮
+球球海獅
+# 0729 Brionne
+Brionne
+オシャマリ
+키요공
+花漾海狮
+花漾海獅
+# 0730 Primarina
+Primarina
+アシレーヌ
+누리레느
+西狮海壬
+西獅海壬
+# 0731 Pikipek
+Pikipek
+ツツケラ
+콕코구리
+小笃儿
+小篤兒
+# 0732 Trumbeak
+Trumbeak
+ケララッパ
+크라파
+喇叭啄鸟
+喇叭啄鳥
+# 0733 Toucannon
+Toucannon
+ドデカバシ
+왕큰부리
+铳嘴大鸟
+銃嘴大鳥
+# 0734 Yungoos
+Yungoos
+ヤングース
+영구스
+猫鼬少
+貓鼬少
+# 0735 Gumshoos
+Gumshoos
+デカグース
+형사구스
+猫鼬探长
+貓鼬探長
+# 0736 Grubbin
+Grubbin
+アゴジムシ
+턱지충이
+强颚鸡母虫
+強顎雞母蟲
+# 0737 Charjabug
+Charjabug
+デンヂムシ
+전지충이
+虫电宝
+蟲電寶
+# 0738 Vikavolt
+Vikavolt
+クワガノン
+투구뿌논
+锹农炮虫
+鍬農炮蟲
+# 0739 Crabrawler
+Crabrawler
+マケンカニ
+오기지게
+好胜蟹
+好勝蟹
+# 0740 Crabominable
+Crabominable
+ケケンカニ
+모단단게
+好胜毛蟹
+好勝毛蟹
+Mega Crabominable
+M Crabominable
+メガケケンカニ
+# 0741 Oricorio
+Oricorio
+オドリドリ
+춤추새
+花舞鸟
+花舞鳥
+# 0742 Cutiefly
+Cutiefly
+アブリー
+에블리
+萌虻
+Lillie's Cutiefly
+Lillies Cutiefly
+Cutiefly di Lylia
+# 0743 Ribombee
+Ribombee
+アブリボン
+에리본
+蝶结萌虻
+蝶結萌虻
+Lillie's Ribombee
+Lillies Ribombee
+Ribombee di Lylia
+# 0744 Rockruff
+Rockruff
+イワンコ
+암멍이
+岩狗狗
+# 0745 Lycanroc
+Lycanroc
+ルガルガン
+루가루암
+鬃岩狼人
+# 0746 Wishiwashi
+Wishiwashi
+ヨワシ
+약어리
+弱丁鱼
+弱丁魚
+# 0747 Mareanie
+Mareanie
+ヒドイデ
+시마사리
+好坏星
+好壞星
+# 0748 Toxapex
+Toxapex
+ドヒドイデ
+더시마사리
+超坏星
+超壞星
+# 0749 Mudbray
+Mudbray
+ドロバンコ
+머드나기
+泥驴仔
+泥驢仔
+# 0750 Mudsdale
+Mudsdale
+バンバドロ
+만마드
+重泥挽马
+重泥挽馬
+# 0751 Dewpider
+Dewpider
+シズクモ
+물거미
+滴蛛
+# 0752 Araquanid
+Araquanid
+オニシズクモ
+깨비물거미
+滴蛛霸
+# 0753 Fomantis
+Fomantis
+カリキリ
+짜랑랑
+伪螳草
+偽螳草
+# 0754 Lurantis
+Lurantis
+ラランテス
+라란티스
+兰螳花
+蘭螳花
+# 0755 Morelull
+Morelull
+ネマシュ
+자마슈
+睡睡菇
+# 0756 Shiinotic
+Shiinotic
+マシェード
+마셰이드
+灯罩夜菇
+燈罩夜菇
+# 0757 Salandit
+Salandit
+ヤトウモリ
+야도뇽
+夜盗火蜥
+夜盜火蜥
+# 0758 Salazzle
+Salazzle
+エンニュート
+염뉴트
+焰后蜥
+# 0759 Stufful
+Stufful
+ヌイコグマ
+포곰곰
+童偶熊
+# 0760 Bewear
+Bewear
+キテルグマ
+이븐곰
+穿着熊
+穿著熊
+# 0761 Bounsweet
+Bounsweet
+アマカジ
+달콤아
+甜竹竹
+# 0762 Steenee
+Steenee
+アママイコ
+달무리나
+甜舞妮
+# 0763 Tsareena
+Tsareena
+アマージョ
+달코퀸
+甜冷美后
+# 0764 Comfey
+Comfey
+キュワワー
+큐아링
+花疗环环
+花療環環
+Lillie's Comfey
+Lillies Comfey
+Comfey di Lylia
+# 0765 Oranguru
+Oranguru
+ヤレユータン
+하랑우탄
+智挥猩
+智揮猩
+# 0766 Passimian
+Passimian
+ナゲツケサル
+내던숭이
+投掷猴
+投擲猴
+# 0767 Wimpod
+Wimpod
+コソクムシ
+꼬시레
+胆小虫
+膽小蟲
+# 0768 Golisopod
+Golisopod
+グソクムシャ
+갑주무사
+具甲武者
+Mega Golisopod
+M Golisopod
+メガグソクムシャ
+# 0769 Sandygast
+Sandygast
+スナバァ
+모래꿍
+沙丘娃
+# 0770 Palossand
+Palossand
+シロデスナ
+모래성이당
+噬沙堡爷
+噬沙堡爺
+# 0771 Pyukumuku
+Pyukumuku
+ナマコブシ
+해무기
+拳海参
+拳海參
+# 0772 Type: Null
+Type: Null
+Type Null
+TypeNull
+タイプ：ヌル
+타입:널
+属性：空
+屬性：空
+# 0773 Silvally
+Silvally
+シルヴァディ
+실버디
+银伴战兽
+銀伴戰獸
+# 0774 Minior
+Minior
+メテノ
+메테노
+小陨星
+小隕星
+# 0775 Komala
+Komala
+ネッコアラ
+자말라
+树枕尾熊
+樹枕尾熊
+Larry's Komala
+Larrys Komala
+Komala di Ubaldo
+# 0776 Turtonator
+Turtonator
+バクガメス
+폭거북스
+爆焰龟兽
+爆焰龜獸
+# 0777 Togedemaru
+Togedemaru
+トゲデマル
+토게데마루
+托戈德玛尔
+托戈德瑪爾
+# 0778 Mimikyu
+Mimikyu
+ミミッキュ
+따라큐
+谜拟丘
+謎擬Ｑ
+Team Rocket's Mimikyu
+Team Rockets Mimikyu
+Mimikyu del Team Rocket
+# 0779 Bruxish
+Bruxish
+ハギギシリ
+치갈기
+磨牙彩皮鱼
+磨牙彩皮魚
+# 0780 Drampa
+Drampa
+ジジーロン
+할비롱
+老翁龙
+老翁龍
+Mega Drampa
+M Drampa
+メガジジーロン
+# 0781 Dhelmise
+Dhelmise
+ダダリン
+타타륜
+破破舵轮
+破破舵輪
+# 0782 Jangmo-o
+Jangmo-o
+Jangmo o
+Jangmoo
+ジャラコ
+짜랑꼬
+心鳞宝
+心鱗寶
+# 0783 Hakamo-o
+Hakamo-o
+Hakamo o
+Hakamoo
+ジャランゴ
+짜랑고우
+鳞甲龙
+鱗甲龍
+# 0784 Kommo-o
+Kommo-o
+Kommo o
+Kommoo
+ジャラランガ
+짜랑고우거
+杖尾鳞甲龙
+杖尾鱗甲龍
+# 0785 Tapu Koko
+Tapu Koko
+TapuKoko
+カプ・コケコ
+카푸꼬꼬꼭
+卡璞・鸣鸣
+卡璞・鳴鳴
+# 0786 Tapu Lele
+Tapu Lele
+TapuLele
+カプ・テテフ
+카푸나비나
+卡璞・蝶蝶
+# 0787 Tapu Bulu
+Tapu Bulu
+TapuBulu
+カプ・ブルル
+카푸브루루
+卡璞・哞哞
+# 0788 Tapu Fini
+Tapu Fini
+TapuFini
+カプ・レヒレ
+카푸느지느
+卡璞・鳍鳍
+卡璞・鰭鰭
+# 0789 Cosmog
+Cosmog
+コスモッグ
+코스모그
+科斯莫古
+# 0790 Cosmoem
+Cosmoem
+コスモウム
+코스모움
+科斯莫姆
+# 0791 Solgaleo
+Solgaleo
+ソルガレオ
+솔가레오
+索尔迦雷欧
+索爾迦雷歐
+# 0792 Lunala
+Lunala
+ルナアーラ
+루나아라
+露奈雅拉
+# 0793 Nihilego
+Nihilego
+ウツロイド
+텅비드
+虚吾伊德
+虛吾伊德
+# 0794 Buzzwole
+Buzzwole
+マッシブーン
+매시붕
+爆肌蚊
+# 0795 Pheromosa
+Pheromosa
+フェローチェ
+페로코체
+费洛美螂
+費洛美螂
+# 0796 Xurkitree
+Xurkitree
+デンジュモク
+전수목
+电束木
+電束木
+# 0797 Celesteela
+Celesteela
+テッカグヤ
+철화구야
+铁火辉夜
+鐵火輝夜
+# 0798 Kartana
+Kartana
+カミツルギ
+종이신도
+纸御剑
+紙御劍
+# 0799 Guzzlord
+Guzzlord
+アクジキング
+악식킹
+恶食大王
+惡食大王
+# 0800 Necrozma
+Necrozma
+ネクロズマ
+네크로즈마
+奈克洛兹玛
+奈克洛茲瑪
+# 0801 Magearna
+Magearna
+マギアナ
+마기아나
+玛机雅娜
+瑪機雅娜
+Mega Magearna
+M Magearna
+メガマギアナ
+# 0802 Marshadow
+Marshadow
+マーシャドー
+마샤도
+玛夏多
+瑪夏多
+# 0803 Poipole
+Poipole
+ベベノム
+베베놈
+毒贝比
+毒貝比
+# 0804 Naganadel
+Naganadel
+アーゴヨン
+아고용
+四颚针龙
+四顎針龍
+# 0805 Stakataka
+Stakataka
+ツンデツンデ
+차곡차곡
+垒磊石
+壘磊石
+# 0806 Blacephalon
+Blacephalon
+ズガドーン
+두파팡
+砰头小丑
+砰頭小丑
+# 0807 Zeraora
+Zeraora
+ゼラオラ
+제라오라
+捷拉奥拉
+捷拉奧拉
+Mega Zeraora
+M Zeraora
+メガゼラオラ
+Mega Zeraora ex
+Mega Zeraora-ex
+# 0808 Meltan
+Meltan
+メルタン
+멜탄
+美录坦
+美錄坦
+# 0809 Melmetal
+Melmetal
+メルメタル
+멜메탈
+美录梅塔
+美錄梅塔
+
+# ---------------------------------------------------------------------
+# GENERAZIONE VIII
+# ---------------------------------------------------------------------
+# 0810 Grookey
+Grookey
+サルノリ
+흥나숭
+敲音猴
+# 0811 Thwackey
+Thwackey
+バチンキー
+채키몽
+啪咚猴
+# 0812 Rillaboom
+Rillaboom
+ゴリランダー
+고릴타
+轰擂金刚猩
+轟擂金剛猩
+# 0813 Scorbunny
+Scorbunny
+ヒバニー
+염버니
+炎兔儿
+炎兔兒
+# 0814 Raboot
+Raboot
+ラビフット
+래비풋
+腾蹴小将
+騰蹴小將
+# 0815 Cinderace
+Cinderace
+エースバーン
+에이스번
+闪焰王牌
+閃焰王牌
+# 0816 Sobble
+Sobble
+メッソン
+울머기
+泪眼蜥
+淚眼蜥
+# 0817 Drizzile
+Drizzile
+ジメレオン
+누겔레온
+变涩蜥
+變澀蜥
+# 0818 Inteleon
+Inteleon
+インテレオン
+인텔리레온
+千面避役
+# 0819 Skwovet
+Skwovet
+ホシガリス
+탐리스
+贪心栗鼠
+貪心栗鼠
+Arven's Skwovet
+Arvens Skwovet
+Skwovet di Pepe
+# 0820 Greedent
+Greedent
+ヨクバリス
+요씽리스
+藏饱栗鼠
+藏飽栗鼠
+Arven's Greedent
+Arvens Greedent
+Greedent di Pepe
+# 0821 Rookidee
+Rookidee
+ココガラ
+파라꼬
+稚山雀
+Hop's Rookidee
+Hops Rookidee
+Rookidee di Hop
+# 0822 Corvisquire
+Corvisquire
+アオガラス
+파크로우
+蓝鸦
+藍鴉
+Hop's Corvisquire
+Hops Corvisquire
+Corvisquire di Hop
+# 0823 Corviknight
+Corviknight
+アーマーガア
+아머까오
+钢铠鸦
+鋼鎧鴉
+Hop's Corviknight
+Hops Corviknight
+Corviknight di Hop
+# 0824 Blipbug
+Blipbug
+サッチムシ
+두루지벌레
+索侦虫
+索偵蟲
+Team Rocket's Blipbug
+Team Rockets Blipbug
+Blipbug del Team Rocket
+# 0825 Dottler
+Dottler
+レドームシ
+레돔벌레
+天罩虫
+天罩蟲
+Team Rocket's Dottler
+Team Rockets Dottler
+Dottler del Team Rocket
+# 0826 Orbeetle
+Orbeetle
+イオルブ
+이올브
+以欧路普
+以歐路普
+Team Rocket's Orbeetle
+Team Rockets Orbeetle
+Orbeetle del Team Rocket
+# 0827 Nickit
+Nickit
+クスネ
+훔처우
+狡小狐
+偷兒狐
+# 0828 Thievul
+Thievul
+フォクスライ
+폭슬라이
+猾大狐
+狐大盜
+# 0829 Gossifleur
+Gossifleur
+ヒメンカ
+꼬모카
+幼棉棉
+# 0830 Eldegoss
+Eldegoss
+ワタシラガ
+백솜모카
+白蓬蓬
+# 0831 Wooloo
+Wooloo
+ウールー
+우르
+毛辫羊
+毛辮羊
+Hop's Wooloo
+Hops Wooloo
+Wooloo di Hop
+# 0832 Dubwool
+Dubwool
+バイウールー
+배우르
+毛毛角羊
+Hop's Dubwool
+Hops Dubwool
+Dubwool di Hop
+# 0833 Chewtle
+Chewtle
+カムカメ
+깨물부기
+咬咬龟
+咬咬龜
+# 0834 Drednaw
+Drednaw
+カジリガメ
+갈가부기
+暴噬龟
+暴噬龜
+# 0835 Yamper
+Yamper
+ワンパチ
+멍파치
+来电汪
+來電汪
+# 0836 Boltund
+Boltund
+パルスワン
+펄스멍
+逐电犬
+逐電犬
+# 0837 Rolycoly
+Rolycoly
+タンドン
+탄동
+小炭仔
+# 0838 Carkol
+Carkol
+トロッゴン
+탄차곤
+大炭车
+大炭車
+# 0839 Coalossal
+Coalossal
+セキタンザン
+석탄산
+巨炭山
+# 0840 Applin
+Applin
+カジッチュ
+과사삭벌레
+啃果虫
+啃果蟲
+# 0841 Flapple
+Flapple
+アップリュー
+애프룡
+苹裹龙
+蘋裹龍
+# 0842 Appletun
+Appletun
+タルップル
+단지래플
+丰蜜龙
+豐蜜龍
+# 0843 Silicobra
+Silicobra
+スナヘビ
+모래뱀
+沙包蛇
+Hop's Silicobra
+Hops Silicobra
+Silicobra di Hop
+# 0844 Sandaconda
+Sandaconda
+サダイジャ
+사다이사
+沙螺蟒
+Hop's Sandaconda
+Hops Sandaconda
+Sandaconda di Hop
+# 0845 Cramorant
+Cramorant
+ウッウ
+윽우지
+古月鸟
+古月鳥
+Hop's Cramorant
+Hops Cramorant
+Cramorant di Hop
+# 0846 Arrokuda
+Arrokuda
+サシカマス
+찌로꼬치
+刺梭鱼
+刺梭魚
+# 0847 Barraskewda
+Barraskewda
+カマスジョー
+꼬치조
+戽斗尖梭
+# 0848 Toxel  ⚠ parola corta
+Toxel
+エレズン
+일레즌
+电音婴
+毒電嬰
+# 0849 Toxtricity
+Toxtricity
+ストリンダー
+스트린더
+颤弦蝾螈
+顫弦蠑螈
+# 0850 Sizzlipede
+Sizzlipede
+ヤクデ
+태우지네
+烧火蚣
+燒火蚣
+# 0851 Centiskorch
+Centiskorch
+マルヤクデ
+다태우지네
+焚焰蚣
+# 0852 Clobbopus
+Clobbopus
+タタッコ
+때때무노
+拳拳蛸
+# 0853 Grapploct
+Grapploct
+オトスパス
+케오퍼스
+八爪武师
+八爪武師
+# 0854 Sinistea
+Sinistea
+ヤバチャ
+데인차
+来悲茶
+來悲茶
+# 0855 Polteageist
+Polteageist
+ポットデス
+포트데스
+怖思壶
+怖思壺
+# 0856 Hatenna
+Hatenna
+ミブリム
+몸지브림
+迷布莉姆
+# 0857 Hattrem
+Hattrem
+テブリム
+손지브림
+提布莉姆
+# 0858 Hatterene
+Hatterene
+ブリムオン
+브리무음
+布莉姆温
+布莉姆溫
+# 0859 Impidimp
+Impidimp
+ベロバー
+메롱꿍
+捣蛋小妖
+搗蛋小妖
+Marnie's Impidimp
+Marnies Impidimp
+Impidimp di Mary
+# 0860 Morgrem
+Morgrem
+ギモー
+쏘겨모
+诈唬魔
+詐唬魔
+Marnie's Morgrem
+Marnies Morgrem
+Morgrem di Mary
+# 0861 Grimmsnarl
+Grimmsnarl
+オーロンゲ
+오롱털
+长毛巨魔
+長毛巨魔
+Marnie's Grimmsnarl
+Marnies Grimmsnarl
+Grimmsnarl di Mary
+Grimmsnarl-ex di Mary
+# 0862 Obstagoon
+Obstagoon
+タチフサグマ
+가로막구리
+堵拦熊
+堵攔熊
+# 0863 Perrserker
+Perrserker
+ニャイキング
+나이킹
+喵头目
+喵頭目
+# 0864 Cursola
+Cursola
+サニゴーン
+산호르곤
+魔灵珊瑚
+魔靈珊瑚
+# 0865 Sirfetch’d
+Sirfetch’d
+Sirfetch d
+Sirfetch'd
+Sirfetchd
+ネギガナイト
+창파나이트
+葱游兵
+蔥遊兵
+# 0866 Mr. Rime
+Mr. Rime
+Mr Rime
+MrRime
+バリコオル
+마임꽁꽁
+踏冰人偶
+# 0867 Runerigus
+Runerigus
+デスバーン
+데스판
+迭失板
+死神板
+# 0868 Milcery
+Milcery
+マホミル
+마빌크
+小仙奶
+# 0869 Alcremie
+Alcremie
+マホイップ
+마휘핑
+霜奶仙
+# 0870 Falinks
+Falinks
+タイレーツ
+대여르
+列阵兵
+列陣兵
+Mega Falinks
+M Falinks
+メガタイレーツ
+# 0871 Pincurchin
+Pincurchin
+バチンウニ
+찌르성게
+啪嚓海胆
+啪嚓海膽
+Hop's Pincurchin
+Hops Pincurchin
+Pincurchin di Hop
+Pincurchin-ex di Hop
+# 0872 Snom  ⚠ parola corta
+Snom
+ユキハミ
+누니머기
+雪吞虫
+雪吞蟲
+# 0873 Frosmoth
+Frosmoth
+モスノウ
+모스노우
+雪绒蛾
+雪絨蛾
+# 0874 Stonjourner
+Stonjourner
+イシヘンジン
+돌헨진
+巨石丁
+# 0875 Eiscue
+Eiscue
+コオリッポ
+빙큐보
+冰砌鹅
+冰砌鵝
+# 0876 Indeedee
+Indeedee
+イエッサン
+에써르
+爱管侍
+愛管侍
+# 0877 Morpeko
+Morpeko
+モルペコ
+모르페코
+莫鲁贝可
+莫魯貝可
+Marnie's Morpeko
+Marnies Morpeko
+Morpeko di Mary
+# 0878 Cufant
+Cufant
+ゾウドウ
+끼리동
+铜象
+銅象
+# 0879 Copperajah
+Copperajah
+ダイオウドウ
+대왕끼리동
+大王铜象
+大王銅象
+# 0880 Dracozolt
+Dracozolt
+パッチラゴン
+파치래곤
+雷鸟龙
+雷鳥龍
+# 0881 Arctozolt
+Arctozolt
+パッチルドン
+파치르돈
+雷鸟海兽
+雷鳥海獸
+# 0882 Dracovish
+Dracovish
+ウオノラゴン
+어래곤
+鳃鱼龙
+鰓魚龍
+# 0883 Arctovish
+Arctovish
+ウオチルドン
+어치르돈
+鳃鱼海兽
+鰓魚海獸
+# 0884 Duraludon
+Duraludon
+ジュラルドン
+두랄루돈
+铝钢龙
+鋁鋼龍
+# 0885 Dreepy
+Dreepy
+ドラメシヤ
+드라꼰
+多龙梅西亚
+多龍梅西亞
+# 0886 Drakloak
+Drakloak
+ドロンチ
+드래런치
+多龙奇
+多龍奇
+# 0887 Dragapult
+Dragapult
+ドラパルト
+드래펄트
+多龙巴鲁托
+多龍巴魯托
+# 0888 Zacian
+Zacian
+ザシアン
+자시안
+苍响
+蒼響
+Hop's Zacian
+Hops Zacian
+Zacian di Hop
+Zacian-ex di Hop
+# 0889 Zamazenta
+Zamazenta
+ザマゼンタ
+자마젠타
+藏玛然特
+藏瑪然特
+# 0890 Eternatus
+Eternatus
+ムゲンダイナ
+무한다이노
+无极汰那
+無極汰那
+# 0891 Kubfu  ⚠ parola corta
+Kubfu
+ダクマ
+치고마
+熊徒弟
+# 0892 Urshifu
+Urshifu
+ウーラオス
+우라오스
+武道熊师
+武道熊師
+# 0893 Zarude
+Zarude
+ザルード
+자루도
+萨戮德
+薩戮德
+# 0894 Regieleki
+Regieleki
+レジエレキ
+레지에레키
+雷吉艾勒奇
+# 0895 Regidrago
+Regidrago
+レジドラゴ
+레지드래고
+雷吉铎拉戈
+雷吉鐸拉戈
+# 0896 Glastrier
+Glastrier
+ブリザポス
+블리자포스
+雪暴马
+雪暴馬
+# 0897 Spectrier
+Spectrier
+レイスポス
+레이스포스
+灵幽马
+靈幽馬
+# 0898 Calyrex
+Calyrex
+バドレックス
+버드렉스
+蕾冠王
+# 0899 Wyrdeer
+Wyrdeer
+アヤシシ
+신비록
+诡角鹿
+詭角鹿
+# 0900 Kleavor
+Kleavor
+バサギリ
+사마자르
+劈斧螳螂
+# 0901 Ursaluna
+Ursaluna
+ガチグマ
+다투곰
+月月熊
+# 0902 Basculegion
+Basculegion
+イダイトウ
+대쓰여너
+幽尾玄鱼
+幽尾玄魚
+# 0903 Sneasler
+Sneasler
+オオニューラ
+포푸니크
+大狃拉
+# 0904 Overqwil
+Overqwil
+ハリーマン
+장침바루
+万针鱼
+萬針魚
+# 0905 Enamorus
+Enamorus
+ラブトロス
+러브로스
+眷恋云
+眷戀雲
+
+# ---------------------------------------------------------------------
+# GENERAZIONE IX
+# ---------------------------------------------------------------------
+# 0906 Sprigatito
+Sprigatito
+ニャオハ
+나오하
+新叶喵
+新葉喵
+# 0907 Floragato
+Floragato
+ニャローテ
+나로테
+蒂蕾喵
+# 0908 Meowscarada
+Meowscarada
+マスカーニャ
+마스카나
+魔幻假面喵
+# 0909 Fuecoco
+Fuecoco
+ホゲータ
+뜨아거
+呆火鳄
+呆火鱷
+# 0910 Crocalor
+Crocalor
+アチゲータ
+악뜨거
+炙烫鳄
+炙燙鱷
+# 0911 Skeledirge
+Skeledirge
+ラウドボーン
+라우드본
+骨纹巨声鳄
+骨紋巨聲鱷
+# 0912 Quaxly
+Quaxly
+クワッス
+꾸왁스
+润水鸭
+潤水鴨
+# 0913 Quaxwell
+Quaxwell
+ウェルカモ
+아꾸왁
+涌跃鸭
+湧躍鴨
+# 0914 Quaquaval
+Quaquaval
+ウェーニバル
+웨이니발
+狂欢浪舞鸭
+狂歡浪舞鴨
+# 0915 Lechonk
+Lechonk
+グルトン
+맛보돈
+爱吃豚
+愛吃豚
+# 0916 Oinkologne
+Oinkologne
+パフュートン
+퍼퓨돈
+飘香豚
+飄香豚
+# 0917 Tarountula
+Tarountula
+タマンチュラ
+타랜툴라
+团珠蛛
+團珠蛛
+Team Rocket's Tarountula
+Team Rockets Tarountula
+Tarountula del Team Rocket
+# 0918 Spidops
+Spidops
+ワナイダー
+트래피더
+操陷蛛
+Team Rocket's Spidops
+Team Rockets Spidops
+Spidops del Team Rocket
+# 0919 Nymble
+Nymble
+マメバッタ
+콩알뚜기
+豆蟋蟀
+# 0920 Lokix
+Lokix
+エクスレッグ
+엑스레그
+烈腿蝗
+# 0921 Pawmi
+Pawmi
+パモ
+빠모
+布拨
+布撥
+# 0922 Pawmo  ⚠ contenuto in Pawmot
+Pawmo
+パモット
+빠모트
+布土拨
+布土撥
+# 0923 Pawmot
+Pawmot
+パーモット
+빠르모트
+巴布土拨
+巴布土撥
+# 0924 Tandemaus
+Tandemaus
+ワッカネズミ
+두리쥐
+一对鼠
+一對鼠
+# 0925 Maushold
+Maushold
+イッカネズミ
+파밀리쥐
+一家鼠
+# 0926 Fidough
+Fidough
+パピモッチ
+쫀도기
+狗仔包
+# 0927 Dachsbun
+Dachsbun
+バウッツェル
+바우첼
+麻花犬
+# 0928 Smoliv
+Smoliv
+ミニーブ
+미니브
+迷你芙
+# 0929 Dolliv
+Dolliv
+オリーニョ
+올리뇨
+奥利纽
+奧利紐
+# 0930 Arboliva
+Arboliva
+オリーヴァ
+올리르바
+奥利瓦
+奧利瓦
+# 0931 Squawkabilly
+Squawkabilly
+イキリンコ
+시비꼬
+怒鹦哥
+怒鸚哥
+# 0932 Nacli
+Nacli
+コジオ
+베베솔트
+盐石宝
+鹽石寶
+# 0933 Naclstack
+Naclstack
+ジオヅム
+스태솔트
+盐石垒
+鹽石壘
+# 0934 Garganacl
+Garganacl
+キョジオーン
+콜로솔트
+盐石巨灵
+鹽石巨靈
+# 0935 Charcadet
+Charcadet
+カルボウ
+카르본
+炭小侍
+# 0936 Armarouge
+Armarouge
+グレンアルマ
+카디나르마
+红莲铠骑
+紅蓮鎧騎
+# 0937 Ceruledge
+Ceruledge
+ソウブレイズ
+파라블레이즈
+苍炎刃鬼
+蒼炎刃鬼
+# 0938 Tadbulb
+Tadbulb
+ズピカ
+빈나두
+光蚪仔
+Iono's Tadbulb
+Ionos Tadbulb
+Tadbulb di Kissara
+# 0939 Bellibolt
+Bellibolt
+ハラバリー
+찌리배리
+电肚蛙
+電肚蛙
+Iono's Bellibolt
+Ionos Bellibolt
+Bellibolt di Kissara
+Bellibolt-ex di Kissara
+# 0940 Wattrel  ⚠ contenuto in Kilowattrel
+Wattrel
+カイデン
+찌리비
+电海燕
+電海燕
+Iono's Wattrel
+Ionos Wattrel
+Wattrel di Kissara
+# 0941 Kilowattrel
+Kilowattrel
+タイカイデン
+찌리비크
+大电海燕
+大電海燕
+Iono's Kilowattrel
+Ionos Kilowattrel
+Kilowattrel di Kissara
+# 0942 Maschiff
+Maschiff
+オラチフ
+오라티프
+偶叫獒
+Arven's Maschiff
+Arvens Maschiff
+Maschiff di Pepe
+# 0943 Mabosstiff
+Mabosstiff
+マフィティフ
+마피티프
+獒教父
+Arven's Mabosstiff
+Arvens Mabosstiff
+Mabosstiff di Pepe
+Mabosstiff-ex di Pepe
+# 0944 Shroodle
+Shroodle
+シルシュルー
+땃쭈르
+滋汁鼹
+滋汁鼴
+# 0945 Grafaiai
+Grafaiai
+タギングル
+태깅구르
+涂标客
+塗標客
+# 0946 Bramblin
+Bramblin
+アノクサ
+그푸리
+纳噬草
+納噬草
+# 0947 Brambleghast
+Brambleghast
+アノホラグサ
+공푸리
+怖纳噬草
+怖納噬草
+# 0948 Toedscool
+Toedscool
+ノノクラゲ
+들눈해
+原野水母
+Arven's Toedscool
+Arvens Toedscool
+Toedscool di Pepe
+# 0949 Toedscruel
+Toedscruel
+リククラゲ
+육파리
+陆地水母
+陸地水母
+Arven's Toedscruel
+Arvens Toedscruel
+Toedscruel di Pepe
+# 0950 Klawf
+Klawf
+ガケガニ
+절벼게
+毛崖蟹
+# 0951 Capsakid
+Capsakid
+カプサイジ
+캡싸이
+热辣娃
+熱辣娃
+# 0952 Scovillain
+Scovillain
+スコヴィラン
+스코빌런
+狠辣椒
+Mega Scovillain
+M Scovillain
+メガスコヴィラン
+# 0953 Rellor
+Rellor
+シガロコ
+구르데
+虫滚泥
+蟲滾泥
+# 0954 Rabsca
+Rabsca
+ベラカス
+베라카스
+虫甲圣
+蟲甲聖
+# 0955 Flittle
+Flittle
+ヒラヒナ
+하느라기
+飘飘雏
+飄飄雛
+# 0956 Espathra
+Espathra
+クエスパトラ
+클레스퍼트라
+超能艳鸵
+超能豔鴕
+# 0957 Tinkatink
+Tinkatink
+カヌチャン
+어리짱
+小锻匠
+小鍛匠
+# 0958 Tinkatuff
+Tinkatuff
+ナカヌチャン
+벼리짱
+巧锻匠
+巧鍛匠
+# 0959 Tinkaton
+Tinkaton
+デカヌチャン
+두드리짱
+巨锻匠
+巨鍛匠
+# 0960 Wiglett
+Wiglett
+ウミディグダ
+바다그다
+海地鼠
+# 0961 Wugtrio
+Wugtrio
+ウミトリオ
+바닥트리오
+三海地鼠
+# 0962 Bombirdier
+Bombirdier
+オトシドリ
+떨구새
+下石鸟
+下石鳥
+# 0963 Finizen
+Finizen
+ナミイルカ
+맨돌핀
+波普海豚
+# 0964 Palafin
+Palafin
+イルカマン
+돌핀맨
+海豚侠
+海豚俠
+# 0965 Varoom
+Varoom
+ブロロン
+부르롱
+噗隆隆
+# 0966 Revavroom
+Revavroom
+ブロロローム
+부르르룸
+普隆隆姆
+# 0967 Cyclizar
+Cyclizar
+モトトカゲ
+모토마
+摩托蜥
+# 0968 Orthworm
+Orthworm
+ミミズズ
+꿈트렁
+拖拖蚓
+# 0969 Glimmet
+Glimmet
+キラーメ
+초롱순
+晶光芽
+# 0970 Glimmora
+Glimmora
+キラフロル
+킬라플로르
+晶光花
+Mega Glimmora
+M Glimmora
+メガキラフロル
+# 0971 Greavard
+Greavard
+ボチ
+망망이
+墓仔狗
+# 0972 Houndstone
+Houndstone
+ハカドッグ
+묘두기
+墓扬犬
+墓揚犬
+# 0973 Flamigo
+Flamigo
+カラミンゴ
+꼬이밍고
+纏红鹤
+纏紅鶴
+# 0974 Cetoddle
+Cetoddle
+アルクジラ
+터벅고래
+走鲸
+走鯨
+# 0975 Cetitan
+Cetitan
+ハルクジラ
+우락고래
+浩大鲸
+浩大鯨
+# 0976 Veluza
+Veluza
+ミガルーサ
+가비루사
+轻身鳕
+輕身鱈
+# 0977 Dondozo
+Dondozo
+ヘイラッシャ
+어써러셔
+吃吼霸
+# 0978 Tatsugiri
+Tatsugiri
+シャリタツ
+싸리용
+米立龙
+米立龍
+Mega Tatsugiri
+M Tatsugiri
+メガシャリタツ
+# 0979 Annihilape
+Annihilape
+コノヨザル
+저승갓숭
+弃世猴
+棄世猴
+# 0980 Clodsire
+Clodsire
+ドオー
+토오
+土王
+# 0981 Farigiraf
+Farigiraf
+リキキリン
+키키링
+奇麒麟
+# 0982 Dudunsparce
+Dudunsparce
+ノココッチ
+노고고치
+土龙节节
+土龍節節
+Larry's Dudunsparce
+Larrys Dudunsparce
+Dudunsparce di Ubaldo
+Dudunsparce-ex di Ubaldo
+# 0983 Kingambit
+Kingambit
+ドドゲザン
+대도각참
+仆刀将军
+仆刀將軍
+# 0984 Great Tusk
+Great Tusk
+GreatTusk
+イダイナキバ
+위대한엄니
+雄伟牙
+雄偉牙
+# 0985 Scream Tail
+Scream Tail
+ScreamTail
+サケブシッポ
+우렁찬꼬리
+吼叫尾
+# 0986 Brute Bonnet
+Brute Bonnet
+BruteBonnet
+アラブルタケ
+사나운버섯
+猛恶菇
+猛惡菇
+# 0987 Flutter Mane
+Flutter Mane
+FlutterMane
+ハバタクカミ
+날개치는머리
+振翼发
+振翼髮
+# 0988 Slither Wing
+Slither Wing
+SlitherWing
+チヲハウハネ
+땅을기는날개
+爬地翅
+# 0989 Sandy Shocks
+Sandy Shocks
+SandyShocks
+スナノケガワ
+모래털가죽
+沙铁皮
+沙鐵皮
+# 0990 Iron Treads  ⚠ 'Iron' è una parola comune: cerca il nome intero tra virgolette
+Iron Treads
+IronTreads
+テツノワダチ
+무쇠바퀴
+铁轍迹
+鐵轍跡
+# 0991 Iron Bundle  ⚠ 'Iron' è una parola comune: cerca il nome intero tra virgolette
+Iron Bundle
+IronBundle
+テツノツツミ
+무쇠보따리
+铁包袱
+鐵包袱
+# 0992 Iron Hands  ⚠ 'Iron' è una parola comune: cerca il nome intero tra virgolette
+Iron Hands
+IronHands
+テツノカイナ
+무쇠손
+铁臂膀
+鐵臂膀
+# 0993 Iron Jugulis  ⚠ 'Iron' è una parola comune: cerca il nome intero tra virgolette
+Iron Jugulis
+IronJugulis
+テツノコウベ
+무쇠머리
+铁脖颈
+鐵脖頸
+# 0994 Iron Moth  ⚠ 'Iron' è una parola comune: cerca il nome intero tra virgolette
+Iron Moth
+IronMoth
+テツノドクガ
+무쇠독나방
+铁毒蛾
+鐵毒蛾
+# 0995 Iron Thorns  ⚠ 'Iron' è una parola comune: cerca il nome intero tra virgolette
+Iron Thorns
+IronThorns
+テツノイバラ
+무쇠가시
+铁荆棘
+鐵荊棘
+# 0996 Frigibax
+Frigibax
+セビエ
+드니차
+凉脊龙
+涼脊龍
+# 0997 Arctibax
+Arctibax
+セゴール
+드니꽁
+冻脊龙
+凍脊龍
+# 0998 Baxcalibur
+Baxcalibur
+セグレイブ
+드닐레이브
+戟脊龙
+戟脊龍
+Mega Baxcalibur
+M Baxcalibur
+メガセグレイブ
+# 0999 Gimmighoul
+Gimmighoul
+コレクレー
+모으령
+索财灵
+索財靈
+# 1000 Gholdengo
+Gholdengo
+サーフゴー
+타부자고
+赛富豪
+賽富豪
+# 1001 Wo-Chien
+Wo-Chien
+Wo Chien
+WoChien
+チオンジェン
+총지엔
+古简蜗
+古簡蝸
+# 1002 Chien-Pao
+Chien-Pao
+Chien Pao
+ChienPao
+パオジアン
+파오젠
+古剑豹
+古劍豹
+# 1003 Ting-Lu
+Ting-Lu
+Ting Lu
+TingLu
+ディンルー
+딩루
+古鼎鹿
+# 1004 Chi-Yu
+Chi-Yu
+Chi Yu
+ChiYu
+イーユイ
+위유이
+古玉鱼
+古玉魚
+# 1005 Roaring Moon
+Roaring Moon
+RoaringMoon
+トドロクツキ
+고동치는달
+轰鸣月
+轟鳴月
+# 1006 Iron Valiant  ⚠ 'Iron' è una parola comune: cerca il nome intero tra virgolette
+Iron Valiant
+IronValiant
+テツノブジン
+무쇠무인
+铁武者
+鐵武者
+# 1007 Koraidon
+Koraidon
+コライドン
+코라이돈
+故勒顿
+故勒頓
+# 1008 Miraidon
+Miraidon
+ミライドン
+미라이돈
+密勒顿
+密勒頓
+# 1009 Walking Wake
+Walking Wake
+WalkingWake
+ウネルミナモ
+굽이치는물결
+波荡水
+波盪水
+# 1010 Iron Leaves  ⚠ 'Iron' è una parola comune: cerca il nome intero tra virgolette
+Iron Leaves
+IronLeaves
+テツノイサハ
+무쇠잎새
+铁斑叶
+鐵斑葉
+# 1011 Dipplin
+Dipplin
+カミッチュ
+과미르
+裹蜜虫
+裹蜜蟲
+# 1012 Poltchageist
+Poltchageist
+チャデス
+차데스
+斯魔茶
+# 1013 Sinistcha
+Sinistcha
+ヤバソチャ
+그우린차
+来悲粗茶
+來悲粗茶
+# 1014 Okidogi
+Okidogi
+イイネイヌ
+조타구
+够赞狗
+夠讚狗
+# 1015 Munkidori
+Munkidori
+マシマシラ
+이야후
+愿增猿
+願增猿
+# 1016 Fezandipiti
+Fezandipiti
+キチキギス
+기로치
+吉雉鸡
+吉雉雞
+# 1017 Ogerpon
+Ogerpon
+オーガポン
+오거폰
+厄诡椪
+厄鬼椪
+# 1018 Archaludon
+Archaludon
+ブリジュラス
+브리두라스
+铝钢桥龙
+鋁鋼橋龍
+# 1019 Hydrapple
+Hydrapple
+カミツオロチ
+과미드라
+蜜集大蛇
+# 1020 Gouging Fire
+Gouging Fire
+GougingFire
+ウガツホムラ
+꿰뚫는화염
+破空焰
+# 1021 Raging Bolt
+Raging Bolt
+RagingBolt
+タケルライコ
+날뛰는우레
+猛雷鼓
+# 1022 Iron Boulder  ⚠ 'Iron' è una parola comune: cerca il nome intero tra virgolette
+Iron Boulder
+IronBoulder
+テツノイワオ
+무쇠암석
+铁磐岩
+鐵磐岩
+# 1023 Iron Crown  ⚠ 'Iron' è una parola comune: cerca il nome intero tra virgolette
+Iron Crown
+IronCrown
+テツノカシラ
+무쇠감투
+铁头壳
+鐵頭殼
+# 1024 Terapagos
+Terapagos
+テラパゴス
+테라파고스
+太乐巴戈斯
+太樂巴戈斯
+# 1025 Pecharunt
+Pecharunt
+モモワロウ
+복숭악동
+桃歹郎
