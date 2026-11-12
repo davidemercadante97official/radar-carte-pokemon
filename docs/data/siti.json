@@ -1,6 +1,6 @@
 {
- "last_run": "2026-11-12T21:57:14+00:00",
- "seconds": 25.7,
+ "last_run": "2026-11-12T22:00:42+00:00",
+ "seconds": 23.9,
  "raw": 855,
  "alerts": 0,
  "sent": 0,
@@ -8,12 +8,27 @@
   "vinted.it": {
    "ok": true,
    "note": "",
-   "at": "2026-11-12T21:57:33+00:00"
+   "at": "2026-11-12T22:01:01+00:00"
   },
   "wallapop": {
    "ok": true,
    "note": "",
-   "at": "2026-11-12T21:57:37+00:00"
+   "at": "2026-11-12T22:01:04+00:00"
+  },
+  "ebay": {
+   "ok": null,
+   "note": "mancano EBAY_CLIENT_ID / EBAY_CLIENT_SECRET",
+   "at": "2026-11-12T22:00:42+00:00"
+  },
+  "subito.it": {
+   "ok": false,
+   "note": "HTTPError: 403 Client Error: Forbidden for url: https://www.subito.it/annunci-italia/vendita/usato/?q=pokemon+full+art&order=datedesc",
+   "at": "2026-11-12T22:00:42+00:00"
+  },
+  "cardtrader": {
+   "ok": null,
+   "note": "manca CARDTRADER_TOKEN",
+   "at": "2026-11-12T22:01:04+00:00"
   }
  }
 }
