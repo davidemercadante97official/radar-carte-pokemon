@@ -127,9 +127,11 @@ creano una volta sola con *Actions → Configura bot Telegram → Run workflow*
 - **Cardmarket** non dà più accesso alle API a nuovi utenti e blocca i robot.
   Usa la sua **lista desideri** (Wants), che trova da sola la combinazione di
   venditori più economica.
-- **CardTrader**: il radar usa l'API ufficiale (`CARDTRADER_TOKEN`, ogni 4 giri).
-  Questa parte è scritta ma **non ancora provata con un token vero**. Se dà
-  errore lo vedi in `data/siti.json`, e gli altri siti continuano a funzionare.
+- **CardTrader**: il radar usa l'API ufficiale (`CARDTRADER_TOKEN`). A ogni giro
+  controlla 40 espansioni a rotazione (tutte in circa un'ora), solo per le carte
+  dei CSV, e scarta subito gradate, lingue escluse e venditori in vacanza.
+  Le condizioni CardTrader "Played" e "Moderately Played" arrivano come
+  "da verificare"; "Poor" viene scartata.
   Anche CardTrader ha la sua lista desideri e **CardTrader Zero**, che raccoglie
   più venditori in una sola spedizione.
 - **Subito** blocca chi fa troppe ricerche: durante la prova del 12/11/2026 ha

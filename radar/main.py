@@ -90,7 +90,7 @@ def analyze(raw) -> dict | None:
     ship = (config.DEFAULT_SHIPPING.get(raw.get("platform"), 3.0) if ship_est
             else to_eur(raw["shipping"], raw.get("currency")))
     total = round(price + ship, 2)
-    verdict = evaluate(info, total)
+    verdict = evaluate(info, total, raw.get("card_hint"))
     if not verdict:
         return None
     return {**raw, "price_eur": price, "ship_eur": ship, "ship_estimated": ship_est,

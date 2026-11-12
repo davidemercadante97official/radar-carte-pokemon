@@ -218,7 +218,7 @@ def identify_card(info: Info, dex: int):
 LEVEL_RANK = {"super": 0, "buono": 1, "valutare": 2}
 
 
-def evaluate(info: Info, total_eur: float | None) -> dict | None:
+def evaluate(info: Info, total_eur: float | None, card_hint=None) -> dict | None:
     """Ritorna il verdetto (dict) se l'annuncio e' in soglia, altrimenti None."""
     if info.excluded or total_eur is None or total_eur <= 0:
         return None
@@ -253,12 +253,16 @@ def evaluate(info: Info, total_eur: float | None) -> dict | None:
                 "missing_names": [cdx[d].name for d in missing],
                 "count": info.count, "detail": detail}
 
-    if not info.dex:
-        return None
-    dex = info.dex[0]
-    card = identify_card(info, dex)
-    if not info.art and card is None:
-        return None          # niente termine artistico e carta non riconosciuta
+    if card_hint is not None:
+        # la fonte sa gia' quale carta e' (es. CardTrader): niente indovinelli dal titolo
+        dex, card = card_hint.dex, card_hint
+    else:
+        if not info.dex:
+            return None
+        dex = info.dex[0]
+        card = identify_card(info, dex)
+        if not info.art and card is None:
+            return None          # niente termine artistico e carta non riconosciuta
     entry = cdx.get(dex)
     if card is not None:
         good, sup, trend = card.good, card.super, card.trend

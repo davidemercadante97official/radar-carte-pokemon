@@ -114,8 +114,8 @@ EBAY_ROTATING_MARKETS = ["EBAY_IT", "EBAY_GB"]
 EBAY_ROTATING_TERMS = "(full art,illustration rare,art rare,sir,sar,alt art)"
 
 # CardTrader (facoltativo, serve CARDTRADER_TOKEN): ogni quanti giri controllarlo.
-CARDTRADER_EVERY_N_RUNS = 4
-CARDTRADER_MAX_EXPANSIONS = 25   # espansioni controllate per giro (a rotazione)
+CARDTRADER_EVERY_N_RUNS = 1
+CARDTRADER_MAX_EXPANSIONS = 40   # espansioni per giro, a rotazione (~160 in tutto: giro completo in 1 ora)
 
 # Siti per cui il nome del venditore NON viene salvato (memoria e dashboard).
 NO_PERSIST_SELLER = {"ebay"}

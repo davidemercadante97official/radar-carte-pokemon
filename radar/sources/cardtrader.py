@@ -1,14 +1,17 @@
 """CardTrader (API ufficiale, facoltativa): serve CARDTRADER_TOKEN.
 
-Il token si crea gratis dal proprio profilo CardTrader (Impostazioni -> API).
-NOTA: scritto seguendo la struttura nota dell'API v2 ma NON ancora provato con
-un token vero. Se qualcosa non torna, il radar lo segnala come errore della
-fonte "cardtrader" e continua con gli altri siti.
+Il token si copia da CardTrader -> API - Area sviluppatori (pagina "Full API").
+Documentazione: https://www.cardtrader.com/docs/api/full/reference
 
-Per ogni espansione che contiene carte artistiche di Pokémon mancanti legge
-tutte le offerte e crea un annuncio "grezzo" per ciascuna, con un titolo
-costruito (nome, set, numero, lingua, condizione) che passa dagli stessi
-filtri degli altri siti.
+Come funziona:
+  1. trova le espansioni CardTrader che corrispondono ai set dei CSV
+     (per nome, es. "Evolving Skies", o per codice, es. "sv2a");
+  2. per ogni espansione legge le carte (blueprint) e tiene solo quelle che
+     sono nel CSV delle carte artistiche, riconosciute dal numero (215, TG05...);
+  3. legge le offerte (le 25 piu' economiche per carta) e scarta subito quelle
+     sopra la soglia, gradate, in lingue escluse o di venditori in vacanza;
+  4. passa le rimaste agli stessi filtri degli altri siti, gia' sapendo
+     esattamente quale carta sono.
 """
 from __future__ import annotations
 
@@ -16,44 +19,63 @@ import os
 import time
 
 from .. import config, dati
-from ..dati import normalize
+from ..dati import normalize, number_key
 
 API = "https://api.cardtrader.com/api/v2"
 LANG_WORD = {"en": "english", "it": "italiano", "jp": "japanese", "ja": "japanese",
              "kr": "korean", "ko": "korean", "zh-cn": "chinese", "zh-tw": "chinese",
-             "zh": "chinese", "fr": "french", "de": "german", "es": "spanish",
-             "pt": "portuguese", "th": "thai", "id": "indonesian"}
+             "zh": "chinese", "cn": "chinese"}
+POKEMON_GAME_ID = 5
 
 
 def _get(ctx, path, **params):
-    r = ctx.http.get(API + path, params=params, timeout=40,
-                     headers={"Authorization": f"Bearer {os.environ['CARDTRADER_TOKEN']}",
-                              "Accept": "application/json"})
-    if r.status_code == 429:
-        time.sleep(5)
-        r = ctx.http.get(API + path, params=params, timeout=40,
-                         headers={"Authorization": f"Bearer {os.environ['CARDTRADER_TOKEN']}"})
+    headers = {"Authorization": f"Bearer {os.environ['CARDTRADER_TOKEN']}",
+               "Accept": "application/json"}
+    for attempt in range(3):
+        r = ctx.http.get(API + path, params=params, timeout=90, headers=headers)
+        if r.status_code != 429:
+            break
+        time.sleep(3 * (attempt + 1))      # limite: 10 richieste/secondo sulle offerte
     r.raise_for_status()
-    time.sleep(0.3)
+    time.sleep(0.25)
     return r.json()
 
 
-def _target_expansions(expansions):
-    """Espansioni CardTrader che contengono carte artistiche di Pokémon mancanti."""
-    cdx = dati.cardex()
-    wanted = {}
-    for dex, rows in dati.cards().items():
-        if dex in cdx and cdx[dex].owned:
-            continue
+def _csv_cards_by_set():
+    """nome o codice del set (normalizzato) -> carte artistiche del CSV."""
+    idx: dict[str, list] = {}
+    for rows in dati.cards().values():
         for c in rows:
             for key in (c.set, c.set_code):
-                wanted.setdefault(normalize(key).strip(), set()).add(c.set_code)
+                k = normalize(key).strip()
+                if k:
+                    idx.setdefault(k, []).append(c)
+    return idx
+
+
+def _limit(card) -> float | None:
+    """Prezzo massimo oltre il quale l'offerta non puo' essere in soglia."""
+    entry = dati.cardex().get(card.dex)
+    owned = bool(entry and entry.owned)
+    if owned and config.NOTIFY_OWNED == "mai":
+        return None
+    if owned and config.NOTIFY_OWNED == "super":
+        return card.super
+    return card.good
+
+
+def _targets(expansions):
+    """[(espansione, {numero: carta CSV})] per le espansioni con carte da cercare."""
+    idx = _csv_cards_by_set()
     out = []
     for e in expansions:
-        keys = {normalize(e.get("name", "")).strip(), normalize(e.get("code", "")).strip()}
-        codes = set().union(*(wanted.get(k, set()) for k in keys if k))
-        if codes:
-            out.append(e)
+        found = {}
+        for key in (normalize(e.get("name", "")).strip(), normalize(e.get("code", "")).strip()):
+            for c in idx.get(key, []):
+                if _limit(c) is not None:
+                    found.setdefault(c.num_key, c)
+        if found:
+            out.append((e, found))
     return out
 
 
@@ -61,58 +83,67 @@ def cardtrader(ctx):
     if not os.getenv("CARDTRADER_TOKEN"):
         ctx.skip("cardtrader", "manca CARDTRADER_TOKEN")
         return []
-    runs = ctx.state.get("runs", 0)
-    if runs % config.CARDTRADER_EVERY_N_RUNS:
+    if ctx.state.get("runs", 0) % config.CARDTRADER_EVERY_N_RUNS:
         return []          # non a ogni giro: le offerte sono tante
     out = []
     try:
-        games = _get(ctx, "/games")
-        games = games.get("array", games) if isinstance(games, dict) else games
-        game_id = next(g["id"] for g in games if "pok" in (g.get("name", "") + g.get("display_name", "")).lower())
-        exps = [e for e in _get(ctx, "/expansions") if e.get("game_id") == game_id]
-        targets = _target_expansions(exps)
+        exps = [e for e in _get(ctx, "/expansions") if e.get("game_id") == POKEMON_GAME_ID]
+        targets = _targets(exps)
         if not targets:
             ctx.ok("cardtrader", "nessuna espansione abbinata ai CSV")
             return []
         start = ctx.state.get("cardtrader_rotation", 0) % len(targets)
-        batch = (targets + targets)[start:start + config.CARDTRADER_MAX_EXPANSIONS]
+        batch = (targets + targets)[start:start + min(config.CARDTRADER_MAX_EXPANSIONS, len(targets))]
         ctx.state["cardtrader_rotation"] = start + len(batch)
-        for exp in batch:
-            bps = {}
+        seen_offers = 0
+        for exp, by_num in batch:
+            wanted = {}
             for b in _get(ctx, "/blueprints/export", expansion_id=exp["id"]):
                 fp = b.get("fixed_properties") or {}
-                bps[b["id"]] = (b.get("name", ""), fp.get("collector_number", ""))
+                card = by_num.get(number_key(str(fp.get("collector_number", ""))))
+                if card:
+                    wanted[str(b["id"])] = (b, card)
+            if not wanted:
+                continue
             products = _get(ctx, "/marketplace/products", expansion_id=exp["id"])
-            if isinstance(products, dict):
-                products = [p for lst in products.values() for p in lst]
-            for p in products:
-                if p.get("graded"):
-                    continue
-                name, num = bps.get(p.get("blueprint_id"), (p.get("name_en", ""), ""))
-                props = p.get("properties_hash") or {}
-                lang = str(props.get("pokemon_language", "")).lower()
-                extra = []
-                if props.get("signed"):
-                    extra.append("signed")
-                if props.get("altered"):
-                    extra.append("altered")
-                price = p.get("price") or {}
-                cents = p.get("price_cents", price.get("cents"))
-                user = p.get("user") or {}
-                title = f"{name} {exp.get('name', '')} {num} {LANG_WORD.get(lang, lang)} {' '.join(extra)}".strip()
-                out.append({
-                    "native_id": f"cardtrader:{p.get('id')}", "title": title,
-                    "url": f"https://www.cardtrader.com/cards/{p.get('blueprint_id')}",
-                    "price": (cents or 0) / 100 if cents is not None else None,
-                    "currency": p.get("price_currency", price.get("currency", "EUR")),
-                    "shipping": None, "image": "", "source": "cardtrader", "platform": "cardtrader",
-                    "seller": user.get("username", ""), "seller_name": user.get("username", ""),
-                    "seller_url": f"https://www.cardtrader.com/users/{user.get('username')}" if user.get("username") else "",
-                    "country": user.get("country_code", ""),
-                    "condition": props.get("condition", ""),
-                    "zero": bool(user.get("can_sell_via_hub")),
-                })
-        ctx.ok("cardtrader", f"{len(batch)} espansioni")
+            for bid, (b, card) in wanted.items():
+                limit = _limit(card)
+                for p in products.get(bid, []):
+                    seen_offers += 1
+                    props = p.get("properties_hash") or {}
+                    lang = str(props.get("pokemon_language") or "").lower()
+                    if p.get("graded") or p.get("on_vacation") or props.get("pokemon_reverse"):
+                        continue
+                    if lang and lang not in LANG_WORD:
+                        continue            # francese, tedesco, spagnolo, portoghese...
+                    price = p.get("price") or {}
+                    cents = price.get("cents", p.get("price_cents"))
+                    currency = price.get("currency", p.get("price_currency", "EUR"))
+                    if cents is None:
+                        continue
+                    eur = cents / 100 * config.FX_TO_EUR.get(currency, 1.0)
+                    if limit is None or eur > limit:
+                        continue            # sopra soglia gia' senza spedizione
+                    extra = [w for w, flag in (("signed", props.get("signed")),
+                                               ("altered", props.get("altered"))) if flag]
+                    user = p.get("user") or {}
+                    title = " ".join(x for x in (
+                        b.get("name", ""), b.get("version") or "", exp.get("name", ""),
+                        LANG_WORD.get(lang, ""), *extra) if x)
+                    out.append({
+                        "native_id": f"cardtrader:{p.get('id')}", "title": title,
+                        "url": f"https://www.cardtrader.com/cards/{b['id']}",
+                        "price": cents / 100, "currency": currency, "shipping": None,
+                        "image": b.get("image_url", ""), "source": "cardtrader",
+                        "platform": "cardtrader",
+                        "seller": user.get("username", ""), "seller_name": user.get("username", ""),
+                        "seller_url": f"https://www.cardtrader.com/users/{user.get('username')}" if user.get("username") else "",
+                        "country": user.get("country_code", ""),
+                        "condition": props.get("condition") or "",
+                        "zero": bool(user.get("can_sell_via_hub")),
+                        "card_hint": card,       # sappiamo gia' quale carta e'
+                    })
+        ctx.ok("cardtrader", f"{len(batch)} espansioni su {len(targets)}, {seen_offers} offerte guardate")
     except Exception as e:
         ctx.fail("cardtrader", e)
     return out
