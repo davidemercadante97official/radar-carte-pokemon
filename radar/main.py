@@ -158,9 +158,16 @@ def run(only=None, dry_run=False):
             marketplaces.vinted_seller(ctx, a)
             lookups += 1
 
+    # Stessa carta offerta da piu' venditori (CardTrader): su Telegram solo la
+    # copia piu' economica; le altre restano nella dashboard.
+    cheapest: dict[str, dict] = {}
+    for a in sorted(alerts, key=lambda a: a["total"]):
+        cheapest.setdefault(a["url"], a)
+    to_notify = [a for a in alerts if cheapest[a["url"]] is a]
+
     # raggruppa per venditore
     groups: dict[str, list] = {}
-    for a in alerts:
+    for a in to_notify:
         groups.setdefault(group_key(a), []).append(a)
     ordered = sorted(groups.values(), key=lambda g: (
         min(LEVEL_RANK[a["level"]] for a in g),

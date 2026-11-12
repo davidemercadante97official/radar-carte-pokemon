@@ -108,7 +108,9 @@ def cardtrader(ctx):
             for b in _get(ctx, "/blueprints/export", expansion_id=exp["id"]):
                 fp = b.get("fixed_properties") or {}
                 card = by_num.get(number_key(str(fp.get("collector_number", ""))))
-                if card:
+                # stesso numero ma carta diversa (numerazioni diverse tra CSV e
+                # CardTrader): il nome deve contenere quello del Pokémon
+                if card and normalize(card.pokemon).strip() in normalize(b.get("name", "")):
                     wanted[str(b["id"])] = (b, card)
             if not wanted:
                 continue
