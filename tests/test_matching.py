@@ -6,16 +6,18 @@ from radar.main import analyze, group_key
 DEALS = {
     ("Bulbasaur IR 166/165 151 inglese near mint", 20): "super",
     ("フシギダネ AR M1L 064/063", 4.0): "buono",
-    ("Charizard full art non gradata", 3): "super",          # "non gradata" non scarta
-    ("Mewtwo slightly played full art", 2): "super",          # "slightly played" non e' da verificare
+    ("Charizard trainer gallery TG03 non gradata", 3): "super",   # "non gradata" non scarta
+    ("Mewtwo slightly played illustration rare", 2): "super",     # "slightly played" non e' da verificare
+    ("Glaceon V alt art 175/203 Evolving Skies english", 60): "super",   # alternate art riconosciuta dal numero
+    ("Charizard galarian gallery GG", 3): "super",
     ("Lotto 30 carte pokemon full art e IR", 40): "buono",    # 1,33 € a carta
-    ("Lotto full art Pikachu Eevee Snorlax", 5): "super",
+    ("Lotto IR Pikachu Eevee Snorlax", 5): "super",
     ("Umbreon VMAX alt art 215/203 Evolving Skies english", 900): "super",
     ("ブラッキー SAR", 10): "super",                           # giapponese, riferimento cardex
 }
 CHECK = {
     "Pidgeot ex SIR lightly played": ["lightly played"],
-    "Charizard full art graffi": ["graffi"],
+    "Charizard IR graffi": ["graffi"],
 }
 DROP = [
     "Carta Pokemon Mew ex SIR 151 PSA 10",               # gradata
@@ -31,6 +33,11 @@ DROP = [
     "Golem vintage",                                     # nome ambiguo senza termini carta
     "Gengar ex Japanisch 30th Anniversary",              # nessun termine artistico, carta non riconosciuta
     "Raihan full art 202/203",                           # allenatore, nessun Pokémon
+    "Charizard full art",                                # full art: rarita' non voluta
+    "Glaceon V 174/203 Evolving Skies english",          # e' la full art (la 175 e' l'alternate art)
+    "Umbreon VMAX 214/203 Evolving Skies english",       # rainbow, non alternate art
+    "Pikachu hyper rare gold",                           # hyper rare / oro
+    "Lotto full art Pikachu Eevee Snorlax",              # lotto di sole full art
     "Tyranitar GX 203/214 Lost Thunder italiano",        # italiana: niente prezzo inglese come riferimento
 ]
 

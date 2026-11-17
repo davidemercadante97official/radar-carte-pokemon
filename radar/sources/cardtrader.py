@@ -44,7 +44,7 @@ def _get(ctx, path, **params):
 def _csv_cards_by_set():
     """nome o codice del set (normalizzato) -> carte artistiche del CSV."""
     idx: dict[str, list] = {}
-    for rows in dati.cards().values():
+    for rows in dati.wanted_cards().values():      # solo le rarita' volute
         for c in rows:
             for key in (c.set, c.set_code):
                 k = normalize(key).strip()

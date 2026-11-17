@@ -175,10 +175,52 @@ class Card:
     trend: float | None
     good: float | None
     super: float | None
+    kind: str = ""       # IR, SIR, ALT, TG, GG oppure FA, SECRET, ALTRO (vedi KIND_LABEL)
 
     def label(self) -> str:
         lang = "EN" if self.lang == "EN" else "JP"
-        return f"[{lang}] {self.name} · {self.set} #{self.number} · {self.category}"
+        return f"[{lang}] {self.name} · {self.set} #{self.number} · {KIND_LABEL.get(self.kind, self.category)}"
+
+
+KIND_LABEL = {"IR": "IR / AR", "SIR": "SIR / SAR", "ALT": "Alternate art",
+              "TG": "Trainer Gallery", "GG": "Galarian Gallery"}
+
+
+def _base_kind(category: str) -> str:
+    c = category.lower()
+    if c.startswith("sir"):
+        return "SIR"
+    if c.startswith("ir"):
+        return "IR"
+    if c.startswith(("trainer gallery", "chr", "csr")):
+        return "TG"          # CHR/CSR = equivalente giapponese della Trainer Gallery
+    if c.startswith("galarian gallery"):
+        return "GG"
+    if c.startswith("full art"):
+        return "FA"
+    if c.startswith("secret"):
+        return "SECRET"
+    return "ALTRO"           # hyper rare/oro, Mega, Pikachu rare, BWR...
+
+
+def _mark_alt_art(all_cards):
+    """Le alternate art nei CSV sono dentro "Full art" o "Secret".
+
+    Schema dei set Spada e Scudo / Sole e Luna (verificato su CardTrader, es.
+    Evolving Skies): quando la stessa carta compare due volte con numeri
+    consecutivi nella stessa categoria, la seconda e' l'alternate art
+    (Glaceon V 174 full art -> 175 alternate art; Umbreon VMAX 214 rainbow
+    -> 215 alternate art). Le oro hanno numeri lontani e restano escluse.
+    """
+    groups = {}
+    for c in all_cards:
+        if c.kind in ("FA", "SECRET") and c.num_key.isdigit():
+            groups.setdefault((c.lang, c.set_code, c.kind, normalize(c.name)), []).append(c)
+    for same in groups.values():
+        same.sort(key=lambda c: int(c.num_key))
+        for a, b in zip(same, same[1:]):
+            if int(b.num_key) == int(a.num_key) + 1:
+                b.kind = "ALT"
 
 
 @lru_cache(maxsize=1)
@@ -198,7 +240,24 @@ def cards() -> dict[int, list[Card]]:
             illustrator=r.get("Illustratore", ""),
             trend=to_float(r["Prezzo trend Cardmarket €"]),
             good=to_float(r[THR_GOOD]), super=to_float(r[THR_SUPER]),
+            kind=_base_kind(r["Categoria"]),
         ))
+    _mark_alt_art([c for rows in out.values() for c in rows])
+    return out
+
+
+def wanted(card) -> bool:
+    return card.kind in config.WANTED_KINDS
+
+
+@lru_cache(maxsize=1)
+def wanted_cards() -> dict[int, list[Card]]:
+    """Solo le rarita' che interessano (config.WANTED_KINDS)."""
+    out = {}
+    for dex, rows in cards().items():
+        keep = [c for c in rows if wanted(c)]
+        if keep:
+            out[dex] = keep
     return out
 
 
@@ -224,14 +283,16 @@ def cardex() -> dict[int, CardexEntry]:
             dex = int(r["N° Pokédex"])
         except (KeyError, ValueError):
             continue
-        desc = " · ".join(x for x in (
-            f"[{r.get('Lingua carta più economica', '')}] {r.get('Carta più economica (EN o JP)', '')}",
-            r.get("Set", ""), f"#{r.get('Numero', '')}", r.get("Rarità", "")) if x.strip())
+        # riferimento = la carta PIU' ECONOMICA tra le rarita' volute (non quella
+        # del CSV cardex, che puo' essere una full art)
+        priced = [c for c in wanted_cards().get(dex, []) if c.good is not None and c.trend]
+        best = min(priced, key=lambda c: c.trend) if priced else None
         out[dex] = CardexEntry(
             dex=dex, name=r["Pokémon (EN/IT)"],
             owned=(r.get("Presa (sì/no)", "") or "").strip().lower() in YES,
-            cheapest=desc, trend=to_float(r["Prezzo trend Cardmarket €"]),
-            good=to_float(r[THR_GOOD]), super=to_float(r[THR_SUPER]),
+            cheapest=best.label() if best else "",
+            trend=best.trend if best else None,
+            good=best.good if best else None, super=best.super if best else None,
         )
     return out
 

@@ -7,6 +7,20 @@ su Telegram.
 
 ## Come decide
 
+- **Rarità cercate** (`WANTED_KINDS` in `radar/config.py`): **IR / AR**, **SIR / SAR**,
+  **alternate art**, **Trainer Gallery** (con le CHR/CSR giapponesi) e
+  **Galarian Gallery**. Sono **escluse** full art, rainbow, oro / hyper rare,
+  Mega hyper e Mega attack rare, Pikachu/Futuristic/RGB rare, Black White rare
+  e shiny.
+  - Nei CSV le alternate art stanno dentro "Full art" o "Secret". Il radar le
+    riconosce così: quando la stessa carta compare due volte con numeri
+    consecutivi nello stesso set, la seconda è l'alternate art (es. Glaceon V
+    174 full art → 175 alternate art; Umbreon VMAX 214 rainbow → 215 alternate
+    art). In tutto ne riconosce 130.
+  - Un annuncio senza numero conta solo se nel titolo c'è un termine di una
+    rarità voluta (IR, SIR, alt art, trainer gallery...): "full art" da solo
+    non basta più.
+
 - **Che cosa cerca**: le parole di `dati/parole-chiave-carte-pokemon-artistiche.txt`
   e i 1025 nomi di `dati/nomi-pokemon-1025-ricerca.txt` (inglese, italiano,
   giapponese, coreano, cinese). Un nome segnato ⚠ conta solo se nel titolo c'è
@@ -28,7 +42,7 @@ su Telegram.
     molto meno delle inglesi: per italiane, coreane, cinesi o senza lingua il
     confronto è con la carta più economica del cardex (sotto).
   - Altrimenti confronta con la **carta artistica più economica** di quel
-    Pokémon in `dati/cardex-1025-carte-artistiche.csv`.
+    Pokémon tra le rarità volute (calcolata da `dati/tutte-le-carte-artistiche.csv`).
   - 🚨 **Super affare** (con suono): sotto la soglia del 50% del trend.
     💡 **Buon affare** (senza suono): sotto la soglia del 70%.
   - Sotto il 35% del trend il messaggio ti avvisa: "controlla che non sia falsa".

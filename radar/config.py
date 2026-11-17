@@ -48,6 +48,28 @@ CHECK_SECTION = 10               # "da verificare"
 EXCLUDE_SECTION = 11             # scarta l'annuncio
 LOT_SECTION = 12                 # lotti
 
+# --- Rarita' volute ------------------------------------------------------------
+# IR = Illustration Rare / Art Rare (AR); SIR = Special Illustration Rare / SAR;
+# ALT = alternate art (Spada e Scudo, Sole e Luna); TG = Trainer Gallery (+ CHR/CSR
+# giapponesi); GG = Galarian Gallery. Escluse: full art, rainbow, oro/hyper rare,
+# Mega hyper/attack rare, Pikachu/Futuristic/RGB rare, Black White rare, shiny.
+WANTED_KINDS = {"IR", "SIR", "ALT", "TG", "GG"}
+
+# Termini delle sezioni 1, 2, 4, 5 che indicano rarita' NON volute: non contano
+# come "termine artistico" (un annuncio "Charizard full art" non basta piu').
+UNWANTED_ART_TERMS = [
+    "full art", "fullart", "full-art", "figura intera", "carta a figura intera", "FA",
+    "secret rare", "rainbow rare", "gold rare", "SR", "HR", "UR", "MUR", "MAR",
+    "ultrarara", "ultra rara", "ultra rare", "super rare", "iper rara", "iperrara", "hyper rare",
+    "rara attacco mega", "rara attacco", "mega attack rare", "mega attack",
+    "rara iper mega", "iper mega", "mega hyper rare", "mega ultra rare",
+    "black white rare", "BWR", "pikachu rare", "pikachu rara", "futuristic rare", "FUR",
+    "yoshirotten", "rgb rare", "classic collection", "shiny rare", "shiny ultra rare", "SSR",
+    "cromatica", "cromatico", "shiny", "rainbow", "arcobaleno", "gold", "oro", "secret",
+    "segreta", "carta segreta", "full art GX", "GX full art", "tag team full art",
+    "character full art", "shiny vault", "SV", "destino sfuggente shiny", "texture", "textured",
+]
+
 # --- Regole di notifica --------------------------------------------------------
 # Pokémon gia' presi (colonna "Presa (sì/no)" = sì): "super" = avvisa solo per i
 # super affari, "tutti" = come i mancanti, "mai" = mai.
@@ -81,20 +103,21 @@ EU_COUNTRIES = {
 # Ricerche ampie ordinate per "piu' recenti": a ogni giro arrivano gli annunci
 # nuovi. Il filtro vero (nome Pokémon, termini, esclusioni) lo fa il radar.
 SUBITO_QUERIES = [
-    "pokemon full art", "pokemon illustrazione rara", "pokemon alt art",
-    "pokemon sir", "pokemon ir", "lotto carte pokemon", "carte pokemon giapponesi",
+    "pokemon illustrazione rara", "pokemon alt art", "pokemon sir", "pokemon ir",
+    "pokemon trainer gallery", "lotto carte pokemon", "carte pokemon giapponesi",
 ]
 
 VINTED = {
-    "www.vinted.it": ["pokemon full art", "pokemon illustration rare", "pokemon alt art",
-                      "pokemon sir", "pokemon ir", "pokemon art rare",
+    "www.vinted.it": ["pokemon illustration rare", "pokemon alt art", "pokemon sir",
+                      "pokemon ir", "pokemon art rare", "pokemon sar",
+                      "pokemon trainer gallery", "pokemon galarian gallery",
                       "lotto carte pokemon", "carte pokemon giapponesi"],
 }
 
 WALLAPOP = [
     # (keywords, lat, lon)
-    ("pokemon full art", 41.9028, 12.4964),
     ("pokemon illustration rare", 41.9028, 12.4964),
+    ("pokemon alt art", 41.9028, 12.4964),
     ("lotto carte pokemon", 41.9028, 12.4964),
 ]
 
@@ -102,16 +125,17 @@ WALLAPOP = [
 # prezzo attuale, che non e' quello finale.
 EBAY_MARKETPLACES = ["EBAY_IT", "EBAY_DE", "EBAY_GB", "EBAY_US"]
 EBAY_QUERIES = [
-    "pokemon (full art,alt art,illustration rare,special illustration rare,trainer gallery,galarian gallery)",
+    "pokemon (illustration rare,special illustration rare,alt art,alternate art)",
+    "pokemon (trainer gallery,galarian gallery,TG,GG)",
     "pokemon (illustrazione rara,rara illustrazione,illustrazione speciale,arte alternativa)",
-    "pokemon (japanese,korean,chinese) (ar,sar,sr,chr,csr,art rare)",
-    "pokemon (lotto,lot,bundle,joblot) (full art,alt art,ir,sir,illustration rare,art rare)",
+    "pokemon (japanese,korean,chinese) (ar,sar,chr,csr,art rare)",
+    "pokemon (lotto,lot,bundle,joblot) (alt art,ir,sir,illustration rare,art rare)",
 ]
 # A ogni giro cerca anche alcuni Pokémon MANCANTI per nome, a rotazione
 # (su EBAY_IT e EBAY_GB). Limite eBay: 5000 ricerche al giorno.
 EBAY_ROTATING_PER_RUN = 6
 EBAY_ROTATING_MARKETS = ["EBAY_IT", "EBAY_GB"]
-EBAY_ROTATING_TERMS = "(full art,illustration rare,art rare,sir,sar,alt art)"
+EBAY_ROTATING_TERMS = "(illustration rare,art rare,ir,sir,sar,alt art,trainer gallery,galarian gallery)"
 
 # CardTrader (facoltativo, serve CARDTRADER_TOKEN): ogni quanti giri controllarlo.
 CARDTRADER_EVERY_N_RUNS = 1

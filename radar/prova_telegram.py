@@ -22,7 +22,7 @@ SINGLE = {"native_id": "prova:1", "title": "[PROVA] Bulbasaur IR 166/165 Pokémo
 GROUP = [
     {"native_id": "prova:2", "title": "[PROVA] フシギダネ AR M1L 064/063 giapponese",
      "url": "https://www.vinted.it/", "price": 1.0, "currency": "EUR", "shipping": None},
-    {"native_id": "prova:3", "title": "[PROVA] Charizard full art lightly played",
+    {"native_id": "prova:3", "title": "[PROVA] Charizard illustration rare lightly played",
      "url": "https://www.vinted.it/", "price": 5.5, "currency": "EUR", "shipping": None},
     {"native_id": "prova:4", "title": "[PROVA] Lotto 20 carte pokemon full art e IR",
      "url": "https://www.vinted.it/", "price": 25.0, "currency": "EUR", "shipping": None},

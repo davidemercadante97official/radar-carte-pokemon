@@ -49,10 +49,12 @@ def matchers():
     groups: dict[str, list[str]] = {k: [] for k in
                                      ("art", "pos", "check", "excl", "lot", "multi", "ctx", "set")}
     lang_of: dict[str, str] = {}
+    unwanted = {normalize(t).strip() for t in config.UNWANTED_ART_TERMS}
     for kw in dati.keywords():
         s = kw.section
         if s in config.ART_SECTIONS:
-            groups["art"].append(kw.norm)
+            if kw.norm not in unwanted:          # full art, hyper rare, oro... non contano
+                groups["art"].append(kw.norm)
         elif s == config.POSITIVE_SECTION:
             groups["pos"].append(kw.norm)
         elif s == config.CHECK_SECTION:
@@ -272,6 +274,8 @@ def evaluate(info: Info, total_eur: float | None, card_hint=None) -> dict | None
         card = identify_card(info, dex)
         if not info.art and card is None:
             return None          # niente termine artistico e carta non riconosciuta
+    if card is not None and not dati.wanted(card):
+        return None              # carta riconosciuta ma di una rarita' non voluta (full art, oro...)
     entry = cdx.get(dex)
     lang_note = ""
     if card is not None and exact_lang(info.langs) == card.lang:
