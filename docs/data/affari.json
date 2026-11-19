@@ -1,5 +1,481 @@
 [
  {
+  "id": "ebay:198806334060",
+  "title": "GIRATINA 016/054 - LP - SM10A GG END JAPANESE POKEMON CARD 1",
+  "url": "https://www.ebay.it/itm/198806334060?_skw=pokemon+%28trainer+gallery%2Cgalarian+gallery%2CTG%2CGG%29&hash=item2e49c7ea6c:g:-WgAAeSwgqhqlUcO",
+  "image": "https://i.ebayimg.com/images/g/-WgAAeSwgqhqlUcO/s-l225.jpg",
+  "source": "ebay.it",
+  "platform": "ebay",
+  "seller": "",
+  "seller_url": "",
+  "country": "CA",
+  "price": 4.65,
+  "ship": 17.72,
+  "ship_est": false,
+  "total": 22.37,
+  "old_total": null,
+  "level": "super",
+  "group": "solo|ebay:198806334060",
+  "type": "carta",
+  "missing": true,
+  "check": [
+   "lp"
+  ],
+  "dex": 487,
+  "pokemon": "Giratina",
+  "ref": "[EN] Giratina VSTAR · Crown Zenith Galarian Gallery #GG69 · Galarian Gallery",
+  "ref_kind": "cardex",
+  "good": 178.97,
+  "super": 127.83,
+  "trend": 255.67,
+  "lang_note": "",
+  "missing_names": [],
+  "detail": [],
+  "first_seen": "2026-11-19T00:00:53+00:00",
+  "last_seen": "2026-11-19T00:00:53+00:00"
+ },
+ {
+  "id": "ebay:168871868211",
+  "title": "Pokemon Gengar 154/128 SIR 30th Celebration SIr and Classic collection bundle",
+  "url": "https://www.ebay.it/itm/168871868211?_skw=pokemon+%28lotto%2Clot%2Cbundle%2Cjoblot%29+%28alt+art%2Cir%2Csir%2Cillustration+rare%2Cart+rare%29&hash=item27518c3733:g:cJwAAeSwqblq~jsn",
+  "image": "https://i.ebayimg.com/images/g/cJwAAeSwqblq~jsn/s-l225.jpg",
+  "source": "ebay.it",
+  "platform": "ebay",
+  "seller": "",
+  "seller_url": "",
+  "country": "GB",
+  "price": 183.16,
+  "ship": 23.1,
+  "ship_est": false,
+  "total": 206.26,
+  "old_total": null,
+  "level": "buono",
+  "group": "solo|ebay:168871868211",
+  "type": "lotto",
+  "missing": true,
+  "check": [],
+  "dex": null,
+  "pokemon": null,
+  "ref": null,
+  "ref_kind": null,
+  "good": null,
+  "super": null,
+  "trend": null,
+  "lang_note": "",
+  "missing_names": [
+   "Gengar"
+  ],
+  "detail": [
+   "Pokémon mancanti citati: 1 (soglia somma 12,70 €)",
+   "128 carte → 1,61 € a carta"
+  ],
+  "first_seen": "2026-11-19T00:00:53+00:00",
+  "last_seen": "2026-11-19T00:00:53+00:00"
+ },
+ {
+  "id": "ebay:820316334540",
+  "title": "Pokemon Mengka Vol 2 - SAR-010 - Infernape Dragonball",
+  "url": "https://www.ebay.co.uk/itm/820316334540?_skw=%22Infernape%22+pokemon+%28illustration+rare%2Cart+rare%2Cir%2Csir%2Csar%2Calt+art%2Ctrainer+gallery%2Cgalarian+gallery%29&hash=itembefea9e9cc:g:eW0AAeSwpmpq64Tf",
+  "image": "https://i.ebayimg.com/images/g/eW0AAeSwpmpq64Tf/s-l225.jpg",
+  "source": "ebay.co.uk",
+  "platform": "ebay",
+  "seller": "",
+  "seller_url": "",
+  "country": "GB",
+  "price": 1.63,
+  "ship": 2.5,
+  "ship_est": true,
+  "total": 4.13,
+  "old_total": null,
+  "level": "super",
+  "group": "solo|ebay:820316334540",
+  "type": "carta",
+  "missing": true,
+  "check": [],
+  "dex": 392,
+  "pokemon": "Infernape",
+  "ref": "[EN] Infernape · Twilight Masquerade #173 · IR / AR",
+  "ref_kind": "cardex",
+  "good": 6.82,
+  "super": 4.87,
+  "trend": 9.74,
+  "lang_note": "",
+  "missing_names": [],
+  "detail": [],
+  "first_seen": "2026-11-19T00:00:53+00:00",
+  "last_seen": "2026-11-19T00:00:53+00:00"
+ },
+ {
+  "id": "ebay:147524147650",
+  "title": "INFERNAPE X DRAGONBALL Z SAR-010 Pokemon Chinese Mengka Vol 2 non TCG Card",
+  "url": "https://www.ebay.co.uk/itm/147524147650?_skw=%22Infernape%22+pokemon+%28illustration+rare%2Cart+rare%2Cir%2Csir%2Csar%2Calt+art%2Ctrainer+gallery%2Cgalarian+gallery%29&hash=item22591fd9c2:g:DZQAAeSwFHNqjDec",
+  "image": "https://i.ebayimg.com/images/g/DZQAAeSwFHNqjDec/s-l225.jpg",
+  "source": "ebay.co.uk",
+  "platform": "ebay",
+  "seller": "",
+  "seller_url": "",
+  "country": "GB",
+  "price": 4.21,
+  "ship": 2.5,
+  "ship_est": true,
+  "total": 6.71,
+  "old_total": null,
+  "level": "buono",
+  "group": "solo|ebay:147524147650",
+  "type": "carta",
+  "missing": true,
+  "check": [],
+  "dex": 392,
+  "pokemon": "Infernape",
+  "ref": "[EN] Infernape · Twilight Masquerade #173 · IR / AR",
+  "ref_kind": "cardex",
+  "good": 6.82,
+  "super": 4.87,
+  "trend": 9.74,
+  "lang_note": "",
+  "missing_names": [],
+  "detail": [],
+  "first_seen": "2026-11-19T00:00:53+00:00",
+  "last_seen": "2026-11-19T00:00:53+00:00"
+ },
+ {
+  "id": "ebay:178203760627",
+  "title": "Pokemon TCG Empoleon V SWSH108 Black Star Promo Half Art Rare NM",
+  "url": "https://www.ebay.it/itm/178203760627?_skw=%22Empoleon%22+pokemon+%28illustration+rare%2Cart+rare%2Cir%2Csir%2Csar%2Calt+art%2Ctrainer+gallery%2Cgalarian+gallery%29&hash=item297dc597f3:g:-ukAAeSwO1dqJqR9",
+  "image": "https://i.ebayimg.com/images/g/-ukAAeSwO1dqJqR9/s-l225.jpg",
+  "source": "ebay.it",
+  "platform": "ebay",
+  "seller": "",
+  "seller_url": "",
+  "country": "GB",
+  "price": 2.77,
+  "ship": 11.73,
+  "ship_est": false,
+  "total": 14.5,
+  "old_total": null,
+  "level": "super",
+  "group": "solo|ebay:178203760627",
+  "type": "carta",
+  "missing": true,
+  "check": [],
+  "dex": 395,
+  "pokemon": "Empoleon",
+  "ref": "[EN] Empoleon V · Battle Styles #146 · Alternate art",
+  "ref_kind": "cardex",
+  "good": 47.74,
+  "super": 34.1,
+  "trend": 68.2,
+  "lang_note": "",
+  "missing_names": [],
+  "detail": [],
+  "first_seen": "2026-11-19T00:00:53+00:00",
+  "last_seen": "2026-11-19T00:00:53+00:00"
+ },
+ {
+  "id": "ebay:267688380587",
+  "title": "Pokemon Card Empoleon V SWSH108 Black Star Promo Half Art Rare NM",
+  "url": "https://www.ebay.it/itm/267688380587?_skw=%22Empoleon%22+pokemon+%28illustration+rare%2Cart+rare%2Cir%2Csir%2Csar%2Calt+art%2Ctrainer+gallery%2Cgalarian+gallery%29&hash=item3e537888ab:g:1d4AAeSwUHJqH~xz",
+  "image": "https://i.ebayimg.com/images/g/1d4AAeSwUHJqH~xz/s-l225.jpg",
+  "source": "ebay.it",
+  "platform": "ebay",
+  "seller": "",
+  "seller_url": "",
+  "country": "GB",
+  "price": 4.38,
+  "ship": 10.33,
+  "ship_est": false,
+  "total": 14.71,
+  "old_total": null,
+  "level": "super",
+  "group": "solo|ebay:267688380587",
+  "type": "carta",
+  "missing": true,
+  "check": [],
+  "dex": 395,
+  "pokemon": "Empoleon",
+  "ref": "[EN] Empoleon V · Battle Styles #146 · Alternate art",
+  "ref_kind": "cardex",
+  "good": 47.74,
+  "super": 34.1,
+  "trend": 68.2,
+  "lang_note": "",
+  "missing_names": [],
+  "detail": [],
+  "first_seen": "2026-11-19T00:00:53+00:00",
+  "last_seen": "2026-11-19T00:00:53+00:00"
+ },
+ {
+  "id": "ebay:226404027826",
+  "title": "Pokemon Empoleon V Alt Art 146/163 Stili di Battaglia Custodia Opera Estesa",
+  "url": "https://www.ebay.it/itm/226404027826?_skw=%22Empoleon%22+pokemon+%28illustration+rare%2Cart+rare%2Cir%2Csir%2Csar%2Calt+art%2Ctrainer+gallery%2Cgalarian+gallery%29&hash=item34b6bb4db2:g:-zoAAeSwifBpD2ZK",
+  "image": "https://i.ebayimg.com/images/g/-zoAAeSwifBpD2ZK/s-l225.jpg",
+  "source": "ebay.it",
+  "platform": "ebay",
+  "seller": "",
+  "seller_url": "",
+  "country": "US",
+  "price": 13.31,
+  "ship": 19.27,
+  "ship_est": false,
+  "total": 32.58,
+  "old_total": null,
+  "level": "super",
+  "group": "solo|ebay:226404027826",
+  "type": "carta",
+  "missing": true,
+  "check": [],
+  "dex": 395,
+  "pokemon": "Empoleon",
+  "ref": "[EN] Empoleon V · Battle Styles #146 · Alternate art",
+  "ref_kind": "cardex",
+  "good": 47.74,
+  "super": 34.1,
+  "trend": 68.2,
+  "lang_note": "Carta riconosciuta: [EN] Empoleon V · Battle Styles #146 · Alternate art. Per questa lingua non c'è un prezzo Cardmarket specifico: confronto con la carta più economica del cardex",
+  "missing_names": [],
+  "detail": [],
+  "first_seen": "2026-11-19T00:00:53+00:00",
+  "last_seen": "2026-11-19T00:00:53+00:00"
+ },
+ {
+  "id": "ebay:256442389767",
+  "title": "Empoleon V - SWSH Battle Styles 040/163 - Half-Art Rare Pokemon Card",
+  "url": "https://www.ebay.it/itm/256442389767?_skw=%22Empoleon%22+pokemon+%28illustration+rare%2Cart+rare%2Cir%2Csir%2Csar%2Calt+art%2Ctrainer+gallery%2Cgalarian+gallery%29&hash=item3bb5285507:g:j3AAAOSwTZFiem5U",
+  "image": "https://i.ebayimg.com/images/g/j3AAAOSwTZFiem5U/s-l225.jpg",
+  "source": "ebay.it",
+  "platform": "ebay",
+  "seller": "",
+  "seller_url": "",
+  "country": "GB",
+  "price": 3.65,
+  "ship": 11.31,
+  "ship_est": false,
+  "total": 14.96,
+  "old_total": null,
+  "level": "super",
+  "group": "solo|ebay:256442389767",
+  "type": "carta",
+  "missing": true,
+  "check": [],
+  "dex": 395,
+  "pokemon": "Empoleon",
+  "ref": "[EN] Empoleon V · Battle Styles #146 · Alternate art",
+  "ref_kind": "cardex",
+  "good": 47.74,
+  "super": 34.1,
+  "trend": 68.2,
+  "lang_note": "",
+  "missing_names": [],
+  "detail": [],
+  "first_seen": "2026-11-19T00:00:53+00:00",
+  "last_seen": "2026-11-19T00:00:53+00:00"
+ },
+ {
+  "id": "vinted:10875581495",
+  "title": "Lotto 9 Carte Pokémon 30° Anniversario ITA (Full Art / Illustration Rare / ex)",
+  "url": "https://www.vinted.it/items/10875581495-lotto-9-carte-pokemon-30deg-anniversario-ita-full-art-illustration-rare-ex",
+  "image": "https://images1.vinted.net/t/06_007fb_RooRcyjJcuLqSftCa15d8W2r/310x430/e0b8ff68.webp?s=151ed5d6ad36fa8d03e9d940ce9836894a0f1bbb",
+  "source": "vinted.it",
+  "platform": "vinted",
+  "seller": "54006114",
+  "seller_url": "https://www.vinted.it/member/54006114",
+  "country": "",
+  "price": 11.19,
+  "ship": 2.9,
+  "ship_est": true,
+  "total": 14.09,
+  "old_total": null,
+  "level": "buono",
+  "group": "vinted|54006114",
+  "type": "lotto",
+  "missing": true,
+  "check": [],
+  "dex": null,
+  "pokemon": null,
+  "ref": null,
+  "ref_kind": null,
+  "good": null,
+  "super": null,
+  "trend": null,
+  "lang_note": "",
+  "missing_names": [],
+  "detail": [
+   "9 carte → 1,57 € a carta"
+  ],
+  "first_seen": "2026-11-19T00:00:53+00:00",
+  "last_seen": "2026-11-19T00:00:53+00:00"
+ },
+ {
+  "id": "vinted:10875507668",
+  "title": "Mega Lotto Pokémon 1,45 kg (~800+ carte) + Bulbasaur Illustration Rare Graad 9.5 JPN",
+  "url": "https://www.vinted.it/items/10875507668-mega-lotto-pokemon-145-kg-800-carte-bulbasaur-illustration-rare-graad-95-jpn",
+  "image": "https://images1.vinted.net/t/03_013d5_sByyn7nVHhMvEvimCWP7eri6/310x430/cb513651.webp?s=23798a7998ccc3188043d51ff96d3149497505fa",
+  "source": "vinted.it",
+  "platform": "vinted",
+  "seller": "3167549815",
+  "seller_url": "https://www.vinted.it/member/3167549815",
+  "country": "",
+  "price": 53.1,
+  "ship": 2.9,
+  "ship_est": true,
+  "total": 56.0,
+  "old_total": null,
+  "level": "super",
+  "group": "vinted|3167549815",
+  "type": "lotto",
+  "missing": true,
+  "check": [],
+  "dex": null,
+  "pokemon": null,
+  "ref": null,
+  "ref_kind": null,
+  "good": null,
+  "super": null,
+  "trend": null,
+  "lang_note": "",
+  "missing_names": [
+   "Bulbasaur"
+  ],
+  "detail": [
+   "Pokémon mancanti citati: 1 (soglia somma 4,56 €)",
+   "800 carte → 0,07 € a carta"
+  ],
+  "first_seen": "2026-11-19T00:00:53+00:00",
+  "last_seen": "2026-11-19T00:00:53+00:00"
+ },
+ {
+  "id": "vinted:10875645360",
+  "title": "Pokemon Charmander art rare coreana 169",
+  "url": "https://www.vinted.it/items/10875645360-pokemon-charmander-art-rare-coreana-169",
+  "image": "https://images1.vinted.net/t/02_012d7_jb1HrBmfj9p878qvez5RxDG7/310x430/51399433.webp?s=ddae8b4a95980a245f78d814678899a27f20c17a",
+  "source": "vinted.it",
+  "platform": "vinted",
+  "seller": "3208555865",
+  "seller_url": "https://www.vinted.it/member/3208555865",
+  "country": "",
+  "price": 10.15,
+  "ship": 2.9,
+  "ship_est": true,
+  "total": 13.05,
+  "old_total": null,
+  "level": "buono",
+  "group": "vinted|3208555865",
+  "type": "carta",
+  "missing": true,
+  "check": [],
+  "dex": 4,
+  "pokemon": "Charmander",
+  "ref": "[JP] ヒトカゲ · ポケモンカード151 #168 · IR / AR",
+  "ref_kind": "cardex",
+  "good": 16.47,
+  "super": 11.77,
+  "trend": 23.53,
+  "lang_note": "",
+  "missing_names": [],
+  "detail": [],
+  "first_seen": "2026-11-19T00:00:53+00:00",
+  "last_seen": "2026-11-19T00:00:53+00:00"
+ },
+ {
+  "id": "vinted:10875462248",
+  "title": "Lotto misto art rare e pull vari",
+  "url": "https://www.vinted.it/items/10875462248-lotto-misto-art-rare-e-pull-vari",
+  "image": "https://images1.vinted.net/t/05_00918_ZKZhTtqefsg4x18Z1AaZtfcy/310x430/70775e50.webp?s=9934992fd260334cb9ce45ac436761565c37d733",
+  "source": "vinted.it",
+  "platform": "vinted",
+  "seller": "259364397",
+  "seller_url": "https://www.vinted.it/member/259364397",
+  "country": "",
+  "price": 26.95,
+  "ship": 2.9,
+  "ship_est": true,
+  "total": 29.85,
+  "old_total": null,
+  "level": "valutare",
+  "group": "vinted|259364397",
+  "type": "lotto",
+  "missing": true,
+  "check": [],
+  "dex": null,
+  "pokemon": null,
+  "ref": null,
+  "ref_kind": null,
+  "good": null,
+  "super": null,
+  "trend": null,
+  "lang_note": "",
+  "missing_names": [],
+  "detail": [],
+  "first_seen": "2026-11-19T00:00:53+00:00",
+  "last_seen": "2026-11-19T00:00:53+00:00"
+ },
+ {
+  "id": "vinted:10875517682",
+  "title": "Raikou SAR 30 Anniversario Pokemon",
+  "url": "https://www.vinted.it/items/10875517682-raikou-sar-30-anniversario-pokemon",
+  "image": "https://images1.vinted.net/t/01_01399_rGgjDfor6teZ8cfE2qPeyUeh/310x430/db6eb138.webp?s=77d05b2a46e529e57859c101e3e6cdc300851b53",
+  "source": "vinted.it",
+  "platform": "vinted",
+  "seller": "145368659",
+  "seller_url": "https://www.vinted.it/member/145368659",
+  "country": "",
+  "price": 11.2,
+  "ship": 2.9,
+  "ship_est": true,
+  "total": 14.1,
+  "old_total": null,
+  "level": "super",
+  "group": "vinted|145368659",
+  "type": "carta",
+  "missing": true,
+  "check": [],
+  "dex": 243,
+  "pokemon": "Raikou",
+  "ref": "[JP] ライコウV · VSTARユニバース #218 · SIR / SAR",
+  "ref_kind": "cardex",
+  "good": 22.46,
+  "super": 16.05,
+  "trend": 32.09,
+  "lang_note": "",
+  "missing_names": [],
+  "detail": [],
+  "first_seen": "2026-11-19T00:00:53+00:00",
+  "last_seen": "2026-11-19T00:00:53+00:00"
+ },
+ {
+  "id": "vinted:10875525862",
+  "title": "Mega Meganium 272 ascesa eroica ita",
+  "url": "https://www.vinted.it/items/10875525862-mega-meganium-272-ascesa-eroica-ita",
+  "image": "https://images1.vinted.net/t/01_014f9_2dkqmfChXqjydk9G2Ab35RtF/310x430/51119225.webp?s=c1f16af5c9fa5b54aaba20bb2f64fc4c39bd3c83",
+  "source": "vinted.it",
+  "platform": "vinted",
+  "seller": "49685789",
+  "seller_url": "https://www.vinted.it/member/49685789",
+  "country": "",
+  "price": 32.1,
+  "ship": 2.9,
+  "ship_est": true,
+  "total": 35.0,
+  "old_total": null,
+  "level": "super",
+  "group": "vinted|49685789",
+  "type": "carta",
+  "missing": true,
+  "check": [],
+  "dex": 154,
+  "pokemon": "Meganium",
+  "ref": "[EN] Mega Meganium ex · Ascended Heroes #272 · SIR / SAR",
+  "ref_kind": "cardex",
+  "good": 49.86,
+  "super": 35.62,
+  "trend": 71.23,
+  "lang_note": "Carta riconosciuta: [EN] Mega Meganium ex · Ascended Heroes #272 · SIR / SAR. Per questa lingua non c'è un prezzo Cardmarket specifico: confronto con la carta più economica del cardex",
+  "missing_names": [],
+  "detail": [],
+  "first_seen": "2026-11-19T00:00:53+00:00",
+  "last_seen": "2026-11-19T00:00:53+00:00"
+ },
+ {
   "id": "ebay:128203676190",
   "title": "Groudon 111/103 Illustrazione Rara Delta Reign Pokemon Holo Pack Fresca!!",
   "url": "https://www.ebay.it/itm/128203676190?_skw=pokemon+%28illustration+rare%2Cspecial+illustration+rare%2Calt+art%2Calternate+art%29&hash=item1dd988da1e:g:Q8UAAeSwl0tq~ipp",
@@ -13,7 +489,7 @@
   "ship": 14.79,
   "ship_est": false,
   "total": 36.97,
-  "old_total": null,
+  "old_total": 36.97,
   "level": "super",
   "group": "solo|ebay:128203676190",
   "type": "carta",
@@ -30,7 +506,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T23:05:14+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:920158142365",
@@ -46,7 +522,7 @@
   "ship": 14.73,
   "ship_est": false,
   "total": 34.69,
-  "old_total": null,
+  "old_total": 34.69,
   "level": "super",
   "group": "solo|ebay:920158142365",
   "type": "carta",
@@ -63,7 +539,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T23:05:14+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:820370535812",
@@ -79,7 +555,7 @@
   "ship": 2.5,
   "ship_est": true,
   "total": 62.3,
-  "old_total": null,
+  "old_total": 62.3,
   "level": "super",
   "group": "solo|ebay:820370535812",
   "type": "carta",
@@ -96,7 +572,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T23:05:14+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:860156058996",
@@ -3128,16 +3604,16 @@
   "image": "https://images1.vinted.net/t/04_0233b_VdLgCpDLwoUcALfh7g4nCZt1/310x430/7f419ec3.webp?s=54074ec98d0b6ab9ce9ecbe94336e0afb5e2be37",
   "source": "vinted.it",
   "platform": "vinted",
-  "seller": "3199595271",
-  "seller_url": "https://www.vinted.it/member/3199595271",
+  "seller": "",
+  "seller_url": "",
   "country": "",
   "price": 21.7,
   "ship": 2.9,
   "ship_est": true,
   "total": 24.6,
-  "old_total": null,
+  "old_total": 24.6,
   "level": "super",
-  "group": "vinted|3199595271",
+  "group": "solo|vinted:10875312363",
   "type": "carta",
   "missing": true,
   "check": [],
@@ -3152,7 +3628,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T23:05:14+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10875131518",
@@ -3161,16 +3637,16 @@
   "image": "https://images1.vinted.net/t/04_0125f_EBFUR6zj1XjRFiShYrw7x2o5/310x430/9d98966c.webp?s=2d4d4b5f543cfe71566fb272ba6de9843b7672dd",
   "source": "vinted.it",
   "platform": "vinted",
-  "seller": "283587566",
-  "seller_url": "https://www.vinted.it/member/283587566",
+  "seller": "",
+  "seller_url": "",
   "country": "",
   "price": 13.3,
   "ship": 2.9,
   "ship_est": true,
   "total": 16.2,
-  "old_total": null,
+  "old_total": 16.2,
   "level": "buono",
-  "group": "vinted|283587566",
+  "group": "solo|vinted:10875131518",
   "type": "carta",
   "missing": true,
   "check": [],
@@ -3185,7 +3661,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T23:05:14+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10875097703",
@@ -3194,16 +3670,16 @@
   "image": "https://images1.vinted.net/t/04_00d68_yHaFNGwqA6fNjpfv4VTBkBCt/310x430/77f97806.webp?s=532ee8ab24f7f6edde4b54aac9e4b61946135916",
   "source": "vinted.it",
   "platform": "vinted",
-  "seller": "249138306",
-  "seller_url": "https://www.vinted.it/member/249138306",
+  "seller": "",
+  "seller_url": "",
   "country": "",
   "price": 8.05,
   "ship": 2.9,
   "ship_est": true,
   "total": 10.95,
-  "old_total": null,
+  "old_total": 10.95,
   "level": "buono",
-  "group": "vinted|249138306",
+  "group": "solo|vinted:10875097703",
   "type": "lotto",
   "missing": true,
   "check": [],
@@ -3220,7 +3696,7 @@
    "9 carte → 1,22 € a carta"
   ],
   "first_seen": "2026-11-18T23:05:14+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10875175747",
@@ -3229,16 +3705,16 @@
   "image": "https://images1.vinted.net/t/04_00fcd_1wqQYCwKtMSsjTimfTbVbHzd/310x430/173b370e.webp?s=581041f172aab106ec67bd9acbbfde46040961dd",
   "source": "vinted.it",
   "platform": "vinted",
-  "seller": "287204450",
-  "seller_url": "https://www.vinted.it/member/287204450",
+  "seller": "",
+  "seller_url": "",
   "country": "",
   "price": 16.45,
   "ship": 2.9,
   "ship_est": true,
   "total": 19.35,
-  "old_total": null,
+  "old_total": 19.35,
   "level": "buono",
-  "group": "vinted|287204450",
+  "group": "solo|vinted:10875175747",
   "type": "carta",
   "missing": true,
   "check": [],
@@ -3253,7 +3729,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T23:05:14+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10875083249",
@@ -3262,16 +3738,16 @@
   "image": "https://images1.vinted.net/t/05_01b8d_VXGmhcKDjgqyfhkXcpKwmL8i/310x430/ee43bac9.webp?s=216c699360f2760fc91c946ca756b4a514c32658",
   "source": "vinted.it",
   "platform": "vinted",
-  "seller": "147952500",
-  "seller_url": "https://www.vinted.it/member/147952500",
+  "seller": "",
+  "seller_url": "",
   "country": "",
   "price": 15.4,
   "ship": 2.9,
   "ship_est": true,
   "total": 18.3,
-  "old_total": null,
+  "old_total": 18.3,
   "level": "super",
-  "group": "vinted|147952500",
+  "group": "solo|vinted:10875083249",
   "type": "lotto",
   "missing": true,
   "check": [],
@@ -3291,7 +3767,7 @@
    "Pokémon mancanti citati: 2 (soglia somma 132,55 €)"
   ],
   "first_seen": "2026-11-18T23:05:14+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10874932731",
@@ -3300,16 +3776,16 @@
   "image": "https://images1.vinted.net/t/06_01d85_ix5WxMDT65UN6WYLf6FBvT8C/310x430/2fdbcb4b.webp?s=8b48caf8ecfbbbda206a44f0459d784d6d2ef4f9",
   "source": "vinted.it",
   "platform": "vinted",
-  "seller": "173006738",
-  "seller_url": "https://www.vinted.it/member/173006738",
+  "seller": "",
+  "seller_url": "",
   "country": "",
   "price": 16.45,
   "ship": 2.9,
   "ship_est": true,
   "total": 19.35,
-  "old_total": null,
+  "old_total": 19.35,
   "level": "buono",
-  "group": "vinted|173006738",
+  "group": "solo|vinted:10874932731",
   "type": "lotto",
   "missing": true,
   "check": [],
@@ -3326,7 +3802,7 @@
    "10 carte → 1,94 € a carta"
   ],
   "first_seen": "2026-11-18T23:05:14+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10875268964",
@@ -3396,10 +3872,10 @@
  },
  {
   "id": "ebay:237191055777",
-  "title": "Groudon 111/113 Delta Reign Illustration Rare Pokemon TCG English NM",
-  "url": "https://www.ebay.it/itm/237191055777?_skw=pokemon+%28illustration+rare%2Cspecial+illustration+rare%2Calt+art%2Calternate+art%29&hash=item3739b049a1:g:0NYAAeSwdJhq~hvT",
+  "title": "Groudon 111/113 Delta Reign Illustration Rare Pokemon TCG Englisch NM",
+  "url": "https://www.ebay.de/itm/237191055777?_skw=pokemon+%28illustration+rare%2Cspecial+illustration+rare%2Calt+art%2Calternate+art%29&hash=item3739b049a1:g:0NYAAeSwdJhq~hvT",
   "image": "https://i.ebayimg.com/images/g/0NYAAeSwdJhq~hvT/s-l225.jpg",
-  "source": "ebay.it",
+  "source": "ebay.de",
   "platform": "ebay",
   "seller": "",
   "seller_url": "",
@@ -3425,7 +3901,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T22:10:30+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:336904554302",
@@ -3458,7 +3934,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T22:10:30+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:128157150191",
@@ -3590,7 +4066,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T22:10:30+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10874694474",
@@ -3623,7 +4099,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T22:10:30+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10874606487",
@@ -3767,7 +4243,7 @@
    "103 carte → 0,39 € a carta"
   ],
   "first_seen": "2026-11-18T22:10:30+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10874815817",
@@ -4203,7 +4679,7 @@
    "15 carte → 0,31 € a carta"
   ],
   "first_seen": "2026-11-18T21:13:46+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10873687138",
@@ -4236,7 +4712,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T21:13:46+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10874151905",
@@ -4500,7 +4976,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T20:14:51+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10872845480",
@@ -4665,7 +5141,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T20:14:51+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10872576480",
@@ -4968,7 +5444,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T19:13:20+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10872517338",
@@ -5173,7 +5649,7 @@
    "128 carte → 0,25 € a carta"
   ],
   "first_seen": "2026-11-18T18:03:51+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:800934912687",
@@ -5213,7 +5689,7 @@
    "5 carte → 6,61 € a carta"
   ],
   "first_seen": "2026-11-18T18:03:51+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:377545537741",
@@ -6279,7 +6755,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T14:56:52+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:860155294776",
@@ -12185,7 +12661,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T10:42:47+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:471220953",
@@ -12218,7 +12694,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T10:42:47+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:471220412",
@@ -12251,7 +12727,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T10:42:47+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:471250828",
@@ -12284,7 +12760,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T10:42:47+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:359798181",
@@ -12317,7 +12793,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T10:42:47+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:379523559",
@@ -12350,7 +12826,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T10:42:47+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:471188329",
@@ -12383,7 +12859,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T10:42:47+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:471183390",
@@ -12416,7 +12892,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T10:42:47+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469491974",
@@ -12449,7 +12925,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T10:42:47+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:364592666",
@@ -12482,7 +12958,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T10:42:47+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:471267854",
@@ -12517,7 +12993,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T10:42:47+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:463461754",
@@ -12552,7 +13028,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T10:42:47+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:800933071293",
@@ -12927,7 +13403,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-18T09:32:10+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:471261307",
@@ -16752,7 +17228,7 @@
    "12 carte → 1,51 € a carta"
   ],
   "first_seen": "2026-11-18T04:31:32+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10863000317",
@@ -18079,7 +18555,7 @@
    "59 carte → 1,59 € a carta"
   ],
   "first_seen": "2026-11-17T23:59:41+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "vinted:10861427209",
@@ -18286,7 +18762,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T23:07:09+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:147685480275",
@@ -18385,7 +18861,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T23:07:09+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:800682217319",
@@ -19752,7 +20228,7 @@
    "83 carte → 0,16 € a carta"
   ],
   "first_seen": "2026-11-17T22:06:49+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:940081311162",
@@ -24048,7 +24524,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:386894032",
@@ -24083,7 +24559,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:383887476",
@@ -24116,7 +24592,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:367424626",
@@ -24151,7 +24627,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:408764475",
@@ -24184,7 +24660,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:411609438",
@@ -24219,7 +24695,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:399733884",
@@ -24254,7 +24730,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:417641484",
@@ -24289,7 +24765,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:329584995",
@@ -24322,7 +24798,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:419147594",
@@ -24357,7 +24833,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:450564298",
@@ -24390,7 +24866,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:271299611",
@@ -24425,7 +24901,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:449597125",
@@ -24460,7 +24936,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:304687618",
@@ -24493,7 +24969,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468908555",
@@ -24528,7 +25004,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:446007488",
@@ -24561,7 +25037,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468565342",
@@ -24594,7 +25070,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:453549210",
@@ -24629,7 +25105,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467524882",
@@ -24664,7 +25140,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:433599497",
@@ -24699,7 +25175,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470178387",
@@ -24734,7 +25210,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467524797",
@@ -24769,7 +25245,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:436468297",
@@ -24804,7 +25280,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:345255352",
@@ -24839,7 +25315,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:451988011",
@@ -24874,7 +25350,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:440699866",
@@ -24909,7 +25385,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:460300987",
@@ -24942,7 +25418,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:415403346",
@@ -24975,7 +25451,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466509152",
@@ -25008,7 +25484,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:444193727",
@@ -25074,7 +25550,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469546256",
@@ -25107,7 +25583,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467270927",
@@ -25140,7 +25616,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468920923",
@@ -25173,7 +25649,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:461504592",
@@ -25206,7 +25682,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:453317212",
@@ -25239,7 +25715,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:408243109",
@@ -25274,7 +25750,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:446079442",
@@ -25307,7 +25783,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:412117558",
@@ -25373,7 +25849,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:336945690",
@@ -25406,7 +25882,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:454869634",
@@ -25441,7 +25917,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466180447",
@@ -25474,7 +25950,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462238605",
@@ -25507,7 +25983,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465231465",
@@ -25542,7 +26018,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467843584",
@@ -25575,7 +26051,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:411143915",
@@ -25608,7 +26084,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465412975",
@@ -25641,7 +26117,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:352705229",
@@ -25674,7 +26150,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:436399118",
@@ -25707,7 +26183,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:429462802",
@@ -25742,7 +26218,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:463042852",
@@ -25775,7 +26251,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462086393",
@@ -25808,7 +26284,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:451301569",
@@ -25841,7 +26317,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:452197904",
@@ -25876,7 +26352,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:461503218",
@@ -25911,7 +26387,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:454837946",
@@ -25946,7 +26422,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:361124067",
@@ -25979,7 +26455,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:460880959",
@@ -26014,7 +26490,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:437962543",
@@ -26049,7 +26525,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:438802409",
@@ -26084,7 +26560,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:447140673",
@@ -26119,7 +26595,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466174540",
@@ -26154,7 +26630,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469741932",
@@ -26220,7 +26696,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466142106",
@@ -26253,7 +26729,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:353302583",
@@ -26286,7 +26762,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470291482",
@@ -26319,7 +26795,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:348705940",
@@ -26352,7 +26828,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:458717315",
@@ -26385,7 +26861,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462265605",
@@ -26420,7 +26896,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:353690417",
@@ -26453,7 +26929,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470023633",
@@ -26488,7 +26964,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:457255397",
@@ -26521,7 +26997,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:295405495",
@@ -26554,7 +27030,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:454347956",
@@ -26587,7 +27063,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:426312076",
@@ -26620,7 +27096,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468909778",
@@ -26653,7 +27129,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467575932",
@@ -26686,7 +27162,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:459777258",
@@ -26721,7 +27197,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:445866643",
@@ -26754,7 +27230,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:437582605",
@@ -26787,7 +27263,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:445570997",
@@ -26820,7 +27296,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:448818265",
@@ -26853,7 +27329,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:455716107",
@@ -26886,7 +27362,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470360763",
@@ -26919,7 +27395,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:463848112",
@@ -26952,7 +27428,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468864561",
@@ -26985,7 +27461,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:430518940",
@@ -27018,7 +27494,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466138316",
@@ -27051,7 +27527,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T21:05:07+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:800931007628",
@@ -27256,7 +27732,7 @@
    "8 carte → 3,26 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:407368655575",
@@ -27333,7 +27809,7 @@
    "6 carte → 15,53 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:840135661581",
@@ -27373,7 +27849,7 @@
    "100 carte → 1,50 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:840135601648",
@@ -27412,7 +27888,7 @@
    "128 carte → 0,30 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:206706022803",
@@ -27483,7 +27959,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:366812183262",
@@ -27516,7 +27992,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:198795841047",
@@ -27551,7 +28027,7 @@
    "100 carte → 0,48 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:860144578293",
@@ -27586,7 +28062,7 @@
    "360 carte → 1,21 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:327458331433",
@@ -27659,7 +28135,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:820353278373",
@@ -27694,7 +28170,7 @@
    "650 carte → 0,19 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:198792789516",
@@ -28155,7 +28631,7 @@
    "27 carte → 2,85 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:128187353602",
@@ -28194,7 +28670,7 @@
    "15 carte → 2,00 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:336879195140",
@@ -28227,7 +28703,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:307264664168",
@@ -28260,7 +28736,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:307264661309",
@@ -28293,7 +28769,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:307264648739",
@@ -28326,7 +28802,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:307264643585",
@@ -28359,7 +28835,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:307264639579",
@@ -28392,7 +28868,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:257832159067",
@@ -28425,7 +28901,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:147662401369",
@@ -28465,7 +28941,7 @@
    "6 carte → 6,84 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:257817224461",
@@ -28504,7 +28980,7 @@
    "191 carte → 0,08 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:880007538791",
@@ -28537,7 +29013,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:307190791291",
@@ -28576,7 +29052,7 @@
    "Pokémon mancanti citati: 3 (soglia somma 122,08 €)"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:377507090328",
@@ -28648,7 +29124,7 @@
    "136 carte → 0,15 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:287731995452",
@@ -28688,7 +29164,7 @@
    "3 carte → 2,13 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:860144240756",
@@ -28723,7 +29199,7 @@
    "134 carte → 0,24 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:860141771084",
@@ -28900,7 +29376,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:147684889991",
@@ -28941,7 +29417,7 @@
    "26 carte → 1,14 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:960207108990",
@@ -28974,7 +29450,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:960207092494",
@@ -29007,7 +29483,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:960207031047",
@@ -29149,7 +29625,7 @@
    "24 carte → 1,52 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:237185227243",
@@ -29184,7 +29660,7 @@
    "117 carte → 0,38 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:800922213246",
@@ -29263,7 +29739,7 @@
    "86 carte → 1,74 € a carta"
   ],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T23:05:14+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "ebay:800920304137",
@@ -30114,7 +30590,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:445570780",
@@ -30147,7 +30623,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:456719708",
@@ -30180,7 +30656,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:358585695",
@@ -30213,7 +30689,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:411195937",
@@ -30246,7 +30722,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:359891567",
@@ -30279,7 +30755,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465333623",
@@ -30312,7 +30788,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467282082",
@@ -30345,7 +30821,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468980551",
@@ -30378,7 +30854,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:449188037",
@@ -30411,7 +30887,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:377961287",
@@ -30444,7 +30920,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:389268017",
@@ -30477,7 +30953,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:357094546",
@@ -30510,7 +30986,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:365840572",
@@ -30543,7 +31019,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468903013",
@@ -30576,7 +31052,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:330384456",
@@ -30609,7 +31085,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465319709",
@@ -30642,7 +31118,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:463823533",
@@ -30677,7 +31153,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466923008",
@@ -30710,7 +31186,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465509932",
@@ -30743,7 +31219,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470361503",
@@ -30776,7 +31252,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:448113370",
@@ -30809,7 +31285,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466499086",
@@ -30842,7 +31318,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470953600",
@@ -30875,7 +31351,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:394569751",
@@ -30908,7 +31384,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:442326053",
@@ -30941,7 +31417,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:433945661",
@@ -30976,7 +31452,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:379814768",
@@ -31011,7 +31487,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:459403352",
@@ -31044,7 +31520,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:455072972",
@@ -31077,7 +31553,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468897998",
@@ -31110,7 +31586,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:448600075",
@@ -31143,7 +31619,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470205858",
@@ -31176,7 +31652,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:428544612",
@@ -31209,7 +31685,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468970371",
@@ -31242,7 +31718,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462598217",
@@ -31308,7 +31784,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469882658",
@@ -31341,7 +31817,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468896980",
@@ -31374,7 +31850,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:415730757",
@@ -31407,7 +31883,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468346977",
@@ -31440,7 +31916,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462696371",
@@ -31506,7 +31982,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467843598",
@@ -31539,7 +32015,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470758667",
@@ -31572,7 +32048,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468916168",
@@ -31605,7 +32081,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:454599414",
@@ -31640,7 +32116,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467282084",
@@ -31673,7 +32149,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468086596",
@@ -31739,7 +32215,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468897662",
@@ -31772,7 +32248,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466684398",
@@ -31805,7 +32281,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:460106995",
@@ -31838,7 +32314,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:439949529",
@@ -31871,7 +32347,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:422033535",
@@ -31904,7 +32380,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:440118606",
@@ -31937,7 +32413,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:412012236",
@@ -31972,7 +32448,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470184464",
@@ -32007,7 +32483,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462045630",
@@ -32042,7 +32518,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:461267989",
@@ -32075,7 +32551,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:404802089",
@@ -32108,7 +32584,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:416121166",
@@ -32174,7 +32650,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:454080309",
@@ -32207,7 +32683,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468627334",
@@ -32273,7 +32749,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:348669372",
@@ -32306,7 +32782,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:277260919",
@@ -32339,7 +32815,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465775231",
@@ -32372,7 +32848,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:366468499",
@@ -32405,7 +32881,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:365945001",
@@ -32438,7 +32914,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:354195019",
@@ -32471,7 +32947,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465284631",
@@ -32504,7 +32980,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:457982377",
@@ -32537,7 +33013,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:463306732",
@@ -32570,7 +33046,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:464849532",
@@ -32605,7 +33081,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:457983687",
@@ -32638,7 +33114,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470141385",
@@ -32671,7 +33147,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:457300763",
@@ -32706,7 +33182,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:453830659",
@@ -32739,7 +33215,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:255910489",
@@ -32772,7 +33248,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:437895034",
@@ -32805,7 +33281,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:301303680",
@@ -32838,7 +33314,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:298399046",
@@ -32871,7 +33347,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470664840",
@@ -32904,7 +33380,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:367740079",
@@ -32937,7 +33413,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:331536399",
@@ -32970,7 +33446,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468003147",
@@ -33003,7 +33479,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466607824",
@@ -33036,7 +33512,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:461630729",
@@ -33069,7 +33545,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:454219182",
@@ -33104,7 +33580,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:460595731",
@@ -33137,7 +33613,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:365839193",
@@ -33170,7 +33646,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:395239972",
@@ -33203,7 +33679,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:328554420",
@@ -33236,7 +33712,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462924419",
@@ -33271,7 +33747,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462924339",
@@ -33306,7 +33782,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:437558086",
@@ -33339,7 +33815,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:382158620",
@@ -33372,7 +33848,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:454866294",
@@ -33405,7 +33881,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:449144214",
@@ -33438,7 +33914,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:459737050",
@@ -33473,7 +33949,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462674834",
@@ -33506,7 +33982,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467650219",
@@ -33539,7 +34015,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:365836930",
@@ -33572,7 +34048,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:459737049",
@@ -33607,7 +34083,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:394582552",
@@ -33640,7 +34116,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469190654",
@@ -33673,7 +34149,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:456117491",
@@ -33708,7 +34184,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:446385008",
@@ -33743,7 +34219,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:463561858",
@@ -33778,7 +34254,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:442270279",
@@ -33813,7 +34289,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468670343",
@@ -33848,7 +34324,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:452523181",
@@ -33883,7 +34359,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465483868",
@@ -33949,7 +34425,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470054247",
@@ -33982,7 +34458,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:445784048",
@@ -34017,7 +34493,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:410043296",
@@ -34050,7 +34526,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469702266",
@@ -34083,7 +34559,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470033933",
@@ -34116,7 +34592,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469190665",
@@ -34182,7 +34658,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468943922",
@@ -34215,7 +34691,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:412385612",
@@ -34248,7 +34724,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466558208",
@@ -34281,7 +34757,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:461629393",
@@ -34314,7 +34790,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:461665983",
@@ -34380,7 +34856,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467501861",
@@ -34413,7 +34889,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:365836931",
@@ -34446,7 +34922,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468670350",
@@ -34479,7 +34955,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462006153",
@@ -34512,7 +34988,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465862679",
@@ -34545,7 +35021,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:456130302",
@@ -34578,7 +35054,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467617831",
@@ -34611,7 +35087,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467280276",
@@ -34644,7 +35120,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:446519901",
@@ -34677,7 +35153,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467843599",
@@ -34710,7 +35186,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:459387394",
@@ -34743,7 +35219,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466182478",
@@ -34778,7 +35254,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467704236",
@@ -34811,7 +35287,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462938042",
@@ -34846,7 +35322,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:447502119",
@@ -34881,7 +35357,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467652799",
@@ -34947,7 +35423,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468917697",
@@ -34980,7 +35456,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:460583882",
@@ -35013,7 +35489,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468914438",
@@ -35046,7 +35522,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465502021",
@@ -35079,7 +35555,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469802245",
@@ -35112,7 +35588,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:464306293",
@@ -35145,7 +35621,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:460600146",
@@ -35178,7 +35654,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467501859",
@@ -35211,7 +35687,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:381539263",
@@ -35246,7 +35722,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:403967225",
@@ -35281,7 +35757,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466304228",
@@ -35314,7 +35790,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:448259008",
@@ -35347,7 +35823,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:461825400",
@@ -35413,7 +35889,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466503541",
@@ -35446,7 +35922,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468641205",
@@ -35479,7 +35955,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469882687",
@@ -35512,7 +35988,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467598200",
@@ -35545,7 +36021,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468670354",
@@ -35578,7 +36054,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462430569",
@@ -35611,7 +36087,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:459939133",
@@ -35644,7 +36120,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462427189",
@@ -35677,7 +36153,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:450358178",
@@ -35710,7 +36186,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:420870855",
@@ -35743,7 +36219,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:341071813",
@@ -35776,7 +36252,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470000781",
@@ -35809,7 +36285,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:393529959",
@@ -35842,7 +36318,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:452645879",
@@ -35875,7 +36351,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:458860845",
@@ -35908,7 +36384,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470131396",
@@ -35941,7 +36417,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:448334028",
@@ -35974,7 +36450,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:412593075",
@@ -36007,7 +36483,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:459481741",
@@ -36073,7 +36549,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:412627209",
@@ -36106,7 +36582,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:375810685",
@@ -36139,7 +36615,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:433814960",
@@ -36172,7 +36648,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:447754234",
@@ -36205,7 +36681,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:454843170",
@@ -36238,7 +36714,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:415952645",
@@ -36271,7 +36747,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:347892832",
@@ -36304,7 +36780,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:387874294",
@@ -36337,7 +36813,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:338513131",
@@ -36370,7 +36846,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:262694138",
@@ -36403,7 +36879,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:455724546",
@@ -36436,7 +36912,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466973802",
@@ -36469,7 +36945,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470685683",
@@ -36502,7 +36978,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470313747",
@@ -36535,7 +37011,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:381253228",
@@ -36568,7 +37044,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465160759",
@@ -36601,7 +37077,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:458780908",
@@ -36634,7 +37110,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469446083",
@@ -36667,7 +37143,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467763830",
@@ -36733,7 +37209,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:394582959",
@@ -36766,7 +37242,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:330378928",
@@ -36799,7 +37275,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469701964",
@@ -36832,7 +37308,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:453638125",
@@ -36865,7 +37341,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470685280",
@@ -36898,7 +37374,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:438190109",
@@ -36931,7 +37407,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468917763",
@@ -36964,7 +37440,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466973969",
@@ -36999,7 +37475,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462693123",
@@ -37034,7 +37510,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:457314023",
@@ -37069,7 +37545,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469484021",
@@ -37102,7 +37578,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470953603",
@@ -37135,7 +37611,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465796679",
@@ -37170,7 +37646,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:460738353",
@@ -37205,7 +37681,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470866545",
@@ -37238,7 +37714,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470159079",
@@ -37271,7 +37747,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:459908887",
@@ -37304,7 +37780,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470618606",
@@ -37337,7 +37813,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470609116",
@@ -37370,7 +37846,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468670360",
@@ -37403,7 +37879,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470615633",
@@ -37436,7 +37912,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466974414",
@@ -37471,7 +37947,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470023645",
@@ -37506,7 +37982,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468637725",
@@ -37541,7 +38017,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:463306670",
@@ -37574,7 +38050,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:445113748",
@@ -37607,7 +38083,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468593637",
@@ -37640,7 +38116,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:444494494",
@@ -37675,7 +38151,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:461674837",
@@ -37708,7 +38184,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:456959572",
@@ -37741,7 +38217,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469464945",
@@ -37774,7 +38250,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:359769264",
@@ -37842,7 +38318,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470862459",
@@ -37908,7 +38384,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:455749484",
@@ -37941,7 +38417,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:269954787",
@@ -37974,7 +38450,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:459698425",
@@ -38007,7 +38483,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462670398",
@@ -38040,7 +38516,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:431763131",
@@ -38073,7 +38549,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470866382",
@@ -38106,7 +38582,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:439786965",
@@ -38139,7 +38615,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:422651116",
@@ -38174,7 +38650,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469682752",
@@ -38209,7 +38685,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470173650",
@@ -38242,7 +38718,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467280282",
@@ -38275,7 +38751,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:464057214",
@@ -38308,7 +38784,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:386767853",
@@ -38341,7 +38817,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469425499",
@@ -38411,7 +38887,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:463055405",
@@ -38446,7 +38922,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:368763861",
@@ -38481,7 +38957,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:366623887",
@@ -38514,7 +38990,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470786349",
@@ -38547,7 +39023,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:451745517",
@@ -38580,7 +39056,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470149591",
@@ -38646,7 +39122,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:438691379",
@@ -38679,7 +39155,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470646125",
@@ -38714,7 +39190,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:458064652",
@@ -38747,7 +39223,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468918057",
@@ -38782,7 +39258,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467925730",
@@ -38817,7 +39293,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467843607",
@@ -38850,7 +39326,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468293583",
@@ -38883,7 +39359,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:460594181",
@@ -38951,7 +39427,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:429273245",
@@ -38984,7 +39460,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:440147872",
@@ -39017,7 +39493,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465822871",
@@ -39050,7 +39526,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:454114187",
@@ -39083,7 +39559,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469191265",
@@ -39116,7 +39592,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469882721",
@@ -39149,7 +39625,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470385653",
@@ -39182,7 +39658,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462958997",
@@ -39215,7 +39691,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:449143821",
@@ -39250,7 +39726,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:315371064",
@@ -39285,7 +39761,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:421197033",
@@ -39318,7 +39794,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:425930800",
@@ -39351,7 +39827,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468364352",
@@ -39384,7 +39860,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469429485",
@@ -39417,7 +39893,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469432079",
@@ -39450,7 +39926,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:464545196",
@@ -39483,7 +39959,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470566912",
@@ -39516,7 +39992,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470173573",
@@ -39551,7 +40027,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466100540",
@@ -39586,7 +40062,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467276255",
@@ -39619,7 +40095,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468304977",
@@ -39654,7 +40130,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:427507354",
@@ -39689,7 +40165,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:442998211",
@@ -39724,7 +40200,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466963851",
@@ -39759,7 +40235,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:453664350",
@@ -39792,7 +40268,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470173571",
@@ -39827,7 +40303,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467276256",
@@ -39860,7 +40336,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:458210815",
@@ -39893,7 +40369,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:459934902",
@@ -39928,7 +40404,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468612675",
@@ -39961,7 +40437,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:214559153",
@@ -39994,7 +40470,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470635317",
@@ -40027,7 +40503,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:369619157",
@@ -40060,7 +40536,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:415730755",
@@ -40093,7 +40569,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468946964",
@@ -40126,7 +40602,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:449790128",
@@ -40159,7 +40635,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470064252",
@@ -40192,7 +40668,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:440147889",
@@ -40225,7 +40701,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:411056881",
@@ -40258,7 +40734,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:306327733",
@@ -40291,7 +40767,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:343180230",
@@ -40324,7 +40800,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:359612828",
@@ -40357,7 +40833,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:408028291",
@@ -40392,7 +40868,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470071626",
@@ -40427,7 +40903,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:429875237",
@@ -40493,7 +40969,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:459831596",
@@ -40526,7 +41002,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466634322",
@@ -40559,7 +41035,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:440755886",
@@ -40592,7 +41068,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:243121439",
@@ -40625,7 +41101,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:445570794",
@@ -40658,7 +41134,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:454828818",
@@ -40691,7 +41167,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:464055928",
@@ -40724,7 +41200,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:387725687",
@@ -40757,7 +41233,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:396547489",
@@ -40790,7 +41266,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:387725693",
@@ -40823,7 +41299,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:396548526",
@@ -40856,7 +41332,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:387725695",
@@ -40889,7 +41365,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:453817282",
@@ -40924,7 +41400,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468359261",
@@ -40957,7 +41433,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466503514",
@@ -40990,7 +41466,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:463775903",
@@ -41023,7 +41499,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466889614",
@@ -41058,7 +41534,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:459908949",
@@ -41091,7 +41567,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:460799553",
@@ -41124,7 +41600,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:457098225",
@@ -41157,7 +41633,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467866301",
@@ -41190,7 +41666,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465284655",
@@ -41223,7 +41699,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:459857391",
@@ -41256,7 +41732,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462006166",
@@ -41289,7 +41765,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:460594700",
@@ -41322,7 +41798,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:458768292",
@@ -41355,7 +41831,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:448342960",
@@ -41390,7 +41866,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470329684",
@@ -41423,7 +41899,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462348393",
@@ -41456,7 +41932,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:412971081",
@@ -41489,7 +41965,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468406439",
@@ -41522,7 +41998,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:456730510",
@@ -41557,7 +42033,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:460399237",
@@ -41592,7 +42068,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:470636039",
@@ -41627,7 +42103,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462693414",
@@ -41726,7 +42202,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:461268705",
@@ -41759,7 +42235,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:460586765",
@@ -41792,7 +42268,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:444358277",
@@ -41825,7 +42301,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467704247",
@@ -41858,7 +42334,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:463060360",
@@ -41891,7 +42367,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:451198068",
@@ -41924,7 +42400,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468527756",
@@ -41957,7 +42433,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:451101167",
@@ -41992,7 +42468,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466887744",
@@ -42025,7 +42501,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468892740",
@@ -42058,7 +42534,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469994199",
@@ -42091,7 +42567,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468612683",
@@ -42124,7 +42600,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462912063",
@@ -42157,7 +42633,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:436856058",
@@ -42190,7 +42666,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465735656",
@@ -42223,7 +42699,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468911401",
@@ -42256,7 +42732,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:463796740",
@@ -42289,7 +42765,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:461635035",
@@ -42322,7 +42798,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:450831112",
@@ -42355,7 +42831,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469747733",
@@ -42388,7 +42864,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466948589",
@@ -42421,7 +42897,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:359898164",
@@ -42454,7 +42930,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:410753658",
@@ -42487,7 +42963,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:430415433",
@@ -42520,7 +42996,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:438176712",
@@ -42553,7 +43029,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:400207807",
@@ -42619,7 +43095,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:463390592",
@@ -42652,7 +43128,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466500128",
@@ -42685,7 +43161,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:448026113",
@@ -42720,7 +43196,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:426430937",
@@ -42755,7 +43231,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:434772506",
@@ -42788,7 +43264,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:437464065",
@@ -42821,7 +43297,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:449583766",
@@ -42854,7 +43330,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:436016823",
@@ -42887,7 +43363,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:444376363",
@@ -42920,7 +43396,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:467226512",
@@ -42953,7 +43429,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462062940",
@@ -42986,7 +43462,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468920720",
@@ -43019,7 +43495,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:442064707",
@@ -43052,7 +43528,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:413892497",
@@ -43085,7 +43561,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:454100007",
@@ -43118,7 +43594,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468654460",
@@ -43151,7 +43627,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465354649",
@@ -43184,7 +43660,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469709447",
@@ -43217,7 +43693,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:465775234",
@@ -43283,7 +43759,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:458700783",
@@ -43316,7 +43792,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:435284667",
@@ -43349,7 +43825,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:431602186",
@@ -43382,7 +43858,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:462300706",
@@ -43415,7 +43891,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:461619304",
@@ -43448,7 +43924,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:436167011",
@@ -43481,7 +43957,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468954729",
@@ -43547,7 +44023,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:378055302",
@@ -43580,7 +44056,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:396238224",
@@ -43613,7 +44089,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:328376408",
@@ -43646,7 +44122,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:408908981",
@@ -43679,7 +44155,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:459686198",
@@ -43712,7 +44188,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:359898180",
@@ -43745,7 +44221,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:452897678",
@@ -43778,7 +44254,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:414391591",
@@ -43811,7 +44287,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:452897433",
@@ -43844,7 +44320,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468527812",
@@ -43877,7 +44353,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:400242064",
@@ -43910,7 +44386,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:469574739",
@@ -43943,7 +44419,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:412999081",
@@ -43976,7 +44452,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:446113723",
@@ -44009,7 +44485,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:471108898",
@@ -44042,7 +44518,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:466948670",
@@ -44075,7 +44551,7 @@
   "missing_names": [],
   "detail": [],
   "first_seen": "2026-11-17T20:43:03+00:00",
-  "last_seen": "2026-11-18T22:10:30+00:00"
+  "last_seen": "2026-11-19T00:00:53+00:00"
  },
  {
   "id": "cardtrader:468812455",
