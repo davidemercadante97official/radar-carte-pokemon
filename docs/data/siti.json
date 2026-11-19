@@ -1,34 +1,34 @@
 {
- "last_run": "2026-11-19T14:18:55+00:00",
- "seconds": 170.2,
- "raw": 8721,
- "alerts": 9,
- "sent": 6,
+ "last_run": "2026-11-19T15:27:58+00:00",
+ "seconds": 160.6,
+ "raw": 7204,
+ "alerts": 14,
+ "sent": 9,
  "sources": {
   "vinted.it": {
    "ok": true,
    "note": "",
-   "at": "2026-11-19T14:19:45+00:00"
+   "at": "2026-11-19T15:28:41+00:00"
   },
   "wallapop": {
    "ok": true,
    "note": "",
-   "at": "2026-11-19T14:19:48+00:00"
+   "at": "2026-11-19T15:28:45+00:00"
   },
   "ebay": {
    "ok": true,
    "note": "",
-   "at": "2026-11-19T14:19:21+00:00"
+   "at": "2026-11-19T15:28:21+00:00"
   },
   "subito.it": {
    "ok": false,
    "note": "HTTPError: 403 Client Error: Forbidden for url: https://www.subito.it/annunci-italia/vendita/usato/?q=pokemon+illustrazione+rara&order=datedesc",
-   "at": "2026-11-19T14:19:22+00:00"
+   "at": "2026-11-19T15:28:21+00:00"
   },
   "cardtrader": {
    "ok": true,
-   "note": "40 espansioni su 78, 41573 offerte guardate",
-   "at": "2026-11-19T14:21:04+00:00"
+   "note": "40 espansioni su 78, 30267 offerte guardate",
+   "at": "2026-11-19T15:29:51+00:00"
   }
  }
 }
